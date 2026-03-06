@@ -1,0 +1,19 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "note_type": "multitext",
+    "layer": "multitext",
+    "status": "multitext",
+    "maturity": "multitext",
+    "type": "multitext",
+    "problem_type": "multitext",
+    "risk": "multitext",
+    "lifecycle": "multitext",
+    "compliance": "multitext",
+    "structure": "multitext",
+    "norm_type": "multitext",
+    "related": "multitext"
+  }
+}
