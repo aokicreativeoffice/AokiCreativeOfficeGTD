@@ -31,6 +31,7 @@ SP[spatial]
 NW[network]
 T[tourism]
 EL[evaluation]
+P[photograph]
 SP[spatial]
 S[story]
 MN[meaning]
@@ -38,11 +39,9 @@ TP[temporal]
 EX[expression]
 R[reading]
 IP[interpretation]
-M[music] --> [temporal]
-[music] --> [expression]
-F[fashion] --> [expression]
-[fashion] --> [evaluation]
-TP[tourism_philosophy] --> MN[meaning]
+M[music]
+F[fashion]
+TP[tourism_philosophy]
 
 L --> NM
 H --> CS
@@ -60,6 +59,9 @@ R --> IP
 P --> EX
 P --> EL
 M --> TP
-M -->EX
+M --> EX
+F --> EX
+F --> EL
+TP --> MN
 
 ```
