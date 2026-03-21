@@ -29,9 +29,11 @@ DS[decision]
 G[geography]
 SP[spatial]
 NW[network]
-T[tourism] --> EL[evaluation]
-[tourism] --> SP[spatial]
-S[story] --> [meaning]
+T[tourism]
+EL[evaluation]
+SP[spatial]
+S[story]
+MN[meaning]
 [story] --> TP[temporal]
 [story] --> EX[expression]
 [story] --> [causual]
@@ -51,5 +53,11 @@ B --> DS
 G --> SP
 G --> NW
 T --> EL
+T --> SP
+S --> MN
+S --> TP
+S --> EX
+S --> CS
+S --> E
 
 ```
