@@ -1,0 +1,100 @@
+001 | in= 11 | out=  0 | deg= 11 | layer= | type= | 02 zettelkasten/domain/psychology/personality/decision styles.md
+002 | in= 10 | out= 18 | deg= 28 | layer=structure | type=structure | 02 zettelkasten/structure/canonical/analysis flamework/00 Analysis Framework hub.md
+003 | in= 10 | out=  2 | deg= 12 | layer=structure | type=structure | 02 zettelkasten/structure/canonical/analysis flamework/ステークホルダー分析.md
+004 | in= 10 | out=  0 | deg= 10 | layer= | type= | 制約.md
+005 | in=  8 | out=  7 | deg= 15 | layer=world_model | type=permanent | 02 zettelkasten/world model/mind architecture/認知モデル.md
+006 | in=  8 | out=  6 | deg= 14 | layer=world_model | type=permanent | 02 zettelkasten/world model/mind architecture/感情モデル.md
+007 | in=  8 | out=  5 | deg= 13 | layer=domain | type=permanent | 02 zettelkasten/domain/psychology/personality/motivation types.md
+008 | in=  8 | out=  3 | deg= 11 | layer=structure | type=structure | 02 zettelkasten/structure/canonical/analysis flamework/トレードオフ分析.md
+009 | in=  8 | out=  3 | deg= 11 | layer=structure | type=structure | 02 zettelkasten/structure/canonical/analysis flamework/ボトルネック分析.md
+010 | in=  7 | out=  5 | deg= 12 | layer=domain | type=permanent | 02 zettelkasten/domain/psychology/personality/人格特性.md
+011 | in=  7 | out=  5 | deg= 12 | layer=world_model | type=permanent | 02 zettelkasten/world model/mind architecture/意思決定モデル.md
+012 | in=  7 | out=  5 | deg= 12 | layer=domain | type=permanent | 02 zettelkasten/domain/psychology/personality/気質.md
+013 | in=  7 | out=  5 | deg= 12 | layer=domain | type=permanent | 02 zettelkasten/domain/psychology/personality/自己調整.md
+014 | in=  7 | out=  3 | deg= 10 | layer=world_model | type=permanent | 02 zettelkasten/world model/mind architecture/知覚モデル.md
+015 | in=  7 | out=  0 | deg=  7 | layer= | type= | 02 zettelkasten/world model/social/world layer/04 制度.md
+016 | in=  7 | out=  0 | deg=  7 | layer= | type= | 02 zettelkasten/domain/psychology/personality/habit system.md
+017 | in=  7 | out=  0 | deg=  7 | layer=world_model | type=permanent | 02 zettelkasten/world model/mind architecture/行動モデル.md
+018 | in=  7 | out=  0 | deg=  7 | layer=kernel | type=permanent | 02 zettelkasten/kernel/social/information/認知バイアス.md
+019 | in=  6 | out=  9 | deg= 15 | layer=world_model | type=permanent | 02 zettelkasten/world model/Human behavior Model.md
+020 | in=  6 | out=  7 | deg= 13 | layer=kernel | type=permanent | 02 zettelkasten/kernel/social/incentive/インセンティブ設計.md
+021 | in=  6 | out=  4 | deg= 10 | layer=domain | type=permanent | 02 zettelkasten/domain/psychology/personality/drives.md
+022 | in=  6 | out=  4 | deg= 10 | layer=world_model | type=permanent | 02 zettelkasten/world model/mind architecture/動機モデル.md
+023 | in=  6 | out=  4 | deg= 10 | layer=world_model | type=permanent | 02 zettelkasten/world model/mind architecture/注意モデル.md
+024 | in=  6 | out=  0 | deg=  6 | layer=domain | type=structure | 02 zettelkasten/domain/tourism/04 analysis/観光体験満足度 10軸/連続性.md
+025 | in=  5 | out=  5 | deg= 10 | layer=domain | type=permanent | 02 zettelkasten/domain/psychology/personality/自己効用感.md
+026 | in=  5 | out=  3 | deg=  8 | layer=structure | type=structure | 02 zettelkasten/structure/canonical/analysis flamework/意思決定フレームワーク.md
+027 | in=  5 | out=  0 | deg=  5 | layer= | type= | 02 zettelkasten/world model/social/world layer/02 技術.md
+028 | in=  5 | out=  0 | deg=  5 | layer=kernel | type=permanent | 02 zettelkasten/kernel/social/information/不確実性.md
+029 | in=  5 | out=  0 | deg=  5 | layer=world_model | type=permanent | 02 zettelkasten/world model/mind architecture/学習モデル.md
+030 | in=  5 | out=  0 | deg=  5 | layer=structure | type=structure | 02 zettelkasten/structure/psychological mechanisms/意思決定.md
+031 | in=  5 | out=  0 | deg=  5 | layer=structure | type=structure | 02 zettelkasten/structure/canonical/analysis flamework/根因分析.md
+032 | in=  5 | out=  0 | deg=  5 | layer=domain | type=structure | 02 zettelkasten/domain/tourism/04 analysis/観光体験満足度 10軸/活動性.md
+033 | in=  5 | out=  0 | deg=  5 | layer=structure | type=structure | 02 zettelkasten/kernel/psychological/認知制約原理.md
+034 | in=  4 | out=  5 | deg=  9 | layer= | type= | 02 zettelkasten/world model/social/world layer/01 資源.md
+035 | in=  4 | out=  5 | deg=  9 | layer=domain | type=permanent | 02 zettelkasten/domain/psychology/personality/emotion types.md
+036 | in=  4 | out=  5 | deg=  9 | layer=domain | type=permanent | 02 zettelkasten/domain/psychology/personality/social identity.md
+037 | in=  4 | out=  5 | deg=  9 | layer=structure | type=structure | 02 zettelkasten/structure/canonical/analysis flamework/代理人問題.md
+038 | in=  4 | out=  4 | deg=  8 | layer=structure | type=structure | 02 zettelkasten/structure/canonical/analysis flamework/なぜなぜ分析.md
+039 | in=  4 | out=  4 | deg=  8 | layer=structure | type=structure | 02 zettelkasten/structure/canonical/analysis flamework/費用便益分析.md
+040 | in=  4 | out=  3 | deg=  7 | layer=structure | type=structure | 02 zettelkasten/structure/canonical/analysis flamework/システムマッピング.md
+041 | in=  4 | out=  2 | deg=  6 | layer=structure | type=structure | 02 zettelkasten/structure/canonical/problem type/情報問題.md
+042 | in=  4 | out=  0 | deg=  4 | layer=world_model | type=permanent | 02 zettelkasten/world model/mind architecture/アイデンティティモデル.md
+043 | in=  4 | out=  0 | deg=  4 | layer=kernel | type=permanent | 02 zettelkasten/kernel/social/competition/ブランド蓄積.md
+044 | in=  4 | out=  0 | deg=  4 | layer=kernel | type=permanent | 02 zettelkasten/kernel/social/incentive/モラルハザード.md
+045 | in=  4 | out=  0 | deg=  4 | layer=kernel | type=permanent | 02 zettelkasten/kernel/psychological/学習原理.md
+046 | in=  4 | out=  0 | deg=  4 | layer=kernel | type=permanent | 02 zettelkasten/kernel/social/competition/差別化.md
+047 | in=  4 | out=  0 | deg=  4 | layer=world_model | type=permanent | 02 zettelkasten/world model/mind architecture/目標モデル.md
+048 | in=  4 | out=  0 | deg=  4 | layer=kernel | type=permanent | 02 zettelkasten/kernel/social/incentive/短期合理.md
+049 | in=  4 | out=  0 | deg=  4 | layer=problem_solving | type=structure | 02 zettelkasten/structure/canonical/problem type/競争問題.md
+050 | in=  4 | out=  0 | deg=  4 | layer= | type= | 02 zettelkasten/world model/mind architecture/解釈モデル.md
+051 | in=  4 | out=  0 | deg=  4 | layer=kernel | type=permanent | 02 zettelkasten/kernel/social/incentive/評価指標の歪み.md
+052 | in=  4 | out=  0 | deg=  4 | layer= | type= | 02 zettelkasten/domain/tourism/04 analysis/観光体験満足度 10軸/象徴性.md
+053 | in=  3 | out= 21 | deg= 24 | layer= | type= | 02 zettelkasten/world model/social/world category/00 World Category Hub.md
+054 | in=  3 | out=  6 | deg=  9 | layer=domain | type=permanent | 02 zettelkasten/domain/psychology/personality/人格モデル.md
+055 | in=  3 | out=  5 | deg=  8 | layer=domain | type=permanent | 02 zettelkasten/domain/psychology/personality/cooperation behavior.md
+056 | in=  3 | out=  5 | deg=  8 | layer=domain | type=permanent | 02 zettelkasten/domain/psychology/personality/emotion regulation.md
+057 | in=  3 | out=  5 | deg=  8 | layer=domain | type=permanent | 02 zettelkasten/domain/psychology/personality/intrinsic extrinsic motivation.md
+058 | in=  3 | out=  5 | deg=  8 | layer=domain | type=permanent | 02 zettelkasten/domain/psychology/personality/needs theory.md
+059 | in=  3 | out=  5 | deg=  8 | layer=structure | type=structure | 02 zettelkasten/structure/canonical/analysis flamework/シナリオ分析.md
+060 | in=  3 | out=  5 | deg=  8 | layer=domain | type=permanent | 02 zettelkasten/domain/psychology/personality/自己概念.md
+061 | in=  3 | out=  4 | deg=  7 | layer= | type= | 02 zettelkasten/domain/law/02_Structure/L-S-001 要件→効果構造.md
+062 | in=  3 | out=  4 | deg=  7 | layer=structure | type=structure | 02 zettelkasten/structure/canonical/analysis flamework/因果連鎖分析.md
+063 | in=  3 | out=  2 | deg=  5 | layer=kernel | type=permanent | 02 zettelkasten/kernel/social/information/情報非対称.md
+064 | in=  3 | out=  1 | deg=  4 | layer=structure | type=structure | 02 zettelkasten/structure/canonical/problem type/効率問題.md
+065 | in=  3 | out=  1 | deg=  4 | layer=domain | type=structure | 02 zettelkasten/domain/tourism/04 analysis/観光体験満足度 10軸/時間層.md
+066 | in=  3 | out=  0 | deg=  3 | layer= | type= | 02 zettelkasten/world model/social/world layer/05 紐帯.md
+067 | in=  3 | out=  0 | deg=  3 | layer= | type= | 02 zettelkasten/world model/social/world layer/07 組織.md
+068 | in=  3 | out=  0 | deg=  3 | layer= | type= | 02 zettelkasten/world model/social/world layer/08 市場.md
+069 | in=  3 | out=  0 | deg=  3 | layer= | type= | 02 zettelkasten/world model/social/world layer/09 国家.md
+070 | in=  3 | out=  0 | deg=  3 | layer=world_model | type=permanent | 02 zettelkasten/world model/social/world category/Information Asymmetry.md
+071 | in=  3 | out=  0 | deg=  3 | layer= | type= | 02 zettelkasten/domain/law/06_Risk_Model/L-R-001 行政リスク.md
+072 | in=  3 | out=  0 | deg=  3 | layer=problem_solving | type=structure | 02 zettelkasten/structure/canonical/problem type/インセンティブ問題.md
+073 | in=  3 | out=  0 | deg=  3 | layer=structure | type=structure | 02 zettelkasten/structure/observation/データ構造.md
+074 | in=  3 | out=  0 | deg=  3 | layer=structure | type=structure | 02 zettelkasten/structure/observation/パターン構造.md
+075 | in=  3 | out=  0 | deg=  3 | layer=structure | type=structure | 02 zettelkasten/structure/psychological mechanisms/ヒューリスティック.md
+076 | in=  3 | out=  0 | deg=  3 | layer=structure | type=structure | 02 zettelkasten/structure/psychological mechanisms/フレーミング.md
+077 | in=  3 | out=  0 | deg=  3 | layer=structure | type=structure | 02 zettelkasten/structure/psychological mechanisms/プロスペクト理論.md
+078 | in=  3 | out=  0 | deg=  3 | layer=structure | type=structure | 02 zettelkasten/structure/observation/事例構造.md
+079 | in=  3 | out=  0 | deg=  3 | layer=structure | type=structure | 02 zettelkasten/structure/problem/仮説構造.md
+080 | in=  3 | out=  0 | deg=  3 | layer=kernel | type=permanent | 02 zettelkasten/kernel/social/coordination/信頼形成.md
+081 | in=  3 | out=  0 | deg=  3 | layer=structure | type=structure | 02 zettelkasten/structure/canonical/problem type/協調問題.md
+082 | in=  3 | out=  0 | deg=  3 | layer=kernel | type=permanent | 02 zettelkasten/kernel/social/coordination/協調均衡.md
+083 | in=  3 | out=  0 | deg=  3 | layer=kernel | type=permanent | 02 zettelkasten/kernel/social/competition/参入障壁.md
+084 | in=  3 | out=  0 | deg=  3 | layer=structure | type=structure | 02 zettelkasten/structure/psychological mechanisms/同調.md
+085 | in=  3 | out=  0 | deg=  3 | layer=kernel | type=permanent | 02 zettelkasten/kernel/social/incentive/報酬整合.md
+086 | in=  3 | out=  0 | deg=  3 | layer= | type= | 02 zettelkasten/domain/tourism/04 analysis/観光体験満足度 10軸/物語可視性.md
+087 | in=  3 | out=  0 | deg=  3 | layer=structure | type=structure | 02 zettelkasten/structure/canonical/analysis flamework/状態遷移モデル.md
+088 | in=  3 | out=  0 | deg=  3 | layer=kernel | type=permanent | 02 zettelkasten/kernel/psychological/社会性原理.md
+089 | in=  3 | out=  0 | deg=  3 | layer=structure | type=structure | 02 zettelkasten/structure/psychological mechanisms/社会的証明.md
+090 | in=  3 | out=  0 | deg=  3 | layer=domain | type=structure | 02 zettelkasten/domain/tourism/04 analysis/観光体験満足度 10軸/空間密度.md
+091 | in=  3 | out=  0 | deg=  3 | layer=structure | type=structure | 02 zettelkasten/structure/observation/観察構造.md
+092 | in=  3 | out=  0 | deg=  3 | layer=kernel | type=permanent | 02 zettelkasten/kernel/social/incentive/逆選択.md
+093 | in=  3 | out=  0 | deg=  3 | layer= | type= | 02 zettelkasten/structure/psychological mechanisms/限定合理性.md
+094 | in=  2 | out= 30 | deg= 32 | layer=structure | type=structure | 02 zettelkasten/hub/Knowledge System.md
+095 | in=  2 | out= 13 | deg= 15 | layer=kernel | type=structure | 02 zettelkasten/kernel/social/competition/00 competition Hub.md
+096 | in=  2 | out= 11 | deg= 13 | layer=kernel | type=structure | 02 zettelkasten/kernel/social/coordination/00 coordination Hub.md
+097 | in=  2 | out= 10 | deg= 12 | layer=kernel | type=structure | 02 zettelkasten/kernel/social/efficiency/00 efficiency Hub.md
+098 | in=  2 | out= 10 | deg= 12 | layer= | type= | 02 zettelkasten/kernel/social/power/00 power Hub.md
+099 | in=  2 | out=  9 | deg= 11 | layer=kernel | type=structure | 02 zettelkasten/kernel/social/incentive/00 incentive Hub.md
+100 | in=  2 | out=  8 | deg= 10 | layer=structure | type=structure | 02 zettelkasten/structure/canonical/problem type/00 problem_type hub.md

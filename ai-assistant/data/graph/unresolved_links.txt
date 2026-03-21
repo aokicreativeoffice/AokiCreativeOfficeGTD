@@ -1,0 +1,250 @@
+03 projects/SOP Action テンプレート.md -> Conflict: ○○
+03 projects/SOP Action テンプレート.md -> Constraint: ○○
+07 Entrepreneur/world/technology.md -> industry_structure
+07 Entrepreneur/world/technology.md -> market_change
+07 Entrepreneur/world/technology.md -> opportunity
+07 Entrepreneur/world/market change.md -> business_model
+07 Entrepreneur/world/market change.md -> market_change
+07 Entrepreneur/world/market change.md -> opportunity
+06 GTD/next action/バス監査ツールキット.md -> Bus Audit Checklist
+06 GTD/initiatives/initiatives テンプレート.md -> audit_explanation_book
+06 GTD/initiatives/initiatives テンプレート.md -> audit_lp_creation
+06 GTD/initiatives/initiatives テンプレート.md -> audit_pdf_creation
+06 GTD/products/products テンプレート.md -> audit_productization
+04 cases/humanities/Humanities Cases Hub.md -> SNS心理
+04 cases/humanities/Humanities Cases Hub.md -> 営業心理
+04 cases/humanities/Humanities Cases Hub.md -> 恋愛心理
+04 cases/humanities/Humanities Cases Hub.md -> 政治心理
+04 cases/humanities/Humanities Cases Hub.md -> 教育心理
+04 cases/humanities/Humanities Cases Hub.md -> 消費者心理
+04 cases/humanities/Humanities Cases Hub.md -> 組織心理
+04 cases/humanities/Humanities Cases Hub.md -> 観光心理
+02 zettelkasten/world model/Human behavior Model.md -> ヒューリスティック構造
+02 zettelkasten/world model/Human behavior Model.md -> 動機
+02 zettelkasten/world model/Human behavior Model.md -> 合理計算
+02 zettelkasten/world model/Human behavior Model.md -> 情報
+02 zettelkasten/world model/Human behavior Model.md -> 注意資源
+02 zettelkasten/world model/Human behavior Model.md -> 環境
+02 zettelkasten/world model/Human behavior Model.md -> 社会影響
+02 zettelkasten/world model/Human behavior Model.md -> 結果
+02 zettelkasten/world model/Human behavior Model.md -> 認知負荷
+02 zettelkasten/world model/Human Behavior Map.md -> ゲーム理論
+02 zettelkasten/world model/Human Behavior Map.md -> ステータス
+02 zettelkasten/world model/Human Behavior Map.md -> 二重過程理論
+02 zettelkasten/world model/Human Behavior Map.md -> 信頼
+02 zettelkasten/world model/Human Behavior Map.md -> 動機
+02 zettelkasten/world model/Human Behavior Map.md -> 協力
+02 zettelkasten/world model/Human Behavior Map.md -> 喜び
+02 zettelkasten/world model/Human Behavior Map.md -> 嫌悪
+02 zettelkasten/world model/Human Behavior Map.md -> 安全
+02 zettelkasten/world model/Human Behavior Map.md -> 役割
+02 zettelkasten/world model/Human Behavior Map.md -> 快楽
+02 zettelkasten/world model/Human Behavior Map.md -> 怒り
+02 zettelkasten/world model/Human Behavior Map.md -> 恐怖
+02 zettelkasten/world model/Human Behavior Map.md -> 悲しみ
+02 zettelkasten/world model/Human Behavior Map.md -> 情報処理
+02 zettelkasten/world model/Human Behavior Map.md -> 意思決定促進
+02 zettelkasten/world model/Human Behavior Map.md -> 所属
+02 zettelkasten/world model/Human Behavior Map.md -> 承認
+02 zettelkasten/world model/Human Behavior Map.md -> 期待
+02 zettelkasten/world model/Human Behavior Map.md -> 期待価値理論
+02 zettelkasten/world model/Human Behavior Map.md -> 期待効用
+02 zettelkasten/world model/Human Behavior Map.md -> 権威
+02 zettelkasten/world model/Human Behavior Map.md -> 欲求理論
+02 zettelkasten/world model/Human Behavior Map.md -> 注意
+02 zettelkasten/world model/Human Behavior Map.md -> 競争
+02 zettelkasten/world model/Human Behavior Map.md -> 習慣構造
+02 zettelkasten/world model/Human Behavior Map.md -> 自己実現
+02 zettelkasten/world model/Human Behavior Map.md -> 自己決定理論
+02 zettelkasten/world model/Human Behavior Map.md -> 観察学習
+02 zettelkasten/world model/Human Behavior Map.md -> 記憶
+02 zettelkasten/world model/Human Behavior Map.md -> 記憶強化
+02 zettelkasten/world model/Human Behavior Map.md -> 集団力学
+02 zettelkasten/90 templates/問題定義テンプレート.md -> インセンティブ分析
+02 zettelkasten/hub/Knowledge System.md -> Purpose Driven Thinking
+02 zettelkasten/hub/Knowledge System.md -> [[意思構造
+02 zettelkasten/hub/Knowledge System.md -> cases
+02 zettelkasten/hub/Knowledge System.md -> domain
+02 zettelkasten/hub/Knowledge System.md -> metrics
+02 zettelkasten/hub/Knowledge System.md -> projects
+02 zettelkasten/hub/Knowledge System.md -> structures
+02 zettelkasten/hub/Knowledge System.md -> world_model
+02 zettelkasten/hub/Knowledge System.md -> 適応問題構造
+02 zettelkasten/hub/目的駆動思考.md -> diagnostc question
+02 zettelkasten/hub/目的駆動思考.md -> projects
+02 zettelkasten/hub/目的駆動思考.md -> reality structure
+02 zettelkasten/structure/structuresノート テンプレート.md -> 11 トレードオフ
+02 zettelkasten/structure/alert/alert テンプレート.md -> Conflict: ○○
+02 zettelkasten/structure/alert/alert テンプレート.md -> Constraint: ○○
+02 zettelkasten/structure/psychological mechanisms/Psychological Mechanisms Hub.md -> 動機
+02 zettelkasten/structure/problem/problem Hub.md -> 検証構造
+02 zettelkasten/structure/reading/Reading Hub.md -> Argument Structure
+02 zettelkasten/structure/reading/Reading Hub.md -> Extraction Structure
+02 zettelkasten/structure/reading/Reading Hub.md -> Integration Structure
+02 zettelkasten/structure/reading/Reading Hub.md -> Interpretation Structure
+02 zettelkasten/structure/reading/Reading Hub.md -> Kernel
+02 zettelkasten/structure/reading/Reading Hub.md -> Observation Structure
+02 zettelkasten/structure/reading/Reading Hub.md -> Problem Structure
+02 zettelkasten/structure/reading/Reading Hub.md -> Reading Evaluation Structure
+02 zettelkasten/structure/reading/Reading Hub.md -> Reading Workflow
+02 zettelkasten/structure/reading/Reading Hub.md -> World Model
+02 zettelkasten/structure/reading/読書手順構造.md -> Extraction Structure
+02 zettelkasten/structure/reading/読書手順構造.md -> Integration Structure
+02 zettelkasten/structure/canonical/system model/03 フローモデル.md -> 10 効率
+02 zettelkasten/structure/canonical/system model/03 フローモデル.md -> 12 システム
+02 zettelkasten/structure/canonical/system model/03 フローモデル.md -> 情報
+02 zettelkasten/structure/canonical/system model/05 紐帯モデル.md -> 08 権力
+02 zettelkasten/structure/canonical/system model/05 紐帯モデル.md -> 12 システム
+02 zettelkasten/structure/canonical/system model/05 紐帯モデル.md -> 情報
+02 zettelkasten/structure/canonical/system model/04 ストック・フローモデル.md -> 10 効率
+02 zettelkasten/structure/canonical/system model/04 ストック・フローモデル.md -> 12 システム
+02 zettelkasten/structure/canonical/system model/04 ストック・フローモデル.md -> 因果
+02 zettelkasten/structure/canonical/system model/02 状態遷移.md -> 12 システム
+02 zettelkasten/structure/canonical/system model/02 状態遷移.md -> 因果
+02 zettelkasten/structure/canonical/system model/06 プリンシパル＝エージェントモデルモデル.md -> インセンティブ
+02 zettelkasten/structure/canonical/system model/06 プリンシパル＝エージェントモデルモデル.md -> 情報
+02 zettelkasten/structure/canonical/system model/06 プリンシパル＝エージェントモデルモデル.md -> 権力
+02 zettelkasten/structure/canonical/system model/00 System Model Hub.md -> 12 システム
+02 zettelkasten/structure/canonical/system model/00 System Model Hub.md -> 因果
+02 zettelkasten/structure/canonical/system model/01 フィードバックループ.md -> 10 効率
+02 zettelkasten/structure/canonical/system model/01 フィードバックループ.md -> 12 システム
+02 zettelkasten/structure/canonical/system model/01 フィードバックループ.md -> 因果
+02 zettelkasten/structure/canonical/system model/01 フィードバックループ.md -> 情報
+02 zettelkasten/structure/canonical/problem type/情報問題.md -> 情報
+02 zettelkasten/structure/canonical/problem type/協調問題.md -> 09 協調
+02 zettelkasten/structure/canonical/problem type/協調問題.md -> 情報
+02 zettelkasten/structure/canonical/problem type/権力問題.md -> 09 協調
+02 zettelkasten/structure/canonical/problem type/権力問題.md -> 権力
+02 zettelkasten/structure/canonical/problem type/効率問題.md -> 10 効率
+02 zettelkasten/structure/canonical/problem type/効率問題.md -> 12 システム
+02 zettelkasten/structure/canonical/problem solving/02 cause analysis.md -> 12 システム
+02 zettelkasten/structure/canonical/problem solving/02 cause analysis.md -> 因果
+02 zettelkasten/structure/canonical/problem solving/02 cause analysis.md -> 情報
+02 zettelkasten/structure/canonical/problem solving/05 strategy design.md -> 10 効率
+02 zettelkasten/structure/canonical/problem solving/05 strategy design.md -> 競争
+02 zettelkasten/structure/canonical/problem solving/06 optimization.md -> 10 効率
+02 zettelkasten/structure/canonical/problem solving/06 optimization.md -> 11 トレードオフ
+02 zettelkasten/structure/canonical/problem solving/03 decision making.md -> 11 トレードオフ
+02 zettelkasten/structure/canonical/problem solving/03 decision making.md -> インセンティブ
+02 zettelkasten/structure/canonical/problem solving/01 problem definition.md -> 10 効率
+02 zettelkasten/structure/canonical/problem solving/01 problem definition.md -> 因果
+02 zettelkasten/structure/canonical/analysis flamework/心理学構造.md -> ステータス構造
+02 zettelkasten/structure/canonical/analysis flamework/心理学構造.md -> ヒューリスティック構造
+02 zettelkasten/structure/canonical/analysis flamework/心理学構造.md -> フレーミング構造
+02 zettelkasten/structure/canonical/analysis flamework/心理学構造.md -> 感情生成構造
+02 zettelkasten/structure/canonical/analysis flamework/心理学構造.md -> 感情調整構造
+02 zettelkasten/structure/canonical/analysis flamework/心理学構造.md -> 期待価値モデル
+02 zettelkasten/structure/canonical/analysis flamework/心理学構造.md -> 満足化モデル
+02 zettelkasten/structure/canonical/analysis flamework/心理学構造.md -> 行動強化構造
+02 zettelkasten/structure/canonical/analysis flamework/心理学構造.md -> 認知バイアス構造
+02 zettelkasten/structure/canonical/analysis flamework/ステークホルダー分析.md -> Incentive Design
+02 zettelkasten/structure/canonical/analysis flamework/状態遷移モデル.md -> Contract Lifecycle
+02 zettelkasten/structure/canonical/analysis flamework/状態遷移モデル.md -> State Machine
+02 zettelkasten/structure/canonical/analysis flamework/状態遷移モデル.md -> Workflow Modeling
+02 zettelkasten/hub/00 purpose/目的 Purpose Hub.md -> Domain
+02 zettelkasten/hub/00 purpose/目的 Purpose Hub.md -> Projects
+02 zettelkasten/world model/mind architecture/認知モデル.md -> 世界モデル
+02 zettelkasten/world model/mind architecture/認知モデル.md -> 信念
+02 zettelkasten/world model/mind architecture/注意モデル.md -> 環境
+02 zettelkasten/world model/mind architecture/注意モデル.md -> 選択的注意
+02 zettelkasten/world model/mind architecture/注意モデル.md -> 顕著性
+02 zettelkasten/world model/social/world layer/09 国家.md -> 09 協調
+02 zettelkasten/world model/social/world layer/09 国家.md -> 情報
+02 zettelkasten/world model/social/world layer/09 国家.md -> 権力
+02 zettelkasten/world model/social/world layer/02 技術.md -> 10 効率
+02 zettelkasten/world model/social/world layer/02 技術.md -> 12 システム
+02 zettelkasten/world model/social/world layer/02 技術.md -> 情報
+02 zettelkasten/world model/social/world layer/07 組織.md -> 09 協調
+02 zettelkasten/world model/social/world layer/07 組織.md -> インセンティブ
+02 zettelkasten/world model/social/world layer/07 組織.md -> 情報
+02 zettelkasten/world model/social/world layer/07 組織.md -> 権力
+02 zettelkasten/world model/social/world layer/08 市場.md -> 10 効率
+02 zettelkasten/world model/social/world layer/08 市場.md -> インセンティブ
+02 zettelkasten/world model/social/world layer/08 市場.md -> 情報
+02 zettelkasten/world model/social/world layer/08 市場.md -> 競争
+02 zettelkasten/world model/social/world layer/03 文化.md -> 05 ネットワーク
+02 zettelkasten/world model/social/world layer/03 文化.md -> 12 システム
+02 zettelkasten/world model/social/world layer/05 紐帯.md -> 08 権力
+02 zettelkasten/world model/social/world layer/05 紐帯.md -> 10 効率
+02 zettelkasten/world model/social/world layer/05 紐帯.md -> 12 システム
+02 zettelkasten/world model/social/world layer/05 紐帯.md -> 情報
+02 zettelkasten/world model/social/world layer/04 制度.md -> 08 権力
+02 zettelkasten/world model/social/world layer/04 制度.md -> 10 効率
+02 zettelkasten/world model/social/world layer/04 制度.md -> 12 システム
+02 zettelkasten/world model/social/world layer/06 社会.md -> 09 協調
+02 zettelkasten/world model/social/world layer/06 社会.md -> 情報
+02 zettelkasten/world model/social/world category/00 World Category Hub.md -> Organizational Politics
+02 zettelkasten/kernel/social/kernel map.md -> coordination
+02 zettelkasten/kernel/social/kernel map.md -> efficiency
+02 zettelkasten/kernel/social/kernel map.md -> incentive
+02 zettelkasten/kernel/social/kernel map.md -> information
+02 zettelkasten/kernel/social/kernel map.md -> power
+02 zettelkasten/kernel/social/kernel map.md -> インセンティブ
+02 zettelkasten/kernel/social/kernel map.md -> システム
+02 zettelkasten/kernel/social/kernel map.md -> トレードオフ
+02 zettelkasten/kernel/social/kernel map.md -> ネットワーク権力
+02 zettelkasten/kernel/social/kernel map.md -> 制度権力
+02 zettelkasten/kernel/social/kernel map.md -> 効率
+02 zettelkasten/kernel/social/kernel map.md -> 協調
+02 zettelkasten/kernel/social/kernel map.md -> 因果
+02 zettelkasten/kernel/social/kernel map.md -> 強制
+02 zettelkasten/kernel/social/kernel map.md -> 情報
+02 zettelkasten/kernel/social/kernel map.md -> 支配構造
+02 zettelkasten/kernel/social/kernel map.md -> 権力
+02 zettelkasten/kernel/social/kernel map.md -> 権力均衡
+02 zettelkasten/kernel/social/kernel map.md -> 権力源
+02 zettelkasten/kernel/social/kernel map.md -> 権威
+02 zettelkasten/kernel/social/kernel map.md -> 競争
+02 zettelkasten/kernel/civilization/進化原理.md -> 因果
+02 zettelkasten/kernel/civilization/進化原理.md -> 情報
+02 zettelkasten/kernel/civilization/進化原理.md -> 競争
+02 zettelkasten/kernel/social/incentive/00 incentive Hub.md -> 協調
+02 zettelkasten/kernel/social/incentive/00 incentive Hub.md -> 情報
+02 zettelkasten/kernel/social/incentive/00 incentive Hub.md -> 競争
+02 zettelkasten/kernel/social/efficiency/00 efficiency Hub.md -> インセンティブ
+02 zettelkasten/kernel/social/efficiency/00 efficiency Hub.md -> 協調
+02 zettelkasten/kernel/social/efficiency/00 efficiency Hub.md -> 競争
+02 zettelkasten/kernel/social/competition/00 competition Hub.md -> インセンティブ
+02 zettelkasten/kernel/social/competition/00 competition Hub.md -> 効率
+02 zettelkasten/kernel/social/competition/00 competition Hub.md -> 情報
+02 zettelkasten/kernel/social/competition/00 competition Hub.md -> 時間
+02 zettelkasten/kernel/social/competition/00 competition Hub.md -> 競争
+02 zettelkasten/kernel/social/competition/00 competition Hub.md -> 規模
+02 zettelkasten/kernel/social/coordination/00 coordination Hub.md -> 09 協調
+02 zettelkasten/kernel/social/coordination/00 coordination Hub.md -> インセンティブ
+02 zettelkasten/kernel/social/coordination/00 coordination Hub.md -> 情報
+02 zettelkasten/domain/business/business OS.md -> [GTMモデル
+02 zettelkasten/domain/business/business OS.md -> [[GTMモデル
+02 zettelkasten/domain/applied psychology/Psycological Domain Knowledge Hub.md -> リーダーシップ
+02 zettelkasten/domain/applied psychology/Psycological Domain Knowledge Hub.md -> 人格心理
+02 zettelkasten/domain/applied psychology/Psycological Domain Knowledge Hub.md -> 価値観
+02 zettelkasten/domain/applied psychology/Psycological Domain Knowledge Hub.md -> 信頼
+02 zettelkasten/domain/applied psychology/Psycological Domain Knowledge Hub.md -> 動機心理
+02 zettelkasten/domain/applied psychology/Psycological Domain Knowledge Hub.md -> 協力
+02 zettelkasten/domain/applied psychology/Psycological Domain Knowledge Hub.md -> 対立
+02 zettelkasten/domain/applied psychology/Psycological Domain Knowledge Hub.md -> 感情心理
+02 zettelkasten/domain/applied psychology/Psycological Domain Knowledge Hub.md -> 文化
+02 zettelkasten/domain/applied psychology/Psycological Domain Knowledge Hub.md -> 物語
+02 zettelkasten/domain/applied psychology/Psycological Domain Knowledge Hub.md -> 発達心理
+02 zettelkasten/domain/applied psychology/Psycological Domain Knowledge Hub.md -> 美学
+02 zettelkasten/domain/applied psychology/Psycological Domain Knowledge Hub.md -> 習慣
+02 zettelkasten/domain/applied psychology/Psycological Domain Knowledge Hub.md -> 行動変容
+02 zettelkasten/domain/applied psychology/Psycological Domain Knowledge Hub.md -> 認知心理
+02 zettelkasten/domain/applied psychology/Psycological Domain Knowledge Hub.md -> 道徳
+02 zettelkasten/domain/applied psychology/Psycological Domain Knowledge Hub.md -> 集団心理
+02 zettelkasten/domain/enterprise/Enterprise OS.md -> Business_OS
+02 zettelkasten/domain/psychology/personality/needs theory.md -> 基本的欲求
+02 zettelkasten/domain/psychology/personality/drives.md -> Desire Principle
+02 zettelkasten/domain/tourism/04 analysis/観光地発生メカニズム.md -> 象徴資本
+02 zettelkasten/domain/tourism/04 analysis/場所時間マトリクス.md -> 儀式消費
+02 zettelkasten/domain/tourism/04 analysis/場所時間マトリクス.md -> 物語性
+02 zettelkasten/domain/tourism/04 analysis/場所時間マトリクス.md -> 象徴消費
+02 zettelkasten/domain/tourism/04 analysis/場所時間マトリクス.md -> 象徴資本
+02 zettelkasten/domain/law/02_Structure/L-S-001 要件→効果構造.md -> L-K-003 要件充足優先原則
+02 zettelkasten/domain/law/02_Structure/L-S-007 条文ネットワーク構造.md -> 01_Norm_Types
+02 zettelkasten/domain/law/02_Structure/L-S-007 条文ネットワーク構造.md -> 02_Structure
+02 zettelkasten/domain/law/02_Structure/L-S-007 条文ネットワーク構造.md -> 06_Risk_Model
+02 zettelkasten/domain/law/02_Structure/L-S-007 条文ネットワーク構造.md -> 07_Contract_Lifecycle
+02 zettelkasten/domain/law/02_Structure/L-S-007 条文ネットワーク構造.md -> 08_Compliance_Architecture
+02 zettelkasten/domain/law/02_Structure/L-S-007 条文ネットワーク構造.md -> L-C-??? 競合: A vs B
+02 zettelkasten/domain/law/00_Norm_Kernel/L-K-007 罰則逆算原則.md -> L-K-003 要件充足優先原則

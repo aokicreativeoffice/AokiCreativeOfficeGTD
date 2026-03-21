@@ -1,4 +1,9 @@
 [
   "dataview",
-  "sync-google-calendar"
+  "sync-google-calendar",
+  "pdf-plus",
+  "better-export-pdf",
+  "customjs",
+  "obsidian-custom-frames",
+  "obsidian-git"
 ]

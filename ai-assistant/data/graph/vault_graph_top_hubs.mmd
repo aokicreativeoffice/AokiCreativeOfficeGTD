@@ -1,0 +1,129 @@
+flowchart TD
+    decision_styles["decision styles"]
+    N_00_Analysis_Framework_hub["00 Analysis Framework hub"]
+    N___________["ステークホルダー分析"]
+    N___["制約"]
+    N______["認知モデル"]
+    N______["感情モデル"]
+    motivation_types["motivation types"]
+    N_________["トレードオフ分析"]
+    N_________["ボトルネック分析"]
+    N_____["人格特性"]
+    N________["意思決定モデル"]
+    N___["気質"]
+    N_____["自己調整"]
+    N______["知覚モデル"]
+    N_04___["04 制度"]
+    habit_system["habit system"]
+    N______["行動モデル"]
+    N_______["認知バイアス"]
+    Human_behavior_Model["Human behavior Model"]
+    N__________["インセンティブ設計"]
+    drives["drives"]
+    N______["動機モデル"]
+    N______["注意モデル"]
+    N____["連続性"]
+    N______["自己効用感"]
+    N____________["意思決定フレームワーク"]
+    N_02___["02 技術"]
+    N_____["不確実性"]
+    N______["学習モデル"]
+    N_____["意思決定"]
+    N_____["根因分析"]
+    N____["活動性"]
+    N_______["認知制約原理"]
+    N_01___["01 資源"]
+    emotion_types["emotion types"]
+    social_identity["social identity"]
+    N______["代理人問題"]
+    N_______["なぜなぜ分析"]
+    N_______["費用便益分析"]
+    N__________["システムマッピング"]
+    N_00_Analysis_Framework_hub --> N_______
+    N_00_Analysis_Framework_hub --> N__________
+    N_00_Analysis_Framework_hub --> N__________
+    N_00_Analysis_Framework_hub --> N___________
+    N_00_Analysis_Framework_hub --> N_________
+    N_00_Analysis_Framework_hub --> N_________
+    N_00_Analysis_Framework_hub --> N______
+    N_00_Analysis_Framework_hub --> N____________
+    N_00_Analysis_Framework_hub --> N_____
+    N_00_Analysis_Framework_hub --> N_______
+    N_01___ --> N_02___
+    N_01___ --> N_04___
+    Human_behavior_Model --> N_____
+    Human_behavior_Model --> N______
+    Human_behavior_Model --> N_______
+    Human_behavior_Model --> N_______
+    drives --> decision_styles
+    drives --> motivation_types
+    emotion_types --> decision_styles
+    emotion_types --> motivation_types
+    emotion_types --> N___
+    motivation_types --> drives
+    motivation_types --> N______
+    motivation_types --> N_____
+    social_identity --> N_____
+    N_______ --> N_00_Analysis_Framework_hub
+    N_______ --> N_________
+    N_______ --> N_____
+    N__________ --> N___________
+    N__________ --> N_________
+    N__________ --> N______
+    N__________ --> N_______
+    N__________ --> N___________
+    N__________ --> N_________
+    N___________ --> N_________
+    N_________ --> N___________
+    N_________ --> N_________
+    N_________ --> N_________
+    N_________ --> N_____
+    N_____ --> decision_styles
+    N_____ --> habit_system
+    N_____ --> N___
+    N______ --> N_00_Analysis_Framework_hub
+    N______ --> N__________
+    N______ --> N___________
+    N______ --> Human_behavior_Model
+    N______ --> N________
+    N______ --> N______
+    N______ --> N______
+    N____________ --> N___________
+    N____________ --> N_________
+    N____________ --> N_____
+    N________ --> Human_behavior_Model
+    N________ --> N______
+    N________ --> N______
+    N________ --> N______
+    N________ --> N______
+    N______ --> Human_behavior_Model
+    N______ --> N______
+    N______ --> N________
+    N______ --> N______
+    N______ --> N______
+    N______ --> N______
+    N___ --> emotion_types
+    N___ --> habit_system
+    N___ --> N_____
+    N______ --> Human_behavior_Model
+    N______ --> N______
+    N______ --> N______
+    N______ --> Human_behavior_Model
+    N______ --> N______
+    N______ --> N______
+    N______ --> decision_styles
+    N______ --> habit_system
+    N______ --> motivation_types
+    N______ --> N_____
+    N_____ --> habit_system
+    N_____ --> motivation_types
+    N_____ --> N______
+    N______ --> Human_behavior_Model
+    N______ --> N________
+    N______ --> N______
+    N______ --> N______
+    N______ --> N_______
+    N_______ --> N___________
+    N_______ --> N_________
+    N_______ --> N_________
+    N_______ --> N____________

@@ -1,0 +1,9 @@
+fieldwork
+↓
+photography
+↓
+evaluation
+↓
+exercise
+↓
+improvement

@@ -1,0 +1,113 @@
+@media print {
+
+/* ================================
+   ページ設定
+================================ */
+
+@page {
+  size: A4;
+  margin: 20mm;
+}
+
+body {
+  font-size: 6pt;
+  line-height: 0.8;
+}
+
+/* ================================
+   見出しの孤立防止
+================================ */
+
+h1, h2, h3 {
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+p {
+  widows: 3;
+  orphans: 3;
+}
+
+/* ================================
+   画像
+================================ */
+
+img {
+  max-width: 100%;
+  height: auto;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+/* ================================
+   Mermaid 図
+================================ */
+
+.mermaid {
+  max-width: 100%;
+  page-break-inside: avoid;
+  break-inside: avoid;
+  margin: 1em 0;
+}
+
+.mermaid svg {
+
+  /* はみ出す時だけ縮小 */
+  max-width: 100%;
+  height: auto;
+
+  /* 巨大図対策 */
+  max-height: 90vh;
+
+}
+
+/* ================================
+   表
+================================ */
+
+table {
+  max-width: 100%;
+  border-collapse: collapse;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+th, td {
+  word-break: break-word;
+  padding: 4px;
+}
+
+/* ================================
+   コードブロック
+================================ */
+
+pre {
+  max-width: 100%;
+  overflow-x: auto;
+  white-space: pre-wrap;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+code {
+  word-break: break-word;
+}
+
+/* ================================
+   引用
+================================ */
+
+blockquote {
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+/* ================================
+   Mermaidの巨大グラフ保険
+================================ */
+
+.mermaid svg[width] {
+  width: auto !important;
+}
+
+}

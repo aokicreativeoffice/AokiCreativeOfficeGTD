@@ -1,0 +1,35 @@
+/* Mermaid 図全体をコンパクト化 */
+
+.mermaid svg {
+
+  max-width: 100%;
+  height: auto;
+
+  transform: scale(0.75);
+  transform-origin: top left;
+
+}
+
+/* 矢印 */
+
+.mermaid .edgePath path {
+  stroke-width: 1.1px;
+}
+
+/* 図余白 */
+
+.mermaid {
+  margin: 0.5em 0;
+}
+
+.mermaid svg {
+  display: block;
+}
+
+@media print {
+
+.mermaid svg {
+  transform: scale(0.85);
+}
+
+}

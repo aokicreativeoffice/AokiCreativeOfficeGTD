@@ -1,0 +1,53 @@
+@media print {
+
+/* 図コンテナ */
+
+.mermaid {
+  display: flex;
+  justify-content: center;
+  break-inside: avoid;
+}
+
+/* SVG */
+
+.mermaid svg {
+
+  max-width: 100%;
+  height: auto;
+
+  /* 印刷時の図縮小 */
+
+  transform: scale(0.8);
+  transform-origin: top left;
+
+}
+
+/* 矢印 */
+
+.mermaid .edgePath path {
+  stroke-width: 1.1px;
+}
+
+/* 余白 */
+
+.mermaid {
+  margin: 0.6em 0;
+}
+
+}
+
+@media print {
+
+/* ノートの先頭で改ページ */
+
+.markdown-preview-view > * {
+  break-before: page;
+}
+
+/* 最初のノートだけ例外 */
+
+.markdown-preview-view > *:first-child {
+  break-before: auto;
+}
+
+}
