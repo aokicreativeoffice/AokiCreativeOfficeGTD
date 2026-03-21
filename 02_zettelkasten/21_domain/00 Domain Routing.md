@@ -34,13 +34,10 @@ EL[evaluation]
 SP[spatial]
 S[story]
 MN[meaning]
-[story] --> TP[temporal]
-[story] --> EX[expression]
-[story] --> [causual]
-[story] --> [evaluation]
-E[reading] --> IP[interpretation]
-P[photography] --> [expression]
-[photography] --> [evaluation]
+TP[temporal]
+EX[expression]
+R[reading]
+IP[interpretation]
 M[music] --> [temporal]
 [music] --> [expression]
 F[fashion] --> [expression]
@@ -58,6 +55,11 @@ S --> MN
 S --> TP
 S --> EX
 S --> CS
-S --> E
+S --> EL
+R --> IP
+P --> EX
+P --> EL
+M --> TP
+M -->EX
 
 ```
