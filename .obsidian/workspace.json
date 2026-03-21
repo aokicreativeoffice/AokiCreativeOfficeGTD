@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/engine/Engine Hub.md",
+                "file": "02_zettelkasten/21_domain/engine/Interpretation_Engine/無題のファイル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Engine Hub"
+              "title": "無題のファイル"
             }
           }
         ]
@@ -199,8 +199,10 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
-    "02_zettelkasten/21_domain/00 Domain Routing.md",
     "02_zettelkasten/21_domain/engine/Engine Hub.md",
+    "02_zettelkasten/21_domain/engine/Interpretation_Engine/無題のファイル.md",
+    "02_zettelkasten/21_domain/engine/Interpretation_Engine",
+    "02_zettelkasten/21_domain/00 Domain Routing.md",
     "02_zettelkasten/21_domain/engine/Reading_Engine/Reading Engine.md",
     "02_zettelkasten/21_domain/engine/Temporal_Engine/Temporal Engine.md",
     "02_zettelkasten/21_domain/engine/Reading_Engine",
@@ -222,7 +224,6 @@
     "02_zettelkasten/21_domain/application/geography",
     "02_zettelkasten/21_domain/application/tourism",
     "02_zettelkasten/21_domain/application/history",
-    "02_zettelkasten/21_domain/application/business",
     "01_fact_validation/Uncertainty Handling.md",
     "01_fact_validation/Validation Protocol.md",
     "01_fact_validation/Thinking Input Interface.md",
@@ -234,7 +235,6 @@
     "02_zettelkasten/00_system/thinking_engine/Question Engine.md",
     "Question Engine.md",
     "02_zettelkasten/00_system/thinking_engine/03_reasoning/hypothesis/Hypothesis Hub.md",
-    "02_zettelkasten/00_system/thinking_engine/03_reasoning/hypothesis/代替仮説比較.md",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
