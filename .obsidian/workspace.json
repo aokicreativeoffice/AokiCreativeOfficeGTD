@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/engine/Evaluation_Engine/Evaluation Engine.md",
+                "file": "02_zettelkasten/21_domain/engine/Temporal_Engine/Temporal Engine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evaluation Engine"
+              "title": "Temporal Engine"
             }
           }
         ]
@@ -199,8 +199,11 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
-    "02_zettelkasten/21_domain/engine/Network_Engine/Network Engine.md",
+    "02_zettelkasten/21_domain/engine/Expression_Engine/Expression Engine.md",
+    "02_zettelkasten/21_domain/engine/Temporal_Engine/Temporal Engine.md",
+    "02_zettelkasten/21_domain/engine/Meaning_Engine/Meaning Engine.md",
     "02_zettelkasten/21_domain/engine/Evaluation_Engine/Evaluation Engine.md",
+    "02_zettelkasten/21_domain/engine/Network_Engine/Network Engine.md",
     "02_zettelkasten/21_domain/engine/Spatial_Engine/Spatial Engine.md",
     "02_zettelkasten/21_domain/engine/Decision_Engine/Decision Engine.md",
     "02_zettelkasten/21_domain/engine/Causal_Engine/Causal Engine.md",
@@ -232,9 +235,6 @@
     "02_zettelkasten/00_system/thinking_engine/03_reasoning/hypothesis/代替仮説比較.md",
     "02_zettelkasten/00_system/thinking_engine/03_reasoning/hypothesis/検証計画.md",
     "02_zettelkasten/00_system/thinking_engine/03_reasoning/hypothesis/仮説分解.md",
-    "02_zettelkasten/00_system/thinking_engine/03_reasoning/hypothesis/仮説評価.md",
-    "02_zettelkasten/00_system/thinking_engine/03_reasoning/hypothesis/仮説生成.md",
-    "02_zettelkasten/00_system/thinking_engine/03_reasoning/hypothesis/仮説更新.md",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
