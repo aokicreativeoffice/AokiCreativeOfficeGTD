@@ -20,11 +20,15 @@ A --> Solution
 ```mermaid
 flowchart TD
 
-L[law] --> NM[normative]
-H[history] --> CS[causal]
-B[business] --> DS[decision]
-G[geography] --> SP[spatial]
-[geogpaphy] --> NW[network]
+L[law]
+NM[normative]
+H[history]
+CS[causal]
+B[business]
+DS[decision]
+G[geography]
+SP[spatial]
+NW[network]
 T[tourism] --> EL[evaluation]
 [tourism] --> SP[spatial]
 S[story] --> [meaning]
@@ -42,4 +46,10 @@ F[fashion] --> [expression]
 TP[tourism_philosophy] --> MN[meaning]
 
 L --> NM
+H --> CS
+B --> DS
+G --> SP
+G --> NW
+T --> EL
+
 ```
