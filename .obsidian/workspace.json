@@ -11,14 +11,16 @@
             "id": "6acf75135036dfd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "02_zettelkasten/21_domain/00 Domain Routing.md",
-                "mode": "source",
-                "source": false
+                "file": "01_ontology.pdf",
+                "page": 1,
+                "left": -13,
+                "top": 847,
+                "zoom": 1.174234836026139
               },
-              "icon": "lucide-file",
-              "title": "00 Domain Routing"
+              "icon": "lucide-file-text",
+              "title": "01_ontology"
             }
           }
         ]
@@ -199,6 +201,7 @@
   },
   "active": "443e20a7aff5fe78",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/00 Domain Routing.md",
     "02_zettelkasten/21_domain/application/fashion",
     "02_zettelkasten/21_domain/application/music",
     "02_zettelkasten/21_domain/application/photography",
@@ -209,9 +212,7 @@
     "02_zettelkasten/21_domain/application/business",
     "02_zettelkasten/21_domain/application/law",
     "02_zettelkasten/21_domain/application",
-    "02_zettelkasten/21_domain/engine",
     "01_fact_validation/Uncertainty Handling.md",
-    "02_zettelkasten/21_domain/00 Domain Routing.md",
     "01_fact_validation/Validation Protocol.md",
     "01_fact_validation/Thinking Input Interface.md",
     "02_zettelkasten/00_system/question/Entry Hub.md",
