@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_sources/books/読書→Kernel生成フロー.md",
+                "file": "02_zettelkasten/21_domain/books/読書→Kernel生成フロー.md",
                 "mode": "source",
                 "source": false
               },
@@ -197,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6acf75135036dfd0",
+  "active": "443e20a7aff5fe78",
   "lastOpenFiles": [
     "02_zettelkasten/21_domain/application/story/作品分析テンプレート.md",
     "01_ontology.pdf",
@@ -231,7 +231,7 @@
     "02_zettelkasten/00_system/thinking_engine/03_reasoning/hypothesis/仮説棄却.md",
     "02_zettelkasten/00_system/thinking_engine/03_reasoning/hypothesis/Hypothesis ノート.md",
     "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/reading/読書統合構造.md",
-    "02_zettelkasten/00_system/thinking_engine/02_inquiry/読書マップ.md",
+    "02_zettelkasten/21_domain/books/読書マップ.md",
     "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/reading/読書評価構造.md",
     "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/reading/論証構造.md",
     "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/reading/読書解釈構造.md",
