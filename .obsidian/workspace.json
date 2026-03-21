@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/engine/Interpretation_Engine/無題のファイル.md",
+                "file": "02_zettelkasten/21_domain/engine/Engine Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "Engine Hub"
             }
           }
         ]
@@ -199,8 +199,8 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/engine/Interpretation_Engine/Interpretation Engine.md",
     "02_zettelkasten/21_domain/engine/Engine Hub.md",
-    "02_zettelkasten/21_domain/engine/Interpretation_Engine/無題のファイル.md",
     "02_zettelkasten/21_domain/engine/Interpretation_Engine",
     "02_zettelkasten/21_domain/00 Domain Routing.md",
     "02_zettelkasten/21_domain/engine/Reading_Engine/Reading Engine.md",

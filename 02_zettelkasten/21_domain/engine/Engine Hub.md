@@ -87,6 +87,7 @@ SP / NW → EL
 各Engineを「人力LLM化」するための操作手順。
 
 ##  Interpretation Checklist
+[[Interpretation Engine]]
 
 - 主張は何か？
 - 何を説明しているか？
