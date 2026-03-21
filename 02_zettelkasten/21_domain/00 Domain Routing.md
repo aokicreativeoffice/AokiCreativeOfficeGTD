@@ -27,10 +27,12 @@ A --> Solution
 [tourism] --> [spatial]
 [story] --> [meaning]
 [story] --> [temporal]
-[reading] --> interpretation]
-[photography] --> expression]
-[music] --> temporal]
-[fashion] --> expression]
-[fashion] --> evaluation]
-[tourism_philosophy] --> meaning
+[story] --> [expression]
+[story] --> [causual]
+[reading] --> [interpretation]
+[photography] --> [expression]
+[music] --> [temporal]
+[fashion] --> [expression]
+[fashion] --> [evaluation]
+[tourism_philosophy] --> [meaning]
 ```
