@@ -18,6 +18,7 @@ A --> Solution
 
 # 固有構造
 ```mermaid
+flowchart TD
 [law] --> [normative]
 [history] --> [causal]
 [business] --> [decision]
@@ -29,9 +30,12 @@ A --> Solution
 [story] --> [temporal]
 [story] --> [expression]
 [story] --> [causual]
+[story] --> [evaluation]
 [reading] --> [interpretation]
 [photography] --> [expression]
+[photography] --> [evaluation]
 [music] --> [temporal]
+[music] --> [expression]
 [fashion] --> [expression]
 [fashion] --> [evaluation]
 [tourism_philosophy] --> [meaning]
