@@ -20,24 +20,26 @@ A --> Solution
 ```mermaid
 flowchart TD
 
-L[law] --> [normative]
-H[history] --> [causal]
-B[business] --> [decision]
-G[geography] --> [spatial]
-[geogpaphy] --> [network]
-T[tourism] --> [evaluation]
-[tourism] --> [spatial]
+L[law] --> NM[normative]
+H[history] --> CS[causal]
+B[business] --> DS[decision]
+G[geography] --> SP[spatial]
+[geogpaphy] --> NW[network]
+T[tourism] --> EL[evaluation]
+[tourism] --> SP[spatial]
 S[story] --> [meaning]
-[story] --> [temporal]
-[story] --> [expression]
+[story] --> TP[temporal]
+[story] --> EX[expression]
 [story] --> [causual]
 [story] --> [evaluation]
-E[reading] --> [interpretation]
+E[reading] --> IP[interpretation]
 P[photography] --> [expression]
 [photography] --> [evaluation]
 M[music] --> [temporal]
 [music] --> [expression]
 F[fashion] --> [expression]
 [fashion] --> [evaluation]
-TP[tourism_philosophy] --> [meaning]
+TP[tourism_philosophy] --> MN[meaning]
+
+L --> NM
 ```
