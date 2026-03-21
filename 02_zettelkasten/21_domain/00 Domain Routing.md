@@ -35,7 +35,7 @@ P[photography]
 SP[spatial]
 S[story]
 MN[meaning]
-TP[temporal]
+TPL[temporal]
 EX[expression]
 R[reading]
 IP[interpretation]
@@ -51,14 +51,15 @@ G --> NW
 T --> EL
 T --> SP
 S --> MN
-S --> TP
+S --> TPL
 S --> EX
 S --> CS
 S --> EL
 R --> IP
 P --> EX
 P --> EL
-M --> TP
+P --> MN
+M --> TPL
 M --> EX
 F --> EX
 F --> EL
