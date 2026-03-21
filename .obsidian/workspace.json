@@ -11,14 +11,14 @@
             "id": "6acf75135036dfd0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "01_ontology.pdf",
-                "page": 1,
-                "zoom": 1
+                "file": "01_fact_validation/Uncertainty Handling.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "01_ontology"
+              "icon": "lucide-file",
+              "title": "Uncertainty Handling"
             }
           }
         ]
@@ -199,16 +199,18 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "01_fact_validation/Validation Protocol.md",
+    "01_fact_validation/Uncertainty Handling.md",
+    "01_fact_validation/Thinking Input Interface.md",
+    "01_ontology.pdf",
+    "02_zettelkasten/21_domain",
     "01_case_writing.pdf",
     "02_zettelkasten/00_system/question/Entry Hub.md",
-    "00_inbox/01_fact_validation/Fact Validation Hub.md",
-    "00_inbox/01_fact_validation/Thinking Input Interface.md",
+    "01_fact_validation/Fact Validation Hub.md",
     "90 templates/Validated テンプレート.md",
-    "00_inbox/01_fact_validation/Validation Protocol.md",
-    "00_inbox/01_fact_validation/case",
-    "00_inbox/01_fact_validation/Uncertainty Handling.md",
-    "00_inbox/01_fact_validation/Source Evaluation.md",
-    "00_inbox/01_fact_validation",
+    "01_fact_validation/case",
+    "01_fact_validation/Source Evaluation.md",
+    "01_fact_validation",
     "02_zettelkasten/00_system/thinking_engine/02_inquiry/inquiry Hub.md",
     "02_zettelkasten/00_system/thinking_engine/Question Engine.md",
     "Question Engine.md",
@@ -232,9 +234,6 @@
     "02_zettelkasten/00_system/thinking_engine/03_reasoning/hypothesis",
     "02_zettelkasten/00_system/thinking_engine/03_reasoning",
     "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/argument",
-    "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/problem",
-    "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/reading",
-    "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
