@@ -11,16 +11,14 @@
             "id": "6acf75135036dfd0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "01_ontology.pdf",
-                "page": 1,
-                "left": -13,
-                "top": 847,
-                "zoom": 1.174234836026139
+                "file": "01_sources/books/読書→Kernel生成フロー.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "01_ontology"
+              "icon": "lucide-file",
+              "title": "読書→Kernel生成フロー"
             }
           }
         ]
@@ -199,19 +197,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "443e20a7aff5fe78",
+  "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/application/story/作品分析テンプレート.md",
+    "01_ontology.pdf",
     "02_zettelkasten/21_domain/00 Domain Routing.md",
     "02_zettelkasten/21_domain/application/fashion",
     "02_zettelkasten/21_domain/application/music",
     "02_zettelkasten/21_domain/application/photography",
     "02_zettelkasten/21_domain/application/story",
-    "02_zettelkasten/21_domain/application/transport",
+    "02_zettelkasten/21_domain/application/geography",
     "02_zettelkasten/21_domain/application/tourism",
     "02_zettelkasten/21_domain/application/history",
     "02_zettelkasten/21_domain/application/business",
     "02_zettelkasten/21_domain/application/law",
-    "02_zettelkasten/21_domain/application",
     "01_fact_validation/Uncertainty Handling.md",
     "01_fact_validation/Validation Protocol.md",
     "01_fact_validation/Thinking Input Interface.md",
