@@ -79,7 +79,7 @@ EX --> FB[Learning / Case化]
 ## ③ Inquiry（思考モード決定）
 問いの型に応じて思考モードを選択
 分類：
-[[inquiry Hub]]
+- [[inquiry Hub]]
 - Reading
 - Argument
 - Problem
