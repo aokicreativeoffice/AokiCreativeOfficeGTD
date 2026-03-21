@@ -64,6 +64,17 @@ EX --> FB[Learning / Case化]
 ```
 
 # Step-by-Step Process
+
+## Precondition
+
+- 入力は必ずValidated Caseであること
+- 未検証情報は禁止
+
+## NG
+
+- 未検証情報から開始
+- 推測をCaseとして扱う
+
 ## ① 意図解釈（Intent Interpretation）
 問いの目的・制約・期待を明確化する
 使用ノート：
