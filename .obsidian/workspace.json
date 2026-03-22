@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/engine/fact_finding/無題のファイル.md",
+                "file": "02_zettelkasten/21_domain/lawvault/engine/fact_finding/補助事実.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "補助事実"
             }
           }
         ]
@@ -200,7 +200,7 @@
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding/間接事実.md",
-    "02_zettelkasten/21_domain/lawvault/engine/fact_finding/無題のファイル.md",
+    "02_zettelkasten/21_domain/lawvault/engine/fact_finding/補助事実.md",
     "02_zettelkasten/21_domain/lawvault/engine/Law Pipeline.md",
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding",
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding/主要事実.md",
