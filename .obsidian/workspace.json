@@ -15,7 +15,7 @@
               "state": {
                 "file": "02_zettelkasten/21_domain/lawvault/issue/労働者性/fact/指揮命令関係.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "指揮命令関係"
@@ -197,7 +197,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "443e20a7aff5fe78",
+  "active": "6acf75135036dfd0",
   "lastOpenFiles": [
     "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/instance",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/労働者性があるか.md",
