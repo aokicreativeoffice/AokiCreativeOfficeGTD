@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/00_system/thinking_engine/Question Engine.md",
+                "file": "02_zettelkasten/04_meta/knowledge_graph/Question → Traversal Mapping.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Question Engine"
+              "title": "Question → Traversal Mapping"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -200,9 +199,11 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
-    "Question Engine.pdf",
-    "Question Engine.md",
+    "Question → Traversal Mapping.pdf",
     "02_zettelkasten/00_system/question/Entry Hub.md",
+    "Question Engine.md",
+    "02_zettelkasten/00_system/thinking_engine/Question Engine.md",
+    "Question Engine.pdf",
     "02_zettelkasten/00_system/Mode Selection.md",
     "Mode Selection.pdf",
     "02_zettelkasten/00_system/Goal Framing.md",
@@ -231,11 +232,9 @@
     "02_zettelkasten/21_domain/engine/Engine Hub.md",
     "02_zettelkasten/21_domain/lawvault/Action Ontology/行為辞書.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/04_method/08_morphology_reading/都市形態読解.md",
-    "02_zettelkasten/21_domain/tourism/観光地一覧/長野県観光地一覧.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/04_method/07_observation/05_urban_observation/Urban Fieldwork Observation Protocol",
     "02_zettelkasten/21_domain/fieldwork_tourism/04_method/07_observation/05_urban_observation/urban_structure",
     "02_zettelkasten/21_domain/fieldwork_tourism/04_method/07_observation/05_urban_observation/activity",
-    "02_zettelkasten/21_domain/fieldwork_tourism/04_method/07_observation/05_urban_observation/natural",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
