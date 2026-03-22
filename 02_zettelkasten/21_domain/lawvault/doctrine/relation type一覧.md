@@ -43,3 +43,39 @@
 - type: weakens
   description: 推論を弱める
 ```
+
+## ③ 証拠系
+```yaml
+- type: evidenced_by
+  description: 事実 ← 証拠
+
+- type: supports
+  description: 補助的支持
+
+- type: refutes
+  description: 反証
+
+- type: derived_from
+  description: データ由来
+```
+
+## ④ 制御系（思考制御）
+```yaml
+- type: depends_on
+  description: 争点依存関係
+
+- type: excludes
+  description: 排他関係
+
+- type: parallel_to
+  description: 並列関係
+
+- type: precedes
+  description: 時系列・手順
+
+- type: used_in
+  description: Engineで使用
+
+- type: applies_to
+  description: 適用対象
+```
