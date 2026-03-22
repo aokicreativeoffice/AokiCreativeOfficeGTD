@@ -133,6 +133,6 @@ Output：Design → Strategy
 Reasoningは結果であり、選択されるもの
 # Links
 [[Inquiry Hub]]
-[[Routing Matrix]]
-[[Inverse Routing Matrix]]
+[[Routing Matrics]]
+[[Inverse Routing Matrics]]
 [[AI Query Template]]
