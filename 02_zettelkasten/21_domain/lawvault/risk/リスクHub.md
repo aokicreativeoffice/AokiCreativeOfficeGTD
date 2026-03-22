@@ -3,9 +3,10 @@
 flowchart TD  
   
 F[Fact]  
-→ R[Risk Pattern]  
-→ I[Issue]  
-→ A[Alert]
+F --> R[Risk Pattern]  
+F --> I[Issue]  
+F --> A[Alert]
+F --> I[Issue（risk triggers内蔵）]
 ```
 
 # リスクレベル
