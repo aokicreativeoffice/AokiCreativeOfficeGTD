@@ -15,7 +15,7 @@
               "state": {
                 "file": "02_zettelkasten/21_domain/lawvault/issue/00_争点名 テンプレート/労働者性があるか.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "労働者性があるか"
