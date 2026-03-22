@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/00_system/thinking_engine/Question Engine Map.md",
+                "file": "02_zettelkasten/00_system/thinking_engine/01_inference/Graph Traversal Rule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Question Engine Map"
+              "title": "Graph Traversal Rule"
             }
           }
         ]
@@ -199,8 +199,15 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
-    "Question Engine Map.pdf",
+    "Graph Traversal Rule.pdf",
     "02_zettelkasten/00_system/question/Entry Hub.md",
+    "02_zettelkasten/00_system/inference_rule/Context Construction Rule.md",
+    "02_zettelkasten/00_system/thinking_engine/01_inference/Reasoning Pipeline.md",
+    "Reasoning Pipeline.pdf",
+    "02_zettelkasten/00_system/thinking_engine/02_inquiry/inquiry Hub.md",
+    "inquiry Hub.pdf",
+    "02_zettelkasten/00_system/thinking_engine/Question Engine Map.md",
+    "Question Engine Map.pdf",
     "02_zettelkasten/04_meta/knowledge_graph/Question → Traversal Mapping.md",
     "Question → Traversal Mapping.pdf",
     "Question Engine.md",
@@ -226,15 +233,8 @@
     "02_zettelkasten/21_domain/lawvault/04_application/コンサルタント業適法性判定.md",
     "02_zettelkasten/21_domain/lawvault/04_application/SaaS業適法性判定.md",
     "02_zettelkasten/21_domain/lawvault/04_application/執筆業適法性判定.md",
-    "02_zettelkasten/21_domain/lawvault/04_application/撮影業適法性判定.md",
     "Goal Framing.pdf",
-    "02_zettelkasten/00_system/Intent Interpretation.md",
     "Intent Interpretation.pdf",
-    "Entry Hub.pdf",
-    "02_zettelkasten/21_domain/engine/Engine Hub.md",
-    "02_zettelkasten/21_domain/lawvault/Action Ontology/行為辞書.md",
-    "02_zettelkasten/21_domain/fieldwork_tourism/04_method/07_observation/05_urban_observation/Urban Fieldwork Observation Protocol",
-    "02_zettelkasten/21_domain/fieldwork_tourism/04_method/07_observation/05_urban_observation/urban_structure",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
