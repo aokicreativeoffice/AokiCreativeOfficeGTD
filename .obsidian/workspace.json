@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/doctrine/relation type一覧.md",
+                "file": "02_zettelkasten/21_domain/lawvault/ontology/Relation Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "relation type一覧"
+              "title": "Relation Types"
             }
           }
         ]
@@ -199,8 +199,10 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
-    "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/労働者性があるか.md",
     "02_zettelkasten/21_domain/lawvault/doctrine/relation type一覧.md",
+    "02_zettelkasten/21_domain/lawvault/ontology/Relation Types.md",
+    "02_zettelkasten/21_domain/lawvault/ontology",
+    "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/労働者性があるか.md",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/fact/指揮命令関係.md",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/fact/報酬の対価性.md",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/fact/勤務時間拘束.md",
@@ -221,7 +223,6 @@
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/evidence/シフト表.md",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/evidence/業務マニュアル.md",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/evidence/indirect",
-    "02_zettelkasten/21_domain/lawvault/issue/労働者性/evidence/direct",
     "02_zettelkasten/21_domain/lawvault/engine/補助事実.md",
     "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/evidence/業務マニュアル.md",
     "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/evidence/シフト表.md",
@@ -234,7 +235,6 @@
     "02_zettelkasten/21_domain/fieldwork_tourism/02_structure/都市統合・表出評価フレームワーク.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/02_structure/都市資源タイプ分類.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/02_structure/都市体験評価フレーム.md",
-    "02_zettelkasten/21_domain/lawvault/doctrine/条文性質.md",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
