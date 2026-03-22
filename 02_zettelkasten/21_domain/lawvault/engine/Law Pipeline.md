@@ -13,3 +13,16 @@
 - 適法
 - 違法
 - 不明
+
+```mermaid
+flowchart TD  
+  
+IP[interpretation]  
+FF[Fact Finding]  
+NM[normative]  
+DS[decision]  
+  
+IP --> FF  
+FF --> NM  
+NM --> DS
+```
