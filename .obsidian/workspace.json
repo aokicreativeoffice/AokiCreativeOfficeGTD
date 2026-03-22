@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/engine/解釈原則/L-K-008 要件充足優先原則.md",
+                "file": "02_zettelkasten/21_domain/lawvault/issue/労働者性があるか.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L-K-008 要件充足優先原則"
+              "title": "労働者性があるか"
             }
           }
         ]
@@ -199,6 +199,8 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/lawvault/engine/解釈原則/L-K-008 要件充足優先原則.md",
+    "02_zettelkasten/21_domain/lawvault/issue/労働者性があるか.md",
     "02_zettelkasten/21_domain/lawvault/engine/条文構造/L-S-001 要件→効果構造.md",
     "02_zettelkasten/21_domain/lawvault/engine/解釈原則/無題のファイル.md",
     "02_zettelkasten/21_domain/lawvault/doctrine/行為類型.md",
@@ -231,8 +233,6 @@
     "02_zettelkasten/21_domain/lawvault/engine/Normative Engine.md",
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding/case/Caseノード.md",
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding/evidence/間接証拠.md",
-    "02_zettelkasten/21_domain/lawvault/engine/条文→事案適用フロー.md",
-    "02_zettelkasten/21_domain/lawvault/engine/fact_finding/evidence/証拠ノード.md",
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding/case",
     "02_zettelkasten/21_domain/lawvault/engine/evidence",
     "無題のファイル 1.canvas",
