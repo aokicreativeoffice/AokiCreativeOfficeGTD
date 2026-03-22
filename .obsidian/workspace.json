@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/engine/contention/主要事実ノード.md",
+                "file": "02_zettelkasten/21_domain/lawvault/engine/contention/間接事実ノード.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "主要事実ノード"
+              "title": "間接事実ノード"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
-    "02_zettelkasten/21_domain/lawvault/engine/contention/争点ノード.md",
     "02_zettelkasten/21_domain/lawvault/engine/contention/主要事実ノード.md",
+    "02_zettelkasten/21_domain/lawvault/engine/contention/間接事実ノード.md",
+    "02_zettelkasten/21_domain/lawvault/engine/contention/争点ノード.md",
     "02_zettelkasten/21_domain/lawvault/engine/Law Pipeline.md",
     "02_zettelkasten/21_domain/lawvault/engine/case",
     "02_zettelkasten/21_domain/lawvault/engine/evidence",
@@ -234,7 +235,6 @@
     "02_zettelkasten/未整理/law/kernel/00 Law Hub.md",
     "02_zettelkasten/21_domain/lawvault/application/contract_design/L-CL-005 補償構造.md",
     "02_zettelkasten/21_domain/lawvault/application/contract_design/L-CL-004 開始後責任設計.md",
-    "02_zettelkasten/21_domain/lawvault/application/contract_design/L-CL-003 開始前解除設計.md",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
