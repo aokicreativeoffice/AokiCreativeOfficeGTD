@@ -73,11 +73,11 @@ Domain
 
 | Edge | 意味 |
 |----|----|
-is_a | 概念分類 |
-instance_of | 具体例 |
-part_of | 構成要素 |
-causes | 因果 |
-related_to | 関連 |
+|is_a | 概念分類 |
+|instance_of | 具体例 |
+|part_of | 構成要素 |
+|causes | 因果 |
+|related_to | 関連 |
 
 ---
 

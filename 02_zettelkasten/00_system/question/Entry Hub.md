@@ -167,6 +167,6 @@ EX --> FB[Learning / Case化]
 # Links
 [[Question Engine]]
 [[Inquiry Hub]]
-[[Routing Matrix]]
-[[Inverse Routing Matrix]]
+[[Routing Matrics]]
+[[Inverse Routing Matrics]]
 [[Thinking Engine Hub]]
