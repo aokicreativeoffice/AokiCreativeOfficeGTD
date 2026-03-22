@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/engine/Normative Engine.md",
+                "file": "02_zettelkasten/21_domain/lawvault/engine/structure/L-S-001 要件→効果構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Normative Engine"
+              "title": "L-S-001 要件→効果構造"
             }
           }
         ]
@@ -197,11 +197,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "443e20a7aff5fe78",
+  "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/lawvault/engine/Normative Engine.md",
     "02_zettelkasten/21_domain/lawvault/engine",
     "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ/法律ノート（監査）.md",
-    "02_zettelkasten/21_domain/lawvault/engine/Normative Engine.md",
     "02_zettelkasten/00_system/question/Entry Hub.md",
     "02_zettelkasten/00_system/thinking_engine/01_inference/Graph Traversal Rule.md",
     "02_zettelkasten/00_system/routing/Question Routing Engine.md",
@@ -230,7 +230,6 @@
     "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ/リスク評価ノート.md",
     "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ/ビジネスノートテンプレート.md",
     "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ",
-    "02_zettelkasten/21_domain/lawvault/business",
     "02_zettelkasten/21_domain/lawvault/application/行為横断表.md",
     "02_zettelkasten/21_domain/lawvault/application/ハイタク業.md",
     "02_zettelkasten/21_domain/lawvault/application/業務横断行為類型表.md",
