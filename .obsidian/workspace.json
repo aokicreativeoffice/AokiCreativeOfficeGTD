@@ -11,14 +11,10 @@
             "id": "6acf75135036dfd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/07_Contract_Lifecycle/L-CL-005 補償構造.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "L-CL-005 補償構造"
+              "title": "新規タブ"
             }
           }
         ]
@@ -199,6 +195,9 @@
   },
   "active": "443e20a7aff5fe78",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/lawvault.zip",
+    "02_zettelkasten/未整理/law/kernel/00 Law Hub.md",
+    "02_zettelkasten/21_domain/lawvault/07_Contract_Lifecycle/L-CL-005 補償構造.md",
     "02_zettelkasten/21_domain/lawvault/07_Contract_Lifecycle/L-CL-004 開始後責任設計.md",
     "02_zettelkasten/21_domain/lawvault/07_Contract_Lifecycle/L-CL-003 開始前解除設計.md",
     "02_zettelkasten/21_domain/lawvault/07_Contract_Lifecycle/L-CL-002 承諾段階設計.md",
@@ -211,7 +210,6 @@
     "02_zettelkasten/21_domain/lawvault/08_Compliance_Architecture/L-COM-001 書面交付フロー.md",
     "02_zettelkasten/21_domain/lawvault/08_Compliance_Architecture/L-COM-004 登録維持管理.md",
     "02_zettelkasten/21_domain/lawvault/08_Compliance_Architecture/L-COM-005 監査対応設計.md",
-    "02_zettelkasten/未整理/law/kernel/00 Law Hub.md",
     "02_zettelkasten/21_domain/lawvault/structure/条文ノートテンプレート.md",
     "02_zettelkasten/21_domain/lawvault/statute",
     "02_zettelkasten/21_domain/lawvault/engine/条文構造/L-S-001 要件→効果構造.md",
@@ -231,9 +229,7 @@
     "inquiry Hub.pdf",
     "02_zettelkasten/00_system/thinking_engine/Question Engine Map.md",
     "Question Engine Map.pdf",
-    "02_zettelkasten/04_meta/knowledge_graph/Question → Traversal Mapping.md",
     "Question → Traversal Mapping.pdf",
-    "Question Engine.md",
     "Question Engine.pdf",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
