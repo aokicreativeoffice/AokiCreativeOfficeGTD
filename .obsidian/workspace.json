@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/risk/リスクHub.md",
+                "file": "02_zettelkasten/21_domain/lawvault/issue/00_争点名 テンプレート/労働者性があるか.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "リスクHub"
+              "title": "労働者性があるか"
             }
           }
         ]
@@ -200,10 +200,11 @@
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
     "02_zettelkasten/21_domain/lawvault/risk/リスクパターン辞書.md",
+    "02_zettelkasten/21_domain/lawvault/risk/リスクHub.md",
+    "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/無許可旅客運送か.md",
     "02_zettelkasten/21_domain/lawvault/issue/00_争点名 テンプレート/労働者性があるか.md",
     "02_zettelkasten/21_domain/lawvault/engine/Law Pipeline.md",
     "02_zettelkasten/21_domain/00 Domain Routing.md",
-    "02_zettelkasten/21_domain/lawvault/risk/リスクHub.md",
     "02_zettelkasten/21_domain/lawvault/risk/alerts/白タクリスク.md",
     "02_zettelkasten/21_domain/lawvault/engine/Risk Detection Engine.md",
     "02_zettelkasten/21_domain/engine/Engine Hub.md",
@@ -234,7 +235,6 @@
     "02_zettelkasten/21_domain/lawvault/issue/著作権侵害/fact/報酬の対価性.md",
     "02_zettelkasten/21_domain/lawvault/issue/著作権侵害/fact/業務指示.md",
     "02_zettelkasten/21_domain/lawvault/issue/SaaS責任/SaaS提供者責任があるか.md",
-    "02_zettelkasten/21_domain/lawvault/issue/肖像権侵害/evidence/シフト表.md",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
