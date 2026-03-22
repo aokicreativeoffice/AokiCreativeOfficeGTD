@@ -197,12 +197,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "443e20a7aff5fe78",
+  "active": "6acf75135036dfd0",
   "lastOpenFiles": [
-    "02_zettelkasten/21_domain/lawvault/engine/fact_finding/間接事実ノード.md",
-    "02_zettelkasten/21_domain/lawvault/engine/evidence/証拠ノード.md",
-    "02_zettelkasten/21_domain/lawvault/engine/fact_finding/主要事実ノード.md",
     "02_zettelkasten/21_domain/lawvault/engine/contention/争点ノード.md",
+    "02_zettelkasten/21_domain/lawvault/engine/case/Caseノード.md",
+    "02_zettelkasten/21_domain/lawvault/engine/evidence/証拠ノード.md",
+    "02_zettelkasten/21_domain/lawvault/engine/fact_finding/間接事実ノード.md",
+    "02_zettelkasten/21_domain/lawvault/engine/fact_finding/主要事実ノード.md",
     "02_zettelkasten/21_domain/lawvault/engine/Law Pipeline.md",
     "02_zettelkasten/21_domain/lawvault/engine/case",
     "02_zettelkasten/21_domain/lawvault/engine/evidence",
@@ -234,7 +235,6 @@
     "02_zettelkasten/21_domain/lawvault/application/contract_design",
     "02_zettelkasten/未整理/law/Field Hub Note.md",
     "02_zettelkasten/未整理/law/kernel/00 Law Hub.md",
-    "02_zettelkasten/21_domain/lawvault/application/contract_design/L-CL-005 補償構造.md",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
