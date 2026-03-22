@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/issue/労働者性/労働者性があるか.md",
+                "file": "02_zettelkasten/21_domain/lawvault/issue/労働者性/fact/指揮命令関係.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "労働者性があるか"
+              "title": "指揮命令関係"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/lawvault/issue/労働者性/労働者性があるか.md",
     "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/労働者性があるか.md",
     "02_zettelkasten/21_domain/lawvault/knowledge/evidence[",
     "02_zettelkasten/21_domain/lawvault/knowledge/fact",
@@ -215,7 +216,6 @@
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/evidence/業務マニュアル.md",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/evidence/indirect",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/evidence/direct",
-    "02_zettelkasten/21_domain/lawvault/issue/労働者性/労働者性があるか.md",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/case",
     "02_zettelkasten/21_domain/lawvault/engine/補助事実.md",
     "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/evidence/業務マニュアル.md",
