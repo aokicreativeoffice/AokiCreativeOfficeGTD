@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/engine/contention/争点ノード.md",
+                "file": "02_zettelkasten/21_domain/lawvault/engine/contention/主要事実ノード.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "争点ノード"
+              "title": "主要事実ノード"
             }
           }
         ]
@@ -199,6 +199,8 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/lawvault/engine/contention/争点ノード.md",
+    "02_zettelkasten/21_domain/lawvault/engine/contention/主要事実ノード.md",
     "02_zettelkasten/21_domain/lawvault/engine/Law Pipeline.md",
     "02_zettelkasten/21_domain/lawvault/engine/case",
     "02_zettelkasten/21_domain/lawvault/engine/evidence",
@@ -209,7 +211,6 @@
     "02_zettelkasten/21_domain/lawvault/engine/contention",
     "02_zettelkasten/21_domain/lawvault/engine/Normative Engine.md",
     "02_zettelkasten/21_domain/lawvault/engine/条文→事案適用フロー.md",
-    "02_zettelkasten/21_domain/lawvault/engine/contention/争点ノード.md",
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding/Fact Finding Engine.md",
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding/evidence/矛盾検出.md",
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding/inference/信用性評価.md",
