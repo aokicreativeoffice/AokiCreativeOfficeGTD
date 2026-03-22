@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/推認パターンテンプレート.md",
+                "file": "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/無題のファイル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "推認パターンテンプレート"
+              "title": "無題のファイル"
             }
           }
         ]
@@ -199,11 +199,12 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
-    "02_zettelkasten/21_domain/lawvault/knowledge/inference/推認パターン辞書.md",
-    "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/推認パターンテンプレート.md",
     "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/契約成立推認.md",
+    "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/無題のファイル.md",
     "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/故意推認.md",
     "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/指揮命令推認.md",
+    "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/推認パターンテンプレート.md",
+    "02_zettelkasten/21_domain/lawvault/knowledge/inference/推認パターン辞書.md",
     "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern",
     "02_zettelkasten/21_domain/lawvault/ontology/Relation Types.md",
     "02_zettelkasten/21_domain/lawvault/doctrine/relation type一覧.md",
@@ -234,7 +235,6 @@
     "02_zettelkasten/21_domain/lawvault/engine/条文→事案適用フロー.md",
     "02_zettelkasten/21_domain/lawvault/engine/解釈原則/L-K-008 要件充足優先原則.md",
     "02_zettelkasten/21_domain/lawvault/engine/条文構造/L-S-001 要件→効果構造.md",
-    "02_zettelkasten/21_domain/lawvault/engine/解釈原則/無題のファイル.md",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
