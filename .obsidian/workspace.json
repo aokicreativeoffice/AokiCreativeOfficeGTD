@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/旅行業該当性.md",
+                "file": "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/労働者性があるか.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "旅行業該当性"
+              "title": "労働者性があるか"
             }
           }
         ]
@@ -197,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "443e20a7aff5fe78",
+  "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/旅行業該当性.md",
     "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/evidence/circumstantial",
     "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/evidence/業務マニュアル.md",
     "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/evidence/シフト表.md",
@@ -216,9 +217,7 @@
     "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/instance",
     "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/case",
     "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/inference",
-    "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/evidence",
     "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/無許可旅客運送.md",
-    "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/旅行業該当性.md",
     "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/業務委託偽装推認.md",
     "02_zettelkasten/21_domain/lawvault/knowledge/inference/推認パターン辞書.md",
     "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/推認パターンテンプレート.md",
