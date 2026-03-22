@@ -11,10 +11,14 @@
             "id": "6acf75135036dfd0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02_zettelkasten/21_domain/lawvault/application/business_model/SaaS業適法性判定.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "SaaS業適法性判定"
             }
           }
         ]
@@ -193,8 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6acf75135036dfd0",
+  "active": "443e20a7aff5fe78",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/lawvault/application/business_model",
+    "02_zettelkasten/21_domain/lawvault/application/judgement",
     "02_zettelkasten/21_domain/fieldwork_tourism/02_structure/都市統合・表出評価フレームワーク.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/02_structure/都市資源タイプ分類.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/02_structure/都市体験評価フレーム.md",
@@ -226,11 +232,9 @@
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding/evidence/証拠ノード.md",
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding/issue/争点ノード.md",
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding/間接事実ノード.md",
-    "02_zettelkasten/21_domain/lawvault/engine/fact_finding/主要事実ノード.md",
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding/case",
     "02_zettelkasten/21_domain/lawvault/engine/evidence",
     "02_zettelkasten/21_domain/lawvault/engine/issue",
-    "02_zettelkasten/21_domain/lawvault/engine/fact_finding/無題のフォルダ",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
