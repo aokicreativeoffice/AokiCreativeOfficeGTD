@@ -14,16 +14,18 @@
 - 違法
 - 不明
 
+## フロー
 ```mermaid
 flowchart TD  
   
 IP[interpretation]  
-
+PCN[Point of Contention Node]
 FF[Fact Finding]  
 NM[normative]  
 DS[decision]  
-  
-IP --> FF  
+
+IP --> PCN
+PCN --> FF  
 FF --> NM  
 NM --> DS
 ```
