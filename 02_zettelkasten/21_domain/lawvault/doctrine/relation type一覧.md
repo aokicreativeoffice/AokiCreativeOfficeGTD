@@ -79,3 +79,34 @@
 - type: applies_to
   description: 適用対象
 ```
+
+# 3. 法律特化拡張（重要）
+## Normative Engine用
+```yaml
+- type: satisfies
+  description: 要件充足
+
+- type: violates
+  description: 要件違反
+
+- type: interpreted_by
+  description: 解釈規則に従う
+
+- type: governed_by
+  description: 条文支配
+```
+
+## Fact Engine用
+```yaml
+- type: proves
+  description: 直接証明
+
+- type: suggests
+  description: 推認材料
+
+- type: corroborates
+  description: 相互補強
+
+- type: undermines
+  description: 信用性低下
+```
