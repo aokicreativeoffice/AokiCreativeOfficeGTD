@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/無許可旅客運送.md",
+                "file": "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/旅行業該当性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無許可旅客運送"
+              "title": "旅行業該当性"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
-    "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/業務委託偽装推認.md",
     "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/無許可旅客運送.md",
+    "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/旅行業該当性.md",
+    "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/業務委託偽装推認.md",
     "02_zettelkasten/21_domain/lawvault/knowledge/inference/推認パターン辞書.md",
     "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/推認パターンテンプレート.md",
     "02_zettelkasten/21_domain/lawvault/knowledge/inference/pattern/因果関係推認.md",
@@ -234,7 +235,6 @@
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/evidence/業務マニュアル.md",
     "02_zettelkasten/21_domain/lawvault/engine/補助事実.md",
     "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/evidence/業務マニュアル.md",
-    "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/evidence/シフト表.md",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
