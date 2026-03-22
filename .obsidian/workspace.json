@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/ontology/Relation Types.md",
+                "file": "02_zettelkasten/21_domain/lawvault/knowledge/inference/推認パターン辞書.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relation Types"
+              "title": "推認パターン辞書"
             }
           }
         ]
@@ -197,10 +197,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6acf75135036dfd0",
+  "active": "443e20a7aff5fe78",
   "lastOpenFiles": [
-    "02_zettelkasten/21_domain/lawvault/doctrine/relation type一覧.md",
+    "02_zettelkasten/21_domain/lawvault/knowledge/inference/無題のフォルダ",
     "02_zettelkasten/21_domain/lawvault/ontology/Relation Types.md",
+    "02_zettelkasten/21_domain/lawvault/knowledge/inference/推認パターン辞書.md",
+    "02_zettelkasten/21_domain/lawvault/doctrine/relation type一覧.md",
     "02_zettelkasten/21_domain/lawvault/ontology",
     "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/労働者性があるか.md",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/fact/指揮命令関係.md",
@@ -213,7 +215,7 @@
     "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/fact/業務指示.md",
     "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/instance",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/労働者性があるか.md",
-    "02_zettelkasten/21_domain/lawvault/knowledge/evidence[",
+    "02_zettelkasten/21_domain/lawvault/knowledge/inference",
     "02_zettelkasten/21_domain/lawvault/knowledge/fact",
     "02_zettelkasten/21_domain/lawvault/knowledge",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/fact/auxiliary",
@@ -233,8 +235,6 @@
     "02_zettelkasten/21_domain/lawvault/doctrine/行為類型.md",
     "02_zettelkasten/21_domain/lawvault/application/business_model/SaaS業適法性判定.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/02_structure/都市統合・表出評価フレームワーク.md",
-    "02_zettelkasten/21_domain/fieldwork_tourism/02_structure/都市資源タイプ分類.md",
-    "02_zettelkasten/21_domain/fieldwork_tourism/02_structure/都市体験評価フレーム.md",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
