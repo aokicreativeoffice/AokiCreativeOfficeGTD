@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/engine/Engine Hub.md",
+                "file": "02_zettelkasten/00_system/question/Entry Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Engine Hub"
+              "title": "Entry Hub"
             }
           }
         ]
@@ -199,6 +199,8 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "Entry Hub.pdf",
+    "02_zettelkasten/21_domain/engine/Engine Hub.md",
     "02_zettelkasten/21_domain/lawvault/Action Ontology/行為辞書.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/04_method/08_morphology_reading/都市形態読解.md",
     "02_zettelkasten/21_domain/tourism/観光地一覧/長野県観光地一覧.md",
@@ -223,8 +225,6 @@
     "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/都市アイデンティティ.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/景観読解.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/場所性.md",
-    "02_zettelkasten/21_domain/fieldwork_tourism/00_hub/Research Abstraction Hub.md",
-    "02_zettelkasten/21_domain/fieldwork_tourism/04_method/07_observation/05_urban_observation/activity/商業観察チェックリスト.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/04_method/07_observation/05_urban_observation/Urban Fieldwork Observation Protocol",
     "02_zettelkasten/21_domain/fieldwork_tourism/04_method/07_observation/05_urban_observation/urban_structure",
     "02_zettelkasten/21_domain/fieldwork_tourism/04_method/07_observation/05_urban_observation/activity",
