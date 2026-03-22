@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/risk/risk patterns.md",
+                "file": "02_zettelkasten/21_domain/lawvault/risk/リスクパターン辞書.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "risk patterns"
+              "title": "リスクパターン辞書"
             }
           }
         ]
@@ -197,12 +197,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6acf75135036dfd0",
+  "active": "443e20a7aff5fe78",
   "lastOpenFiles": [
     "02_zettelkasten/21_domain/lawvault/engine/Risk Detection Engine.md",
     "02_zettelkasten/21_domain/engine/Engine Hub.md",
     "02_zettelkasten/21_domain/engine/Causal_Engine/Causal Engine.md",
-    "02_zettelkasten/21_domain/lawvault/risk/risk patterns.md",
+    "02_zettelkasten/21_domain/lawvault/risk/リスクパターン辞書.md",
     "02_zettelkasten/21_domain/lawvault/risk/alerts",
     "02_zettelkasten/21_domain/lawvault/risk",
     "02_zettelkasten/21_domain/lawvault/issue/00_争点名 テンプレート/労働者性があるか.md",
