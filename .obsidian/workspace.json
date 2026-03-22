@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/00_system/Intent Interpretation.md",
+                "file": "02_zettelkasten/00_system/Goal Framing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intent Interpretation"
+              "title": "Goal Framing"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
-    "Intent Interpretation.pdf",
     "02_zettelkasten/00_system/question/Entry Hub.md",
+    "02_zettelkasten/00_system/Intent Interpretation.md",
+    "Intent Interpretation.pdf",
     "Entry Hub.pdf",
     "02_zettelkasten/21_domain/engine/Engine Hub.md",
     "02_zettelkasten/21_domain/lawvault/Action Ontology/行為辞書.md",
@@ -234,7 +235,6 @@
     "02_zettelkasten/21_domain/fieldwork_tourism/04_method/04_analysis/05_urban_structure_analysis",
     "02_zettelkasten/21_domain/fieldwork_tourism/04_method/07_observation/05_regional_observation",
     "02_zettelkasten/21_domain/fieldwork_tourism/04_method/07_observation/05_urban_observation",
-    "02_zettelkasten/21_domain/fieldwork_tourism/04_method/04_analysis/07_advanced_analysis",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
