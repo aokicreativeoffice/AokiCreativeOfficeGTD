@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/engine/補助事実.md",
+                "file": "02_zettelkasten/21_domain/lawvault/issue/争点名/労働者性があるか.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "補助事実"
+              "title": "労働者性があるか"
             }
           }
         ]
@@ -199,18 +199,21 @@
   },
   "active": "443e20a7aff5fe78",
   "lastOpenFiles": [
-    "02_zettelkasten/21_domain/lawvault/issue/労働者性があるか.md",
-    "02_zettelkasten/21_domain/lawvault/issue/fact/auxiliary",
-    "02_zettelkasten/21_domain/lawvault/issue/fact/indirect",
-    "02_zettelkasten/21_domain/lawvault/issue/fact/major",
-    "02_zettelkasten/21_domain/lawvault/issue/evidence/業務マニュアル.md",
-    "02_zettelkasten/21_domain/lawvault/issue/evidence/シフト表.md",
-    "02_zettelkasten/21_domain/lawvault/engine/条文→事案適用フロー.md",
-    "02_zettelkasten/21_domain/lawvault/issue/fact/報酬の対価性.md",
+    "02_zettelkasten/21_domain/lawvault/issue/争点名/case",
+    "02_zettelkasten/21_domain/lawvault/issue/争点名/inference",
     "02_zettelkasten/21_domain/lawvault/engine/補助事実.md",
-    "02_zettelkasten/21_domain/lawvault/issue/fact/業務指示.md",
-    "02_zettelkasten/21_domain/lawvault/issue/fact/勤務時間拘束.md",
-    "02_zettelkasten/21_domain/lawvault/issue/fact/指揮命令関係.md",
+    "02_zettelkasten/21_domain/lawvault/issue/争点名",
+    "02_zettelkasten/21_domain/lawvault/issue/争点名/労働者性があるか.md",
+    "02_zettelkasten/21_domain/lawvault/issue/争点名/fact/auxiliary",
+    "02_zettelkasten/21_domain/lawvault/issue/争点名/fact/indirect",
+    "02_zettelkasten/21_domain/lawvault/issue/争点名/fact/major",
+    "02_zettelkasten/21_domain/lawvault/issue/争点名/evidence/業務マニュアル.md",
+    "02_zettelkasten/21_domain/lawvault/issue/争点名/evidence/シフト表.md",
+    "02_zettelkasten/21_domain/lawvault/engine/条文→事案適用フロー.md",
+    "02_zettelkasten/21_domain/lawvault/issue/争点名/fact/報酬の対価性.md",
+    "02_zettelkasten/21_domain/lawvault/issue/争点名/fact/業務指示.md",
+    "02_zettelkasten/21_domain/lawvault/issue/争点名/fact/勤務時間拘束.md",
+    "02_zettelkasten/21_domain/lawvault/issue/争点名/fact/指揮命令関係.md",
     "02_zettelkasten/21_domain/lawvault/engine/解釈原則/L-K-008 要件充足優先原則.md",
     "02_zettelkasten/21_domain/lawvault/engine/条文構造/L-S-001 要件→効果構造.md",
     "02_zettelkasten/21_domain/lawvault/engine/解釈原則/無題のファイル.md",
@@ -230,10 +233,8 @@
     "02_zettelkasten/21_domain/lawvault/case",
     "02_zettelkasten/21_domain/lawvault/engine/直接証拠.md",
     "02_zettelkasten/21_domain/lawvault/engine/矛盾検出.md",
-    "02_zettelkasten/21_domain/lawvault/issue/evidence",
-    "02_zettelkasten/21_domain/lawvault/issue/fact",
-    "02_zettelkasten/21_domain/lawvault/issue",
-    "02_zettelkasten/21_domain/lawvault/doctrine",
+    "02_zettelkasten/21_domain/lawvault/issue/争点名/evidence",
+    "02_zettelkasten/21_domain/lawvault/issue/争点名/fact",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
