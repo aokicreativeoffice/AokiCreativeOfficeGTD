@@ -18,6 +18,7 @@
 flowchart TD  
   
 IP[interpretation]  
+
 FF[Fact Finding]  
 NM[normative]  
 DS[decision]  
