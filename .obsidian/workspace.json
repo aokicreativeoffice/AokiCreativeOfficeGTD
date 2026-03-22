@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/00_system/question/Entry Hub.md",
+                "file": "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ/法律ノート（監査）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entry Hub"
+              "title": "法律ノート（監査）"
             }
           }
         ]
@@ -197,10 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6acf75135036dfd0",
+  "active": "443e20a7aff5fe78",
   "lastOpenFiles": [
-    "02_zettelkasten/00_system/thinking_engine/01_inference/Graph Traversal Rule.md",
     "02_zettelkasten/00_system/question/Entry Hub.md",
+    "02_zettelkasten/00_system/thinking_engine/01_inference/Graph Traversal Rule.md",
     "02_zettelkasten/00_system/routing/Question Routing Engine.md",
     "Question Routing Engine.pdf",
     "Graph Traversal Rule.pdf",
@@ -227,7 +227,7 @@
     "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ/リスク評価ノート.md",
     "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ/ビジネスノートテンプレート.md",
     "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ",
-    "02_zettelkasten/21_domain/lawvault/business/法律ノート（監査）.md",
+    "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ/法律ノート（監査）.md",
     "02_zettelkasten/21_domain/lawvault/business",
     "02_zettelkasten/21_domain/lawvault/04_application/行為横断表.md",
     "02_zettelkasten/21_domain/lawvault/04_application/ハイタク業.md",
