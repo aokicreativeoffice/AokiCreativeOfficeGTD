@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/risk/リスク実行フロー.md",
+                "file": "02_zettelkasten/21_domain/00 Domain Routing.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "リスク実行フロー"
+              "title": "00 Domain Routing"
             }
           }
         ]
@@ -199,8 +199,8 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/lawvault/risk/リスクHub.md",
     "02_zettelkasten/21_domain/lawvault/risk/alerts/白タクリスク.md",
-    "02_zettelkasten/21_domain/lawvault/risk/リスク実行フロー.md",
     "02_zettelkasten/21_domain/lawvault/risk/リスクパターン辞書.md",
     "02_zettelkasten/21_domain/lawvault/engine/Risk Detection Engine.md",
     "02_zettelkasten/21_domain/engine/Engine Hub.md",
