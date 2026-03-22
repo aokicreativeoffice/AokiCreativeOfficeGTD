@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/issue/著作権侵害/著作権侵害に該当するか.md",
+                "file": "02_zettelkasten/21_domain/lawvault/issue/運送事故責任/運送事故の責任があるか.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "著作権侵害に該当するか"
+              "title": "運送事故の責任があるか"
             }
           }
         ]
@@ -197,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "443e20a7aff5fe78",
+  "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/lawvault/issue/著作権侵害/著作権侵害に該当するか.md",
     "02_zettelkasten/21_domain/lawvault/issue/運送事故責任/fact/auxiliary",
     "02_zettelkasten/21_domain/lawvault/issue/運送事故責任/fact/indirect",
     "02_zettelkasten/21_domain/lawvault/issue/運送事故責任/fact/major",
@@ -212,11 +213,10 @@
     "02_zettelkasten/21_domain/lawvault/issue/運送事故責任/evidence/業務マニュアル.md",
     "02_zettelkasten/21_domain/lawvault/issue/運送事故責任/evidence/direct",
     "02_zettelkasten/21_domain/lawvault/issue/運送事故責任/output",
-    "02_zettelkasten/21_domain/lawvault/issue/運送事故責任/労働者性があるか.md",
+    "02_zettelkasten/21_domain/lawvault/issue/運送事故責任/運送事故の責任があるか.md",
     "02_zettelkasten/21_domain/lawvault/issue/運送事故責任/case",
     "02_zettelkasten/21_domain/lawvault/issue/運送事故責任/instance",
     "02_zettelkasten/21_domain/lawvault/issue/運送事故責任/inference",
-    "02_zettelkasten/21_domain/lawvault/issue/運送事故責任/fact",
     "02_zettelkasten/21_domain/lawvault/issue/肖像権侵害/肖像権侵害に該当するか.md",
     "02_zettelkasten/21_domain/lawvault/issue/著作権侵害/evidence/業務マニュアル.md",
     "02_zettelkasten/21_domain/lawvault/issue/著作権侵害/evidence/シフト表.md",
@@ -224,7 +224,6 @@
     "02_zettelkasten/21_domain/lawvault/issue/著作権侵害/fact/指揮命令関係.md",
     "02_zettelkasten/21_domain/lawvault/issue/著作権侵害/fact/報酬の対価性.md",
     "02_zettelkasten/21_domain/lawvault/issue/著作権侵害/fact/業務指示.md",
-    "02_zettelkasten/21_domain/lawvault/issue/著作権侵害/著作権侵害に該当するか.md",
     "02_zettelkasten/21_domain/lawvault/issue/SaaS責任/SaaS提供者責任があるか.md",
     "02_zettelkasten/21_domain/lawvault/issue/肖像権侵害/evidence/シフト表.md",
     "02_zettelkasten/21_domain/lawvault/issue/肖像権侵害/evidence/業務マニュアル.md",
