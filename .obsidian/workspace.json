@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/engine/contention/争点ノードテンプレート.md",
+                "file": "02_zettelkasten/21_domain/lawvault/engine/contention/争点ノード.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "争点ノードテンプレート"
+              "title": "争点ノード"
             }
           }
         ]
@@ -200,11 +200,15 @@
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
     "02_zettelkasten/21_domain/lawvault/engine/Law Pipeline.md",
+    "02_zettelkasten/21_domain/lawvault/engine/case",
+    "02_zettelkasten/21_domain/lawvault/engine/evidence",
+    "02_zettelkasten/21_domain/lawvault/engine/issue",
+    "02_zettelkasten/21_domain/lawvault/engine/fact_finding/無題のフォルダ",
+    "02_zettelkasten/21_domain/lawvault/engine/フローノート.md",
     "02_zettelkasten/21_domain/lawvault/engine/contention/争点ノードテンプレート.md",
     "02_zettelkasten/21_domain/lawvault/engine/contention",
     "02_zettelkasten/21_domain/lawvault/engine/Normative Engine.md",
     "02_zettelkasten/21_domain/lawvault/engine/条文→事案適用フロー.md",
-    "02_zettelkasten/21_domain/lawvault/engine/フローノート.md",
     "02_zettelkasten/21_domain/lawvault/engine/contention/争点ノード.md",
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding/Fact Finding Engine.md",
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding/evidence/矛盾検出.md",
@@ -226,15 +230,10 @@
     "02_zettelkasten/21_domain/lawvault/doctorine/条文性質.md",
     "02_zettelkasten/21_domain/lawvault/application/contract_design",
     "02_zettelkasten/未整理/law/Field Hub Note.md",
-    "02_zettelkasten/21_domain/lawvault.zip",
     "02_zettelkasten/未整理/law/kernel/00 Law Hub.md",
     "02_zettelkasten/21_domain/lawvault/application/contract_design/L-CL-005 補償構造.md",
     "02_zettelkasten/21_domain/lawvault/application/contract_design/L-CL-004 開始後責任設計.md",
     "02_zettelkasten/21_domain/lawvault/application/contract_design/L-CL-003 開始前解除設計.md",
-    "02_zettelkasten/21_domain/lawvault/application/contract_design/L-CL-002 承諾段階設計.md",
-    "02_zettelkasten/21_domain/lawvault/statute",
-    "02_zettelkasten/21_domain/lawvault/structure",
-    "02_zettelkasten/21_domain/lawvault/engine",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
