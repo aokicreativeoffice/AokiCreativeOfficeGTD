@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/Normative Engine.md",
+                "file": "02_zettelkasten/21_domain/lawvault/engine/Normative Engine.md",
                 "mode": "source",
                 "source": false
               },
@@ -199,8 +199,9 @@
   },
   "active": "443e20a7aff5fe78",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/lawvault/engine",
     "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ/法律ノート（監査）.md",
-    "02_zettelkasten/21_domain/lawvault/Normative Engine.md",
+    "02_zettelkasten/21_domain/lawvault/engine/Normative Engine.md",
     "02_zettelkasten/00_system/question/Entry Hub.md",
     "02_zettelkasten/00_system/thinking_engine/01_inference/Graph Traversal Rule.md",
     "02_zettelkasten/00_system/routing/Question Routing Engine.md",
@@ -234,7 +235,6 @@
     "02_zettelkasten/21_domain/lawvault/application/ハイタク業.md",
     "02_zettelkasten/21_domain/lawvault/application/業務横断行為類型表.md",
     "02_zettelkasten/21_domain/lawvault/application/旅行業法適法性判定.md",
-    "02_zettelkasten/21_domain/lawvault/application/コンサルタント業適法性判定.md",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
