@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/engine/04_Conflicts/フローノート.md",
+                "file": "02_zettelkasten/21_domain/lawvault/engine/フローノート.md",
                 "mode": "source",
                 "source": false
               },
@@ -197,10 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6acf75135036dfd0",
+  "active": "443e20a7aff5fe78",
   "lastOpenFiles": [
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding/Fact Finding Engine.md",
-    "02_zettelkasten/21_domain/lawvault/engine/04_Conflicts/フローノート.md",
+    "02_zettelkasten/21_domain/lawvault/engine/フローノート.md",
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding/evidence/矛盾検出.md",
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding/inference/信用性評価.md",
     "02_zettelkasten/21_domain/lawvault/engine/fact_finding/inference/推認メカニズム.md",
