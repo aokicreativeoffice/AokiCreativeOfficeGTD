@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/労働者性があるか.md",
+                "file": "02_zettelkasten/21_domain/lawvault/doctrine/relation type一覧.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "労働者性があるか"
+              "title": "relation type一覧"
             }
           }
         ]
@@ -199,6 +199,8 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/労働者性があるか.md",
+    "02_zettelkasten/21_domain/lawvault/doctrine/relation type一覧.md",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/fact/指揮命令関係.md",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/fact/報酬の対価性.md",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/fact/勤務時間拘束.md",
@@ -207,7 +209,6 @@
     "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/fact/指揮命令関係.md",
     "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/fact/報酬の対価性.md",
     "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/fact/業務指示.md",
-    "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/労働者性があるか.md",
     "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/instance",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/労働者性があるか.md",
     "02_zettelkasten/21_domain/lawvault/knowledge/evidence[",
