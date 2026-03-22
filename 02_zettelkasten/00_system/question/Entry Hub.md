@@ -119,7 +119,7 @@ EX --> FB[Learning / Case化]
 適用する因果構造を選択
 使用ノート：
 - [[Question Routing Engine]]
-- [[Routing Matrices]]
+- [[Routing Matrics]]
 ## ⑧ Trigger / Transition（動力学）
 変化の引き金と遷移を特定
 使用ノート：
