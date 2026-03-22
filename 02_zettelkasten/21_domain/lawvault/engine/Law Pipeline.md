@@ -4,12 +4,13 @@
 3. Conclusion
 
 # 法律推論パイプライン  
-  
-## Step1 事実認定  
+## Step1 争点ノード
+[[争点ノード]]
+## Step2 事実認定  
 [[Fact Finding Engine]]    
-## Step2 規範適用  
+## Step3 規範適用  
 [[Normative Engine]]    
-## Step3 結論  
+## Step4 結論  
 - 適法
 - 違法
 - 不明
