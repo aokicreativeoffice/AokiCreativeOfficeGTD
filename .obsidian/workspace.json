@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/doctrine/行為類型.md",
+                "file": "02_zettelkasten/21_domain/lawvault/engine/条文構造/L-S-001 要件→効果構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "行為類型"
+              "title": "L-S-001 要件→効果構造"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/lawvault/doctrine/行為類型.md",
     "02_zettelkasten/21_domain/lawvault/application/business_model/SaaS業適法性判定.md",
     "02_zettelkasten/21_domain/lawvault/application/business_model",
     "02_zettelkasten/21_domain/lawvault/application/judgement",
@@ -223,7 +224,6 @@
     "02_zettelkasten/21_domain/lawvault/fact/補助事実.md",
     "02_zettelkasten/21_domain/lawvault/fact",
     "02_zettelkasten/21_domain/lawvault/issue",
-    "02_zettelkasten/21_domain/lawvault/doctrine/行為類型.md",
     "02_zettelkasten/21_domain/lawvault/doctrine",
     "02_zettelkasten/21_domain/lawvault.zip",
     "02_zettelkasten/21_domain/lawvault/engine/Normative Engine.md",
