@@ -110,3 +110,26 @@
 - type: undermines
   description: 信用性低下
 ```
+
+# 推論グラフ
+```mermaid
+flowchart TD  
+  
+I[争点]  
+  
+F1[主要事実]  
+IF[間接事実]  
+E[証拠]  
+  
+I -->|requires| F1  
+F1 -->|inferred_from| IF  
+IF -->|evidenced_by| E
+```
+
+# 命名ルール
+
+ 動詞で統一
+
+- requires（必要）
+- inferred_from（推認）
+- evidenced_by（証拠）
