@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/00 Domain Routing.md",
+                "file": "02_zettelkasten/21_domain/lawvault/engine/Law Pipeline.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "00 Domain Routing"
+              "title": "Law Pipeline"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/00 Domain Routing.md",
     "02_zettelkasten/21_domain/lawvault/risk/リスクHub.md",
     "02_zettelkasten/21_domain/lawvault/risk/alerts/白タクリスク.md",
     "02_zettelkasten/21_domain/lawvault/risk/リスクパターン辞書.md",
@@ -234,7 +235,6 @@
     "02_zettelkasten/21_domain/lawvault/issue/SaaS責任/SaaS提供者責任があるか.md",
     "02_zettelkasten/21_domain/lawvault/issue/肖像権侵害/evidence/シフト表.md",
     "02_zettelkasten/21_domain/lawvault/issue/肖像権侵害/evidence/業務マニュアル.md",
-    "02_zettelkasten/21_domain/lawvault/issue/肖像権侵害/fact/勤務時間拘束.md",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
