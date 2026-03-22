@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/engine/Law Pipeline.md",
+                "file": "02_zettelkasten/21_domain/lawvault/risk/リスクパターン辞書.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Law Pipeline"
+              "title": "リスクパターン辞書"
             }
           }
         ]
@@ -199,6 +199,8 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/lawvault/issue/00_争点名 テンプレート/労働者性があるか.md",
+    "02_zettelkasten/21_domain/lawvault/engine/Law Pipeline.md",
     "02_zettelkasten/21_domain/00 Domain Routing.md",
     "02_zettelkasten/21_domain/lawvault/risk/リスクHub.md",
     "02_zettelkasten/21_domain/lawvault/risk/alerts/白タクリスク.md",
@@ -208,7 +210,6 @@
     "02_zettelkasten/21_domain/engine/Causal_Engine/Causal Engine.md",
     "02_zettelkasten/21_domain/lawvault/risk/alerts",
     "02_zettelkasten/21_domain/lawvault/risk",
-    "02_zettelkasten/21_domain/lawvault/issue/00_争点名 テンプレート/労働者性があるか.md",
     "02_zettelkasten/21_domain/lawvault/issue/運送事故責任/運送事故の責任があるか.md",
     "02_zettelkasten/21_domain/lawvault/issue/著作権侵害/著作権侵害に該当するか.md",
     "02_zettelkasten/21_domain/lawvault/issue/運送事故責任/fact/auxiliary",
@@ -234,7 +235,6 @@
     "02_zettelkasten/21_domain/lawvault/issue/著作権侵害/fact/業務指示.md",
     "02_zettelkasten/21_domain/lawvault/issue/SaaS責任/SaaS提供者責任があるか.md",
     "02_zettelkasten/21_domain/lawvault/issue/肖像権侵害/evidence/シフト表.md",
-    "02_zettelkasten/21_domain/lawvault/issue/肖像権侵害/evidence/業務マニュアル.md",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
