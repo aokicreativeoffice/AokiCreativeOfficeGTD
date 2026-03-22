@@ -15,7 +15,7 @@
               "state": {
                 "file": "02_zettelkasten/21_domain/lawvault/engine/Law Pipeline.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Law Pipeline"

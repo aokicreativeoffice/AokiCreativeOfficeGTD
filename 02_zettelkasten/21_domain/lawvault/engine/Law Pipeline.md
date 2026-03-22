@@ -25,13 +25,15 @@
 flowchart TD  
   
 IP[interpretation]  
-PCN[Point of Contention Node]
+RD[risk detection]
 FF[Fact Finding]  
+PCN[Point of Contention Node]
 NM[normative]  
 DS[decision]  
 
-IP --> PCN
-PCN --> FF  
-FF --> NM  
+IP --> RD
+RD --> FF  
+FF --> PCN
+PCN --> NM  
 NM --> DS
 ```
