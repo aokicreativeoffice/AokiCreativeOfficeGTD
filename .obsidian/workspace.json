@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/engine/Fact Finding Engine.md",
+                "file": "02_zettelkasten/21_domain/lawvault/engine/Law Pipeline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fact Finding Engine"
+              "title": "Law Pipeline"
             }
           }
         ]
@@ -197,11 +197,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6acf75135036dfd0",
+  "active": "443e20a7aff5fe78",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/lawvault/engine/fact_finding",
+    "02_zettelkasten/21_domain/lawvault/engine/主要事実.md",
+    "02_zettelkasten/21_domain/lawvault/engine/Fact Finding Engine.md",
     "02_zettelkasten/21_domain/lawvault/engine/法原則/許認可構造.md",
     "02_zettelkasten/21_domain/lawvault/engine/Law Pipeline.md",
-    "02_zettelkasten/21_domain/lawvault/engine/Fact Finding Engine.md",
     "02_zettelkasten/21_domain/lawvault/engine/Normative Engine.md",
     "02_zettelkasten/21_domain/lawvault/structure/条文分解ルール.md",
     "02_zettelkasten/21_domain/lawvault/structure/条文分解定義.md",
@@ -228,8 +230,6 @@
     "02_zettelkasten/21_domain/lawvault/engine/条文構造/L-S-001 要件→効果構造.md",
     "02_zettelkasten/21_domain/lawvault/structure",
     "02_zettelkasten/21_domain/lawvault/engine",
-    "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ/法律ノート（監査）.md",
-    "02_zettelkasten/00_system/question/Entry Hub.md",
     "Question Routing Engine.pdf",
     "Graph Traversal Rule.pdf",
     "Reasoning Pipeline.pdf",
