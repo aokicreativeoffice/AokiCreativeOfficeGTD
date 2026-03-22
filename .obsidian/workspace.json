@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/労働者性があるか.md",
+                "file": "02_zettelkasten/21_domain/lawvault/issue/労働者性/労働者性があるか.md",
                 "mode": "source",
                 "source": false
               },
@@ -197,8 +197,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "443e20a7aff5fe78",
+  "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/労働者性があるか.md",
+    "02_zettelkasten/21_domain/lawvault/knowledge/evidence[",
+    "02_zettelkasten/21_domain/lawvault/knowledge/fact",
+    "02_zettelkasten/21_domain/lawvault/knowledge",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/fact/auxiliary",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/fact/indirect",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/fact/勤務時間拘束.md",
@@ -213,12 +217,7 @@
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/evidence/direct",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/労働者性があるか.md",
     "02_zettelkasten/21_domain/lawvault/issue/労働者性/case",
-    "02_zettelkasten/21_domain/lawvault/issue/労働者性/inference",
-    "02_zettelkasten/21_domain/lawvault/issue/労働者性/fact",
-    "02_zettelkasten/21_domain/lawvault/issue/労働者性/evidence",
-    "02_zettelkasten/21_domain/lawvault/issue/労働者性/statute",
     "02_zettelkasten/21_domain/lawvault/engine/補助事実.md",
-    "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/労働者性があるか.md",
     "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/evidence/業務マニュアル.md",
     "02_zettelkasten/21_domain/lawvault/issue/争点名 テンプレート/evidence/シフト表.md",
     "02_zettelkasten/21_domain/lawvault/engine/条文→事案適用フロー.md",
