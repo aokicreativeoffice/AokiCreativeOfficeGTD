@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/fieldwork_tourism/08_case/観光圏/札幌観光圏.md",
+                "file": "02_zettelkasten/21_domain/fashion/セール品のジャケットを買うときに見るべき点.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "札幌観光圏"
+              "title": "セール品のジャケットを買うときに見るべき点"
             }
           }
         ]
@@ -199,8 +199,10 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
-    "02_zettelkasten/21_domain/fieldwork_tourism/08_case/観光圏/日本の観光圏一覧.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/08_case/観光圏/札幌観光圏.md",
+    "02_zettelkasten/21_domain/fashion/セール品のジャケットを買うときに見るべき点.md",
+    "02_zettelkasten/21_domain/fashion",
+    "02_zettelkasten/21_domain/fieldwork_tourism/08_case/観光圏/日本の観光圏一覧.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/08_case/観光圏テンプレート.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/08_case/回遊テンプレート.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/08_case/都市テンプレート.md",
@@ -229,12 +231,10 @@
     "02_zettelkasten/21_domain/lawvault/risk/alerts/startup/ハイタク 開業アラート.md",
     "02_zettelkasten/21_domain/lawvault/knowledge/gate/ハイタク事業/GATE_ハイタク事業許可.md",
     "02_zettelkasten/21_domain/lawvault/risk/alerts/startup/インバウンドツアー 開業.md",
-    "02_zettelkasten/21_domain/lawvault/risk/alerts/operation/インバウンドツアー オペレーションアラート.md",
     "02_zettelkasten/21_domain/lawvault/knowledge/gate/ハイタク事業",
     "02_zettelkasten/21_domain/lawvault/knowledge/gate",
     "02_zettelkasten/21_domain/lawvault/risk/alerts/operation",
     "02_zettelkasten/21_domain/lawvault/risk/alerts/startup",
-    "02_zettelkasten/21_domain/lawvault/trigger",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
