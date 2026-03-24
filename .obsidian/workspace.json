@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/tourism/taxonomy/観光地分類.md",
+                "file": "02_zettelkasten/21_domain/fieldwork_tourism/08_case/単一スポット用テンプレート.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "観光地分類"
+              "title": "単一スポット用テンプレート"
             }
           }
         ]
@@ -199,9 +199,9 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/tourism/taxonomy/観光地分類.md",
     "02_zettelkasten/21_domain/fieldwork_tourism.zip",
     "02_zettelkasten/21_domain/fieldwork_tourism/08_case/観光圏/日本の観光圏 テンプレート.md",
-    "02_zettelkasten/21_domain/tourism/taxonomy/観光地分類.md",
     "02_zettelkasten/21_domain/tourism/観光地一覧/観光地一覧テンプレート.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/08_case/回遊テンプレート.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/08_case/都市テンプレート.md",
@@ -234,7 +234,6 @@
     "02_zettelkasten/21_domain/lawvault/risk/alerts/startup",
     "02_zettelkasten/21_domain/lawvault/issue/旅客運送非該当.md",
     "02_zettelkasten/21_domain/lawvault/trigger",
-    "02_zettelkasten/21_domain/lawvault/domain/road_transportation",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
