@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/fashion/セール品のジャケットを買うときに見るべき点.md",
+                "file": "02_zettelkasten/21_domain/fashion/オーダー方式比較（パターンオーダー Pitty ビスポーク）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "セール品のジャケットを買うときに見るべき点"
+              "title": "オーダー方式比較（パターンオーダー Pitty ビスポーク）"
             }
           }
         ]
@@ -199,8 +199,9 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
-    "02_zettelkasten/21_domain/fieldwork_tourism/08_case/観光圏/札幌観光圏.md",
     "02_zettelkasten/21_domain/fashion/セール品のジャケットを買うときに見るべき点.md",
+    "02_zettelkasten/21_domain/fashion/オーダー方式比較（パターンオーダー Pitty ビスポーク）.md",
+    "02_zettelkasten/21_domain/fieldwork_tourism/08_case/観光圏/札幌観光圏.md",
     "02_zettelkasten/21_domain/fashion",
     "02_zettelkasten/21_domain/fieldwork_tourism/08_case/観光圏/日本の観光圏一覧.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/08_case/観光圏テンプレート.md",
@@ -230,7 +231,6 @@
     "02_zettelkasten/21_domain/lawvault/knowledge/gate/ハイタク事業/GATE_事業用自動車（ハイタク）.md",
     "02_zettelkasten/21_domain/lawvault/risk/alerts/startup/ハイタク 開業アラート.md",
     "02_zettelkasten/21_domain/lawvault/knowledge/gate/ハイタク事業/GATE_ハイタク事業許可.md",
-    "02_zettelkasten/21_domain/lawvault/risk/alerts/startup/インバウンドツアー 開業.md",
     "02_zettelkasten/21_domain/lawvault/knowledge/gate/ハイタク事業",
     "02_zettelkasten/21_domain/lawvault/knowledge/gate",
     "02_zettelkasten/21_domain/lawvault/risk/alerts/operation",
