@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774403705624,
+  "lastSync": 1774403772650,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -7315,4 +7315,361 @@
     },
     "02_zettelkasten/01_knowledge/world_model/pattern/social/pattern/分極化パターン.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "
+      "contentHash": "6cd61c2f69224f60f60867df518d6bf1295c2c9003046fb57e39549b810ccb26",
+      "lastIndexed": 1774403695595
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/structure/社会ネットワーク構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a68ad3a04fb96fa8a69521ec72eaa02c4151e1a4095aea82d2e3df38e7424ef8",
+      "lastIndexed": 1774403699738
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/structure/制度構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "70bd5d32a7646ca2e2c069a418102296574ea4f5d107942387ed1547772f402f",
+      "lastIndexed": 1774403699803
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/structure/集団対立構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8ad37b4de37eed643a322303a119e1ecceb324474f26d08c4ac2a1a818bec9a8",
+      "lastIndexed": 1774403699901
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/pattern/排除パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f007e0f2f25972d22385b8a1c261578a2d0f0373f427c20a72a78b91aa192af7",
+      "lastIndexed": 1774403700521
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/pattern/規範形成パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3d6bc9c8a834dc7c1a16e3ef649b3c8ae3fa11f3286e67c956eaeac27f91c196",
+      "lastIndexed": 1774403701074
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/structure/社会統合構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ac5390d6cfd51a3d222d08a0a75fb2262e20c3f3770e019d90c6161ddb443f27",
+      "lastIndexed": 1774403704976
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/structure/社会階層構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b42a91354e17b6d9d1224986b8924167a280730bbd65df4d4a3fc792c052d79f",
+      "lastIndexed": 1774403705126
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/structure/規範構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "da618ed312ff41e0acfa74e1cda983384afd5df15924a7bd3af0b51471006601",
+      "lastIndexed": 1774403705453
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/structure/集団構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "02f92ff56578b0f389f328bf24e7a1d3e35c45a5c81bb5af5a628fcd7b127603",
+      "lastIndexed": 1774403705624
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/structure/社会関係構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6bfeadcbe562aea74b9d6bcb27b97f77744d0cb97d0861677de21314ae85996e",
+      "lastIndexed": 1774403705710
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/information/情報原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d8585b83cda52d6d281b6ef1ae84394f6134e71c87959ecda81bc5846b99dbb4",
+      "lastIndexed": 1774403709631
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/human/認知原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "246dedc3318cfeae436ac9134584402730d9482754daa932258984497391d52f",
+      "lastIndexed": 1774403709691
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/Kernel Cross Domain Table.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f6b216d52bd09f2f2824679646e80ab952d154bf8a2a5ecfafe272679ab893b0",
+      "lastIndexed": 1774403710115
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/information/不確実性原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5a29dd1550710098d8518d2c7f8cfaf0df2fd5d559d0418638906c4937013e8b",
+      "lastIndexed": 1774403710324
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/kernel 図.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1d60470be8a6bae491829def13d8f4409246e7573368639005690d5476a8d9c2",
+      "lastIndexed": 1774403710687
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/space/空間原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fad4c1a6c9b8d4b3effa3e4524d8820fb3b584d0592bff9829cd5fe18ff53d87",
+      "lastIndexed": 1774403714821
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/system/スケール原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9e0a12e124b38bfd33c7eb268753374f092be2e170a8b738de3da17219202902",
+      "lastIndexed": 1774403714965
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/system/資源制約原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e589f0ac6c12b0e91fe6d920dbd6285f984591c413749083b14aace4d850b643",
+      "lastIndexed": 1774403715524
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/system/制約原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2cd7f2d9613fff0ecca2bea320bcacaa0bbb4e892ef0934605d7d549bc135afe",
+      "lastIndexed": 1774403715903
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/system/トレードオフ原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a12e95c7c09195c2766365c7a2d31befde55b6b1d5e267316cf6c503b511c098",
+      "lastIndexed": 1774403716084
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/evolution/選択原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5ee220ab4679aecd1286c4d41051275ef11fde459882a25c368a11433f5ff961",
+      "lastIndexed": 1774403720021
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/social/協力原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7c3dbf9b03a0fa5773884aa769f2740866832caa3134a0b3975be4df224c8dee",
+      "lastIndexed": 1774403720444
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/evolution/進化原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0bca1445323f4e3c314bf3f04e7fa665511708908300703af212e8a025431123",
+      "lastIndexed": 1774403720524
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/evolution/変異原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "41995d3ab1da69fb608d50c6fb95bc5fecade7fcf481635e7011a25129bced52",
+      "lastIndexed": 1774403721145
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/social/交換原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fbfd249179fd900156e960acd747d761aeb862d3ec6c8bc05c71367a149ede83",
+      "lastIndexed": 1774403721761
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/complex/ネットワーク原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f51292e5b3b4b0d428c18856ac37269bdccecd1824ff9ef93b93500f5a0d23e9",
+      "lastIndexed": 1774403725632
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/complex/創発原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "922c42cda390279a476a1aed21741d254c59988f026e0d3aad66ff6a15efd7c1",
+      "lastIndexed": 1774403726339
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/social/競争原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "93562a731c6b3adcf981c02cff34780d6403ff6d1479bd8b20e83a26e18b24ea",
+      "lastIndexed": 1774403726442
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/social/希少性原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0ef01b7dbed2382ecdfebdd49ba92b3a192bd40b9d4b04adbe38d58e3740efdf",
+      "lastIndexed": 1774403726643
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/complex/自己組織化原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b613bc5efbbb83d2c98bac8bee819b41a6742eb37b62c87d2ae79f82a61eb26e",
+      "lastIndexed": 1774403726723
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/physics/フィードバック原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "be27a1bb0010bcceb9026e42603862922ee4a2575818a4c11cc08f170d584784",
+      "lastIndexed": 1774403730941
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/physics/非線形性原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "17213275c61f7d2f0ba8b25aa699b68032d52dd0da46ae8c4992ca27dc1a6340",
+      "lastIndexed": 1774403731184
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/physics/時間原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d114bb508ed0d1713b87fb95737ddcf25ef40d48477f9052f50a87365b46f1a4",
+      "lastIndexed": 1774403731646
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/complex/階層原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "840cee5697b06b7b53c1c47cabff80629d9eccdeadcd8451f6e7280bf0e16cb5",
+      "lastIndexed": 1774403732296
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/physics/拡散原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "26a3888679ee5827ef1d4d8b19668079f5473afef7711702df984f179b36a844",
+      "lastIndexed": 1774403736760
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/physics/臨界点原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f0b9e12d0730f78dd7f25421338fccb3e7255d0eeb7e65952109b8e01efc3e4d",
+      "lastIndexed": 1774403737199
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/physics/最小作用原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2fd04982f027c0de9bd939fa42b15ab41e9cb5d2bfe959e04e9aa18a449fe0f8",
+      "lastIndexed": 1774403737216
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/physics/対称性原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "579dc90c928abb106cf9b87ada5209d94b859b0cb4988139581a6ef7b5413a1a",
+      "lastIndexed": 1774403737326
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/physics/平衡化原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f9a53e7a744e595553d011a82bee089c415383dcac06209a4b68a63bb12cbc69",
+      "lastIndexed": 1774403738058
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/physics/エントロピー増大原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ce362495ef4127b46141ccc0d8ed14677d8eda35fcd2993755ea05119ed3a5be",
+      "lastIndexed": 1774403742434
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/Kernel Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "27a75a95eeb0cf83269b47e560d310486ceb20734744408d7a64bc8f71302c54",
+      "lastIndexed": 1774403742456
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/physics/保存原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3d0ac96619a173f45c377ee45b8c944902aad9b54541f83ce29c0874f7da9c47",
+      "lastIndexed": 1774403742710
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/kernelテンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "dd58c24751516f5577391b8c7f10c9c2d7be09bd0a67372c1e8a97f2b82fac15",
+      "lastIndexed": 1774403742750
+    },
+    "02_zettelkasten/01_knowledge/world_model/kernel/physics/相互作用原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "97cda872f02acc95f43c033c42464729854ba9db6da32afa96bdf2a3ec2a4e72",
+      "lastIndexed": 1774403743023
+    },
+    "02_zettelkasten/concept/Concept テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e3099d86e37d50f8d4b1e0dcdf8de0d2626f5645a6336453a313c67d6e0e6ca0",
+      "lastIndexed": 1774403746755
+    },
+    "02_zettelkasten/concept/Concept Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d2ff0a28072beab7954a24701af2531df26d097b19ae70b06fad52aa4b150ead",
+      "lastIndexed": 1774403747171
+    },
+    "02_zettelkasten/concept/Concept Types.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d05b84452abac54bbf72506c14d429ef89dc5b69cf02534c6416d4ae8032e740",
+      "lastIndexed": 1774403747306
+    },
+    "02_zettelkasten/concept/Process Concept Example.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "84686cf9bc5e32bc8612a7a81edd1a025dbf15782506cff6bde425e1bc9deec2",
+      "lastIndexed": 1774403747437
+    },
+    "02_zettelkasten/concept/Core Concept Example.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "84686cf9bc5e32bc8612a7a81edd1a025dbf15782506cff6bde425e1bc9deec2",
+      "lastIndexed": 1774403747575
+    },
+    "02_zettelkasten/concept/relations/Causal Relations.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "897456232232ae73189128c4b1884d70c9aa54ab4a7320e49d2315811fbaa335",
+      "lastIndexed": 1774403751706
+    },
+    "02_zettelkasten/04_meta/knowledge_graph/Knowledge Graph Auto Linking.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a2054514594a286d0b679debd7d4610df3f66cfca9f2fb2e53c919075146835b",
+      "lastIndexed": 1774403751764
+    },
+    "02_zettelkasten/04_meta/Vault Phisolophy.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e95e6d90d6a5b62e24c49fdefbbce0dca55ef4bf99b4a755fe2c7aacbd973587",
+      "lastIndexed": 1774403752568
+    },
+    "02_zettelkasten/04_meta/Vault Rules.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "453465c6be1a3f9d397214ba0b004875ff0b426cc36be2a1ae6d43cb1bbdd0ee",
+      "lastIndexed": 1774403752571
+    },
+    "02_zettelkasten/04_meta/knowledge_graph/Edge Type.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8f1bf23a11b9299ea920f972cc26f51e0ff9a36f9ac81c0e5d7e6eccb06683d0",
+      "lastIndexed": 1774403756563
+    },
+    "02_zettelkasten/04_meta/knowledge_graph/Node Type.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "510044608441e7925568b59dbd327011526b288bb0f5606620d8720ab2fdaab8",
+      "lastIndexed": 1774403756881
+    },
+    "02_zettelkasten/04_meta/knowledge_graph/Traversal.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6126c41a0c8711003bb4cf0a4deb8173e877090054fb3274b26fa860a8a8483f",
+      "lastIndexed": 1774403756948
+    },
+    "02_zettelkasten/04_meta/knowledge_graph/Graph Maintenance.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6c22812b4d88141613811b64297101bf81dd568421d9c1d1fc4ba79771d9ce2b",
+      "lastIndexed": 1774403757132
+    },
+    "02_zettelkasten/04_meta/knowledge_graph/Concept Graph Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "964db38ed16a71eaecf61100934a75d75a1aa5d410f3875e3337259d2e9317cc",
+      "lastIndexed": 1774403757911
+    },
+    "02_zettelkasten/04_meta/knowledge_graph/Bridge Concept Rule.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fa79fc9c04c1b0b29d9c48fd32ba31780795e6c728d8ed7f7ff6a7e7ee019b86",
+      "lastIndexed": 1774403762243
+    },
+    "02_zettelkasten/04_meta/knowledge_graph/Hub Template.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fa0240f965120103fa9935d01883b46a4517a3b6046a28797650bb98480428c5",
+      "lastIndexed": 1774403762283
+    },
+    "02_zettelkasten/04_meta/knowledge_graph/Pattern Boundary Rule.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6f495c842c7e89550e3948c3b9f7b4d3ef36346d6f746babd02284b88fdd3d1b",
+      "lastIndexed": 1774403762546
+    },
+    "02_zettelkasten/04_meta/knowledge_graph/Hub Design Rule.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "eacbb48483f6b779cae1dffbafbdfaf928a55dbc215371e93df177bc62248acb",
+      "lastIndexed": 1774403762611
+    },
+    "02_zettelkasten/04_meta/knowledge_graph/Bridge Concept.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "027ff424b0a7b54e17c3b09a21de0930f56c2e47fd371eabde27b197d95d68f7",
+      "lastIndexed": 1774403762810
+    },
+    "02_zettelkasten/04_meta/knowledge_graph/Pattern.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c71a8b6c4d0d2f7219526887f4018c8320a5191bd27804dc51cec14d587db8b2",
+      "lastIndexed": 1774403766905
+    },
+    "02_zettelkasten/04_meta/knowledge_graph/Cross Domain Mapping.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9117add5f949e8f0dbf73488995ba96dfd6613da2f5f218e05e681af3d81f33a",
+      "lastIndexed": 1774403767157
+    },
+    "02_zettelkasten/04_meta/knowledge_graph/Reasoning Strategy.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7195b62a2d1ec1e68882335a87363bde9229267201c906286322ce7f72dac867",
+      "lastIndexed": 1774403767309
+    },
+    "02_zettelkasten/04_meta/knowledge_graph/Bridge Detection Method.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a838c570cf0d33306e83ff5e6a26ddc81687b06f246728bf428f07ed66f15201",
+      "lastIndexed": 1774403767480
+    },
+    "02_zettelkasten/04_meta/knowledge_graph/Knowledge Graph.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "755a298bcdcd99de7cbe488e6c6f98108bebf74738847c6c145391bc83f548f6",
+      "lastIndexed": 1774403767944
+    },
+    "02_zettelkasten/04_meta/knowledge_graph/Knowledge Graph Structure.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5a6322a6eed427f4f49c4d1a19707e018c150bf020aeda9a66838b5ddfb5a605",
+      "lastIndexed": 1774403772637
+    },
+    "02_zettelkasten/04_meta/knowledge_graph/Question → Traversal Mapping.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7f13471b087f4c9a4592dde333ebddcf76a075568dcd676873e74c805878e7fb",
+      "lastIndexed": 1774403772650
+    }
+  },
+  "indexingInProgress": true,
+  "indexingStartedAt": 1774401888343,
+  "lastIndexedFile": "02_zettelkasten/04_meta/knowledge_graph/Question → Traversal Mapping.md"
+}
