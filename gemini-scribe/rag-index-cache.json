@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774404067766,
+  "lastSync": 1774404143718,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -8917,9 +8917,257 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "c42542f1f462dd68fa59ba53a000ad5807987684c421a61a0c54c0b1cd52b5b8",
       "lastIndexed": 1774404067766
-    }
-  },
-  "indexingInProgress": true,
-  "indexingStartedAt": 1774401888343,
-  "lastIndexedFile": "02_zettelkasten/未整理/project_management/method/analysis/根因分析.md"
-}
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/インセンティブ設計.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6187ffe936fa15dfff9cbb064044634b657df59d4c034f0c6dd023e02dd306f7",
+      "lastIndexed": 1774404067928
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/システムマッピング.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "76d1138f60ae614a613dc7f73979940efe36b1c7e43f7492ed05e7cdb5a64c90",
+      "lastIndexed": 1774404067957
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/ボトルネック分析.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a409a6896d92d3d7dcbb84a73d8b1bf662c1c79974f193896dae1dd04410a13a",
+      "lastIndexed": 1774404068164
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/状態遷移モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a98af04be54455d261ab515ecde79ba9b8aac4b5ec662a27f5fa0666305d07d1",
+      "lastIndexed": 1774404068458
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/トレードオフ分析.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "29060f7c3b62d1cfda2ddd9b014d136262af8b6f31728e654bdcc441947bdcbc",
+      "lastIndexed": 1774404073418
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/problem_type/00 problem_type hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "daae00aceafa43621e77d6295720727cadb8414fc19155e005cd77b3c3493018",
+      "lastIndexed": 1774404077697
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/problem_type/制約問題.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0e1373ad10b63bdd0bd2fccb4d8b6caf57bfd4250db0ed93659331dcc344ae51",
+      "lastIndexed": 1774404077724
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/problem_type/インセンティブ問題.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5b3806e59fb4c99211132ffce2b5f2a55f759ef821ea921e047602effbcebd0a",
+      "lastIndexed": 1774404078368
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/problem_type/適応問題.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d2ecd4152acd9eaea28b523ee30cf68ea312520bc562af3b79cdbbea089c043c",
+      "lastIndexed": 1774404083022
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/problem_type/競争問題.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7b42a58051ce77501b6d096a3c42e19464030a42fa041c04c760e2771449b5ad",
+      "lastIndexed": 1774404083028
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/problem_type/情報問題.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a8ab9bec3cf32d471b9b6e0d25223d0663d610725e1feb980ccbcf938a7c7893",
+      "lastIndexed": 1774404083402
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/problem_type/問題診断エンジン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cc87e4772e0ba1ad3ca22d3accc88b93032d0a17f9efda43458cd9ef57d539c6",
+      "lastIndexed": 1774404084037
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/problem_type/効率問題.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7ef2cca9a7d9fe78ebce05a3fe07224510c06ee0eaa1caca243c8f421c8cf661",
+      "lastIndexed": 1774404084534
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/problem_solving/01 problem definition.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "de25ebff5a1097a83a49d81130d6faaaa2bcad2298a95dd0a02b389c6fe04c9e",
+      "lastIndexed": 1774404088497
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/problem_type/権力問題.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6e6ccda2b6f35c61a1b629bfc55a79da0492692c019be75185382c13e3027915",
+      "lastIndexed": 1774404088756
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/problem_type/協調問題.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cdb6a0df0e8c3bbfb0566bb0570359d55d063b9adf3598f79c269d794b261f3a",
+      "lastIndexed": 1774404089034
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/problem_solving/03 decision making.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "48e3d8d1f64732e28cfe7de2a8f1814caa3dae463d16494c7f8a07474a3c2b28",
+      "lastIndexed": 1774404089287
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/problem_solving/00 Problem Solving Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4d179fed04694fa865491c9c28862fa74c87c044c614b12ec1393cc9136061a3",
+      "lastIndexed": 1774404089429
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/problem_solving/02 cause analysis.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "825c540b1b40cfedb05bb9b3c7f69a818147c6613f6812572b75fdd9f60cea79",
+      "lastIndexed": 1774404093996
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/system_model/フィードバックループ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c70682e4160436cd13ac86decd990a43e9fd266413da661e8f50d993a8afbe99",
+      "lastIndexed": 1774404094106
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/problem_solving/05 strategy design.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "630c33d06c8cdd1fa47c8001086d95635ae717dd2f07be4d65ae010bd05cbd66",
+      "lastIndexed": 1774404094255
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/problem_solving/06 optimization.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9353cd6898a6c5f534b94ff2f3b4b4d6d5d106ed6f71e535f9e5086fa0149c70",
+      "lastIndexed": 1774404094626
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/problem_solving/04 risk management.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "833dabe7abdb81c76036b062d8dbcd5195c9a5fae7f70a762a55316cffff987e",
+      "lastIndexed": 1774404094790
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/system_model/紐帯モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7a2553eaff4735ed4c56d41373531f8a1d51b9bde92e1816b0d45032debf3585",
+      "lastIndexed": 1774404098657
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/system_model/状態遷移.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c23a387c98765d352afff74749ffc4ea485e0692f5168337504f20f13660545b",
+      "lastIndexed": 1774404099178
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/system_model/System Model Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7f182889c07c5dccb955aa5af79b3d22720f099b6a333f0b59f0b127663ee19b",
+      "lastIndexed": 1774404099213
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/system_model/プリンシパル＝エージェントモデルモデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c264dea52a51482073e08dabc66674f894859de32c399f955746c056f229eeaa",
+      "lastIndexed": 1774404099229
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/system_model/ストック・フローモデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "26c248f87ccd4f6df4b847566cf724486d7d9777b633b746b7ea2bbc28a0f5ea",
+      "lastIndexed": 1774404099326
+    },
+    "02_zettelkasten/未整理/model 1/01_canonical/system_model/フローモデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "044c09f3ad2adda562251170c584edfbb9c2cdfffe4cc8689b1496b61f46cf29",
+      "lastIndexed": 1774404104544
+    },
+    "02_zettelkasten/未整理/model 1/world_model/03_social/competition/参入障壁構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "def311b16dbda14175f91694e8bca6d855996232be23de2e19cb54ed2f79451d",
+      "lastIndexed": 1774404108514
+    },
+    "02_zettelkasten/未整理/model 1/world_model/03_social/competition/寡占構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d0f68d5828f81e3821676f4291c3f25040f12d977a9d22460b9de4d9bd8428ff",
+      "lastIndexed": 1774404108678
+    },
+    "02_zettelkasten/未整理/model 1/world_model/03_social/competition/完全競争構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bb5ed268a79125903041b5183f226808c2d3f1dd743722371756d9f289a9e3ab",
+      "lastIndexed": 1774404108804
+    },
+    "02_zettelkasten/未整理/model 1/world_model/03_social/competition/市場支配構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "016d3c18f0a814acf1ef47baa84f6507bb1b1e6cff9f8a8171044337092aed80",
+      "lastIndexed": 1774404109191
+    },
+    "02_zettelkasten/未整理/model 1/world_model/03_social/competition/ネットワーク効果.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4e73769c68d08a72e8a945da1f6885821f7c5bcfe4502d3c2be8ba4b5db76773",
+      "lastIndexed": 1774404110325
+    },
+    "02_zettelkasten/未整理/model 1/world_model/03_social/competition/規制捕獲構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2a5315870faa91762f2b34da5525db4ff6fff51aa261e8137a4c0d5845ab07f5",
+      "lastIndexed": 1774404114594
+    },
+    "02_zettelkasten/未整理/model 1/world_model/03_social/competition/カルテル構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d96ba9304d3e68c9c6b2bc85c29d7bf78e98a8c1efa0d0f474cee653e301ceba",
+      "lastIndexed": 1774404114833
+    },
+    "02_zettelkasten/未整理/model 1/world_model/03_social/competition/独占構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7074c6cc503260d91a5b099d789c178b57a4a732f9510cf6b578921a64597431",
+      "lastIndexed": 1774404115007
+    },
+    "02_zettelkasten/未整理/model 1/world_model/03_social/competition/独占的競争構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ed61192bf225829bc0f1cb793a46fc98125bb9f38b1bc5e859a570a71a2beed0",
+      "lastIndexed": 1774404115442
+    },
+    "02_zettelkasten/未整理/model 1/world_model/01_layers/01 資源.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b9aa69b027641f9dbd6220e55aa0f5e2652c694bcf89617bad2bb048c15b2846",
+      "lastIndexed": 1774404119392
+    },
+    "02_zettelkasten/未整理/model 1/world_model/01_layers/05 紐帯.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "514e694d991e341451b3b675e4212c1498a0d9740de21e41ef13e43fa6829355",
+      "lastIndexed": 1774404119954
+    },
+    "02_zettelkasten/未整理/model 1/world_model/01_layers/04 制度.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0e82423697519dfad64ef60cb82da4118c8de5a8252701adecacf2cb43dd039a",
+      "lastIndexed": 1774404121974
+    },
+    "02_zettelkasten/未整理/model 1/world_model/01_layers/02 技術.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5c9fc87fcdcbf82dacd243dccb6dd0f092c1b6d839436dba3cf834bc0d8d3741",
+      "lastIndexed": 1774404126167
+    },
+    "02_zettelkasten/未整理/model 1/world_model/01_layers/world layer Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fd54b00ba912aaac73a0030488c82357d1cd6c1f3255571a93d9358de94bf9d1",
+      "lastIndexed": 1774404126201
+    },
+    "02_zettelkasten/未整理/model 1/world_model/01_layers/08 市場.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ef292cf27435d580f47b0e58bee812a864f6bcf93b4e0b8b40d59ea2168e9d06",
+      "lastIndexed": 1774404126258
+    },
+    "02_zettelkasten/未整理/model 1/world_model/01_layers/07 組織.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1f1c599025cdb8444dd645bb3b8d12958a507af1d46984433b5644dc1e406f1d",
+      "lastIndexed": 1774404127036
+    },
+    "02_zettelkasten/未整理/model 1/world_model/01_layers/03 文化.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0124d612e0206c0e0816147f604613690d4499e4ae325e1671196c7ebfdf5ead",
+      "lastIndexed": 1774404127761
+    },
+    "02_zettelkasten/未整理/model 1/world_model/01_layers/09 国家.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7121fd8ab3f3f26dc815369a87db2a6471d7d1ac5dd866983309164b9cd74819",
+      "lastIndexed": 1774404132149
+    },
+    "02_zettelkasten/未整理/model 1/world_model/01_layers/06 社会.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ee2c86737fc4def8bad0b1ee4d21e3017ccae25687dcb5f8acd5ff0f78b03120",
+      "lastIndexed": 1774404132309
+    },
+    "02_zettelkasten/未整理/model 1/world_model/02_human/human_model/知覚モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ff86bf870e11f8295ef523b53444426ad4b0231c28bd47a02accc3e46f92e006",
+      "lastIndexed": 1774404132512
+    },
+    "02_zettelkasten/未整理/model 1/world_model/02_human/human_model/動機モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3308e1175d61e2e48163f4319474f35ebdc9493a5af253492ae4a24361392cf4",
+      "lastIndexed": 1774404132618
+    },
+    "02_zettelkasten/未整理/model 1/world_model/02_human/human_model/感情モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+    
