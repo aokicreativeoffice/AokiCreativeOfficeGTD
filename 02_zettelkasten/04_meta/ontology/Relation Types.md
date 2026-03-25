@@ -99,7 +99,7 @@ Solution specializes Pattern
 Pattern maps_to Solution
 ### ■ 4. 運用系（Operational Relations）
 
-#€## used_in
+#### used_in
 - 使用箇所
 
 例：
