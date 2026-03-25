@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774483047442,
+  "lastSync": 1774483115652,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9865,8 +9865,8 @@
     },
     "02_zettelkasten/21_domain/history/actor/主体ノートテンプレート.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "839d9c2762d97804fdbf294f9b99d4ef5742667540f3fb1a6d41abadc3212f7c",
-      "lastIndexed": 1774483040892
+      "contentHash": "69e649ddc0087e08fd0b30148afa81a20bfa2012eff3df68a4fbdad473f8a615",
+      "lastIndexed": 1774483115593
     },
     "02_zettelkasten/21_domain/history/event/事件ノートテンプレート.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9875,8 +9875,8 @@
     },
     "02_zettelkasten/21_domain/history/structure/構造ノートテンプレート.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "f84752e27e11570c5d29d27150fc778af11e28ac2156961239c5b6e36007ca31",
-      "lastIndexed": 1774483047442
+      "contentHash": "5fe424c743a7ee6cf7329158e51eb3fe2f43f3a0ec55269bd357c2f11a6b8f85",
+      "lastIndexed": 1774483091263
     },
     "02_zettelkasten/21_domain/history/epoch/潮流ノートテンプレート.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9987,11 +9987,6 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "c7902ecd7220d3757fa2f40a0aac5c01d741d2defa6dc14cc46c17361a521004",
       "lastIndexed": 1774482977540
-    },
-    "02_zettelkasten/21_domain/history/event/エムス電報事件 1.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "5f0cd539eba72bf83d733197ed34791a7429e4c9f0bc593aed7b3e42a05c436d",
-      "lastIndexed": 1774483034914
     }
   },
   "indexingInProgress": false,
