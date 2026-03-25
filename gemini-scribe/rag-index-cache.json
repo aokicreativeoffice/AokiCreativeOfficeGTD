@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774449244746,
+  "lastSync": 1774449438627,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9977,6 +9977,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "9b21cfb425602c92df18599588c0a1f50aab0b135d2ae8bb13831960c637c150",
       "lastIndexed": 1774449244746
+    },
+    "02_zettelkasten/21_domain/history/structure/プロイセン宮廷の権力トライアングル4.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a5159f25ccac97538367f933af1712cf35e80799863e5e61ef522c5553a340ff",
+      "lastIndexed": 1774449438627
     }
   },
   "indexingInProgress": false,
