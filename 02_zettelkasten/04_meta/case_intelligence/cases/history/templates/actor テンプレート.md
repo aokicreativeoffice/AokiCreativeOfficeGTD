@@ -94,7 +94,7 @@ related_kernels:
 
 例
 
-- [[エムス電報事件]]
+- [[02_zettelkasten/04_meta/case_intelligence/cases/history/events/エムス電報事件]]
 
 ---
 

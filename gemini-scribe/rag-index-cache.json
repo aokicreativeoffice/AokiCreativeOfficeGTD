@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774404327729,
+  "lastSync": 1774404690317,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -7825,8 +7825,8 @@
     },
     "02_zettelkasten/04_meta/case_intelligence/cases/history/History_Case_Hub.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "56dcfbec4308f4215b4acbeda71dc9e60a433d38ef6046686b21f0d9dcee67b8",
-      "lastIndexed": 1774403811307
+      "contentHash": "44edc064ccd8202caf028d5ee85f973ea7b3126a09ff60e0ebc564a972ec949d",
+      "lastIndexed": 1774404678392
     },
     "02_zettelkasten/04_meta/case_intelligence/cases/spacial/東京が世界的都市になった理由.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -7870,8 +7870,8 @@
     },
     "02_zettelkasten/04_meta/case_intelligence/cases/history/templates/actor テンプレート.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "8770d311da34b492569a0356b25455f6f928e058be7992ba5fa78f44009eb023",
-      "lastIndexed": 1774403817251
+      "contentHash": "f545e5515675aff94c50aed6240f6aabc2193e6598b0d5c11290dbb7c007111f",
+      "lastIndexed": 1774404684288
     },
     "02_zettelkasten/04_meta/case_intelligence/Case Hub.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9857,7 +9857,18 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "c322ded067cc7c73ea65859516599daffbd2ac91967d7199303b26be4c8c0bea",
       "lastIndexed": 1774404327132
+    },
+    "ai-assistant/data/graph/vault_graph_top_hubs.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4802096f043e40902c43f13ca454e5f40707c3a0fd9a3ed60ef78075604e4b7b",
+      "lastIndexed": 1774404327750
+    },
+    "00_inbox/エムス電報事件.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5f0cd539eba72bf83d733197ed34791a7429e4c9f0bc593aed7b3e42a05c436d",
+      "lastIndexed": 1774404690317
     }
   },
-  "indexingInProgress": false
+  "indexingInProgress": false,
+  "lastIndexedFile": "ai-assistant/data/graph/vault_graph_top_hubs.md"
 }

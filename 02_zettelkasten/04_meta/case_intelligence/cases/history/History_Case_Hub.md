@@ -101,7 +101,7 @@ Actors --> Kernels
 
 歴史事件のcaseノート
 
-- [[エムス電報事件]]
+- [[02_zettelkasten/04_meta/case_intelligence/cases/history/events/エムス電報事件]]
 - [[サライェヴォ事件]]
 - [[七月危機]]
 - [[韓国併合]]
