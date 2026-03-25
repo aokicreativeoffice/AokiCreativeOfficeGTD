@@ -33,8 +33,8 @@
   "hasSeenV4Welcome": true,
   "lastSeenVersion": "4.6.0",
   "ragIndexing": {
-    "enabled": false,
-    "fileSearchStoreName": null,
+    "enabled": true,
+    "fileSearchStoreName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
     "excludeFolders": [],
     "autoSync": true,
     "includeAttachments": false

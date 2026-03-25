@@ -1,0 +1,160 @@
+{
+  "version": "1.0",
+  "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+  "lastSync": 1774401937431,
+  "files": {
+    "01_fact_validation/Thinking Input Interface.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e2b1719c43df4708eb5d54101f86e3524311b8dc3083caa47012f9b40c710614",
+      "lastIndexed": 1774401894532
+    },
+    "01_fact_validation/Validation Protocol.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "45a3aecb9001f6c867587720c7060fd20956274dd1a422eeedc0e225b36eb107",
+      "lastIndexed": 1774401894631
+    },
+    "01_fact_validation/Fact Validation Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6572bd93132ecd2e4ee5a9f8f45d5a542c1079b49cb328acd6d91f28f8fddce2",
+      "lastIndexed": 1774401895525
+    },
+    "zettelkasten-api/node_modules/gopd/README.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a7eea5d772a46505e77560a29fce422810f59a09618c75331239731634658d6b",
+      "lastIndexed": 1774401901382
+    },
+    "02_zettelkasten/21_domain/fashion/オーダー方式比較（パターンオーダー Pitty ビスポーク）.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ed376dc3b0e4fca9c0abe9a735be6b96552d461a201f48c503658ef47a237678",
+      "lastIndexed": 1774401901477
+    },
+    "02_zettelkasten/21_domain/Urban_Observation_and_Tourism_Fieldwork/シラバス.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c658ffffa5274ca33d64d090e98aad8857b4a5fe875c10e2cdc00ff812c70c30",
+      "lastIndexed": 1774401906922
+    },
+    "02_zettelkasten/21_domain/Urban_Observation_and_Tourism_Fieldwork/第1回.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e22a1ee84a007f5ca4a8e1432b57210b534e1d8a82540c3de87956e84a19240d",
+      "lastIndexed": 1774401907009
+    },
+    "02_zettelkasten/21_domain/Urban_Observation_and_Tourism_Fieldwork/第4回.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c9eb5bdcb55e9e32e0628f92ca1c4aa21956b5ea7cba3758c58fa5ff718f4fa2",
+      "lastIndexed": 1774401907115
+    },
+    "02_zettelkasten/21_domain/fashion/セール品のジャケットを買うときに見るべき点.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "731d81af995a6bb2ea6ab6540b7ac15daa5744d90bf6d98f882bd5e90d145eba",
+      "lastIndexed": 1774401907702
+    },
+    "02_zettelkasten/21_domain/Urban_Observation_and_Tourism_Fieldwork/第3回.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4d426d2e6eee490b5979a06193ea9f5480ad047097d69cf189c9c170a554f6f4",
+      "lastIndexed": 1774401907856
+    },
+    "02_zettelkasten/21_domain/Urban_Observation_and_Tourism_Fieldwork/第2回.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1e661268e5fac905a664f9395c26df3e87b776302e8264dabe1a7c74c382e788",
+      "lastIndexed": 1774401912871
+    },
+    "02_zettelkasten/21_domain/Urban_Observation_and_Tourism_Fieldwork/第10回.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "93607d553d2a6edc7a10b70ef1a9ae56accf4d8a753ba996be86544dbe4100b5",
+      "lastIndexed": 1774401913447
+    },
+    "02_zettelkasten/21_domain/Urban_Observation_and_Tourism_Fieldwork/第8回.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "25a11ff5dd28041906d7bd1e1936a05130ad712e33ae85bb53bd7fbec497696f",
+      "lastIndexed": 1774401913629
+    },
+    "02_zettelkasten/21_domain/Urban_Observation_and_Tourism_Fieldwork/第5回.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4a329e5c7fd88882228a713dc52a9796123c8310fcaeebe27194560bf55fad05",
+      "lastIndexed": 1774401913686
+    },
+    "02_zettelkasten/21_domain/Urban_Observation_and_Tourism_Fieldwork/第9回.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9d59c443b449aef45b5012c63d0813398322540355cf0eb9a47c90db1bfb126d",
+      "lastIndexed": 1774401914018
+    },
+    "02_zettelkasten/21_domain/Urban_Observation_and_Tourism_Fieldwork/第6回.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "627134805641c339a0d1b35cbbe55826a20229c05ee9ab91d8fb1cdff6003af7",
+      "lastIndexed": 1774401919360
+    },
+    "02_zettelkasten/21_domain/Urban_Observation_and_Tourism_Fieldwork/第11回.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "52e02f1f21241573ccb419f4243e35de2854ae08efe822db0f005c0c21c4a97b",
+      "lastIndexed": 1774401919822
+    },
+    "02_zettelkasten/21_domain/Urban_Observation_and_Tourism_Fieldwork/第12回.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4a640effb8c8f33207cf9b366cd82e5b189c5ec35d0b7923f52bfb6081e09be1",
+      "lastIndexed": 1774401919875
+    },
+    "02_zettelkasten/21_domain/Urban_Observation_and_Tourism_Fieldwork/第15回.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2740c7052e3865e44ac48e0536496049ea6bc2d83cfe03fa8916381455007d28",
+      "lastIndexed": 1774401919941
+    },
+    "02_zettelkasten/21_domain/Urban_Observation_and_Tourism_Fieldwork/第7回.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "721d6378618f413db149037c1c59ea562397057f143fcc916768c55f25c55db9",
+      "lastIndexed": 1774401920275
+    },
+    "02_zettelkasten/21_domain/Urban_Observation_and_Tourism_Fieldwork/第13回.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "53a17cde0b0997efc12e206610b1e4c52f44d95781fa65c58b735d997f651c92",
+      "lastIndexed": 1774401924677
+    },
+    "02_zettelkasten/21_domain/Urban_Observation_and_Tourism_Fieldwork/第14回.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6be1f6af5fe05661475d5d9d740a7a284772c5aa40270106c8c598317a0aacb4",
+      "lastIndexed": 1774401925990
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/Fieldwork Tourism Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c31c8e86125a4b70caeb3f59e53d4f558346b44feac004234e3399388207eba3",
+      "lastIndexed": 1774401926577
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/視線構造分析.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f5887c790f8816cab0d5fcd71f883d1f72f0129dc82c102b2c0cc1db2d1c6ff9",
+      "lastIndexed": 1774401926639
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/02_structure/都市資源タイプ分類.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "71b7d21e2d830f471c892449be1f186985d89f741598036dfc710b463a81be51",
+      "lastIndexed": 1774401932586
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/03_mechanism/観光地発生メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "212f3510938b8f4ffaee56a487a522117f1788a5e966301ffda438c54a4fc01b",
+      "lastIndexed": 1774401932775
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/03_mechanism/観光圏形成メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ec7ea4eedc9f55b921465c9f88594d93aca37dc1a69003d6b0e729c93a0cbf23",
+      "lastIndexed": 1774401932894
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/02_structure/都市統合・表出評価フレームワーク.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "eea75af8855062fd0df016fd51b6d51d596fd8faf68844aef1f3b30eb045a868",
+      "lastIndexed": 1774401932980
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/dictionary/都市類型辞書.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6c6bdc26ccfe867b89c6d026382af9bf6be179c2f9b8d5e54670febe7370632e",
+      "lastIndexed": 1774401937065
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/02_structure/観光体験満足度（10軸モデル）.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3d22a76e159b5cf2ee02031dbe0ee58a5a6ceec2fc5d240816ae92bb195f5963",
+      "lastIndexed": 1774401937431
+    }
+  },
+  "indexingInProgress": true,
+  "indexingStartedAt": 1774401888343,
+  "lastIndexedFile": "02_zettelkasten/21_domain/fieldwork_tourism/02_structure/観光体験満足度（10軸モデル）.md"
+}
