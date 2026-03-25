@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774403271496,
+  "lastSync": 1774403330135,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -5515,4 +5515,306 @@
     },
     "02_zettelkasten/01_knowledge/world_model/concept/制約.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "1115ba
+      "contentHash": "1115ba42558eef0ab98336e898fb36fcf8843cb17d63e7366423323be13c020d",
+      "lastIndexed": 1774403261308
+    },
+    "02_zettelkasten/01_knowledge/world_model/concept/情報.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "95246bbd66c4df18e9c7b101e963a3f2b9db32039208ce4880321cdc8567599e",
+      "lastIndexed": 1774403261338
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/identity/アイデンティティメカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "086b61f5b7533b4311ba2944e521cb9662679d6a7c20f87629f71ec2cc59aba2",
+      "lastIndexed": 1774403265382
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/cognition/無題のファイル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "01ab621c403699104bfbf755178d557efa9619213ced6b8fce6d8db65178708c",
+      "lastIndexed": 1774403266344
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/incentive/交換メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cd7de3b20152d84128e71374e5e40e6393099eeb4c6317c375d313bab64d10b3",
+      "lastIndexed": 1774403266418
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/incentive/インセンティブメカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "44d1f1e7c08184e56903461476ba6bfa3cd870fbb95fe57c1ae15b196aba028c",
+      "lastIndexed": 1774403266465
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/learning/強化メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b04c66b8db0e6b5637a55cd7b88f85637fdd52a8f97c6e1d0e96e8e43f556c10",
+      "lastIndexed": 1774403270637
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/learning/学習メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8cf9f258ba2ffc7c5ad0f987a0f09c3e74889f0164786868ac09af123dba33ea",
+      "lastIndexed": 1774403271208
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/evolution/選択圧.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "71ec9a6cb75f79967038de4fd15ff1f45dc201faf0e958df9ef3ffd69e3a889d",
+      "lastIndexed": 1774403271237
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/evolution/変異.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "db1973e2d296542340501de47312b80f6d95cfb9e12382adc1b22d6a2b0d8538",
+      "lastIndexed": 1774403271496
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/evolution/淘汰.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "89751714d7c39c6f7702e3d93091cd0dcb237c336205461be6dacf5dbc57fe9c",
+      "lastIndexed": 1774403272195
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/mechanism テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0f6964e993464b78b844e3b56e26cc35a8a1216b74cebce5e42f3bbe7c57e45e",
+      "lastIndexed": 1774403277458
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/system/負のフィードバック.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "db692adb9445886eb88e5fab22d943e32ed59644771bf678f19a6498e7f59976",
+      "lastIndexed": 1774403277510
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/system/正のフィードバック.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fbe8fd7b72ca7d6fd2786dd645a1bdf8eeaa0654011675503f4c9f1943f62cca",
+      "lastIndexed": 1774403277568
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/Mechanism Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e0ac654403043a1262f5d639db596ddd2dfb9d2d1a6185c513e9232e58992efc",
+      "lastIndexed": 1774403277680
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/system/Adaptation Mechanism.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "07d7f4e4b44e8ab6a18a7c37f3fe0490344f6f9c73e50eeac8fd0688c82a68f9",
+      "lastIndexed": 1774403278934
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/system/Selection Mechanism.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e283df126fe666ebcd0572b6130476968460636b9dcfef22fbed69a01d52eb53",
+      "lastIndexed": 1774403283740
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/system/Path Dependence Mechanism.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "aa926b39b83234bdd9ee44b7d960992f8ec0be072f8b331bd337c9a130e883b8",
+      "lastIndexed": 1774403283858
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/system/Lock-in Mechanism.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a6e2d884b372d5b4a2ecc41ec7f0ecf5ac4ce23bacf497a2feefa96c804f3967",
+      "lastIndexed": 1774403283928
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/information/情報非対称メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f4f5afd3a73e1225e8a972eb1952a95584aeabdeda729cb9892c5bfee4d7f8bd",
+      "lastIndexed": 1774403284029
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/system/Feedback Mechanism.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2fbc7440688dd29173f488ce69f799d496405c4dea8efac0ef2d67389aecc894",
+      "lastIndexed": 1774403284167
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/information/物語形成メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "67f1fd45fd5887345b053dd9929eaa7c51f52b9ef5acb2000dc80844a695461b",
+      "lastIndexed": 1774403288169
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/information/シグナリングメカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7a447ef1e165f112528fd679b0d8203a6e7b613478a2cdf6be5fefa53f59ddb1",
+      "lastIndexed": 1774403288535
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/institutional/規範形成メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ea41b8cb4398106e9ef474a2fe6d9af31c3444cfdb54203901925373b4dad13a",
+      "lastIndexed": 1774403288611
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/information/評判メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3a956d20d758de5a7bacb067c9a8d84f3f6f3958706622260ab3ac5777141fb5",
+      "lastIndexed": 1774403289211
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/information/情報拡散メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ba9041f7284179a3d9270cdab3fbb8580fad2b1a1db4e31a71def18470d3b48f",
+      "lastIndexed": 1774403289659
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/institutional/制度変化メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "be0e5d4ee863beb64b9e2d7d1065594b93e64851e8e3cf9de9390b8b86cbeeeb",
+      "lastIndexed": 1774403294135
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/institutional/機会形成メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b9ba1ad3cbb51d9179e5b59ab9f32b1fa35e06adcb76aafe2cf627febb6b642c",
+      "lastIndexed": 1774403294518
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/institutional/権力集中メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3bdc00d328e4cdd839139caa8efc5c9517f2c4a0a3bf9835a3e047bbe4febc34",
+      "lastIndexed": 1774403294670
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/institutional/官僚制メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d92c5b1c9651fc99e034ec23846b8bef605f43533d7e48c78135967b2592944c",
+      "lastIndexed": 1774403294746
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/institutional/ルール執行メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d7215a858bc49aefdcdda377fadd9f66c93fdbdd8de4c3a40e22416738b57806",
+      "lastIndexed": 1774403295807
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/interaction/Trust Formation Mechanism.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "572ba3498302551041f024e1d63e7429898fbc4133940bd76d3c3fed0db39f5b",
+      "lastIndexed": 1774403300647
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/institutional/Legitimacy Mechanism.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2a21370fef136285daf747def76401fe17e9a7b1890d227513b1121bb2bcc9cd",
+      "lastIndexed": 1774403300667
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/interaction/Free Rider Mechanism.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0a9bd83d582a14f0c76c8c7ba1fb93aeaf5045726cb5c6769ae29d5345ecb67b",
+      "lastIndexed": 1774403300671
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/institutional/信頼形成メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5e42e5fd4e50da88c52e7f1ee4d8f43f06e86e346eac1e6ba03b2d147da28092",
+      "lastIndexed": 1774403300940
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/institutional/Institutional Drift Mechanism.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5be4088e7fd5c8428ae64594f4809d931bc43183436f4cd6c2ee531698c86761",
+      "lastIndexed": 1774403301516
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/interaction/Conflict Mechanism.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c2fe02fcdc9969b7b7fad7bc277382e8a4dacb406e178adddd118a9fe7b78537",
+      "lastIndexed": 1774403306230
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/interaction/Collective Action Mechanism.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bee034803b9f35d25edc0d9e50f6e6a3be327f93042c436fccd17ede75f24505",
+      "lastIndexed": 1774403306717
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/interaction/Competition Mechanism.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "789aea7cce3fbfdf29a47b2a1decc5e9cc2b32a147cf8245051763ec91f825db",
+      "lastIndexed": 1774403306766
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/interaction/Cooperation Mechanism.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fe138f7235087025dfd1de1c6d8ea3f9b53ceee1b08fedcbdf4a143bf4b2a75b",
+      "lastIndexed": 1774403306875
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/interaction/社会規範メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "02a1b8822bcb6405eb1b96c00a29fcbf0653bf4d34d9714db733f490130392fe",
+      "lastIndexed": 1774403307468
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/decision/習慣形成メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "742a2dd85b167791cbfe02fd05573295ba3dfea9355b328abb9f553af0a88d89",
+      "lastIndexed": 1774403311848
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/interaction/Coordination Mechanism.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0e5e106491d76120b92f690a2bfceed898b1a79c409ddba60be73baafb1f0309",
+      "lastIndexed": 1774403311908
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/decision/感情メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "71d5774bb3f41ca66b98be622c09ade0f906d4d548894023181174ac7a69cd3f",
+      "lastIndexed": 1774403312058
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/decision/限定合理性メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1eac6a8f2a6b08b354b2d9b20ffb0a876a80f1717caa2b03947fb511d32f4dbf",
+      "lastIndexed": 1774403312179
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/decision/信念更新メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "80387a4352458ac29cda85ac91b0023825da6fe543dfae9a1b4f48e8e9c78e08",
+      "lastIndexed": 1774403312578
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/decision/Decision Mechanism Graph.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1d86d2741d32711c07a7e6be72f09056df915c980e7a54b0abf76a493adc040c",
+      "lastIndexed": 1774403316415
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/domain/railway/高速鉄道駅配置モデル/高速鉄道駅配置モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "25eae0d27457bbe0705e7cb2c2d7f2e7c3cf247bb91d0fdfc7f2d7165d2b3fa0",
+      "lastIndexed": 1774403316949
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/decision/価値形成メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "37383e4899cdbb12caa86231490d6543b8c9c5b935bd3996646ee7c19e0cf2f3",
+      "lastIndexed": 1774403317044
+    },
+    "02_zettelkasten/01_knowledge/world_model/mechanism/decision/最適化.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9f9de88aee2a6ae52f35681714c664df36203319b69d1590a70492db06ae1753",
+      "lastIndexed": 1774403317637
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/domain/railway/高速鉄道駅配置モデル/貫通型モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0094b6387ee65fed1ac9d65c1c368e509f2498d69a6d3adcdc591212cdec1fe3",
+      "lastIndexed": 1774403318256
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/domain/railway/高速鉄道駅配置モデル/ターミナル型結節モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "157855c8cd33c24f3b72950e0633212e553982271553ea77a8248688caa829e8",
+      "lastIndexed": 1774403322771
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/case テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f93e7b99ee00a7feb616bd67ebf09af9f80c089e762adf746256fa6bef30b027",
+      "lastIndexed": 1774403322890
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/domain/railway/高速鉄道駅配置モデル/幹線直線モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "deaac91d40cdb86c1609e69007e1336bda6470ea33e83671159f0532c8be4750",
+      "lastIndexed": 1774403322948
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/domain/railway/高速鉄道駅配置モデル/バイパス型モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a5126b07f272d1a0401b969a6fa618071252b61fb6b0a588bab1e92fcf4111b5",
+      "lastIndexed": 1774403323034
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/system/ecology/ニッチ形成.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "798039cffdd81cb5ea503ec305cfd168236d52b7aa88890d65fa4a8b32646f64",
+      "lastIndexed": 1774403323666
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/system/dynamic/ロックイン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5af9bdff8870f2171cb998758874deb177f72a4d79ee3a2287c45e2981e41d1d",
+      "lastIndexed": 1774403327611
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/system/dynamic/臨界現象.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b7b0a491b3ce16a9594f4d13540af28f54d4037ce35dd42f9993db043c85e2f4",
+      "lastIndexed": 1774403328653
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/system/ecology/捕食関係.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f6f6ecb5fc0ff5ca947cc1499c4e51808efff7523527464265bf1638d9536585",
+      "lastIndexed": 1774403328662
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/system/dynamic/集合知.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8f7e5b0c908ecb29144286ee7168380af8371c792029eaeed117519897a83bf8",
+      "lastIndexed": 1774403330135
+    }
+  },
+  "indexingInProgress": true,
+  "indexingStartedAt": 1774401888343,
+  "lastIndexedFile": "02_zettelkasten/01_knowledge/world_model/model/system/dynamic/集合知.md"
+}
