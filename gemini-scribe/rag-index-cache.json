@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774403479091,
+  "lastSync": 1774403557347,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -6362,9 +6362,359 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "8c65b515fc8af8c1f687366f74e9e6df656b0df8cf4f9909d0fdbdf7d1f20b19",
       "lastIndexed": 1774403479091
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/human/習慣形成原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9f74fe36afa51ef964d942f79dd0f8b06c9eff77058c49006e76e5aa431a7d80",
+      "lastIndexed": 1774403479311
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/human/目標志向原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3c9f54cec74efe373fb1f41939492bf7b9ceec8da94266d08c99c695a295c230",
+      "lastIndexed": 1774403479679
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/human/psychological principles Kernel Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4c61f02e7ca1e5d916d216e694bcf7c88357766f490ddbe35d45db85a35bbb85",
+      "lastIndexed": 1774403479850
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/human/認知制約原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6ac79a67334a27f775ed7e60723b93041221560ec4d9f59cde658369b1b87520",
+      "lastIndexed": 1774403480028
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/プロスペクト理論.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f6fe51335c358de74cd9caa2dac0749c876379bca209ca22edba7af10504341b",
+      "lastIndexed": 1774403484374
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/human/物語化原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9da9c09516e01a2e44c777d28b4231b1760b5a990b0225d27b3b1c1770ddb7aa",
+      "lastIndexed": 1774403484848
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/human/社会性原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2c89ed0d31593bc4bce319e1f06c9d49b02e0a77609017d7b5cf229218211315",
+      "lastIndexed": 1774403484978
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/human/感情駆動原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "14081e29fcb0bcea7dca255b1fce7cf95b2edbebafd2749c2cee3e4f4fd1275c",
+      "lastIndexed": 1774403486196
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/ストレス反応.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4287cd9ba081574528dd91651819ddd14772b234126439941fb15be4b592eba2",
+      "lastIndexed": 1774403486235
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/psychological mecanism Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4a184ca36510505252b42538bf176d48c8abcc87c411df323dcaccdfde77b1da",
+      "lastIndexed": 1774403490924
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/同調.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "681f218a1fe0296322f7e5ad5fdecc7a4b0fe68e2d4b72f24329e7b59182f99f",
+      "lastIndexed": 1774403491033
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/意思決定.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "017bec325922d327118709a2951f033a1381e66be37e6f81283b141c4036ea1a",
+      "lastIndexed": 1774403491039
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/社会的影響.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "728bacff1229c7fb91145620d3a3f54408e963fa3b938ce5920cee23ebdd6ec4",
+      "lastIndexed": 1774403491155
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/感情制御.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "281ad080768eb8795b688fef120bbcdd475476f6a2a7e11ee5492e1e522183ee",
+      "lastIndexed": 1774403491717
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/社会的証明.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "447a18cd14eb539d802a396f4f23e1d8f4ec1cd6ca1692d6ba2a83d7dbd11f4d",
+      "lastIndexed": 1774403496196
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/欲求原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "00f0ec656fefd13bcb60bfbbcd942971267f01a15f6dbc486cc4b3f610c26def",
+      "lastIndexed": 1774403496340
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/オペラント条件付け.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3646ee686d99ac5c7243e97bc3bac6cc14d8a6d2f5dcbd814a276c8305c122f6",
+      "lastIndexed": 1774403496486
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/模倣原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8eb090a2ca8b028785a8e5b63469a24cc725aedd55c250c751a75cd0b6bc6e99",
+      "lastIndexed": 1774403496499
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/意味追求原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "efc3ffad95e86632347131f264825c45f005ed4eab27cd0b4440a138641081b7",
+      "lastIndexed": 1774403497397
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/motivation/動機形成.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4802876847d78eb43ef7f13958326f377f681311481c00100298e9dfe861be6a",
+      "lastIndexed": 1774403502293
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/社会性原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2c6e22f3244b2f338a00c413fd0929aaf8c91d693425b3a2265587c8dcdfcb43",
+      "lastIndexed": 1774403502519
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/目標志向原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d0583cacd2189604a7b2c5566c423eae01f742cfcbeaceec31ecf2163c626731",
+      "lastIndexed": 1774403502524
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/物語化原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "98619e2b8e773c3980f4c2911db255e1ce5eb176966fb516a12baa1c8bfd06d3",
+      "lastIndexed": 1774403502886
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/congnition/フレーミング効果.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9f57c3321969866865f632a7647f1ffd3576e24ffc179e72e9ba78b7be808d11",
+      "lastIndexed": 1774403507277
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/congnition/権威影響.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7901d421bbab72d723b6ed6e5c90ca1df664dd6440fd4ae60f157e0d5aae0ee2",
+      "lastIndexed": 1774403508217
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/congnition/認知バイアス.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1db540281869e57fef9f5cca13638cbd201186dc080f9e2637eced4ca0c32948",
+      "lastIndexed": 1774403508405
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/congnition/ヒューリスティック構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fd2dcfb648564ab4140b2c01ff1d7d92ae4782d848aaac34800196666878e7fc",
+      "lastIndexed": 1774403508647
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/congnition/限定合理性.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b243e13beb418ed03ab5d845706dcade2f480efe506792322e75d66949d8179f",
+      "lastIndexed": 1774403509541
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/congnition/パターン認識原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "231c5fd99d1ce3a0a25a67b8506b4b8f8cedfa310c0e98e79473c9b16c7d642a",
+      "lastIndexed": 1774403514064
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/congnition/抽象化原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "dd253d50657453d332af3f13c0c88e636da22ff6f570ae40d902dab73fb7219a",
+      "lastIndexed": 1774403514973
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/congnition/予測処理原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "886bf8d9815045efac2415a13e2f7205124d24cf3507e83b43d8e07c3d687643",
+      "lastIndexed": 1774403515509
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/congnition/注意制約原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "70c1755b4040769d80a4931918c000c2532d043152412d7d43dfcb6a200dc691",
+      "lastIndexed": 1774403515566
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/congnition/認知負荷.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f72400049bd573f09fc01892b9c57514bf6f3f43d46924f463d5f62a4c10221a",
+      "lastIndexed": 1774403515697
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/learning/模倣原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8d358df3954e3dba203b51f6931d014a5fa985fa39b8e4035c9311a5d415325b",
+      "lastIndexed": 1774403520020
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/learning/試行錯誤.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a242d75d4c16d174643ca4f2ae722af08ae7db84189746d4b7c255aef39380fd",
+      "lastIndexed": 1774403520058
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/learning/適応原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "18889e9cd540c97642d089bbe2cecce9d6b17d4753330c4f4b9dbfc2a96d536d",
+      "lastIndexed": 1774403520069
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/learning/習慣ループ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a65155f392cf4f126593711630df860af04a246b6d4653bad26bd5b81847d133",
+      "lastIndexed": 1774403520501
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/learning/行動強化.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8fd326f33d2ad490ef82425236f95fd0d2a2a2480a4019689ef7a1d1a4855955",
+      "lastIndexed": 1774403520549
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/Pattern Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4bf8aca0b44614a2bb3eee577aa621e88c2b8b1b16624d1839c40081df09133c",
+      "lastIndexed": 1774403524790
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/learning/学習原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "41c5a8915c6020c79a83d3714252c3a191eb2af564d715e55fb27f969b997a80",
+      "lastIndexed": 1774403524899
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/learning/探索原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "796d40db9c693a19982bc39555dabc5df9b694e566335e61194b76cdae6b47f5",
+      "lastIndexed": 1774403525781
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/learning/習慣形成原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "18b23fb5fffc4a6b1bdae281a9e7e7fe0ea3b106e108bcf2c637167be1aa62ce",
+      "lastIndexed": 1774403525853
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/civilization/pattern/文明停滞パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ac08a59462d22999832831565ab769b58d5afe4953e728428c7554f0c7cde674",
+      "lastIndexed": 1774403529558
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/pattern テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6e418dd3284e66201f0f6cc3720f90b48b70107b199dc9ce871693f34e1b001c",
+      "lastIndexed": 1774403530580
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/civilization/pattern/文明後退パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c841cd26a5ac147b979fb426d13f9c2f3cde69055b56512705c8976640fb1f2a",
+      "lastIndexed": 1774403530597
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/civilization/pattern/文明衰退パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4e6224393eaa2169ba78cefe02396825a6e61265b435f327b80b2e6a313d3915",
+      "lastIndexed": 1774403530876
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/civilization/civilization Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8065f7fd06ee7acf17975d12a749f42a12e90176b860cebf1cae2d18b5860bcf",
+      "lastIndexed": 1774403531585
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/civilization/pattern/文明成長パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bae720e3bfd6338bf10b10605200d231aea455493fc634cc3d6764e59ee71ba2",
+      "lastIndexed": 1774403535653
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/civilization/structure/経済構造（文明）.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "795b7849ee119c01daffbb71e3b721cddcb973a970f922fd49e98d0449c62c32",
+      "lastIndexed": 1774403535769
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/civilization/structure/技術構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7f0c9d2e517347f84ae79ccd2323263a9781dbc53ff53a89bd73a4888518843d",
+      "lastIndexed": 1774403536255
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/civilization/structure/宗教構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "698172db3220aa11d73c101a8aa1d3b35e0ad5821bebabae2ff750decb9bd09a",
+      "lastIndexed": 1774403536914
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/civilization/structure/帝国構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0896fa4b3eeda9e8212e7a63bb16dc12135c39e92df911f351f7f71a01d0e0dc",
+      "lastIndexed": 1774403537272
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/state/pattern/国家官僚化パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ac5cf35418ac02aea9640e0e0af74188ac0fd125ac0290a965c8bb84d1c3926f",
+      "lastIndexed": 1774403541519
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/state/pattern/国家衰退パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "accbb1cfa6b22f42bf47201c1579a6f21557fb0dfb4c2d365bd23d995a1a51f3",
+      "lastIndexed": 1774403541700
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/state/pattern/革命パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "59202012e56e1f6ad26bf622f9095d888e7fd9c67d5cd4fabb2a4910dcec9852",
+      "lastIndexed": 1774403541767
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/state/State_Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a6895233c4be93f58d594a7d5ad2a31df3ae1fe38387b07fafe90e2a2b1171d7",
+      "lastIndexed": 1774403542043
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/civilization/structure/文化構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "73bd959bad6e172e85efcecb0b90025e3da27e1ea7390b7a41512ebb874a42cb",
+      "lastIndexed": 1774403542239
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/state/structure/領域構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0786773fd21fd058a6c111d11f17c2dd58f9305b59176672de672d28e9df4771",
+      "lastIndexed": 1774403546476
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/state/structure/制度構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fc219a56549a222ae3401ba73d34dcd2d0795f9750b353b99ce75300a18e3c31",
+      "lastIndexed": 1774403546516
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/state/structure/権力構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e2a2348fa0e29d3443682225db9a1903ea9f766ef8941a34087a1631586f458c",
+      "lastIndexed": 1774403547135
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/state/structure/正当性構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "416fa24b951206f87daa7e1391e4c4ec873c0aa85ac068d868d6f76ae71e962a",
+      "lastIndexed": 1774403547220
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/state/structure/統治構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d626d2c362cbf7ffc0213c1979ba358b78f34a5d2424074288c395fd13f9fd17",
+      "lastIndexed": 1774403547557
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/technology/structure/技術エコシステム構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "deee03d3387790e3c66f1a383b9864f569acddf755d70146ae87bc634690ecc5",
+      "lastIndexed": 1774403551625
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/technology/structure/技術プラットフォーム構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f59df95b64a23e867237265c2fc21e91ada76e20e6f29a4e0c2b785eb666efa3",
+      "lastIndexed": 1774403551753
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/technology/structure/技術インフラ構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c6cbfbc8d4818b5f8c99c22e61cfd782d8d65d719c30a5a3025606dac20781de",
+      "lastIndexed": 1774403551983
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/technology/structure/技術ネットワーク構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cc0247a02906ec3d9e44741329133e93e4c7756cc64e632f9fb2628af00157a7",
+      "lastIndexed": 1774403552022
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/technology/Technology_Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "869b673e2a7c02124518cdedbb97d4bc37637e79b5e22452a59d5c7f3f5e8da5",
+      "lastIndexed": 1774403552535
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/technology/structure/技術産業構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "658c66ab216683b368a09f066ab95c6535d96aa6c03eeb386c8b91a944d023b4",
+      "lastIndexed": 1774403556926
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/technology/structure/技術進化構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "03f12cb92d32ce3ea039435460d5f03426b46d90648a0aa80b9da375ba58d1d8",
+      "lastIndexed": 1774403557234
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/technology/structure/技術知識構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "77efb26a7c431069a56b1d2b91fd53b223a47a7be3936f684bdc29646a59d137",
+      "lastIndexed": 1774403557347
     }
   },
   "indexingInProgress": true,
   "indexingStartedAt": 1774401888343,
-  "lastIndexedFile": "02_zettelkasten/01_knowledge/world_model/model/human/human/意味追求原理.md"
+  "lastIndexedFile": "02_zettelkasten/01_knowledge/world_model/pattern/technology/structure/技術知識構造.md"
 }
