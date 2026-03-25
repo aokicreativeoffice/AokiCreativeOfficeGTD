@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774403406269,
+  "lastSync": 1774403479091,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -6062,9 +6062,309 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "fa7f086023a9ae1659b1403a3edd172a177d32f89b892b7cc1fce1fe74107242",
       "lastIndexed": 1774403406269
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/competition/ニッチ支配.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3456792309961bca38edbe099ab191d71565363eb1cb0ec3e405c62f681734fb",
+      "lastIndexed": 1774403406434
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/competition/価格競争の消耗.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cae904c96848a22dbf86dae74d87982c6505e16eacdc4ac9c476c796cfe57906",
+      "lastIndexed": 1774403406890
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/competition/00 competition Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7281170b93e4e590d5b0828f91b58fb05e13f7247bc7bc83861bf6c5692eceae",
+      "lastIndexed": 1774403407275
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/competition/差別化.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d83cb935d4bb0027fc88a1bfc4c6a7baa901ba29d1859297f816f37aa0b08f73",
+      "lastIndexed": 1774403411430
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/competition/ブランド蓄積.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "39e27e54ebdf7a1cbb9cee30a67203a9708d3b309440b89a9f7aa6cfe87e4e74",
+      "lastIndexed": 1774403411587
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/competition/規模優位.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7c6ac9b0b7ca75c995cce86d1ca05a3d17afe1a361f3998a9452f8738da2a9ba",
+      "lastIndexed": 1774403411615
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/competition/先行者優位.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "decca33e7984997cabf81f4cb5371e10abc96b7b28d51563972199238233654c",
+      "lastIndexed": 1774403412204
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/competition/後発最適化.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "21360bda1217d62fed238541006546d994145fec432807e59ae43fb928f691f2",
+      "lastIndexed": 1774403412368
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/competition/切替コスト.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3a03da608c3e7bebd34203dd6465841b3fcf45e2ebce64e8e9dbfac55a9e2773",
+      "lastIndexed": 1774403416639
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/information/00 information Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "62d29118311cee861fbb7d251a06be9ac9498320f768f554ef378ebddd448cdc",
+      "lastIndexed": 1774403417124
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/competition/参入障壁.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "358466dc22aecd75b908e4263a4a0ed3ebc87e557d6c8785330aa6085175dc68",
+      "lastIndexed": 1774403417182
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/information/情報非対称.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "308d2396fd283c2875f4687af810bdcadaff725423d82c48ae79ff9fb65d9a7b",
+      "lastIndexed": 1774403417356
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/information/認知バイアス.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "540d94256bac61a04aeacf58a3c85ae31813c952d952490ae907fdfc993d3e0a",
+      "lastIndexed": 1774403417862
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/information/シグナリング.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ca2c562d17e764dd7c5d7423712bbae4f7e5c04471a3558703adba5117c666b2",
+      "lastIndexed": 1774403421757
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/information/期待形成.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "32de60d558d960b86019e012d52888dee813ca1a32d56efa913b712ca891c151",
+      "lastIndexed": 1774403422395
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/information/スクリーニング.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5df2c9e3d1c1989a53131f97b9009e82869191a38800821b812ed6b0261f446c",
+      "lastIndexed": 1774403422511
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/information/学習.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c6bf6766a9d314c3164556a14e40442cbf2cfb30b0f815c8dfcfa2c659142b1c",
+      "lastIndexed": 1774403422780
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/information/不確実性.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "07ff2a335bfa81c610602693b0ea89e172dbdda79f3c96ec519bb0482f665ed0",
+      "lastIndexed": 1774403422787
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/efficiency/00 efficiency Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1351273fb2f81be15571b43c31243b617c221db35776d27adf43a4514e4b8a3e",
+      "lastIndexed": 1774403426619
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/efficiency/ボトルネック支配.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6b4f8d4b34cde5652a857514a7f308b6fc0c95ac06dae20578380a68713e5696",
+      "lastIndexed": 1774403426670
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/efficiency/フロー最適化.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6e14be7335f9cc79244e568fda44a9cf7eeb05b0c805d649c87ea4d1b8cddda5",
+      "lastIndexed": 1774403427149
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/information/情報更新.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7bdca62661423a0f1cf74c4f824a5ebc43ab75e9bf2510161198228e7aac917b",
+      "lastIndexed": 1774403427497
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/efficiency/再利用原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2c79da33312793d3690a2b9f3b16ab3cc374a6825410cdc9dabace5ee52cdd6a",
+      "lastIndexed": 1774403427703
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/efficiency/規模の経済.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e1d85cf79fd2a76199c127bdd41d5877eef03ef9b0eb2d326b3dccc8fcd4b6d3",
+      "lastIndexed": 1774403431736
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/efficiency/自動化優先.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d2c32a05706872f45d615082ab98c4dc72079273208c11162d5a9a14d1d3eb0a",
+      "lastIndexed": 1774403431984
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/efficiency/取引コスト最小化.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b53bddcff7b869c46063f3238972eab584c56fd2e90d138cfd0626f1fb8ce849",
+      "lastIndexed": 1774403432222
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/efficiency/学習曲線.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d8590f16838fb7c4dbc99af13bb85228994a6aad8961feddbf091fdcd9689147",
+      "lastIndexed": 1774403432230
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/efficiency/限界効用.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "85d68a8381c83fdc6c07442c350e1f346f604fa96906fa33932d56bfd43239ae",
+      "lastIndexed": 1774403432591
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/incentive/逆選択.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6141eb93660c8f27128580d48874f97874115ed7d3cd9d320d8f757c4e729086",
+      "lastIndexed": 1774403436706
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/incentive/モラルハザード.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "dbb9f544e81836a9a4a7919db6bac1f787c55063c513cc6bd3c183e9be2b6590",
+      "lastIndexed": 1774403437072
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/incentive/インセンティブ設計.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "487ad457d5bb301e0df7207ef5d6278346d8af01b73a046bcc239e746e4b06b7",
+      "lastIndexed": 1774403437103
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/incentive/00 incentive Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fa8075db9f488a8c9e500da21d0652b6b616b81d2621a99f968cdbda1ec17fb1",
+      "lastIndexed": 1774403437228
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/efficiency/専門化.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5779ec836b7011c4859e97859a2eace3c66d0fa63082aa93dfff0ea5dcc8ded0",
+      "lastIndexed": 1774403437528
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/incentive/責任帰属.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "655f00fa1a96692a51f37eb54e74458a38e5e0831c7ddfcb3a7fb00dc9236911",
+      "lastIndexed": 1774403441739
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/incentive/評判効果.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "baf4ea16e43e4f3b0309b6c7529bc366bada0e6ed3180095c9bd0a84ad022a59",
+      "lastIndexed": 1774403441775
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/incentive/評価指標の歪み.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7fe6b790b01fa8c56e72f0fae7caa404317aa672857e3e601f9fc69a04508c1e",
+      "lastIndexed": 1774403442287
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/incentive/報酬整合.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d09ee4e4de098d9f308e97088fec5f4062e61f792bd0caa18665a6794bddbae1",
+      "lastIndexed": 1774403442326
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/incentive/短期合理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "398518f141e505423aa944feddcb0f0c10a934a369ec41069335684f374e5bf9",
+      "lastIndexed": 1774403442633
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/reasoning/K-005 再帰検証原則.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5fa3c8b21daa20ab1abff31f2dc185cebf56648d32b3a8f8d816a46ea4a3cc8a",
+      "lastIndexed": 1774403446910
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/incentive/罰と報酬.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2b37bf993cb3791743668958fc067711a02ef803ce7b3e15113d1837269ceaf2",
+      "lastIndexed": 1774403447122
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/reasoning/K-003 原理と可変の区別.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e2e252bd68cfed4632b3994cfc15623a42976d11df9907ca185dee189d38bbb8",
+      "lastIndexed": 1774403447348
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/reasoning/K-002 整合性優先原則.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "36ccc28fd59976ca46e1e8679031c80c6c9b21108241040080a16ac930dcba8d",
+      "lastIndexed": 1774403447457
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/reasoning/K-001 判断優先順位構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "21b8dcacbb12f15726beccd33bf5b0f1c69894f920f85890f2f44a0f129093ca",
+      "lastIndexed": 1774403447720
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/reasoning/K-004 文脈依存原則.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2df34738b4cfd1ce52a02299e3f839d6f32072faed1e23c984719eb5ec1ee627",
+      "lastIndexed": 1774403452668
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/power/官僚化.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "829369d6f7f5139746324a6d0d6972e2aa73c93b5e13c30723a5703167c7a12a",
+      "lastIndexed": 1774403457095
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/power/アジェンダ設定.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7bd70a5e68b05ee6d138d11fe1c1c3e87cf4f1573588b51e9b4a79db013de282",
+      "lastIndexed": 1774403457162
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/power/権力形成原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8ef35fa5b3acc2064768299bd246c6596e6a658aed09abbed537111a4e4b0d0d",
+      "lastIndexed": 1774403459009
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/power/代理問題.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e1df25b00e689741f0db9799da788a05a8e00b918641e6875367b2a20e96f2b5",
+      "lastIndexed": 1774403463451
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/power/資源支配.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f1021b30f92f8f9d53032bbc93d6a933358e49b204a08da6e0950bd86383bb46",
+      "lastIndexed": 1774403463589
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/power/権力集中.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "71c92e1a734515b529c42756459760890226b483e6df34f9bcdf318ecec3a217",
+      "lastIndexed": 1774403464059
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/power/情報権力.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ebf855beda8f08b80ce71f6d5490e68844be619cabf147563ccf27e48d6cb638",
+      "lastIndexed": 1774403464200
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/power/正統性原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bb7dc8c536fe24a37dee3a0dad2592d4b39d191bf7e44dcbbbad96d13effbf69",
+      "lastIndexed": 1774403464719
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/power/内部政治.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d6a01eb61fcf60092938d6e7d7f8809a2fdb770a5a67c6e75ae41de4587fc369",
+      "lastIndexed": 1774403468950
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/power/制度支配.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f80f7954e1f7fb7bece83344302705d8d53b10076e2829dce8e0a15570ff63b8",
+      "lastIndexed": 1774403468999
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/power/連合形成.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b150ef436adcd002c510a0dd0fb52f121228139229e86490a5bd85e5620f5b15",
+      "lastIndexed": 1774403469322
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/social/power/00 power Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5c1c38f104507e95d455c0f7c6cef9caac845b22e7c78b31831eff8f46622efd",
+      "lastIndexed": 1774403469438
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/human/アイデンティティ形成原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2188dcfc2d5b5b33e375085fe1ef5743d9dc55de8752a056adeccb11ca8702d3",
+      "lastIndexed": 1774403474088
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/human/注意資源原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5967470b91672ff009bf437e5a61297c6338a03e4c637bf7f0237d820da91ea9",
+      "lastIndexed": 1774403474431
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/human/快楽回避原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b00f0f0c1581941d35650441853c6ca0b8c96da77a00c455efabf08a4450dede",
+      "lastIndexed": 1774403474764
+    },
+    "02_zettelkasten/01_knowledge/world_model/model/human/human/意味追求原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8c65b515fc8af8c1f687366f74e9e6df656b0df8cf4f9909d0fdbdf7d1f20b19",
+      "lastIndexed": 1774403479091
     }
   },
   "indexingInProgress": true,
   "indexingStartedAt": 1774401888343,
-  "lastIndexedFile": "02_zettelkasten/01_knowledge/world_model/model/social/competition/ネットワーク効果.md"
+  "lastIndexedFile": "02_zettelkasten/01_knowledge/world_model/model/human/human/意味追求原理.md"
 }
