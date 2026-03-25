@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774402429958,
+  "lastSync": 1774402561047,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -2127,9 +2127,564 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "bf67c7c57fb34b0cd848216d82eb63cc0aa21339ea340e69fb1d4401185ed2ff",
       "lastIndexed": 1774402429958
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/SaaS責任/fact/報酬の対価性.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1913ac3b76c3b128e57db66e719aedee1e4b7b61ec7a2e29b7c8b2d5c61078e4",
+      "lastIndexed": 1774402430107
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/通訳案内/evidence/シフト表.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a1722a84a7bf2ef8243319b2166738dbbaae83e996fb5d094fd8edd01214622b",
+      "lastIndexed": 1774402434381
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/SaaS責任/fact/業務指示.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f3222383f6a80bc2e0d04191af698ae012a3fc0563b75356d57d1226a959a7ae",
+      "lastIndexed": 1774402434711
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/通訳案内/fact/勤務時間拘束.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bf67c7c57fb34b0cd848216d82eb63cc0aa21339ea340e69fb1d4401185ed2ff",
+      "lastIndexed": 1774402434842
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/通訳案内/evidence/業務マニュアル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a1722a84a7bf2ef8243319b2166738dbbaae83e996fb5d094fd8edd01214622b",
+      "lastIndexed": 1774402434904
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/通訳案内/通訳案内に該当するか.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0da864d5a267fbafa55fd94b812e9e1c89fc7d064af2bb182fcf33f5e48cc00f",
+      "lastIndexed": 1774402435240
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/旅行業該当性/evidence/シフト表.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a1722a84a7bf2ef8243319b2166738dbbaae83e996fb5d094fd8edd01214622b",
+      "lastIndexed": 1774402440072
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/通訳案内/fact/業務指示.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f3222383f6a80bc2e0d04191af698ae012a3fc0563b75356d57d1226a959a7ae",
+      "lastIndexed": 1774402440094
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/通訳案内/fact/指揮命令関係.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "286b030d9d63b7fc44c6a08f86eb949803434857eab4d10b947b1100d217f820",
+      "lastIndexed": 1774402440132
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/旅行業該当性/旅行業該当性.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ab0c669835d096c2e8831c6bc8341e1b07eb0e1d27ceff43927fa697b5920445",
+      "lastIndexed": 1774402440288
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/通訳案内/fact/報酬の対価性.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1913ac3b76c3b128e57db66e719aedee1e4b7b61ec7a2e29b7c8b2d5c61078e4",
+      "lastIndexed": 1774402440408
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/旅行業該当性/evidence/業務マニュアル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a1722a84a7bf2ef8243319b2166738dbbaae83e996fb5d094fd8edd01214622b",
+      "lastIndexed": 1774402444682
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/旅行業該当性/fact/業務指示.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f3222383f6a80bc2e0d04191af698ae012a3fc0563b75356d57d1226a959a7ae",
+      "lastIndexed": 1774402444805
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/旅行業該当性/fact/指揮命令関係.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "286b030d9d63b7fc44c6a08f86eb949803434857eab4d10b947b1100d217f820",
+      "lastIndexed": 1774402444854
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/旅行業該当性/fact/勤務時間拘束.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bf67c7c57fb34b0cd848216d82eb63cc0aa21339ea340e69fb1d4401185ed2ff",
+      "lastIndexed": 1774402445555
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/旅行業該当性/fact/報酬の対価性.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1913ac3b76c3b128e57db66e719aedee1e4b7b61ec7a2e29b7c8b2d5c61078e4",
+      "lastIndexed": 1774402445738
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/営業区域（運送）.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6815965e8b500f94d17c64b2710d08eb215619f3c47becd9862776076ec6526c",
+      "lastIndexed": 1774402450221
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/許可取得（運送）.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "29961f12e72b834b4473aaac9c4cf5f8ab2522c5b2dd8d80aad1c73a01a09fd0",
+      "lastIndexed": 1774402450243
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/継続性（運送）.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "609cd7fe0c96ec966ce48bb4c778f7292f1fdba02769119616b72442e921fb04",
+      "lastIndexed": 1774402450276
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/運行管理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5f489e3aee41d089ab88b42594c352c6c64c384220269d76e07b663dac33d7e0",
+      "lastIndexed": 1774402451009
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/運賃規制.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9f1e4ff0cbd4dc5d2ed6f69bdf0641863dc539c6015f36cb525a5cc21bd646c6",
+      "lastIndexed": 1774402451909
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/evidence/業務マニュアル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a1722a84a7bf2ef8243319b2166738dbbaae83e996fb5d094fd8edd01214622b",
+      "lastIndexed": 1774402456110
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/有償提供（運送）.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8f72942399ce8556d7f8ea3e510a5489c19f202f5d0f89f08382b6778725fb7e",
+      "lastIndexed": 1774402456422
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/ハイタク適法性.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f851f98f80511f83276c144345fdd23ae70457e7ba5d14e240cc43c7baeb00d7",
+      "lastIndexed": 1774402456676
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/他人運送.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d2ab98ffd6c5ae87161b362f91e03ffa7c84b9b718e117fa1263b1c5898c039a",
+      "lastIndexed": 1774402457020
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/evidence/シフト表.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a1722a84a7bf2ef8243319b2166738dbbaae83e996fb5d094fd8edd01214622b",
+      "lastIndexed": 1774402457862
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/fact/業務指示.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f3222383f6a80bc2e0d04191af698ae012a3fc0563b75356d57d1226a959a7ae",
+      "lastIndexed": 1774402461846
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/fact/指揮命令関係.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "286b030d9d63b7fc44c6a08f86eb949803434857eab4d10b947b1100d217f820",
+      "lastIndexed": 1774402462186
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/fact/報酬の対価性.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1913ac3b76c3b128e57db66e719aedee1e4b7b61ec7a2e29b7c8b2d5c61078e4",
+      "lastIndexed": 1774402462659
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/労働者性/fact/勤務時間拘束.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bf67c7c57fb34b0cd848216d82eb63cc0aa21339ea340e69fb1d4401185ed2ff",
+      "lastIndexed": 1774402463311
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/無許可旅客運送/fact/勤務時間拘束.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bf67c7c57fb34b0cd848216d82eb63cc0aa21339ea340e69fb1d4401185ed2ff",
+      "lastIndexed": 1774402463786
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/労働者性/fact/報酬の対価性.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1913ac3b76c3b128e57db66e719aedee1e4b7b61ec7a2e29b7c8b2d5c61078e4",
+      "lastIndexed": 1774402467628
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/労働者性/労働者性があるか.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "132c76c09f404024fe3f9d2abc72164c6c5014b47581946fcc7f7bd2f0e08f6d",
+      "lastIndexed": 1774402468011
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/労働者性/fact/指揮命令関係.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "286b030d9d63b7fc44c6a08f86eb949803434857eab4d10b947b1100d217f820",
+      "lastIndexed": 1774402468387
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/労働者性/fact/業務指示.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f3222383f6a80bc2e0d04191af698ae012a3fc0563b75356d57d1226a959a7ae",
+      "lastIndexed": 1774402468431
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/労働者性/evidence/シフト表.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a1722a84a7bf2ef8243319b2166738dbbaae83e996fb5d094fd8edd01214622b",
+      "lastIndexed": 1774402468640
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/労働者性/evidence/業務マニュアル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a1722a84a7bf2ef8243319b2166738dbbaae83e996fb5d094fd8edd01214622b",
+      "lastIndexed": 1774402473288
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/00_争点名 テンプレート/fact/勤務時間拘束.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bf67c7c57fb34b0cd848216d82eb63cc0aa21339ea340e69fb1d4401185ed2ff",
+      "lastIndexed": 1774402473502
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/00_争点名 テンプレート/evidence/シフト表.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a1722a84a7bf2ef8243319b2166738dbbaae83e996fb5d094fd8edd01214622b",
+      "lastIndexed": 1774402473531
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/00_争点名 テンプレート/evidence/業務マニュアル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a1722a84a7bf2ef8243319b2166738dbbaae83e996fb5d094fd8edd01214622b",
+      "lastIndexed": 1774402473639
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/00_争点名 テンプレート/労働者性があるか.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ac502e6e5f389e98a272a37908204640e41d17553090a1e6c9b8815ddf96a452",
+      "lastIndexed": 1774402473755
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/00_争点名 テンプレート/fact/指揮命令関係.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "286b030d9d63b7fc44c6a08f86eb949803434857eab4d10b947b1100d217f820",
+      "lastIndexed": 1774402477890
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/00_争点名 テンプレート/fact/報酬の対価性.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1913ac3b76c3b128e57db66e719aedee1e4b7b61ec7a2e29b7c8b2d5c61078e4",
+      "lastIndexed": 1774402477980
+    },
+    "02_zettelkasten/21_domain/lawvault/issue/00_争点名 テンプレート/fact/業務指示.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f3222383f6a80bc2e0d04191af698ae012a3fc0563b75356d57d1226a959a7ae",
+      "lastIndexed": 1774402478089
+    },
+    "02_zettelkasten/21_domain/lawvault/structure/条文ノートテンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9f29b0d183d19782683f2ca3557754813befa82275c8c6dc152f19015ab7b9a7",
+      "lastIndexed": 1774402483439
+    },
+    "02_zettelkasten/21_domain/lawvault/application/business_model/ハイタク業.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7efa4d2378f12d00473c30310eb9e8038db102ebbd123909cda8445c475535a0",
+      "lastIndexed": 1774402487800
+    },
+    "02_zettelkasten/21_domain/lawvault/doctrine/条文性質.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d14c89659a6d8af96a3870a6af2492147569651267bfd0c642fd24e46471bec0",
+      "lastIndexed": 1774402488086
+    },
+    "02_zettelkasten/21_domain/lawvault/doctrine/relation type一覧.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d08216aed9716101d4aa31462ca2d634543822e5f39d37e4a4a80c32e69261b6",
+      "lastIndexed": 1774402488190
+    },
+    "02_zettelkasten/21_domain/lawvault/application/business_model/SaaS業適法性判定.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b1ae076e673d1b501d438915da7b038287923a459886b1dadc5618f96e4e7e7c",
+      "lastIndexed": 1774402488210
+    },
+    "02_zettelkasten/21_domain/lawvault/application/business_model/執筆業適法性判定.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ab854ce90b690bfe5cccf4019fcc66ee7998224c82b7dd54024fdf62eec147fc",
+      "lastIndexed": 1774402492152
+    },
+    "02_zettelkasten/21_domain/lawvault/application/business_model/撮影業適法性判定.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "46e8c4665a2a7044a44c9458ba6c6f3e896f4c2fb62deb7f5a357160639a33ed",
+      "lastIndexed": 1774402492561
+    },
+    "02_zettelkasten/21_domain/lawvault/application/business_model/旅行業法適法性判定.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2c8c9d16462918b170101eae0ba80f72c732b6c69371e6f413f3589ef0144587",
+      "lastIndexed": 1774402492760
+    },
+    "02_zettelkasten/21_domain/lawvault/application/business_model/貸切ツアー適法性判定.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bd82e474e62b20355b39190320bf9d68670082173402509c6134193d8cd20656",
+      "lastIndexed": 1774402493191
+    },
+    "02_zettelkasten/21_domain/lawvault/application/business_model/コンサルタント業適法性判定.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "87fdab7105d9db93f528b0bec60eafd45506a20a0f1633e81ebd1fe51f57c6eb",
+      "lastIndexed": 1774402493749
+    },
+    "02_zettelkasten/21_domain/lawvault/application/行為横断表.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f6edf0e030ff10c518bbf19ca8de661c8340020e8495621f9895ef489560d207",
+      "lastIndexed": 1774402497789
+    },
+    "02_zettelkasten/21_domain/lawvault/application/judgement/労働者性判断.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5851a1552d0ce2bc266c7670909365fee758174dadfe4a27848266d2093d57da",
+      "lastIndexed": 1774402498003
+    },
+    "02_zettelkasten/21_domain/lawvault/application/事案適用_Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "37e78fe49d3e3f1f80e943b4804b124dd06558439380be72edcdbb835d136378",
+      "lastIndexed": 1774402500050
+    },
+    "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ/使い方.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8ba26f0da7ec194b59e43eaecbc0ab7fdee577d6e57ed4e746113f165ff6e253",
+      "lastIndexed": 1774402504592
+    },
+    "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ/条文ノートテンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cf4ff686e24b43a211240d2d246303195e97affdb9eb9a08e297e672a676d850",
+      "lastIndexed": 1774402504648
+    },
+    "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ/行為ノートテンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "22263d3a827b61a18f658a393921bd2668277c1c1a369271faff6425073ccb50",
+      "lastIndexed": 1774402504999
+    },
+    "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ/境界ルールノート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ecc0ec69fe49be77f514d24ac71c5a3dda2c5bff67dba042b3327cb8439457ab",
+      "lastIndexed": 1774402505289
+    },
+    "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ/横断ノート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4f40d6b96fc7533e04e0de8df910920e1c6559ff707985262c13fddcb44515a0",
+      "lastIndexed": 1774402505975
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/Fact Finding Engine.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5138e9841f90ac7d10a8823f1ca4849b15be8a43b3c2f8213382c2e23f1bdb23",
+      "lastIndexed": 1774402510207
+    },
+    "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ/ビジネスノートテンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3efc6ac2fd478e8e685200c0644d3228a72ad591e89bc2402476224147b89a11",
+      "lastIndexed": 1774402510418
+    },
+    "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ/法律ノート（監査）.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e72e61b18b18ee315e86620055a99dbfecb4ab8709e2feb769c4713779ad3634",
+      "lastIndexed": 1774402510636
+    },
+    "02_zettelkasten/21_domain/lawvault/business/無題のフォルダ/リスク評価ノート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b18ad88efb8467b8161bc1ccf8efed828a63bb5d0951f3b5b1161766cc4fd3a7",
+      "lastIndexed": 1774402511161
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/Risk Detection Engine.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c29c6948d09509a46f8bc8edba5f2cd8e9a349bca107d7eb651d7b4f48264a1e",
+      "lastIndexed": 1774402511307
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/争点ノードテンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "eea7ec5e77f35ebd7c25110788f2b81277e2538d82e8af372a580a2f143b1c71",
+      "lastIndexed": 1774402515802
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/直接証拠.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ca4b77254fee3723ed0fec25a1ea1d61460c482a8d68780565e070c21944a0fc",
+      "lastIndexed": 1774402515862
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/争点ノード.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "eea7ec5e77f35ebd7c25110788f2b81277e2538d82e8af372a580a2f143b1c71",
+      "lastIndexed": 1774402516282
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/矛盾検出.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bfc208d6e72011876d10e0b1f5f0294fcc725425264cd3510549fca2d2aa20be",
+      "lastIndexed": 1774402516340
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/状況証拠.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e7e2d42fcf1350ac6660bc2526f756746096b59652c717f8534e65eb78eca1f2",
+      "lastIndexed": 1774402516496
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/間接事実.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "adf86a228fe033367d345ce1f2ed7d115c47bdc48ad147953c7590ccf3e35096",
+      "lastIndexed": 1774402520588
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/証拠ノード.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b9cb6dc10a053f8b5cb14a7ab918533f4b4a0de26f3f6f31a627b2a64db04167",
+      "lastIndexed": 1774402521290
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/間接証拠.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d9f25dbd1beaf03ee52af5b1e561d074e7c935874e2da2237fa4e84dd6bae21b",
+      "lastIndexed": 1774402521405
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/補助事実.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6c2394d9a12a600c1fce4890fc70584a47060ee268e59fdb85a099569dace04f",
+      "lastIndexed": 1774402521528
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/主要事実.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6bef656960922f706750ce24bd88ff3569275f37f398f8def247cc36024ee325",
+      "lastIndexed": 1774402522739
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/fact_finding/間接事実ノード.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bf67c7c57fb34b0cd848216d82eb63cc0aa21339ea340e69fb1d4401185ed2ff",
+      "lastIndexed": 1774402527135
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/fact_finding/主要事実ノード.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2d9f86abd89fc0dfaab59dfd11cf1c4d2ad5009f97872dd716aec98e234df5ac",
+      "lastIndexed": 1774402527628
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/fact_finding/inference/信用性評価.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "981b9ff3461f134e290bd5f36cc57ae6d1fba41ed9da971fdbc47e068994d2c3",
+      "lastIndexed": 1774402527656
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/フローノート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "dd8940e44fb1827f4e716482a861e364d7011f3b5a968e9be9ec26a55fc497f7",
+      "lastIndexed": 1774402527669
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/fact_finding/inference/推認メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6de91d2b3264aebcefc7f169c3dc406c2685aa302e8b3e9a68bfd674fd0dfa15",
+      "lastIndexed": 1774402528591
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/法原則/契約解除構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1d93b95cc53eb53d2f0311ed0bc6a93197d5a66031515f234e4b1b775be21be2",
+      "lastIndexed": 1774402533014
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/Law Pipeline.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "440843eec78eb703a3d248cf9aad9c1aa9dc9656b987b19632f6ef1cafa1c387",
+      "lastIndexed": 1774402533335
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/条文→事案適用フロー.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4cd9a603b2912290bb32ac94a08c6fb214b3cad7648af9ac5c13df173f6e4764",
+      "lastIndexed": 1774402533459
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/法原則/許認可構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e3a8bb5bfd0e570913bdbbe3fb49d43e8822d8333e15874cbc75947019313f91",
+      "lastIndexed": 1774402533512
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/法原則/契約成立構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bb0c08a7b5be051d9bd178df9121781198a5a117fef5efb96bcd38743f8ea5d8",
+      "lastIndexed": 1774402533545
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/法原則/損害賠償構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3bfaaa1361c1ac528bffd8c21983d7870b0a037b5642ed14129a2e813f145f41",
+      "lastIndexed": 1774402538463
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/法原則/登録制度構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2df20ee1d8effbf17590d27e83416c68ac73f61421fff24d4bf3e53aea09692d",
+      "lastIndexed": 1774402538471
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/法原則/権限委任構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9f7f3ddc498baf92e9045fc0238b638bc731a7f4f7161cb93961dab918de8f62",
+      "lastIndexed": 1774402538585
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/法原則/行政処分構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a325b1c7606e9eee1a7ea8a4472f50f508cad216e4c53397eede7fba1fc8e3bf",
+      "lastIndexed": 1774402538607
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/法原則/法律構造_Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d97189d4bf3ee0fb5dd5989ec651e6935d3bb56b6d652c545b86896ed4343278",
+      "lastIndexed": 1774402539705
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/03_Interpretation/みなし規定と推定規定.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7ed3f32d01ceeaf67aae67f7edcc8309fe541d6d64f5c2e17e2fa6b217ba873e",
+      "lastIndexed": 1774402544135
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/法原則/罰則構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "892e26297208e9044fc5635af76a2f83d495e863210f911d9792261b9507cd02",
+      "lastIndexed": 1774402544242
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/法原則/法人格付与構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "dcac5b6ee1cc9f0566bf81ac2830bdf70fa16484fbe93692fe3ad8fb2e799d95",
+      "lastIndexed": 1774402544455
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/法原則/届出制度構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5d96a75c5265b32459ce2695117052f900f4d9cd61f9674842a1d517e6f3127f",
+      "lastIndexed": 1774402544594
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/03_Interpretation/解釈_Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "953099e4d667fda885259a323fa556647f46a84c0fa451104d801280811a3661",
+      "lastIndexed": 1774402545133
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/03_Interpretation/要件事実的分解とは何か.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "09f2dcec45a9bcac4ced9ae4378d21bb1bc1fb5b5f011c98d91ccd2c08c3391b",
+      "lastIndexed": 1774402549518
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/03_Interpretation/定義規定とは何か.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "49b90912a4cca442c56347f717ec6687f3dc9044b9afa992757645f470484942",
+      "lastIndexed": 1774402549992
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/03_Interpretation/許可と認可と届出.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "db428bccfa0de85e5eb28f708521bdb580f43255f296d4703016f01434ed481f",
+      "lastIndexed": 1774402550069
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/03_Interpretation/裁量規定の読み方.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "185eb63821700b6660ad98b3f1334434a1103f772b45a74f3ec141470943c16f",
+      "lastIndexed": 1774402551148
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/03_Interpretation/強行法規と任意法規.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "90ef994b36472d386aa6b4414d63a5cdbb106a06007f7abb55f070b3670ab671",
+      "lastIndexed": 1774402551316
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/03_Interpretation/L-I-004 類推適用.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ad070b22647065a46bbe976b1086b53a434bec967ad52bd5fd22bb93f9f4a798",
+      "lastIndexed": 1774402555789
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/03_Interpretation/準用規定の読み方.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2d359312ad7b6a6e11dec4c9c7aa9c341dcbd111c212fb743672c44ff9053478",
+      "lastIndexed": 1774402555864
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/03_Interpretation/但書の読み方.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e1cf0f69c795e91d88a03d944bf5f9d7cd34c32cd97f494827ba9352d0708139",
+      "lastIndexed": 1774402555891
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/03_Interpretation/L-I-002 体系的解釈.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "760a5219825f51e963bf2d9626c1bcad0831e0349a7eed6d732811a0a32daea1",
+      "lastIndexed": 1774402556007
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/03_Interpretation/L-I-005 反対解釈.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8e9bbf34e944c7124551b87974940491a023b7406741cf74efea9e6405ed47fb",
+      "lastIndexed": 1774402556174
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/03_Interpretation/L-I-001 文理解釈.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "01259f2927d6a7ccae7a7ccc609c94a19d1f55b14d521d9cf82930d17f4e8cd5",
+      "lastIndexed": 1774402560702
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/01_Norm_Types/L-T-001 原理規定.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1cc90310f888ca2f2737bf148b1ee9c4733d6cb617d4a150330adf6bca1ae334",
+      "lastIndexed": 1774402560905
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/01_Norm_Types/L-T-005 評価規範.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "896860c9adeeffac467f616b237b7d5a7eeafc9b328b143a9377140ba3d56f21",
+      "lastIndexed": 1774402561003
+    },
+    "02_zettelkasten/21_domain/lawvault/engine/01_Norm_Types/L-T-003 要件規定.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "70bf545abe493c6cf2561b37838730c4781132e623b7f070d6eba32fcbbb8622",
+      "lastIndexed": 1774402561047
     }
   },
   "indexingInProgress": true,
   "indexingStartedAt": 1774401888343,
-  "lastIndexedFile": "02_zettelkasten/21_domain/lawvault/issue/SaaS責任/fact/勤務時間拘束.md"
+  "lastIndexedFile": "02_zettelkasten/21_domain/lawvault/engine/01_Norm_Types/L-T-003 要件規定.md"
 }
