@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774404280733,
+  "lastSync": 1774404327729,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9667,9 +9667,197 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "7da23946806989269a7dcec7eb35f186602b3d51af693d7a395045bb574f64ed",
       "lastIndexed": 1774404280733
+    },
+    "02_zettelkasten/05_solution/Solution → Decision変換ルール.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3f3d162005896134d3b05a5346cb3cf8ffea54fc653a1c26a143b377b855e7f4",
+      "lastIndexed": 1774404280767
+    },
+    "02_zettelkasten/05_solution/Solution テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "16bd85fac4fed80aa3f49bfeeb86cc64d771c8bbe10c533e379c2ce446d49128",
+      "lastIndexed": 1774404280847
+    },
+    "02_zettelkasten/05_solution/スケール設計.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7a98a686ac154890ca086f4bec41ce0e3fcbfe66880bde279f9814371cedf33a",
+      "lastIndexed": 1774404284847
+    },
+    "02_zettelkasten/05_solution/検証設計.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "84af766bd258ba5b285fca39d4a044d3dcf8f6363efee92ac4332d8172df5457",
+      "lastIndexed": 1774404285048
+    },
+    "02_zettelkasten/05_solution/実行プロセス設計.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6bbc3a951bc6d9d649703f21b439621650391f67fe2d0f5f0ffe5cde96d6f101",
+      "lastIndexed": 1774404285333
+    },
+    "02_zettelkasten/05_solution/パイロット設計.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5c61312b776009c02ada0c45c9a17c7f9684555e13b1abe7c264d1fc582938d6",
+      "lastIndexed": 1774404285345
+    },
+    "02_zettelkasten/05_solution/失敗モード分析.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f6f2807cb8381e9f2980678f89e9ef28e7a4bcb8a1b990087bf0ffb570e3d916",
+      "lastIndexed": 1774404285354
+    },
+    "02_zettelkasten/05_solution/Solution Design Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "90c400f63aa33f9052d3e4317546e7622600c9b85f8c738284419db6dd9e5959",
+      "lastIndexed": 1774404289688
+    },
+    "02_zettelkasten/05_solution/解決策アーキテクチャ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "28da199071bad5e41d5e022fee0e401b7d53ad5ebfb5140aa9fa93e5f5439151",
+      "lastIndexed": 1774404289697
+    },
+    "02_zettelkasten/05_solution/要件定義.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6c7134a471ff8c4afbea930704cb2ce4095d2deb571d64867a00369b87156422",
+      "lastIndexed": 1774404290174
+    },
+    "02_zettelkasten/05_solution/介入レバー設計.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e35e57d281b5bd0e785e7907350b0fc56aba1ec36a663a5fd7d18e5ef7b42326",
+      "lastIndexed": 1774404290284
+    },
+    "02_zettelkasten/05_solution/KPI設計.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8cb5c898bb30b2da7aad6977b66b3562b1b77fa9bf8eb003fcc3b95de18ba1fb",
+      "lastIndexed": 1774404290890
+    },
+    "02_zettelkasten/05_solution/選択肢生成.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "03e0f3e53f781e288f79f6e6ee8ba1552ff618ab65395f005aef186de6b92e1f",
+      "lastIndexed": 1774404294943
+    },
+    "Human Reasoning Engine.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "95a707c9bd862df69fe728a2af481db95b56a053fc438b510373ae3ea7fcfd55",
+      "lastIndexed": 1774404295359
+    },
+    "90 templates/テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "96f20a011aa68fff935d3febe0f22fe1a86fcbe6a1d7e441066e197265f92082",
+      "lastIndexed": 1774404299596
+    },
+    "90 templates/観光地説明テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b3d556dd80e5ec236cf1028178713b3ca4997194780a3ebebcbe7e3dd5e0b85e",
+      "lastIndexed": 1774404299799
+    },
+    "90 templates/意思決定エンジンテンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5f58bac689ad3d08e2c8439fce812ba8099dee66481d48719c97fa472d18c6f4",
+      "lastIndexed": 1774404299993
+    },
+    "90 templates/Validated テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "177b6a881ecfbeead51b3f48b6de3e5f38dee30af14eee14a487c6b2d6924bbe",
+      "lastIndexed": 1774404300551
+    },
+    "90 templates/観光地分析テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ab6654fc21df3d0dc5eb3ddbc872b887a3a41ac0f8f10bd9ca40e2240e1d5a31",
+      "lastIndexed": 1774404300627
+    },
+    "06_GTD/next action/バス監査ツールキット.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "36da9e08c7464f9c2a37a20b2cd2b0e5833ea6270e9c0f4ae0c4ef2dee12d8ff",
+      "lastIndexed": 1774404304526
+    },
+    "90 templates/問題定義テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2d0f7254424684bf92f8805569ea795cb1f7678c1d12176b817538ea866a88d9",
+      "lastIndexed": 1774404304809
+    },
+    "90 templates/文明決定テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7c5cfd5ad1b00be2f2d050e2c03a75bfabf55fd6f34e82cc9b160ba40e4eb2d1",
+      "lastIndexed": 1774404304816
+    },
+    "90 templates/読書ノートテンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c23dbb00eec685917eeb93939e90c2429f5e35dbf58a8994e594e8db6645e70c",
+      "lastIndexed": 1774404305246
+    },
+    "06_GTD/initiatives/initiatives テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c41fb4fecebe24eaac91b2e4dfc29c80cbb300489cd0fc576f1f8694274ee182",
+      "lastIndexed": 1774404305250
+    },
+    "Vault配置原則.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fb09f6ad2ebea7a9e89e9f3f7b57ecd67511669f55ab1140516e44a4eeb02a99",
+      "lastIndexed": 1774404309360
+    },
+    "06_GTD/products/products テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fbb7b8aedff1fdad6f86b80df7ebf1189a075a75c3860bde20fcbc544345d281",
+      "lastIndexed": 1774404309759
+    },
+    "06_GTD/project/projectテンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5b85541e05efb474197ea895f24aa54a25c3ec2331a18898e2d25cbc1fa056a3",
+      "lastIndexed": 1774404310080
+    },
+    "06_GTD/project/旅OSコラムを作る.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e9af88fed936a876ecf788c01eeb5708db257d1e1df27e89b81cfb5a9550e1ac",
+      "lastIndexed": 1774404310125
+    },
+    "06_GTD/next action/タスク テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f3d7a1bdb2bcac2967b855b49562bf44104a59b66d256da9c1fc1ce3813346bb",
+      "lastIndexed": 1774404310306
+    },
+    "00_inbox/無題のファイル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3dcf1b3eb6fdc46159ea52a38215c583c5472132eee8174006e80779939a40b2",
+      "lastIndexed": 1774404314206
+    },
+    "00_inbox/Discovery Log.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6bf25f3d988dee5fdd6429fc7ee870677b919dc8ca988da28b6507690cf2232f",
+      "lastIndexed": 1774404314577
+    },
+    "00_inbox/作るノート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "12e7da36d70b415b09f43124cb973cbd0a26cd7d3e0e83d53dc345b9cf342406",
+      "lastIndexed": 1774404316032
+    },
+    "00_inbox/01_fact_validation/Fact Validation Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0d26d95da84e533999acfa30c917c445bc44e34048212fddde4a1c8562fdbd39",
+      "lastIndexed": 1774404316409
+    },
+    "obsidian-sync-calendar/docs/README.zh-Ch.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0832bd821b4c7f529d66eee1ee604ef38418b1026c70559c6e2a1fe6a9749f45",
+      "lastIndexed": 1774404320595
+    },
+    "obsidian-sync-calendar/node_modules/tsutils/node_modules/tslib/test/validateModuleExportsMatchCommonJS/水辺散策地.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5dcbb43e2158a41d50d9eedb7b981f704b4579db0152e8fbfc3d10ace63d8c3c",
+      "lastIndexed": 1774404321210
+    },
+    "obsidian-sync-calendar/README.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3f6e3c5f6dd487b3436d8dbff4691da30bbc3f74380aaf09cfe49248701715e7",
+      "lastIndexed": 1774404321451
+    },
+    "obsidian-sync-calendar/node_modules/tsutils/node_modules/tslib/test/validateModuleExportsMatchCommonJS/歴史的記念物.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "965df3597827c2791db4a52adca135ba0faedb89fce1c314c874d665def10a4d",
+      "lastIndexed": 1774404322498
+    },
+    "README.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c322ded067cc7c73ea65859516599daffbd2ac91967d7199303b26be4c8c0bea",
+      "lastIndexed": 1774404327132
     }
   },
-  "indexingInProgress": true,
-  "indexingStartedAt": 1774401888343,
-  "lastIndexedFile": "02_zettelkasten/05_solution/Solution Routing.md"
+  "indexingInProgress": false
 }
