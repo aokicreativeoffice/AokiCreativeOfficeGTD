@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774420055753,
+  "lastSync": 1774420260049,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9887,6 +9887,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "b6459c916899f7486abf895dea9ab0e547ab5699579611f4132bade66906ccbf",
       "lastIndexed": 1774420055753
+    },
+    "02_zettelkasten/21_domain/history/structure/構造ノートテンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2568f78e52b8245c0ca012be5be1dbff066e663518350ab00e800c3e6564b938",
+      "lastIndexed": 1774420260049
     }
   },
   "indexingInProgress": false,
