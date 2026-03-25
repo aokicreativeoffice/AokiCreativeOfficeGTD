@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/history/event/state_change/エムス電報事件.md",
+                "file": "02_zettelkasten/21_domain/history/ontology/Historical Relation Type.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "エムス電報事件"
+              "title": "Historical Relation Type"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_zettelkasten/21_domain/history/event/state_change/エムス電報事件.md",
+                "file": "02_zettelkasten/21_domain/history/ontology/Historical Relation Type.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "エムス電報事件からのアウトゴーイングリンク"
+              "title": "Historical Relation Typeからのアウトゴーイングリンク"
             }
           },
           {
@@ -200,12 +200,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "443e20a7aff5fe78",
+  "active": "6acf75135036dfd0",
   "lastOpenFiles": [
-    "02_zettelkasten/21_domain/history/無題のフォルダ",
+    "02_zettelkasten/21_domain/history/event/state_change/エムス電報事件.md",
+    "02_zettelkasten/21_domain/history/ontology/Historical Relation Type.md",
+    "02_zettelkasten/21_domain/history/ontology",
     "02_zettelkasten/21_domain/history/actor",
     "02_zettelkasten/04_meta/Vault Knowledge Graph Architecture.md",
-    "02_zettelkasten/21_domain/history/event/state_change/エムス電報事件.md",
     "02_zettelkasten/21_domain/history/WW1 無差別潜水艦戦の戦略ジレンマ.md",
     "02_zettelkasten/21_domain/history/event/ニヴェル攻勢.md",
     "02_zettelkasten/21_domain/history/這う射撃.md",
@@ -225,7 +226,6 @@
     "02_zettelkasten/07_execution.zip",
     "02_zettelkasten/06_decision.zip",
     "02_zettelkasten/05_solution.zip",
-    "02_zettelkasten/04_meta.zip",
     "02_zettelkasten/21_domain/fieldwork_tourism/08_case/回遊/北海道回遊一覧.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/08_case/観光構造/北海道観光構造一覧.md",
     "02_zettelkasten/21_domain/fieldwork_tourism/08_case/観光圏/札幌観光圏.md",
