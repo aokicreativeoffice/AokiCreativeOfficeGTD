@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774447639224,
+  "lastSync": 1774447711228,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9947,6 +9947,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "99304aac5a44ff80a3b61b428bdd3c6f270d90d40a29df4247578ca0af7c6b14",
       "lastIndexed": 1774447194774
+    },
+    "02_zettelkasten/21_domain/history/structure/正統主義.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b55a390d69a20ccfce8369f647ef3c515019e4aa2a5900c6cbdbcad75bbd4a03",
+      "lastIndexed": 1774447711228
     }
   },
   "indexingInProgress": false,
