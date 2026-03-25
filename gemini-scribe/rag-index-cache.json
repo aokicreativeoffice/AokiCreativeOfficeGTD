@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774403920331,
+  "lastSync": 1774403992909,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -8317,9 +8317,359 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "31a2fb6f37adbd9976bb6acb88b724a939ad6331226b635f748cd35cbf0499c7",
       "lastIndexed": 1774403920331
+    },
+    "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/problem/仮説構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6d4ef300b9524ccb1debc975feb4fb81507f42c6b1602b5b925cc61f60860bda",
+      "lastIndexed": 1774403920521
+    },
+    "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/problem/意思決定構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c52a567906a591eff37dc012861675a916905f27b19e86c5927c247bc3196f84",
+      "lastIndexed": 1774403920658
+    },
+    "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/reading/読書統合構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8039f0437c3d2f01851841a1ab53ecf58b90e9762208706fddb95cb99dbdb281",
+      "lastIndexed": 1774403921666
+    },
+    "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/reading/知識抽出構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "907fe8d62059a62f62fd205fa7b42de0e541ae55cc85c0641e599399a5d1b3bb",
+      "lastIndexed": 1774403926064
+    },
+    "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/reading/読書解釈構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "40ebca939505946ac7915775b2735b3a54c6f2783f41b8a97cc2c9fd86fbdede",
+      "lastIndexed": 1774403926119
+    },
+    "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/reading/論証構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c78e8aad1f27501050b5c9a3e8189b050e03e347293e778c3a7ba3cf030a4cd9",
+      "lastIndexed": 1774403926507
+    },
+    "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/reading/読書手順構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "606411dca47b84a42d7e280afd9c80c88b7bb382388c51d376a219ecce868336",
+      "lastIndexed": 1774403926866
+    },
+    "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/reading/読書評価構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4d8ef51365faf75ed95f2a825a76ad4095fbd277ac71fc022db2cf9f82270ff4",
+      "lastIndexed": 1774403927662
+    },
+    "02_zettelkasten/00_system/thinking_engine/Mismatch Detection Engine.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "528b189d3227ad8ccabcead92edc4628655119206feab91c70650413b211227b",
+      "lastIndexed": 1774403932542
+    },
+    "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/reading/文章構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "99f256ab234005dd93261d23048cf819841365cbc814d4c749eafff45620b6f5",
+      "lastIndexed": 1774403932588
+    },
+    "02_zettelkasten/00_system/thinking_engine/Question → Traversal Mapping.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0600a7c480fe3e8428056e9530d15a59a5ea097cbbd43c9b4b1baefa75281a60",
+      "lastIndexed": 1774403932891
+    },
+    "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/reading/Reading Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "36b2258f4a2565569cf97f4aa8cb995cab48952e1bd86e05ce07fb4aac939fbe",
+      "lastIndexed": 1774403932907
+    },
+    "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/reading/読書目的構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7978b2b15b72900514b075b9b69209fbf36dd8228391928da6c23549fca2b95f",
+      "lastIndexed": 1774403932918
+    },
+    "02_zettelkasten/00_system/thinking_engine/Question Engine Map.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4664ce109f771ec2883e2d6e25b0d6623b02c2769fc0ceb736bd302c1be9dab2",
+      "lastIndexed": 1774403937122
+    },
+    "02_zettelkasten/00_system/thinking_engine/Thinking Engine.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0ba676dd13a0cb2e551e0999d37e844ef32a866d967f9f7118b879e302af2e8e",
+      "lastIndexed": 1774403937310
+    },
+    "02_zettelkasten/00_system/thinking_engine/Thinking Engine Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1d91ac0a8e7bcdd768fed4ecdb93490e524f68e224dbe92e8b32dd4fad2bb16d",
+      "lastIndexed": 1774403937494
+    },
+    "02_zettelkasten/00_system/thinking_engine/Expectation Model.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2c4202a8fd2dbdd775f8d501acb57142cbec63b967c00d472c0e3c315344552b",
+      "lastIndexed": 1774403937659
+    },
+    "02_zettelkasten/00_system/thinking_engine/Anomaly Detection.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6a6094de2d943ee6665c8d8bf5371661425c8c10a5a9062f02b8046054ff07a8",
+      "lastIndexed": 1774403937911
+    },
+    "02_zettelkasten/00_system/thinking_engine/Diagnostic Questions.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cf6180070a3f0a630ef3d037c6981485dfe52351b363cd571e740f47f77714ba",
+      "lastIndexed": 1774403942310
+    },
+    "02_zettelkasten/00_system/thinking_engine/01_inference/Problem Classification.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6d0c73438a9b75b2e7adb52fe98bd9fda809897f30593ad0c9d0f77211344544",
+      "lastIndexed": 1774403942420
+    },
+    "02_zettelkasten/00_system/thinking_engine/01_inference/評価基準.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d9028e0647c3c8abeef34b7bb5e561ed5dce2ce19567b9e913320050669829bb",
+      "lastIndexed": 1774403942474
+    },
+    "02_zettelkasten/00_system/thinking_engine/01_inference/Graph Traversal Rule.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "af6bb251fb781407dde24bab42ebae0ce0056bb4da642e029bb4d1b852a82263",
+      "lastIndexed": 1774403942480
+    },
+    "02_zettelkasten/00_system/thinking_engine/01_inference/Reasoning Pipeline.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3e2fc0afb5e329b5f1c122c7ae40557258a19b8415520c4f5b3df52602233746",
+      "lastIndexed": 1774403942618
+    },
+    "02_zettelkasten/00_system/thinking_engine/01_inference/出力構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e778a2ba3ee745a032bc3df030b343f062825c7bcf02d950b664d0f6bdeff0ec",
+      "lastIndexed": 1774403946796
+    },
+    "02_zettelkasten/00_system/thinking_engine/Measurement.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cdccd2eb6d17b1c08f596df8343ffc15757637ca6ad33c7340e8390e9f7dae83",
+      "lastIndexed": 1774403946977
+    },
+    "02_zettelkasten/00_system/thinking_engine/01_inference/モデル選択.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7921c72bf63bafb93a2a43e418d07672196f1248d7d73a055aee8eff10724e65",
+      "lastIndexed": 1774403947072
+    },
+    "02_zettelkasten/00_system/thinking_engine/01_inference/Inference_Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a94458c167a28222080fc2ecf41fb296e0380fe47e290020c0a558ece21104dc",
+      "lastIndexed": 1774403947312
+    },
+    "02_zettelkasten/00_system/thinking_engine/Learning Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d4eb40f21e64893b4b0499e029a3b33f5db02f5cb31f1cbb7de4a474b0f98203",
+      "lastIndexed": 1774403947807
+    },
+    "02_zettelkasten/00_system/inference_rule/Reasoning Strategy Rule.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "01fd5120b113b3a1ab4d798f535537ff9eec77ccbdb0b535b89dbbfaa48b70cd",
+      "lastIndexed": 1774403951958
+    },
+    "02_zettelkasten/00_system/inference_rule/Knowledge Activation Rule.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9e0909a5eb868f3f7783506d16c1ea04cc5f7854be4ee91a49538c3f225c6d60",
+      "lastIndexed": 1774403952546
+    },
+    "02_zettelkasten/00_system/inference_rule/Self Reflection Rule.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b2be95943b5527d87f8d765cd5708614141e2d024edfc6f4662cef587f78346a",
+      "lastIndexed": 1774403952804
+    },
+    "02_zettelkasten/00_system/Zettelkasten OS Overview.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d6503be0d36b36433fe60cdceb08c718c7f052462b3c9f5cb57ca4c9cae52cb8",
+      "lastIndexed": 1774403953221
+    },
+    "02_zettelkasten/00_system/System Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ef21fdfbb058be9dea87edf480ff4bf3235ba5466b633f1492023d19132cee1b",
+      "lastIndexed": 1774403953542
+    },
+    "02_zettelkasten/00_system/LLM/LLM System Prompt.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c88f47eb173a9e5429acde502264c6869587600f6c77d4b17a736208eafd523a",
+      "lastIndexed": 1774403957926
+    },
+    "02_zettelkasten/00_system/inference_rule/Context Construction Rule.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4fdb681ead6a944075a7ba6578697dc1b22f741308ae072e8d169967fdf5811a",
+      "lastIndexed": 1774403958255
+    },
+    "02_zettelkasten/00_system/Termination Control.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c19ef888320caf8647f12739911a84e37c1292d49af6f48721a8abe900bdebca",
+      "lastIndexed": 1774403958415
+    },
+    "02_zettelkasten/00_system/Comparative Reasoning Mode.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5b03ec825033c57d2b1868f764467e9a8ec18e6e8ffd2503a47b766d7ce1a1dc",
+      "lastIndexed": 1774403958454
+    },
+    "02_zettelkasten/00_system/inference_rule/Memory Injection Rule.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b58b80d718f2ee023ada6717263837d3df217e8221cc42ec2203a1b334b5b9fa",
+      "lastIndexed": 1774403958545
+    },
+    "02_zettelkasten/00_system/LLM/LLM Control Layer.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ea4ba27fc1096cfbe0c03e36c9e52517c56708bd6e0dcb9b3557658ee4fdd8e6",
+      "lastIndexed": 1774403962798
+    },
+    "02_zettelkasten/00_system/LLM/LLM System Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5aea91bef5e1e7a981651f138ef2b2c8b3f5a057533dd7c01f8e6c1d1c8cc12e",
+      "lastIndexed": 1774403962854
+    },
+    "02_zettelkasten/00_system/LLM/LLM Context Layer.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "642ea1a4e6c73dd82f56f9bd8dabd190d2bbd0016c683d0b0c3d0d9cb54c1fd6",
+      "lastIndexed": 1774403963377
+    },
+    "02_zettelkasten/00_system/LLM/LLM Output Layer.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fddf175e8e1f988f03a8f0b5d2bea1cff05f037fcc58c03a787d918bb75b28d9",
+      "lastIndexed": 1774403963411
+    },
+    "02_zettelkasten/00_system/LLM/LLM Reasoning Layer.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "28f1ed24f8e775ea2e0546a180a7a0d0ac93add76057e3c0fb710d6cacd231d6",
+      "lastIndexed": 1774403963507
+    },
+    "02_zettelkasten/未整理/Caseノートの育て方.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "af5296ef64caa3a374be8f7af7c1a7790d2bf1ba15b38a3fa0ee1e9f2bbf48ae",
+      "lastIndexed": 1774403967442
+    },
+    "02_zettelkasten/00_system/LLM/LLM Reasoning Architecture.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7a64d66b76a7a24aa82a86b0d8568bd25280fb4f9aaf62876a421aea46731fee",
+      "lastIndexed": 1774403967808
+    },
+    "02_zettelkasten/未整理/赤ペンルール.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d76da69c34fb7ac9e7b86a69a606593d10ab791735a6fe0b5aff8134781e6d9b",
+      "lastIndexed": 1774403967821
+    },
+    "02_zettelkasten/未整理/Vault QA System.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5ef131f0769e427031dbc0a7e9b707b5c777159d213ca18be64fb827543151fc",
+      "lastIndexed": 1774403968311
+    },
+    "02_zettelkasten/00_system/LLM/LLM Input Layer.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "06ac3fc1b6f7e002810387ca4aebec782d660f5b9f012ce4fc1647c1e326d06d",
+      "lastIndexed": 1774403968333
+    },
+    "02_zettelkasten/未整理/Japan_culture/field_model/Japan Geography.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a3ce1bb9b407ca833384fc9fcf3f413f768b6cb9b96aadd7db40e2ab9cd91199",
+      "lastIndexed": 1774403972859
+    },
+    "02_zettelkasten/未整理/Japan_culture/field_model/Japan Political System.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1f39a617dda76cb761439786c226465c72cf967a06dc66f17bab8fc7572fb44d",
+      "lastIndexed": 1774403973142
+    },
+    "02_zettelkasten/未整理/Japan_culture/field_model/Japan Religion.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b993b3237c65401a44f4a4cc6322e1fa6f5679380fdc32e6629b31390ec5ed45",
+      "lastIndexed": 1774403973207
+    },
+    "02_zettelkasten/未整理/Japan_culture/field_model/Japan Culture Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "832892984e1fc51ac526071c98ba8c88ccf3b1b701f9619cffb3dedb1282accb",
+      "lastIndexed": 1774403973227
+    },
+    "02_zettelkasten/未整理/Japan_culture/field_model/Japan Economy.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c9b7286bec110c1e0a2e57cb173ddc339b75eac29f7a0d7d6a640faf7846b975",
+      "lastIndexed": 1774403973289
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Impermanence.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "03555c3058e97f20f6b06526c00a297c058ef2b848cf6a285c5db32a2aa4e3e2",
+      "lastIndexed": 1774403977583
+    },
+    "02_zettelkasten/未整理/Japan_culture/field_model/Japan Asthetics.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ec97cf781c700595186b9baa960fb8c4ee05d9fa1b8f5f2da3f404b85246621f",
+      "lastIndexed": 1774403977642
+    },
+    "02_zettelkasten/未整理/Japan_culture/field_model/Japan Social Order.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "753c7ea0b99bc29d6e0abbe21ba6158f0455a8b1e3a2e81c0889605b5f3ec632",
+      "lastIndexed": 1774403977652
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Nature Relation.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "08eb8c8748fbb106890f11b55e0e4874b09d227c9ea8cc1fdaabc98c640b838d",
+      "lastIndexed": 1774403978091
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Syncretism.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "043b4068c27bb507168a3e9a78fa455969656a05558f315b85fd5a13200a332c",
+      "lastIndexed": 1774403978394
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Hierarchy.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0a14f4c65effc3de59107aa5dd622a6a8d7fbf0885fedd7292a01bd7e2f29a78",
+      "lastIndexed": 1774403982186
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Seasonal Sensibility.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0c3b641cddc485b1d27eb4999530fbe6b39bc14afd537d33bf58b62cf4036d1a",
+      "lastIndexed": 1774403982266
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Japan Calture Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7a32fe724a2670310b67b02b7119204a8486776a693ff5f4ad256c6a5a2ab0d7",
+      "lastIndexed": 1774403983208
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Adaptation.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "032843f04dc1b54527b4be402422e8de60e7975e649b2473658dc96fdd6451dc",
+      "lastIndexed": 1774403983500
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Embodied Practice.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ea2ce0e94255dff1e8bd017b24f5db3ac50c48d891f092c11b8fee51bb85a8d1",
+      "lastIndexed": 1774403983540
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Ritualization.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "efae1b4e4df92375c5d8e3a899f17e97e38842b2c146a7012c3970be9f3e84b5",
+      "lastIndexed": 1774403987604
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Craftsmanship.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "063583628180db2b245669beddf929ec2efc46f1aab385b0055664c6d5945f89",
+      "lastIndexed": 1774403987918
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Harmony.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c417935991025c5418de3b00abd28251d6d5ae8c09b5f3c1af4064983dcdf938",
+      "lastIndexed": 1774403988194
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Community Orientation.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "219ed4e3e48839aad066647ab4c13488fd5fa8b4a82b2a5b9416d7cae88ced07",
+      "lastIndexed": 1774403988209
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Minimalism.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e910212cab8d3041af07c70b92d9cb4bb2ed8f4d39ce7818a8fa0dca774de7b4",
+      "lastIndexed": 1774403988322
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Continuity.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "410826efcced693e6f7004dc5109cefa56b502701fbbfe526a2a6d73451cd6a5",
+      "lastIndexed": 1774403992816
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Controlled Emotion.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "adc631bb4269e46da883811de55273a2e7c8a08055250b147efa639244c8c800",
+      "lastIndexed": 1774403992909
     }
   },
   "indexingInProgress": true,
   "indexingStartedAt": 1774401888343,
-  "lastIndexedFile": "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/problem/解決策構造.md"
+  "lastIndexedFile": "02_zettelkasten/未整理/Japan_culture/structure/Controlled Emotion.md"
 }
