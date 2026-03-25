@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774402281054,
+  "lastSync": 1774402348546,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -1467,9 +1467,314 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "ca9986df44a50f7f8478297c63266f9b354c2ba3844bea5e49bfe013f05365be",
       "lastIndexed": 1774402281054
+    },
+    "02_zettelkasten/21_domain/photography/photo_fieldwork/フィールド撮影.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7e5532af4fa877e6a0c4b934037c1f46eabef5b3dbf006b2dcc5590aeb1bccc6",
+      "lastIndexed": 1774402281073
+    },
+    "02_zettelkasten/21_domain/photography/photo_fieldwork/写真分析.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "586074e505cc71843ff4efb86306ddc41ce315e2de5d51860374a06cfa4bf3d5",
+      "lastIndexed": 1774402281109
+    },
+    "02_zettelkasten/21_domain/photography/composition/composition.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7ac171dd89501b45d1a5eca15fa82aa6f7001e27a9f4ff3e600d85c91cce79ae",
+      "lastIndexed": 1774402281198
+    },
+    "02_zettelkasten/21_domain/photography/photo_fieldwork/行動観察.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "35dc56d84053097e168f52a9e7a2d251e9e5806c72274362a557381d71402f05",
+      "lastIndexed": 1774402281388
+    },
+    "02_zettelkasten/21_domain/photography/exercise/exercise.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "74169998d3612aad62419848ef276a64218c239dd09ec283c890d535aec3cf49",
+      "lastIndexed": 1774402286065
+    },
+    "02_zettelkasten/21_domain/photography/subject/subject.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cfb63d6931b70f2c67e5af96c1fb356584a5ca2d56a745bd888ddb5bb43677af",
+      "lastIndexed": 1774402286268
+    },
+    "02_zettelkasten/21_domain/photography/technique/technique.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "559f4a115cb42dc432b4451e1d8edce07c7e7c79cac69d70dbcf92e338420eef",
+      "lastIndexed": 1774402286304
+    },
+    "02_zettelkasten/21_domain/photography/03_method/Photo Story Observation Method.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7e4ea188aea7ee1cd8be4739f53a4a05e652d5de0165336264a8be4c498a0bb2",
+      "lastIndexed": 1774402286470
+    },
+    "02_zettelkasten/21_domain/photography/00_hub/photography hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7f1e9c19a38e3f079c27f7637b9782eb8b1223ae5a47b502330abf261f43a7c4",
+      "lastIndexed": 1774402286612
+    },
+    "02_zettelkasten/21_domain/photography/skill/Photo Skill Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d241a007d75dc6ba6828d840dfab0fcdb1051c26cb6b57b8e1a0b71a90493198",
+      "lastIndexed": 1774402290773
+    },
+    "02_zettelkasten/21_domain/photography/lens/lens.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cc749941380bb39f9d2133024cec1a0e2270d958ffbdede9b5ad813d42abb045",
+      "lastIndexed": 1774402290778
+    },
+    "02_zettelkasten/21_domain/photography/skill/Observation Structure.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "702fefef6d0d05110fb720eae30971daaacdeabeaa768d990d74bcf7a2ac668f",
+      "lastIndexed": 1774402290905
+    },
+    "02_zettelkasten/21_domain/photography/light/light.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bd8bdc223561c74458fca1cb4c7aafb3ae109c4d9c01f3db11d4fe37911c7bac",
+      "lastIndexed": 1774402291275
+    },
+    "02_zettelkasten/21_domain/photography/skill/Light Structure.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "886611e1ced1a77ba9c8627497ce339f4ad27e9f9ff7244b24218cab841ecd76",
+      "lastIndexed": 1774402293021
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/04_integration/意味生成.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "dbddc6eaf89116f7b05e347fbc102af50f38e7fbc4814f9e8cd3c07e87ea21c5",
+      "lastIndexed": 1774402297345
+    },
+    "02_zettelkasten/21_domain/photography/skill/Composition Structure.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c31f2f3df4ff0b9f5304491b069821a6c0e6f6e7193f1f611a3860a907bfb2f4",
+      "lastIndexed": 1774402297382
+    },
+    "02_zettelkasten/21_domain/photography/skill/Editing Structure.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a00f31300458319d9881750311aff714639856e2e0cdd92b55e6bbe79a002d81",
+      "lastIndexed": 1774402297717
+    },
+    "02_zettelkasten/21_domain/photography/skill/Case Template.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "73bbad7c199ed186d361fe5d1ddd1bdcd28e5b181144a240cde32983caa7aadd",
+      "lastIndexed": 1774402298849
+    },
+    "02_zettelkasten/21_domain/photography/skill/Shooting Structure.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fa628571dde9e5c094c1b6e82fbdf8d1559ceae2671313f68445dcae1648f4df",
+      "lastIndexed": 1774402299061
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/04_integration/行動変容設計.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e34c58f768b38bdec6c08f5d3449e17f9367d6e82a9f8f31681922787cff6339",
+      "lastIndexed": 1774402303357
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/04_integration/仮説更新.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "83e34cb10573884032cb8feb7a72f10db2c8671de5a1beecb3202e99239de9a3",
+      "lastIndexed": 1774402303361
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/01_self_model/現在の自己.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "79f23f9730b877456ddfca4bf7de3ff814e98475099e98521164cdb5df52c275",
+      "lastIndexed": 1774402303570
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/04_integration/内省.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c4ae3edea3a5f4f3f75caaeead6018ec070daf01d4d04e0c269a972aa76266a4",
+      "lastIndexed": 1774402304044
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/04_integration/旅ケース.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9af75940963b945d9603899efb7c099be8dbdb2dc6ab30f38bc675424f856df9",
+      "lastIndexed": 1774402305303
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/01_self_model/違和感ログ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8860ad357b59bd4485e6832242da08f2023b238a8b84b89d87bab9e90ac7d3a3",
+      "lastIndexed": 1774402309654
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/01_self_model/アイデンティティ構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "71eae06209efb94744305abce273b87939255a568a5d3b15ecc1331561603b42",
+      "lastIndexed": 1774402309972
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/01_self_model/価値観マップ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0b6c554bb7d43b392c70620b9a4d61a62c44fb3ed0b950dfe9a71754413c2042",
+      "lastIndexed": 1774402310025
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/05_mechanism/アイデンティティ解体メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9ac0194508a0c1bae19ee49024eed6a5aadb249839b0a2ca69d8170afe05e1fe",
+      "lastIndexed": 1774402310064
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/05_mechanism/知覚再編成メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "25c36b3a76332becf2ebabe177237fd54b0a8b96cc94492ff22794e1a9ee5272",
+      "lastIndexed": 1774402310631
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/05_mechanism/不確実性曝露メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ed4f617f313631ebcfb6c71c8bbf9b154ac1c30e28c406d634536ea74b1eb839",
+      "lastIndexed": 1774402314468
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/05_mechanism/物語生成メカニズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1f41d01c7f0211eb59185c5dffee351364646526f9cb3ff50e7a763eb226810e",
+      "lastIndexed": 1774402314865
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/06_structure/旅の三相構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f989771a6e508b755ab6d85e75d5b746aa38fe7f51dd610d4c0aca1eff1919c7",
+      "lastIndexed": 1774402315344
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/09_interface/観光→旅変換.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f4a426f49efa9e09a4d3979be5398b76c214f3f822311faf9552a2a7f77d427c",
+      "lastIndexed": 1774402315424
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/09_interface/フィールドワーク接続.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d51691477dfd2146499275b0359aab88fa8dd31fef6eecf644ee50b82f906a5b",
+      "lastIndexed": 1774402315569
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/02_departure/離脱設計.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "60aad9fe4cece79076af1043109fd25904f60cc073073e60012440aba856d274",
+      "lastIndexed": 1774402320138
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/02_departure/離脱ログ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "05a26e4e1465a562577ce298efeae269d4b599cab19fe4a232179237ee2fd424",
+      "lastIndexed": 1774402320366
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/06_structure/主体変容構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5b20681c93b183d9c229d842af40df91514467130191786adcdad11d0db62693",
+      "lastIndexed": 1774402320370
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/02_departure/制約除去チェック.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f52b857a74fa3870e69f344fde40b4b0f57a0df0d7a9eb619a4a7917043493ba",
+      "lastIndexed": 1774402320586
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/02_departure/役割剥離リスト.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d94cdb007dce1f7e1091adf781e93fe0bacd6eec39b38a7c7cf12941558026ab",
+      "lastIndexed": 1774402321356
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/90_template/case テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7fc60846030e1ccba62dd36c3e99247dbbd39271c535b4f300f02e2862537f6a",
+      "lastIndexed": 1774402325532
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/07_pattern/変容失敗パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1ac5be7946e5a332a6951813748b9441dd89cbe3e76f4af5b67f5b8ac98ecd58",
+      "lastIndexed": 1774402325841
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/90_template/内省テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "97044c7794a6dfe753078da582fcba6a77440b36fa457860d5152afb92401801",
+      "lastIndexed": 1774402325951
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/90_template/観察テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "381cca06086acce303ed828049daa066e9cbc5a4385bbfb016ab77ae7ed13904",
+      "lastIndexed": 1774402326330
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/90_template/違和感テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c6da2aefc126a98136f0896c4651b67951ed3eaa3095a2b13efe3a9cb467b046",
+      "lastIndexed": 1774402326378
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/07_pattern/意味過剰化パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a4fc75ee06896284f399d045a57fc8cfb00a6cbab92dc60168d6a47964e693b3",
+      "lastIndexed": 1774402330235
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/03_liminal/偶然イベント.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6c809f6e60ebcbf9766deb07942c6956a9856a1fca777c13eb621974961641b8",
+      "lastIndexed": 1774402330766
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/07_pattern/観光化パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "371f17c6c368ed69aaf351677969a628a77e409314481996023c37511cf3f62c",
+      "lastIndexed": 1774402330844
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/03_liminal/観察ログ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0dfe861e2bcb1687f11a0ef6ab5237a995fb04974a9c90b7af5c5d65d72f3570",
+      "lastIndexed": 1774402330849
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/03_liminal/違和感収集.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "deb00841073a8090bd82db4d60184ff7b2d764b4eb580f94f63eeb76f9f2cd48",
+      "lastIndexed": 1774402331291
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/08_case/変容ログ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1c0178032ac866a5d184daa94270368991e56341e72b12401542ac41fe3002fc",
+      "lastIndexed": 1774402335715
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/03_liminal/感情ログ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e1941841a28e5cc227c5fdff48251ef68c16a48fc8e9ce322f6b272816d4288c",
+      "lastIndexed": 1774402335931
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/08_case/旅ログ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1c37246c380ca13305ce5d30128ad2f81c92b67e28ec99d9340df431a3b238e3",
+      "lastIndexed": 1774402335967
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/00_meta/旅OSの使い方.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7768f521dbf555308eb594f4d06a1cacb01aed2a4857444f6256ff9a1f2a0fe9",
+      "lastIndexed": 1774402336535
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/03_liminal/違和感テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cd96e4c24ddc93e17473037e73087aa28d8b79b66ed66ca28a872ff1b2dd8765",
+      "lastIndexed": 1774402337352
+    },
+    "02_zettelkasten/21_domain/lawvault/risk_map/インバウンド貸切ツアー リスクマップ/インバウンド貸切ツアー リスクマップ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "132933023a24f5da12ae386d655e10db18248dfd211d2bcebf1efef5ca2503e0",
+      "lastIndexed": 1774402341900
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/00_meta/旅の評価基準.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f8652a94b6f7260c286fe759baac9eaaf1040d0fec27171ffe1293900085cd1e",
+      "lastIndexed": 1774402341988
+    },
+    "02_zettelkasten/21_domain/lawvault/risk_map/インバウンド貸切ツアー リスクマップ/phases/06_管理_インバウンド.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "724a923d4f43a83164f45dac57f083c2a990ba2589634d76711bd64b230826ba",
+      "lastIndexed": 1774402342503
+    },
+    "02_zettelkasten/21_domain/lawvault/trigger/旅客運送事業該当トリガー.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5a427c0969cf33db5665c6a10bba5d9ed30d850c1dcb52b3ee0cc79407290c5f",
+      "lastIndexed": 1774402343408
+    },
+    "02_zettelkasten/21_domain/Travel_Vault/00_meta/旅とは何か.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "eb7d53200a8d8a1b316aafff28d62d606613f8eb0b3f6dfefb01864b1b266a9c",
+      "lastIndexed": 1774402344150
+    },
+    "02_zettelkasten/21_domain/lawvault/risk_map/インバウンド貸切ツアー リスクマップ/phases/07_拡張_インバウンド.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2904fcee2c44a66b044e3d22dc104c31fac764a4a80bcae1d1b441e95c00b07e",
+      "lastIndexed": 1774402347971
+    },
+    "02_zettelkasten/21_domain/lawvault/risk_map/インバウンド貸切ツアー リスクマップ/phases/03_契約_インバウンド.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "65bbf4e6236e8ccbdb5898f59dd6a83f3c33114781cbd038e84438141de5e5f9",
+      "lastIndexed": 1774402348546
     }
   },
   "indexingInProgress": true,
   "indexingStartedAt": 1774401888343,
-  "lastIndexedFile": "02_zettelkasten/21_domain/photography/photo_fieldwork/撮影設計.md"
+  "lastIndexedFile": "02_zettelkasten/21_domain/lawvault/risk_map/インバウンド貸切ツアー リスクマップ/phases/03_契約_インバウンド.md"
 }
