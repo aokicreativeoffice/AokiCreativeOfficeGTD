@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774402978013,
+  "lastSync": 1774403045917,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -4397,9 +4397,264 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "79465a404242c22c884134987470b8733a5971b3a95d2f2e00d9dc72b4a0f884",
       "lastIndexed": 1774402978013
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/social/case/流行.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cd9cea457adaf91af925e69ede84ca07b341e4b23aa2e78dd7b1988b34eb96af",
+      "lastIndexed": 1774402978230
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/social/case/都市暴動.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f5103ddae1e6819d65fd5e0d7aa09208644ebea1fc2a34a174791d625cd57b7f",
+      "lastIndexed": 1774402980213
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/social/case/集団リンチ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "76551ab4055115d5f7062b5afc38519341b832af590de1de12d84fb44fd97893",
+      "lastIndexed": 1774402981261
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/social/case/道徳運動.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "298e77cf983d7ffa3b71da1f6219f3763c01a9866ad2fe71ae63f11c4d78bc55",
+      "lastIndexed": 1774402985498
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/social/case/文化戦争.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "37f7ea08cd2d63ac811cd64eac5d9c203a9aa92eb1cde2a0657f70f78ad49e27",
+      "lastIndexed": 1774402986144
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/social/case/ネットミーム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2ee00140e55a247076028171599c17446d7c5da1139a53e984cfeeed07b67f57",
+      "lastIndexed": 1774402986203
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/state/structure/統治構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d626d2c362cbf7ffc0213c1979ba358b78f34a5d2424074288c395fd13f9fd17",
+      "lastIndexed": 1774402990789
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/state/structure/正当性構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "416fa24b951206f87daa7e1391e4c4ec873c0aa85ac068d868d6f76ae71e962a",
+      "lastIndexed": 1774402991281
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/state/State_Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c818d65db2a66bc3ec7ef57c1bfb72d00d11595ebd77db3b7816b4bbf3e13810",
+      "lastIndexed": 1774402992000
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/state/pattern/国家衰退パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "accbb1cfa6b22f42bf47201c1579a6f21557fb0dfb4c2d365bd23d995a1a51f3",
+      "lastIndexed": 1774402996727
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/state/structure/権力構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e2a2348fa0e29d3443682225db9a1903ea9f766ef8941a34087a1631586f458c",
+      "lastIndexed": 1774402997030
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/state/pattern/革命パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "59202012e56e1f6ad26bf622f9095d888e7fd9c67d5cd4fabb2a4910dcec9852",
+      "lastIndexed": 1774402997099
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/state/structure/制度構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fc219a56549a222ae3401ba73d34dcd2d0795f9750b353b99ce75300a18e3c31",
+      "lastIndexed": 1774402997436
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/state/structure/領域構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0786773fd21fd058a6c111d11f17c2dd58f9305b59176672de672d28e9df4771",
+      "lastIndexed": 1774402997570
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/state/pattern/国家官僚化パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ac5cf35418ac02aea9640e0e0af74188ac0fd125ac0290a965c8bb84d1c3926f",
+      "lastIndexed": 1774403002625
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/market/Market_Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bb0747d46438c7f63e668b973bae7cfb8ffb969572b5e5b48040de01d5e0ff39",
+      "lastIndexed": 1774403002693
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/market/structure/市場ポジション構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5056b87f00473cfe48df415912ec57ae9c7f15bbfece5763e05992980c44826d",
+      "lastIndexed": 1774403007283
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/market/structure/競争構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2e20359a457c549c449e944e3d2969b2db3d6dbfbad71380f6abeec7d56ebad4",
+      "lastIndexed": 1774403007406
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/market/dynamics/競争構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c98ac542786ad6bd424785c8f9ddb64ff416f9e1c0f30d827f6f72b9dc3fd94a",
+      "lastIndexed": 1774403011203
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/market/structure/参入障壁構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6c2fd4155bb6d0c21984822bb906963fd4443c21391119c85177d03a00e5d386",
+      "lastIndexed": 1774403011249
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/market/structure/価格形成構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4e9a2835cbb672ae9d4d611784f2058bf19616847e1cbcf925c12aeefe00f44d",
+      "lastIndexed": 1774403011754
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/market/structure/ネットワーク市場構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "23ba8185637485d332b78a1bdd4d14afd3b865dbbbd0a38daf61da9f418ae8af",
+      "lastIndexed": 1774403011935
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/market/structure/寡占構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a18694efb2b0100279ec8442484bda2841408213b56407ee1a68258c95f71106",
+      "lastIndexed": 1774403012204
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/market/pattern/寡占形成パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3748442a51a8833b8d229eadc2d56285bfee0b91d4f7e43531fb36d3836489e3",
+      "lastIndexed": 1774403016683
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/market/pattern/市場進化パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "82fe440e8243a969c5c7b3898a303ab0af1b2602aa64200106762ebed555155e",
+      "lastIndexed": 1774403016695
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/market/pattern/差別化パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "717e8410dd4d85c39da9684fd70f4d3b7f8772fe1d433a37672d3b8544980b53",
+      "lastIndexed": 1774403017382
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/market/pattern/価格戦争パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fc27d9f44f7f0eb2c66a1a025d702e935e7f804f4eb743db89c1c12c6c7b34bd",
+      "lastIndexed": 1774403017883
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/market/pattern/市場ロックインパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "22b2d974ddc0bf53485e111b5a873f2071e89790c3df6e5a638abfc557e8b284",
+      "lastIndexed": 1774403018575
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/market/pattern/勝者総取りパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "167697836138e750e3fffcee150a513ba0b1b418c985f2f85784b754cc420a20",
+      "lastIndexed": 1774403022597
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/complex/ネットワーク原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b39fe14833fcd762780a280dadd6ec56e0719333fb9cd600293951b6ccffe55a",
+      "lastIndexed": 1774403022772
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/Kernel_Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cca0f317b72c3c8bd27cc6e18313e6c5ce43cf03793f72722e812afa43e90bce",
+      "lastIndexed": 1774403023534
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/complex/創発.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e67a57049fdff8f4dd280bc343d4a1f8fb14de7ebfbffc99588240e43a43a1c1",
+      "lastIndexed": 1774403023763
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/complex/自己組織化.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b1e81cedcb23b7dc6efcb3314d5355bb499d151908e6a72f9bf5c2d57e0b456b",
+      "lastIndexed": 1774403023993
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/physics/スケール原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9e0a12e124b38bfd33c7eb268753374f092be2e170a8b738de3da17219202902",
+      "lastIndexed": 1774403028545
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/physics/エントロピー増大原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "454656ce920267c620acf73f16add8a54a01d10014214e11a56548a8641f0a48",
+      "lastIndexed": 1774403028768
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/physics/フィードバック.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6e4e58dc13f1b844cab2d787b6ac377fc81aebc5d4f362b096f851b25f09a4b4",
+      "lastIndexed": 1774403029037
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/physics/最小作用原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "56ad279047d954b243cba27111471131cf57fdbfb12e7cbd5bbf995b8b6e2ce6",
+      "lastIndexed": 1774403029065
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/physics/階層原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bee1edf687e053de8e410270fb9fb9ef9509170cef22f79bf6ca7d55f61d73b3",
+      "lastIndexed": 1774403029225
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/physics/拡散原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b627be3733d04fb175195b80d2425fea788d5a6f95f869be3a77a196bb31491d",
+      "lastIndexed": 1774403033868
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/physics/非線形性.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5f74ce0283a1bd740b549713031deacfcd4e8c7426c219af6c2287e2d1d98385",
+      "lastIndexed": 1774403034896
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/physics/対称性原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "21358ad4759dc5641c331ca14e142f76a232617558218e3995c04da4f6f3cfc9",
+      "lastIndexed": 1774403034901
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/physics/平衡化原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6159f8c492919bc34cc5841ad5c1b09ce2473083224eeb99f9a6fe619aa199f0",
+      "lastIndexed": 1774403034942
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/physics/相互作用原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0af0ad7f4e63dc6c8a3f5c6c6ebca94aca4f7d6c88641ef8b60bb44da2dfb7b8",
+      "lastIndexed": 1774403035732
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/physics/臨界点原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "72815f279400eb1c75a7ca1896dc4e748c0796a1351b53327cac20db4091fd29",
+      "lastIndexed": 1774403040222
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/evolution/適応.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "74892bb312c7d6ee83ddaf26260eee8fc8fdc0ab83db3f3c4ac0e46fd75237d2",
+      "lastIndexed": 1774403040733
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/physics/保存原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "be3d1f3cde93441c8612cec2cd879c85f80b2ec32746a9dbd70cb0deefb7ac8c",
+      "lastIndexed": 1774403040778
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/kernelテンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "dd58c24751516f5577391b8c7f10c9c2d7be09bd0a67372c1e8a97f2b82fac15",
+      "lastIndexed": 1774403040824
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/evolution/進化.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1cb73df70824326ea0d30fb6e5099209b11d5f89214904e7d9982a1575032a54",
+      "lastIndexed": 1774403041482
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/evolution/探索.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cce6dc6b4418df4f278e7a6b2d3cb07a241791a5d5a84189c554e980ccdcc34f",
+      "lastIndexed": 1774403045700
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/social/希少性原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ac212253a6fdf225d179f6868ee4153286623d159b2188111baf84b4aa3f0080",
+      "lastIndexed": 1774403045804
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/social/トレードオフ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cd4e38d68e910ed1a7ce3ecce5e41b82c4f595f5c18f2bd8c4dbd27b96f2d99b",
+      "lastIndexed": 1774403045917
     }
   },
   "indexingInProgress": true,
   "indexingStartedAt": 1774401888343,
-  "lastIndexedFile": "02_zettelkasten/01_knowledge/world_model/meta/pattern/social/case/排外運動.md"
+  "lastIndexedFile": "02_zettelkasten/01_knowledge/world_model/meta/kernel/social/トレードオフ.md"
 }
