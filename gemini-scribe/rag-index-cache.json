@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774419902210,
+  "lastSync": 1774420055753,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9877,6 +9877,16 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "521d1dba7922426a9d1308057c8a0f1718cf06c39245e3175bf05871f5dfd9a8",
       "lastIndexed": 1774419791896
+    },
+    "02_zettelkasten/21_domain/history/actor/主体ノートテンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3c337bb81fdf3e72f2ae199f35d6a5b928c77c554fe65b828ef371eb2a4dacb2",
+      "lastIndexed": 1774419920463
+    },
+    "02_zettelkasten/21_domain/history/event/事件ノートテンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b6459c916899f7486abf895dea9ab0e547ab5699579611f4132bade66906ccbf",
+      "lastIndexed": 1774420055753
     }
   },
   "indexingInProgress": false,
