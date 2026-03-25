@@ -11,7 +11,6 @@ domain: history
 created: 2026-03-07
 updated: 2026-03-07
 ---
-
 # 歴史ドメイン・オントロジー定義 (History Domain Ontology)
 
 歴史を「単なる記述」から「動的な構造」として捉えるための、エンティティおよびリレーションの定義集。
