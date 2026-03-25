@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774420260049,
+  "lastSync": 1774420334231,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9892,6 +9892,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "2568f78e52b8245c0ca012be5be1dbff066e663518350ab00e800c3e6564b938",
       "lastIndexed": 1774420260049
+    },
+    "02_zettelkasten/21_domain/history/epoch/潮流ノートテンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "37bf664fc67d51d4d4712fbb760bb74d1615f899acc52935024804707b12515a",
+      "lastIndexed": 1774420334231
     }
   },
   "indexingInProgress": false,
