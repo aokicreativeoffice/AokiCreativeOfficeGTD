@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774449618321,
+  "lastSync": 1774450998969,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9982,6 +9982,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "540234103b99c6c16f3bdcfc9779980087c5e5a1a18b375be0759d663101e5e6",
       "lastIndexed": 1774449618321
+    },
+    "02_zettelkasten/21_domain/history/event/オルミュッツの屈辱.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6767b200cb6449dc1aa061aba27cc7ddbfc6d6fd3b57b82929ff7a6204229f8f",
+      "lastIndexed": 1774450998969
     }
   },
   "indexingInProgress": false,
