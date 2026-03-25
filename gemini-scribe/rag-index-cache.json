@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774482977540,
+  "lastSync": 1774483047442,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9853,11 +9853,6 @@
       "contentHash": "4802096f043e40902c43f13ca454e5f40707c3a0fd9a3ed60ef78075604e4b7b",
       "lastIndexed": 1774404327750
     },
-    "00_inbox/エムス電報事件.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "5f0cd539eba72bf83d733197ed34791a7429e4c9f0bc593aed7b3e42a05c436d",
-      "lastIndexed": 1774404690317
-    },
     "02_zettelkasten/21_domain/history/ontology/Historical Domain Ontology.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "c001b6fe57a3e8718f91334907d4abec97048a9cc591e9ef9bb915ba6bbe3bd8",
@@ -9870,8 +9865,8 @@
     },
     "02_zettelkasten/21_domain/history/actor/主体ノートテンプレート.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "3c337bb81fdf3e72f2ae199f35d6a5b928c77c554fe65b828ef371eb2a4dacb2",
-      "lastIndexed": 1774419920463
+      "contentHash": "839d9c2762d97804fdbf294f9b99d4ef5742667540f3fb1a6d41abadc3212f7c",
+      "lastIndexed": 1774483040892
     },
     "02_zettelkasten/21_domain/history/event/事件ノートテンプレート.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9880,8 +9875,8 @@
     },
     "02_zettelkasten/21_domain/history/structure/構造ノートテンプレート.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "2568f78e52b8245c0ca012be5be1dbff066e663518350ab00e800c3e6564b938",
-      "lastIndexed": 1774420260049
+      "contentHash": "f84752e27e11570c5d29d27150fc778af11e28ac2156961239c5b6e36007ca31",
+      "lastIndexed": 1774483047442
     },
     "02_zettelkasten/21_domain/history/epoch/潮流ノートテンプレート.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9992,6 +9987,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "c7902ecd7220d3757fa2f40a0aac5c01d741d2defa6dc14cc46c17361a521004",
       "lastIndexed": 1774482977540
+    },
+    "02_zettelkasten/21_domain/history/event/エムス電報事件 1.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5f0cd539eba72bf83d733197ed34791a7429e4c9f0bc593aed7b3e42a05c436d",
+      "lastIndexed": 1774483034914
     }
   },
   "indexingInProgress": false,
