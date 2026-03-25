@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/history/ontology/Historical Relation Type.md",
+                "file": "02_zettelkasten/21_domain/history/ontology/Historical Domain Ontology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Historical Relation Type"
+              "title": "Historical Domain Ontology"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_zettelkasten/21_domain/history/ontology/Historical Relation Type.md",
+                "file": "02_zettelkasten/21_domain/history/ontology/Historical Domain Ontology.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Historical Relation Typeからのアウトゴーイングリンク"
+              "title": "Historical Domain Ontologyからのアウトゴーイングリンク"
             }
           },
           {
@@ -203,7 +203,7 @@
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
     "02_zettelkasten/21_domain/history/event/state_change/エムス電報事件.md",
-    "02_zettelkasten/21_domain/history/ontology/Historical Relation Type.md",
+    "02_zettelkasten/21_domain/history/ontology/Historical Domain Ontology.md",
     "02_zettelkasten/21_domain/history/ontology",
     "02_zettelkasten/21_domain/history/actor",
     "02_zettelkasten/04_meta/Vault Knowledge Graph Architecture.md",

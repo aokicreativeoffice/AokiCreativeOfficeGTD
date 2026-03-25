@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774419603098,
+  "lastSync": 1774419751501,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9872,6 +9872,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "521d1dba7922426a9d1308057c8a0f1718cf06c39245e3175bf05871f5dfd9a8",
       "lastIndexed": 1774419521092
+    },
+    "02_zettelkasten/21_domain/history/ontology/Historical Domain Ontology.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6d8451b524a5201782a7c7e23ba862d16380c06b57cf35e7b645f184c7eb1e91",
+      "lastIndexed": 1774419751501
     }
   },
   "indexingInProgress": false,
