@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774446626463,
+  "lastSync": 1774446699394,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9932,6 +9932,16 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "352ce4eb6e48f968bd4aaf4cc5551559c49a73aa87d55495acb9205c5e95a577",
       "lastIndexed": 1774446626463
+    },
+    "02_zettelkasten/21_domain/history/structure/凱旋門政治.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c55a052604a4316ffee21297dabab52e9e9e1dac3030439af8a2fa084669a742",
+      "lastIndexed": 1774446668552
+    },
+    "02_zettelkasten/21_domain/history/structure/威信政治.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8fe640b6341175eecd61ca56813c99da130997a40113b3bfae1b6c1718279442",
+      "lastIndexed": 1774446699394
     }
   },
   "indexingInProgress": false,
