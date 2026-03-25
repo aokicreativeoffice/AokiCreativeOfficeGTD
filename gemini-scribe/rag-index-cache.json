@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774402002382,
+  "lastSync": 1774402076763,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -402,9 +402,264 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "7a4800a846a95bf6658532bdb81e9282cf9abab63f5d0ad769eb3f0ae81c6e47",
       "lastIndexed": 1774402002382
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/dictionary/観光構造/network/クラスター型構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cae2f4e6d44d6fe606a371ae459cab79f298be1b9e96ead88974a403f5f20241",
+      "lastIndexed": 1774402002461
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/dictionary/観光構造/geometry/十字型構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0af8e9d0c5e109b96a63e54b19876d8f9ca77ae12f6da7e5e07a8fa2dcc9bed2",
+      "lastIndexed": 1774402002732
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/dictionary/観光構造/geometry/格子型構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3e4c23f42d93bebd2c0cbdf3e430d653bed37f95d65426e9239b1a5eebff105d",
+      "lastIndexed": 1774402002985
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/dictionary/観光構造/network/分散型構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cb0612c7f4c0e6e754eed00522622a8475029958568cb28540d5e39233e7bb47",
+      "lastIndexed": 1774402008362
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/dictionary/観光構造/network/階層型構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4de3bb643081f5ff501a43d2fe9dde33b8564c9ffd564fea37b0448597c8c503",
+      "lastIndexed": 1774402008571
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/dictionary/観光構造/network/集中型構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "279cba783b3d54c93cfa54b0d16d5866ca0a24108089aa5ceaeee7f6c9e922c1",
+      "lastIndexed": 1774402008663
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/dictionary/観光構造/network/スケールフリー型構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "82fdfd916763f4b4a81548744d019285f7628a31c8bf59245e01bbe5fcc24f60",
+      "lastIndexed": 1774402008841
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/dictionary/観光構造/network/ハブアンドスポーク構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e1af51f5ee70c5e09ad17ff99284e21f6210374c9252f42ce24f61799404d31c",
+      "lastIndexed": 1774402009350
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/05_pattern/都市構造12パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1a39f088c2a90544ab2f0e104abdcd29ecd35d1c0f7246133c9290ee912ed788",
+      "lastIndexed": 1774402014002
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/dictionary/観光構造/network/巡礼地型構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0c6697d18adc84716b7234addc5ba25ce6083e767ff296a3ba08df365a045371",
+      "lastIndexed": 1774402014079
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/dictionary/観光構造/network/チェーン型構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4a2ba0581c8dbabc531df24aa3de6829c858d6c356918fbe3feea550cb12fb02",
+      "lastIndexed": 1774402015440
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/dictionary/観光構造/network/スター型構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "06e670592ecf72adf3d3c01b783fe7d5f6ea49832baa85bcc0806da8d82af67d",
+      "lastIndexed": 1774402015452
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/dictionary/観光構造/network/多中心型構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2a6b12673ed228e100a211decd0f77368727b329509d29f7495ad975ddf11f88",
+      "lastIndexed": 1774402015495
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/05_pattern/circulation/観光回遊失敗パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9d76d61eca987ca1563d655565dc904e4cea1658ad3514361d5211a9f7b349f4",
+      "lastIndexed": 1774402019996
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/05_pattern/circulation/地方回遊パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a051e1cc32fc074038349f73770da0c7cd930214f0b59b0116188e065e252942",
+      "lastIndexed": 1774402020286
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/05_pattern/観光構造パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b546a20e60b652578e7e70b61ffa1434de264ce21ac9d8637e02b2919dec2452",
+      "lastIndexed": 1774402020290
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/05_pattern/circulation/回遊パターンHub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "11c6cf596d305de4d9dee36ef96b289eef135f7e174d8c6958a69a07aa1fbb9b",
+      "lastIndexed": 1774402021682
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/05_pattern/circulation/都市回遊パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "70ecab99e0dcc1e22a6cfa64291cc99514fb5a7aa3fdd50afbeb8ffc8b2222df",
+      "lastIndexed": 1774402021829
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/都市交通システム分析型旅行.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6bf5fec305b525b142591d5db1bbed0d06a920c6b368c8bfe224c900020698dd",
+      "lastIndexed": 1774402026071
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/景観読解.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "046bed016575e8649fa749fefd5ba9e9855b50b0175d0f0f326b55303110244a",
+      "lastIndexed": 1774402026510
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/場所性.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7462d47b60a721d3ebaa4d073ff7b407edcaf2971d7b1ffed93fc5bd7f6bd7be",
+      "lastIndexed": 1774402026619
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/統合型観光.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c499c23d8a3aec34d795c0fb13791570f90b782fbc0936eee991b0ec857c509b",
+      "lastIndexed": 1774402026993
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/都市アイデンティティ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "44f919667792bf38413f677c7ccad87f1e1125bcb16624070a99488bf0c9d803",
+      "lastIndexed": 1774402027846
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/都市レイヤー.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d45ebf9e6610a974f6094ebdc89efdaa97c6a001434cc517a82d95ab5c3d322f",
+      "lastIndexed": 1774402031862
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/がっかり観光地.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c0b7a1a938f05eec2f7e4c6d5c3d32d6940fa9958b103439e1495a3f35f5bfa7",
+      "lastIndexed": 1774402032318
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/フィールドワーク観察.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6bb77d38461dd5ff0d86a1707ae321a849146c274d78d3b072b4abb91fb3ffbd",
+      "lastIndexed": 1774402033282
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/地形解釈.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2bb242e8d4d2089523848959009c4351001f5937c1315e6ea1d80ef332954f3f",
+      "lastIndexed": 1774402034039
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/観光価値.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a6b779a65f4a00ad61bde6ca5d002f8349b9a374f70d672492395b8fb996471e",
+      "lastIndexed": 1774402034450
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/線（都市軸）.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cc3433e8fc9b153443d1595a036b7f9894184d7880d9861f53e77673475b22d4",
+      "lastIndexed": 1774402039138
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/境界（都市エッジ）.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0bb5a049f51e5ee016c736ba5ac1baad5ffd229acc455f736d6031f5f8fc9d03",
+      "lastIndexed": 1774402039145
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/観光圏.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "711afccc670fd8383e48acffb8a3c23bf338a4e2f5ab3dec4ae0f477279397ee",
+      "lastIndexed": 1774402039149
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/結節（都市ノード）.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "01d0fdcd2a2952d24d67edf5ec68c7e5aaede8c80a35991e9c994c8b4b3e4c8c",
+      "lastIndexed": 1774402040102
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/象徴（ランドマーク）.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cd853a6feb1670305b1164e04c370d272cce82e0621d6ea8d9f00c46ed8fd1e9",
+      "lastIndexed": 1774402040426
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/都市空間要素.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f89ee4c80da48e5a543835ec4a35ccd59b93421e09fc981aaa637f1370429774",
+      "lastIndexed": 1774402045116
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/都市イメージ要素.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "74cb16ce6c8fdb0343c8c8a6f061dfc7a5665716777634c8ef7366ddc4351423",
+      "lastIndexed": 1774402045170
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/観光の視線.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "33d8af57a46fd1a8e1c8d4fb4ae1d977b367109330d64786163a0916c3858985",
+      "lastIndexed": 1774402045385
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/面（都市地区）.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f88d350896f3d18e920fe90d4ff645cff345876bc55f5720f37e051ba6c8c262",
+      "lastIndexed": 1774402046701
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/01_concept/舞台裏理論.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "84eeafc1ca0a4e805dfff8cfd78c826adb67ba3f5029a685b2f2fa0aa409370f",
+      "lastIndexed": 1774402052935
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/06_domain/urban_analysis/町読みフレーム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "50abef29ae0cfde5aaaa282b199645853aa4704845dcbbe6c4169dff6d3434dc",
+      "lastIndexed": 1774402057966
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/06_domain/urban_analysis/歴史都市分析フレーム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cb651ea15f435d6839004ca6b330af4cab2eb4b27ecdffd97f4f5a05bc5ab285",
+      "lastIndexed": 1774402063273
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/06_domain/urban_analysis/都市構造分析フレーム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0038188c3343d379136d96ad811da682ef4132495c30e306ed3267630c721df5",
+      "lastIndexed": 1774402063632
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/04_method/Fieldwork Tourism Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "600bdac5a2beae49bf7582763f85105deac1c74aecf57271ca940caeccd34321",
+      "lastIndexed": 1774402063768
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/04_method/都市フィールドワークMethod Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5504be75f6ae674f43162574070d3321b41d2a0f8694e27f2a4667a35c98e66a",
+      "lastIndexed": 1774402064227
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/06_domain/urban_analysis/都市中心分析.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "82a16d62dfd80a7500c97302752d2a448fdd7d8f31a7e58ae1242fedf3f4a197",
+      "lastIndexed": 1774402066000
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/04_method/フィールドワークチェックリスト.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8017a40b66848c0847fb9c75d123c0387895f6f8bc39e838db5d6bd4438f68ca",
+      "lastIndexed": 1774402070148
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/04_method/観光地抽出方法.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4d7d17f5b090f2df4fd2358940ba854f1f68787331f45610acda8b591788e939",
+      "lastIndexed": 1774402070672
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/04_method/08_morphology_reading/都市形態読解.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3eaad222afc865bce665b82aea5b1d75cc6e00030b31b0451711fb7f1755ed75",
+      "lastIndexed": 1774402070824
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/04_method/08_morphology_reading/地域形態読解.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3628397df8f609265058f75c920746bc3b08993bb840f730d9e691d5e5860382",
+      "lastIndexed": 1774402071988
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/04_method/08_morphology_reading/観光地形態読解.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "155f249d5b6939b22510b4d5160277efff52f8021b75e25997ebf1ceb1c6da46",
+      "lastIndexed": 1774402072275
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/04_method/03_field_observation/都市観察チェックリスト.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b8c35a1a8995e5b883df93f13db4a903e9fe87d4a0bce149b89dcc98f8ddaa22",
+      "lastIndexed": 1774402076292
+    },
+    "02_zettelkasten/21_domain/fieldwork_tourism/04_method/03_field_observation/景観要素分解.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5a9b5228d2db351c29a0ea43fc1e683fabc8bb9160625752767cdd33cf035bf6",
+      "lastIndexed": 1774402076763
     }
   },
   "indexingInProgress": true,
   "indexingStartedAt": 1774401888343,
-  "lastIndexedFile": "02_zettelkasten/21_domain/fieldwork_tourism/dictionary/観光構造/network/ネットワーク構造 Hub.md"
+  "lastIndexedFile": "02_zettelkasten/21_domain/fieldwork_tourism/04_method/03_field_observation/景観要素分解.md"
 }
