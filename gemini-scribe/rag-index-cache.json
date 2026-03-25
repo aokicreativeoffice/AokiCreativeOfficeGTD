@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774421118664,
+  "lastSync": 1774421167045,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9922,6 +9922,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "ee8f6db92ce3719666bf01eae5cf164aad17842033464ede36607bc167abb02d",
       "lastIndexed": 1774421115457
+    },
+    "02_zettelkasten/21_domain/history/epoch/第一次世界大戦と帝国の崩壊 (1914-1918).md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "89f30c6421d94c15a37ce0975f5ff9d0be01ee2abacbf828771f1020b76c3ed6",
+      "lastIndexed": 1774421167045
     }
   },
   "indexingInProgress": false,
