@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774403045917,
+  "lastSync": 1774403117626,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -4652,9 +4652,264 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "cd4e38d68e910ed1a7ce3ecce5e41b82c4f595f5c18f2bd8c4dbd27b96f2d99b",
       "lastIndexed": 1774403045917
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/social/資源制約原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6599ab87a84626d864d838a75634598c5f50c1136776479c27605e217a9ef63a",
+      "lastIndexed": 1774403046449
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/social/競争原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8fd237934d7e861cf242346419f099b5da2c6e84bb1709ac48ea7e50381922b6",
+      "lastIndexed": 1774403047651
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/natural/biological/共進化.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3f5c6453ec0dffadbce2ad2ed82b8278ccf26a2ec98763fa9356cdad6403b170",
+      "lastIndexed": 1774403052117
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/case テンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f93e7b99ee00a7feb616bd67ebf09af9f80c089e762adf746256fa6bef30b027",
+      "lastIndexed": 1774403052282
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/social/交換原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6940ffa5da486f6cb912c65773e82f8357040c44cd2813f6c6e26e838f65e904",
+      "lastIndexed": 1774403052564
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/system/制約.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "94692f1cfc48c830585a8f64c4639e844042aeb05cf4fa2c3c2ff579703d9672",
+      "lastIndexed": 1774403052697
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/kernel/social/協力原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b40752b0bd861138652c8c7d170f18ee6e4f901927ae152cf7e78c48fd9d08d5",
+      "lastIndexed": 1774403052758
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/natural/biological/自然選択原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "37d3b08990e4b45dc2835f555327de36dd4b00c2440043e97ded7386d87a2b84",
+      "lastIndexed": 1774403057054
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/natural/biological/適応原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "455e8e0394a2e159353d50acc3c31f6bae06b86c2a959f704f4e20a43f05af37",
+      "lastIndexed": 1774403057235
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/natural/biological/進化原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fbe00f2b8a85c6301faed31153056caa61fc7feb237a0f4d35c869a079d1ca4e",
+      "lastIndexed": 1774403057347
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/natural/biological/生存戦略.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6aea0623925d218b79bcefeda41a6a9eeff333c254837fe14b88ae2e9dbea8ca",
+      "lastIndexed": 1774403057431
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/natural/biological/生態バランス.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "67dafc75f9255033d975a33656e310d2cec1c2e2ea28ebc01f2eb686b899aee7",
+      "lastIndexed": 1774403057851
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/natural/physical/質量保存の法則.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4f859fd20afcbe85f35c839ebe1bce57cb716f415222bfd15230dcbf57037878",
+      "lastIndexed": 1774403061956
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/natural/physical/自己組織化原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f68e28ff0f1b996c4659c408140501307b26ae479e172405d90108e058a78f6f",
+      "lastIndexed": 1774403062242
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/natural/physical/エネルギー保存原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9b1eb528bb5f399b4135d19dad78321466d1fe5b23c9a44d762424d28528d5bc",
+      "lastIndexed": 1774403062670
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/natural/physical/反作用原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8cebed6b266d9bfeb3229dd767781d3a97aaa0858c2e5ef792aa8349c86963a1",
+      "lastIndexed": 1774403067347
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/natural/physical/力の均衡.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0712fca912fcc829d4cd52314957a5a068d34a60348fc4ab15c103f0d997fd07",
+      "lastIndexed": 1774403067648
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/natural/physical/相転移.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9e4ab77bb324587a4abfa2cb658b3d2ad97d8fa5f0c7c7f48dc3ac214a25b5bf",
+      "lastIndexed": 1774403067819
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/高速鉄道駅配置モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "83c4b9a65ec9727fc6dde13f018511e481cb1e4c8067b464dca4c958c8bbe9cb",
+      "lastIndexed": 1774403067857
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/バイパス型モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1b764d2da587ac4117653f36c293aa19e0903554145358aa1fb01744f02a822e",
+      "lastIndexed": 1774403072506
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/貫通型モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2300d0aba4d69bc90e5ec64d60cd34ba9e0f0b9c868cda835e2492c690b48d76",
+      "lastIndexed": 1774403072654
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/system/evolution/パス依存.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6fc70255c8624e657a5a3ea9c7949f7afb7a3a063969d043b8b229888acfbb36",
+      "lastIndexed": 1774403072979
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/ターミナル型結節モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c4f09b042ae9ac9fa4ddf0596e7b3a44962b12a4e3bd1c58767bc6ba27e342b3",
+      "lastIndexed": 1774403073596
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/幹線直線モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cb14d66b21b79b9b7fd7225e2c8ce647ace83cb1d46507838d8b1765beb82526",
+      "lastIndexed": 1774403073807
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/system/evolution/自己強化過程.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3cfa3f8ac3c8c2962bf51371bfbc5154023fd9eb35f3c1c8920c64715ebd5b17",
+      "lastIndexed": 1774403078252
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/system/ecology/ニッチ形成.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "abaf0770c985b58067382032f18299f5eb4b36f41f730ed36bd9ae8e7d9971e3",
+      "lastIndexed": 1774403078465
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/system/ecology/捕食関係.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "88c41bad08276e32d2a27e34bab00fa2476a5c57268925871efe021baa182b1c",
+      "lastIndexed": 1774403078946
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/system/evolution/フィードバック原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ca4c43279ba5fc4cd573d863fadd0f7bc3610fbeab6f3f6ffd4d3d43aff09ed8",
+      "lastIndexed": 1774403079332
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/system/dynamic/臨界現象.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "599b9aca107d21a81cb8809686ea9eae331ade615e50265e2b5359c7809fc81b",
+      "lastIndexed": 1774403083205
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/system/dynamic/カオス.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "94e96946a0de39cd3fa0fcf149881e78a480353f8fec63480d15703dfee2adbf",
+      "lastIndexed": 1774403084452
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/system/dynamic/集合知.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "aa84850fe7cbfff100fb379f26985ec3bad4b095485475544c41036cff3cccbe",
+      "lastIndexed": 1774403085216
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/system/dynamic/ロックイン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b48d51c38b40f3695864b6e9de070dab79aa86aae6bd923cca2ea734a3c17f8c",
+      "lastIndexed": 1774403085736
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/system/network/複雑適応系.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ab5b8ef7a8e2a263f2fa8e48fb55a13b8eca1b469fe9d587b816f91f2e82aedf",
+      "lastIndexed": 1774403090965
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/system/network/ネットワーク原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b386a9f58f001c4d73def0d4111ce186122d0a4a801c774262fe08ec76daa19c",
+      "lastIndexed": 1774403092083
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/social/coordination/協力進化原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "726edac5265cff0d4cf7f833588594ea4d21d884e070fb3da87d29996972b2b5",
+      "lastIndexed": 1774403096445
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/social/coordination/00 coordination Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c293d6971b84d585e1bc4f3a583761b4b60e2111bbc945e428ee732abef8acc5",
+      "lastIndexed": 1774403096451
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/social/coordination/プラットフォーム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "40acba8dc2858091cf5ec70ae9f4dbdd073e68963fb7a28b3dce3453726750bf",
+      "lastIndexed": 1774403096807
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/social/coordination/ルール固定.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2389666cb42895fc38b66de00b18e1f7c1eb26ff337af4fea11323b170a6cfed",
+      "lastIndexed": 1774403096969
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/social/coordination/コミュニケーションコスト.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cff5b42a20055a86fa031da2a5c03e0567964c26a5f42e66bbb6b26af17df4ff",
+      "lastIndexed": 1774403097147
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/social/coordination/協調均衡.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2f5116a9863b69b945887a13ac605391fb9bd0bc45b05a1be7e8de5f1db7c4f7",
+      "lastIndexed": 1774403101820
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/social/coordination/信頼形成.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ab3d3dcce60e096fe05bdb02e94a0b2bc3be15822ffc23b653149f835836ca72",
+      "lastIndexed": 1774403101849
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/social/coordination/契約設計.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "202dda463d71422bad0dd1ba5dc2ad7e6725c792310c2a9e22e843cb5d67f29b",
+      "lastIndexed": 1774403102093
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/social/coordination/役割分担.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "431a9fef11bf7c3a0dc2dc8d2c317cbe5b81392d08910ccfcca1796e15e3b94e",
+      "lastIndexed": 1774403102181
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/social/coordination/合意形成.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "780c87f60af556d49ef9fee5720a4f048df5491646daeb1345c53906c56acc22",
+      "lastIndexed": 1774403102237
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/social/coordination/仲裁.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cac758e368c53ec7b4c8e9e433bf6691a8d5df5f6045723295ad7ae6561f9dcb",
+      "lastIndexed": 1774403107567
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/social/interaction/競争原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d56367946cb71da7984cbbbdeccb457adb53f0404ee9b26d8d0a59337b2f91fc",
+      "lastIndexed": 1774403107611
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/social/coordination/標準化.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "84874139cc5d58f567a36dd7bc0c1173ea60b2e4893dfde44f4a344f44f1cd9c",
+      "lastIndexed": 1774403108607
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/social/constraints/認知制約.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0da9d92e39aca5185dbcefce02fed457242eaf5e1c01ce42277c44209f26461c",
+      "lastIndexed": 1774403113327
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/social/constraints/エネルギー制約.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "39bfde1c0c67a6394be5928f00de033e42ea6ca23a7cd5b73c72f3534704cc1c",
+      "lastIndexed": 1774403113343
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/social/constraints/情報制約.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d41f73177d836986e131dccee6457a366e7ba0e3a8767e9e808c8fdae3f6c1c8",
+      "lastIndexed": 1774403117621
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/model/social/constraints/時間制約.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d220208bae977d85fe8ee309f63203b925253edc06428681e1dff90572f0990a",
+      "lastIndexed": 1774403117626
     }
   },
   "indexingInProgress": true,
   "indexingStartedAt": 1774401888343,
-  "lastIndexedFile": "02_zettelkasten/01_knowledge/world_model/meta/kernel/social/トレードオフ.md"
+  "lastIndexedFile": "02_zettelkasten/01_knowledge/world_model/meta/model/social/constraints/時間制約.md"
 }
