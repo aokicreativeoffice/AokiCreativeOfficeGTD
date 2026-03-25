@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/history/WW1 無差別潜水艦戦の戦略ジレンマ.md",
+                "file": "02_zettelkasten/04_meta/Vault Knowledge Graph Architecture.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "WW1 無差別潜水艦戦の戦略ジレンマ"
+              "title": "Vault Knowledge Graph Architecture"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#€",
+                "query": "ems",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_zettelkasten/21_domain/history/WW1 無差別潜水艦戦の戦略ジレンマ.md",
+                "file": "02_zettelkasten/04_meta/Vault Knowledge Graph Architecture.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "WW1 無差別潜水艦戦の戦略ジレンマからのアウトゴーイングリンク"
+              "title": "Vault Knowledge Graph Architectureからのアウトゴーイングリンク"
             }
           },
           {
@@ -200,8 +200,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "6acf75135036dfd0",
+  "active": "443e20a7aff5fe78",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/history/WW1 無差別潜水艦戦の戦略ジレンマ.md",
     "02_zettelkasten/21_domain/history/event/ニヴェル攻勢.md",
     "02_zettelkasten/21_domain/history/這う射撃.md",
     "02_zettelkasten/04_meta/ontology/Node Type.md",
@@ -237,7 +238,6 @@
     "02_zettelkasten/21_domain/fieldwork_tourism/08_case/観光圏/日本の観光圏 テンプレート.md",
     "02_zettelkasten/21_domain/tourism/観光地一覧/観光地一覧テンプレート.md",
     "02_zettelkasten/21_domain/lawvault/issue/00_争点名 テンプレート/労働者性があるか.md",
-    "02_zettelkasten/01_knowledge/world_model/mechanism/cognition/無題のファイル.md",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
