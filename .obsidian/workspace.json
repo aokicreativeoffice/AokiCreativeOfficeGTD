@@ -15,7 +15,7 @@
               "state": {
                 "file": "02_zettelkasten/21_domain/history/event/state_change/エムス電報事件.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "エムス電報事件"
