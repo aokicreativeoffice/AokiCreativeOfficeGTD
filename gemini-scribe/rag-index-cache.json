@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774402837796,
+  "lastSync": 1774402909790,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -3792,9 +3792,309 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "4e6224393eaa2169ba78cefe02396825a6e61265b435f327b80b2e6a313d3915",
       "lastIndexed": 1774402837796
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/civilization/pattern/文明停滞パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ac08a59462d22999832831565ab769b58d5afe4953e728428c7554f0c7cde674",
+      "lastIndexed": 1774402837828
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/civilization/pattern/文明後退パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c841cd26a5ac147b979fb426d13f9c2f3cde69055b56512705c8976640fb1f2a",
+      "lastIndexed": 1774402842175
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/structure/官僚制構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "98885adc3702d1d9cda0e6712505ad7b7c9da572eedff9563fe587797bda98ba",
+      "lastIndexed": 1774402842372
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/structure/インセンティブ構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d2c4a467aca054e57bfb8ea9ff6cb7f1fbae5ceed53451c5b37603681dea846f",
+      "lastIndexed": 1774402842461
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/Organization_Pattern_Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3242da23c6d0642a4f54c1b0d3804b7b5f65c062a21e04fd458f874482b9f496",
+      "lastIndexed": 1774402842789
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/structure/代理問題構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5b503cb4ad1f36db0487e70dc1caa098dd9ddaf442e059ad4eaae78688051ecc",
+      "lastIndexed": 1774402842904
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/structure/情報構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "285d6eb3088e7fde3c289083c6db7eabfd0aa833bfba55089fb149fbd7b71507",
+      "lastIndexed": 1774402846888
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/structure/意思決定構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "41ab2cafd7fd5b4ec27c52af4858b943175bc582d376b5ec26bafcd5ab76afe2",
+      "lastIndexed": 1774402847363
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/structure/役割構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cf0d8ee9231f6415b216e1fc4586825af74179c0664e615fc4ce9b8cfb9c9fd4",
+      "lastIndexed": 1774402847595
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/structure/組織ライフサイクル構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f937cf2aba163858b7ade44946d775a227b40f846baa74d4262fe46da69dd0c2",
+      "lastIndexed": 1774402847818
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/structure/権力構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "44899c63375dae8b5c63ab6446cc2932003ff03fa6a7555de8848586a1703f75",
+      "lastIndexed": 1774402848663
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/pattern/behavior/意思決定遅延パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "55ac0df127d41b6b1a734f613c0c2675dee617763fcf3bdd6702412835ace0f7",
+      "lastIndexed": 1774402852613
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/pattern/information/情報歪曲パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a12d593ac2650c088825304793d9a0a34454abf797de457506af046a72f84a01",
+      "lastIndexed": 1774402852913
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/pattern/behavior/責任回避パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "036bf513c65fcba0720a32ac0d0e1eaab3336bc7a20a41475a39f99378675911",
+      "lastIndexed": 1774402853626
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/pattern/behavior/官僚化パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6342cdaca31e07458313fe165d07c074461503ca1c7130c36eb0569d125965f7",
+      "lastIndexed": 1774402853650
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/pattern/information/サイロ化パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "16bdd10a464ba8d7589e0f0b8ba75cc0974c45cc43e851e996ebaeb74cb72e25",
+      "lastIndexed": 1774402853804
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/pattern/behavior/組織硬直パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4ab3558685b1a0ce70dfc2fff81565baf48bf5d22c7f6b329b646d9d3c0a40c2",
+      "lastIndexed": 1774402858262
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/pattern/power/権力集中パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c1acc9a017d41b203c1057e73733d8751a6e0139255ca6c1daa019c0057369c4",
+      "lastIndexed": 1774402858532
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/pattern/behavior/モラルハザードパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0f1dc04f54cd9d1fc6e2a67d72737c1e4fbd4a0a0346a5d04563edabc8c9b604",
+      "lastIndexed": 1774402858614
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/pattern/power/内部政治パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9980173cd324b335f1e3860800e83d2ecc7d5cc2d202f701302ce3126d3571bf",
+      "lastIndexed": 1774402858647
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/organization/pattern/power/派閥形成パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "510ed3585ffbbe909dc790861239b22a0f74e4c048a9d6a4612e297d4808bcaa",
+      "lastIndexed": 1774402858712
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/Technology_Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1f1dc5a58f50dfc2349513c48381c684725f0cc2c64bcc6ac927f5cb1c4ec165",
+      "lastIndexed": 1774402863255
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/structure/技術システム構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "88ab1cfef374bc9729c48d7f39719e4774b55d33ab6d22148f897d9ac7d5536e",
+      "lastIndexed": 1774402867288
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/structure/技術エコシステム構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "deee03d3387790e3c66f1a383b9864f569acddf755d70146ae87bc634690ecc5",
+      "lastIndexed": 1774402867844
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/structure/技術モジュール構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5222d0981c5c7c01eff1d341b6de32c823069008652163f690f2423180bdc797",
+      "lastIndexed": 1774402868586
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/structure/技術スタック構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0421296546eec8ad3f475990f81aa2618696f9befd203cba0077bc3dd04e7199",
+      "lastIndexed": 1774402869286
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/structure/技術ネットワーク構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cc0247a02906ec3d9e44741329133e93e4c7756cc64e632f9fb2628af00157a7",
+      "lastIndexed": 1774402873461
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/structure/技術産業構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "658c66ab216683b368a09f066ab95c6535d96aa6c03eeb386c8b91a944d023b4",
+      "lastIndexed": 1774402873924
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/structure/技術知識構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "77efb26a7c431069a56b1d2b91fd53b223a47a7be3936f684bdc29646a59d137",
+      "lastIndexed": 1774402874098
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/structure/技術プラットフォーム構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f59df95b64a23e867237265c2fc21e91ada76e20e6f29a4e0c2b785eb666efa3",
+      "lastIndexed": 1774402874187
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/structure/技術進化構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "03f12cb92d32ce3ea039435460d5f03426b46d90648a0aa80b9da375ba58d1d8",
+      "lastIndexed": 1774402875453
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/技術プラットフォームパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d57c4dd8f417eaa7f67617d7b3112d7ffbcd97ce91541418f48e7c178a4f20cc",
+      "lastIndexed": 1774402880082
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/技術Sカーブパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "43fba062777346c6ca0392229479a7838ebc0ff8e45447e97ecfeebd949e7f6f",
+      "lastIndexed": 1774402880439
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/structure/技術インフラ構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c6cbfbc8d4818b5f8c99c22e61cfd782d8d65d719c30a5a3025606dac20781de",
+      "lastIndexed": 1774402880444
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/技術エコシステムパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4cd0a8a20940c9b2f2938ae844ec060440a3b42909a8bf92718ec7d91df73a22",
+      "lastIndexed": 1774402880789
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/技術パラダイス転換パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1684213ef166042603ef77ad6ec5f598fa46c9781b8e0b6b75479a3b2e05d237",
+      "lastIndexed": 1774402880860
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/技術依存パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7504a067c3521ffdaa736103b0e87377dea03b7127404c2a033de22ca61e7a1c",
+      "lastIndexed": 1774402884726
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/技術モジュールパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bf2766dbc630fb0c5ef689cc1daacbd214161efe986c7e1316486f0c624d072a",
+      "lastIndexed": 1774402884995
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/技術コモディティパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "17cb144e95284711f77c939dc1e1bd3e5c4b0820384ca4163c4d93a3b880749f",
+      "lastIndexed": 1774402885089
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/技術軍拡パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "838ef77dd7ea194382cf85b96cb39fe2c2ed4df32e1139ed5de123defda3af8b",
+      "lastIndexed": 1774402885337
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/技術覇権パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ade16f807438771f4053a84cae4cc7519f71300068cc1610726c99070b5d83ec",
+      "lastIndexed": 1774402885823
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/ネットワーク効果パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5d1d8416c0f2bcda505ee3247edccb0f87b17aacfbb950a310e85e5c3a93a625",
+      "lastIndexed": 1774402890308
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/技術融合パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b964e171cf511fe2bbe34e0ade07683772481cbfab24132752ae54e5f33e2e16",
+      "lastIndexed": 1774402890472
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/技術進化パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "950a3b4c1632bc758aa7d6186201ed8b00c3f28ee6679e55d9327580c4e9d4c4",
+      "lastIndexed": 1774402890604
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/技術累積パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8e06742d90aa4b6751fad4a99d7a80c1aa09cff6ebf651f157fe181fe81a7455",
+      "lastIndexed": 1774402890757
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/技術破壊パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f3068e10428cb3a0289d921d486197b838b498b32d6d8757c8a1b7ccf7c3c867",
+      "lastIndexed": 1774402890872
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/技術置換パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b96d0c579bc6874cc060a680a0b509b9d078eab9363e970bcc329dac4a1dcc88",
+      "lastIndexed": 1774402895082
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/技術ロックインパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6ab180dd73115258af89fba56cf45d8df83ab6b9cafe2aaf70db925ad8725e0e",
+      "lastIndexed": 1774402895732
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/技術普及パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c65b561016e4c5d86227f28e96e7b080cdac713a2232c638d328b953a57fbbb8",
+      "lastIndexed": 1774402895761
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/技術飛躍パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2d1b856fb820a25c985329f49b776f32b0cc6be6ac47a4b24ec32d58b1fc9b5b",
+      "lastIndexed": 1774402896190
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/標準化パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d9b079b55fb6a38ab10dd5fe10e3c8b315d07d9292f115231a436e22ca7c8dff",
+      "lastIndexed": 1774402896814
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/technology/pattern/技術競争パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cfbe29bd4285e57b610465f81f4f70f1571c6f7be12a10d519c982f81e1ec893",
+      "lastIndexed": 1774402901650
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/cognition/Cognition_Pattern_Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1b5b6a61b950d85bd12d06f981ff9bd42a30ee8c5f3dd41d23173ff5957ae104",
+      "lastIndexed": 1774402902011
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/cognition/フレーミングパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "49cbab1d0a85cd47cd1357dca30abd06aeccabfde86b28194f2b4e57591d87cb",
+      "lastIndexed": 1774402902045
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/cognition/利用可能性ヒューリスティックパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8fcbe341bd97c3269b31dc35e88fc28d17bbb5dd7aa38cd746a0621791ae4e85",
+      "lastIndexed": 1774402903493
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/cognition/ヒューリスティック判断パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6bbcd3fd4e894757fc91b36bc0a3a67523366217a23807a01f84f2691c120654",
+      "lastIndexed": 1774402907924
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/cognition/認知固定パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "066b970733ddd49da5d98cef1f36b5b20cfbce5d86fd1ec58fce4b47231829f0",
+      "lastIndexed": 1774402907928
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/cognition/正常性バイアスパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3abaaaea959f63040461838fedfd711493b1bd716d9891b5eeb848077d323011",
+      "lastIndexed": 1774402908062
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/cognition/注意集中パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "277eaeae0f3fca4521b32c939cad854b56b99cffd963c1017e8fa3d82fa39e66",
+      "lastIndexed": 1774402908629
+    },
+    "02_zettelkasten/01_knowledge/world_model/meta/pattern/cognition/過信パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cf34514f23cd3f958fce5137cf9e10d4a84085c4d35d0720fcbde5fd4ceae320",
+      "lastIndexed": 1774402909790
     }
   },
   "indexingInProgress": true,
   "indexingStartedAt": 1774401888343,
-  "lastIndexedFile": "02_zettelkasten/01_knowledge/world_model/meta/pattern/civilization/pattern/文明衰退パターン.md"
+  "lastIndexedFile": "02_zettelkasten/01_knowledge/world_model/meta/pattern/cognition/過信パターン.md"
 }
