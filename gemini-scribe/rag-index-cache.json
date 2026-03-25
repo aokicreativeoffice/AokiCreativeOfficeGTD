@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774421414516,
+  "lastSync": 1774421622355,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9900,8 +9900,8 @@
     },
     "02_zettelkasten/21_domain/history/epoch/ナポレオン体制と革命の輸出 (1799-1815).md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "7b3d5b95146acb8e2b70a526c770ae1bc94057fdaee65b143a8f4f48a8cfbe36",
-      "lastIndexed": 1774421414516
+      "contentHash": "5409afd3475c702c98fb73cd0c76f42134e3e3c73ca4b59a6b1fed35541db9d8",
+      "lastIndexed": 1774421613393
     },
     "02_zettelkasten/21_domain/history/epoch/ウィーン体制と正統主義 (1815-1848).md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9927,6 +9927,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "89f30c6421d94c15a37ce0975f5ff9d0be01ee2abacbf828771f1020b76c3ed6",
       "lastIndexed": 1774421167045
+    },
+    "02_zettelkasten/21_domain/history/epoch/アメリカ独立戦争.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ba08779f53bc0d983424d6a315d2206ce04408f473c13728c67145cfe9f478dc",
+      "lastIndexed": 1774421622355
     }
   },
   "indexingInProgress": false,

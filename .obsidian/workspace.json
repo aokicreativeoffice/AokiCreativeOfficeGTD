@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/history/epoch/ナポレオン体制と革命の輸出 (1799-1815).md",
+                "file": "02_zettelkasten/21_domain/history/epoch/アメリカ独立戦争.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ナポレオン体制と革命の輸出 (1799-1815)"
+              "title": "アメリカ独立戦争"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_zettelkasten/21_domain/history/epoch/ナポレオン体制と革命の輸出 (1799-1815).md",
+                "file": "02_zettelkasten/21_domain/history/epoch/アメリカ独立戦争.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ナポレオン体制と革命の輸出 (1799-1815)からのアウトゴーイングリンク"
+              "title": "アメリカ独立戦争からのアウトゴーイングリンク"
             }
           },
           {
@@ -202,12 +202,13 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/history/epoch/ナポレオン体制と革命の輸出 (1799-1815).md",
+    "02_zettelkasten/21_domain/history/epoch/アメリカ独立戦争.md",
     "02_zettelkasten/21_domain/history/epoch/ウィーン体制と正統主義 (1815-1848).md",
     "02_zettelkasten/21_domain/history/epoch/第一次世界大戦と帝国の崩壊 (1914-1918).md",
     "02_zettelkasten/21_domain/history/epoch/世界政策と帝国主義 (1890-1914).md",
     "02_zettelkasten/21_domain/history/epoch/ビスマルク体制と誠実な仲介人.md",
     "02_zettelkasten/21_domain/history/epoch/諸国民の春と国家統合 (1848-1871).md",
-    "02_zettelkasten/21_domain/history/epoch/ナポレオン体制と革命の輸出 (1799-1815).md",
     "02_zettelkasten/21_domain/history/epoch/潮流ノートテンプレート.md",
     "02_zettelkasten/21_domain/history/ontology/Historical Domain Ontology.md",
     "02_zettelkasten/21_domain/history/epoch",
@@ -237,7 +238,6 @@
     "02_zettelkasten/07_execution.zip",
     "02_zettelkasten/06_decision.zip",
     "02_zettelkasten/21_domain/fieldwork_tourism/08_case/回遊/北海道回遊一覧.md",
-    "02_zettelkasten/21_domain/fieldwork_tourism/08_case/観光構造/北海道観光構造一覧.md",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
