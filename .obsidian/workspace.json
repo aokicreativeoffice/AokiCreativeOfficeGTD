@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/history/這う射撃.md",
+                "file": "02_zettelkasten/04_meta/ontology/Relation Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "這う射撃"
+              "title": "Relation Types"
             }
           }
         ]
@@ -200,6 +200,10 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/04_meta/ontology/Problem Type.md",
+    "02_zettelkasten/04_meta/ontology/Ontology.md",
+    "02_zettelkasten/04_meta/ontology/Node Type.md",
+    "02_zettelkasten/21_domain/history/這う射撃.md",
     "02_zettelkasten/21_domain/history/event/ニヴェル攻勢.md",
     "00_inbox/エムス電報事件.md",
     "02_zettelkasten/00_system/question/Entry Hub.md",
@@ -232,10 +236,6 @@
     "02_zettelkasten/21_domain/lawvault/issue/00_争点名 テンプレート/労働者性があるか.md",
     "02_zettelkasten/01_knowledge/world_model/mechanism/cognition/無題のファイル.md",
     "02_zettelkasten/21_domain/lawvault/knowledge/gate/ハイタク事業/ハイタク事業 ゲートノート.md",
-    "02_zettelkasten/21_domain/lawvault/knowledge/gate/ハイタク事業/GATE_運行管理者.md",
-    "02_zettelkasten/21_domain/lawvault/knowledge/gate/ハイタク事業/GATE_損害賠償措置（ハイタク）.md",
-    "02_zettelkasten/21_domain/lawvault/knowledge/gate/ハイタク事業/GATE_整備管理者.md",
-    "02_zettelkasten/21_domain/lawvault/knowledge/gate/ハイタク事業/GATE_車庫.md",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"
