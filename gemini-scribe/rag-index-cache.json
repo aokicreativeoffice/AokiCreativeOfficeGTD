@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774403992909,
+  "lastSync": 1774404067766,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -8667,9 +8667,259 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "adc631bb4269e46da883811de55273a2e7c8a08055250b147efa639244c8c800",
       "lastIndexed": 1774403992909
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Aestheticization of Life.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c7b19fb4498d69cef1f13e94ad7c808a99b3a5dbcc62a385622da6236633fedd",
+      "lastIndexed": 1774403992953
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Narrative Tradition.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7fc33521a45b72e92cf4db887d781a450d24f8fdfc8dec8d0ed81e69c3b9b55a",
+      "lastIndexed": 1774403993425
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Authority and Legitimacy.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f88682d8b1710a8b971e11b874c380e53f817846f8b8a65d24b7f2dbc3b6d2da",
+      "lastIndexed": 1774403993878
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Symbolism.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1b77cea23b256da4a48895b93a89987a64e1a2740766faed4c507d53d7576f82",
+      "lastIndexed": 1774403997843
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Purity and Pollution.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "304c4e550cdff25230cadb65e8d97601cdee1285f47fb2252aef6e74c85ec518",
+      "lastIndexed": 1774403998459
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/Spatial Awareness.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "847296271e19b67f8823598649ffe4fec7f701e6dec481644c854d3b35453d05",
+      "lastIndexed": 1774403998733
+    },
+    "02_zettelkasten/未整理/Japan_culture/structure/情緒原理.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7f8759d4a151de0bbac1110b53a83aaa98ad71db14b2c67d7adf2fd7135c4533",
+      "lastIndexed": 1774403998855
+    },
+    "02_zettelkasten/未整理/tourism/structure/Tourism Explanation Structure.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0ecd76e2d0240e2bc9a1e7fcb6fc8f94af6d2dababdc0d7d02f25b12b00fb8a0",
+      "lastIndexed": 1774404003338
+    },
+    "02_zettelkasten/未整理/tourism/structure/Tourism Experience Model.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8d558d89d75f16cf6be7dc10b6b1ab59b9414d045dcd07b7d55bd6b21f01a31a",
+      "lastIndexed": 1774404003358
+    },
+    "02_zettelkasten/未整理/entrepeuner/kernel/business OS.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "39391b8e2cd8bcef3b5186b47ba506690830bae3bbae6b6cbaf80b66805d8c6a",
+      "lastIndexed": 1774404003479
+    },
+    "02_zettelkasten/未整理/entrepeuner/field_model/technology.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e4e8c88f9c19b90379c5537772784d0e2606374eb328668568169706937bd540",
+      "lastIndexed": 1774404003752
+    },
+    "02_zettelkasten/未整理/entrepeuner/field_model/market change.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8b871b00785810e7b357d303b7ccc1a509aacc674080e98a67e4e97565c08731",
+      "lastIndexed": 1774404003850
+    },
+    "02_zettelkasten/未整理/tourism/structure/Tourism Capability Model.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2cd0f5d049dd015619eb99fb5b85864f06942ac0b91ec29b4d987dbc8b9d510a",
+      "lastIndexed": 1774404007711
+    },
+    "02_zettelkasten/未整理/tourism/structure/観光圧力と生活.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "25a3d682e8cc5dce7c239ead3fc2b6454c3b49478f7e5e44993e7bb19b352147",
+      "lastIndexed": 1774404007826
+    },
+    "02_zettelkasten/未整理/tourism/structure/Tourism OS Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "710a916da061bbd0a9baaefeac2bdc6a14e42229d634e6c977ba5438ed70d56f",
+      "lastIndexed": 1774404008554
+    },
+    "02_zettelkasten/未整理/tourism/structure/Tourism Site Structure.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8f6310d8de4899093bc910d74afbf1ac1714608421df1408cbc7247e11e3db96",
+      "lastIndexed": 1774404008737
+    },
+    "02_zettelkasten/未整理/tourism/structure/Tourism Attractiveness Model.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ff95867d5e6eb8c17bbed2b9a376912cfd7fdb588be04445ca4e3d1713ea0d44",
+      "lastIndexed": 1774404008787
+    },
+    "02_zettelkasten/未整理/tourism/readme.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2a0e3b93f0b891fe87a21f48b11b8c43bf87f372a0da198f1fb0359223177fd2",
+      "lastIndexed": 1774404013070
+    },
+    "02_zettelkasten/未整理/tourism/structure/Tourism Narrative Model.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "088c2e2daf4dd0fdf2ec89ad96edc34962bc04874b1cadf99c2f9a5c991516b3",
+      "lastIndexed": 1774404013783
+    },
+    "02_zettelkasten/未整理/enterprise/kernel/Enterprise OS.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bddb602b0935d4b01b8d9d1fc84df9c91930bd45c340d7a4793f2c91ccba43c9",
+      "lastIndexed": 1774404013789
+    },
+    "02_zettelkasten/未整理/bus/bus/安全/certification/総合監査チェックリスト.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "01ba61dc4a4e568ac3a1af01b929f47dc6592bfbe57d7f69ee7f91663a4516c3",
+      "lastIndexed": 1774404018718
+    },
+    "02_zettelkasten/未整理/bus/bus/安全/certification/貸切バス事業者安全性評価認定制度.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "45a1de091a97a915ed97785d70f4570fec6e0c004c7a1b146100dedf9d8c81c0",
+      "lastIndexed": 1774404019356
+    },
+    "02_zettelkasten/未整理/bus/bus/安全/operation/安全管理/00 安全管理 Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c68321d3f42e7fa5b6301e7925c5594e82e6dedb8d28ae180bac53f3ca1ef580",
+      "lastIndexed": 1774404024431
+    },
+    "02_zettelkasten/未整理/bus/bus/安全/operation/安全管理/07 改善サイクル/ヒヤリハット報告/ヒヤリハット 業務フロー.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "61805f2b11d657b48987f26d6a471800b66fc8464f2b8f47a0133ee6de21815c",
+      "lastIndexed": 1774404029667
+    },
+    "02_zettelkasten/未整理/bus/bus/安全/operation/安全管理/07 改善サイクル/ヒヤリハット報告/ヒヤリハット記録台帳.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "166f02984bcda6ab5b8bea30e57a7390461bbd0d5b5f216ac8daf672468ffcd2",
+      "lastIndexed": 1774404029744
+    },
+    "02_zettelkasten/未整理/bus/bus/安全/operation/安全管理/01 経営安全管理/安全目標 業務フロー.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "905405617fb6fec9535845988d7314de4dbf5e636c78dc8a375913e5f8cf1aef",
+      "lastIndexed": 1774404034557
+    },
+    "02_zettelkasten/未整理/bus/bus/安全/operation/安全管理/07 改善サイクル/ヒヤリハット報告/ヒヤリハット報告フォーマット.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d5255108d35d69444667e902e28c1d5a94824dd38007c6b63f56dd4eb2fadbbb",
+      "lastIndexed": 1774404034629
+    },
+    "02_zettelkasten/未整理/bus/bus/安全/operation/安全管理/01 経営安全管理/安全管理規定 業務フロー.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "dc1d7e3a200da8d749bab8a0d5ae504917f26e657888436e9ad21dbc281ffa56",
+      "lastIndexed": 1774404034986
+    },
+    "02_zettelkasten/未整理/bus/bus/安全/operation/安全管理/01 経営安全管理/安全会議 業務フロー.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "99e5df9ced81cdd7a16a31c2dbdc8170eb5e3823951a4ce4be4016e272aa1fb1",
+      "lastIndexed": 1774404035170
+    },
+    "02_zettelkasten/未整理/bus/bus/安全/operation/安全管理/01 経営安全管理/安全統括管理者選任 業務フロー.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2c28b2e78c1daed9a6026d2c181cb1e3ef1f574bb1ca542225ae0943da4689ea",
+      "lastIndexed": 1774404035328
+    },
+    "02_zettelkasten/未整理/bus/bus/安全/operation/安全管理/01 経営安全管理/安全KPI管理表フォーマット.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6f2fdbd170893d2a217bed5a1aab519459d00b8075d1687b136a5362929fb267",
+      "lastIndexed": 1774404039819
+    },
+    "02_zettelkasten/未整理/bus/bus/安全/operation/安全管理/01 経営安全管理/安全統括管理者 評価フォーマット.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6bbd11351c76bb304e9afc097501926570a38df988e3f7aa241dcc5425bfd0e6",
+      "lastIndexed": 1774404040305
+    },
+    "02_zettelkasten/未整理/bus/bus/安全/operation/安全管理/01 経営安全管理/安全教育業務フロー.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "04440e6e674cbd285d5cea8db688b2ed79ad323866e15fa323e63e5d1bcaecdd",
+      "lastIndexed": 1774404040391
+    },
+    "02_zettelkasten/未整理/bus/bus/安全/operation/安全管理/01 経営安全管理/年間安全教育計画 フォーマット.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "61379ad751d66d5754f933933d3d06e7eaa1d378713c8b1da1517e6739abab38",
+      "lastIndexed": 1774404040459
+    },
+    "02_zettelkasten/未整理/bus/bus/安全/operation/安全管理/01 経営安全管理/安全統括管理者 辞令フォーマット.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1cb0fb7c5db62e0c5d8a14d99d056b285c1929ba5c61d5f73d5a28a5516eef4b",
+      "lastIndexed": 1774404040897
+    },
+    "02_zettelkasten/未整理/bus/bus/安全/operation/安全管理/01 経営安全管理/年間安全教育記録 フォーマット.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "99e703edc0583f1e6cd16ed8b799493f5fc5c2423fc8e7e76db9121c10dbe170",
+      "lastIndexed": 1774404046632
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/パワーマッピング.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d28c55ced77f9f3b775a26edb0286c45bb3006cd51836a3dd506afeb96773175",
+      "lastIndexed": 1774404051617
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/00 Analysis Framework hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "18a8c8e01ce09e3f98037240c498d4a1cd0cbd508556b0e9896c4b292d760e47",
+      "lastIndexed": 1774404051883
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/価値連鎖分析.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4ffce67c5a1e93a7a2a714e41bfe737210ee1631f3882c9ef051428a8a0f7aac",
+      "lastIndexed": 1774404053317
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/感度分析.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9e32c18c9382fdbeecb48344984d21e8e5d1b4835cbc35f09f52361dc1da753d",
+      "lastIndexed": 1774404057693
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/代理人問題.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5fa14d5d361bdd5154d554dd044c14b214d7d5b9847af33fa7615fb47d8e3f63",
+      "lastIndexed": 1774404057720
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/信号分析.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d058a8bb151220cf608e83f0c17e3191e3eab224c7a140ebd43d21b8f367a33b",
+      "lastIndexed": 1774404057875
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/因果連鎖分析.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "137d6741d588354bdfe31d71ebc09d26f0ad7f851dfe0fbd10aae0feb3d033b5",
+      "lastIndexed": 1774404058433
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/制約分析.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d6f0f0cbfa664c27f21c89776a432a106c5bb7de902cdc1b38d3a68ffa6b58e5",
+      "lastIndexed": 1774404058462
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/ステークホルダー分析.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "65df383c02c90c3d1c6afcb10b612567b92fed8a975e5763cc669bed95b5deca",
+      "lastIndexed": 1774404063121
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/意思決定フレームワーク.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "25ea00378c69951d50b5bf7dfb54dbbcc349c6bbcb74b9722f77b93bac07bfdd",
+      "lastIndexed": 1774404063148
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/費用便益分析.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fd52556420e76b3226035a5212579e48067297b870334c387776be6e12a67b42",
+      "lastIndexed": 1774404063160
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/シナリオ分析.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d8472e440ea39505dde6d024643ac6cff554dc8a42d32387e8b1c30c1c9b450f",
+      "lastIndexed": 1774404063208
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/なぜなぜ分析.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b58e9a78bc9e407a8b9cf223ce7764d66195f1f468ad74f0ce246fe369658559",
+      "lastIndexed": 1774404063297
+    },
+    "02_zettelkasten/未整理/project_management/method/analysis/根因分析.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c42542f1f462dd68fa59ba53a000ad5807987684c421a61a0c54c0b1cd52b5b8",
+      "lastIndexed": 1774404067766
     }
   },
   "indexingInProgress": true,
   "indexingStartedAt": 1774401888343,
-  "lastIndexedFile": "02_zettelkasten/未整理/Japan_culture/structure/Controlled Emotion.md"
+  "lastIndexedFile": "02_zettelkasten/未整理/project_management/method/analysis/根因分析.md"
 }
