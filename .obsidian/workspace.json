@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/history/event/ビスマルク首相任命.md",
+                "file": "02_zettelkasten/21_domain/history/structure/ビスマルク首相任命.md",
                 "mode": "source",
                 "source": false
               },
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_zettelkasten/21_domain/history/event/ビスマルク首相任命.md",
+                "file": "02_zettelkasten/21_domain/history/structure/ビスマルク首相任命.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
@@ -200,10 +200,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "6acf75135036dfd0",
+  "active": "443e20a7aff5fe78",
   "lastOpenFiles": [
     "02_zettelkasten/21_domain/history/event/オルミュッツの屈辱.md",
-    "02_zettelkasten/21_domain/history/event/ビスマルク首相任命.md",
+    "02_zettelkasten/21_domain/history/structure/ビスマルク首相任命.md",
     "02_zettelkasten/21_domain/history/epoch/諸国民の春と国家統合 (1848-1871).md",
     "02_zettelkasten/21_domain/history/structure/プロイセン宮廷の権力トライアングル4.md",
     "02_zettelkasten/21_domain/history/event/諸国民の春.md",
