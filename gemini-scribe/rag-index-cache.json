@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774448729068,
+  "lastSync": 1774448778451,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9972,6 +9972,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "339c23b97b1d3b77d4b7e7bc3b96d7f7c63f1e43575fe58fcf2cbab357cde6db",
       "lastIndexed": 1774448686179
+    },
+    "02_zettelkasten/21_domain/history/event/諸国民の春.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6d2a28bb8ee69dac64f7eae77f3556a4694279fd180c27b47e7fc5c81e76790b",
+      "lastIndexed": 1774448778451
     }
   },
   "indexingInProgress": false,
