@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774403625076,
+  "lastSync": 1774403705624,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -7012,9 +7012,307 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "f937cf2aba163858b7ade44946d775a227b40f846baa74d4262fe46da69dd0c2",
       "lastIndexed": 1774403625076
-    }
-  },
-  "indexingInProgress": true,
-  "indexingStartedAt": 1774401888343,
-  "lastIndexedFile": "02_zettelkasten/01_knowledge/world_model/pattern/organization/structure/組織ライフサイクル構造.md"
-}
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/organization/structure/情報構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "badfe6b77e217bc6e039017d89256de7c25317d2c961bd4cb097b388c1ab913e",
+      "lastIndexed": 1774403625529
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/organization/structure/意思決定構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2e333ca4e09cac83d3abc350a7e2ddb7e98aa61de364c3eb9297bcb2494e4735",
+      "lastIndexed": 1774403625536
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/market/pattern/市場進化パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ea6a810b77f9f6c311d079185b75457a8a10f6cbfb31b63bbbd2d288ace10773",
+      "lastIndexed": 1774403629829
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/market/Market_Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bb3ee510b2077dd31f1f992be48b51ffb30e852eca895d012fec2a102876ca2b",
+      "lastIndexed": 1774403630449
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/market/pattern/市場ロックインパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9aaa353188a32e63c079ab85e327ceb7ad9f3bc154ee43f6696941b96c355a8a",
+      "lastIndexed": 1774403630456
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/market/pattern/勝者総取りパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f4a7f9ca770b7ceec7f36e8a7bc6e7e1458ac27882358dc703aa9ba2e2a25136",
+      "lastIndexed": 1774403631232
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/market/pattern/差別化パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3ccf7164c9f9bed60e43fcee083f91528ee62078f9dd28cea86013af59cfff3e",
+      "lastIndexed": 1774403631443
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/market/structure/市場ポジション構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "789b4c28dc577cf0ab54cc3b17b363cf1428506cd750d1fbbc6ff3dce700ccde",
+      "lastIndexed": 1774403636341
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/market/pattern/寡占形成パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "775d2fe59a10558005d9e6c8066e6eaf782a22e1ca178e1e478582deedd242fc",
+      "lastIndexed": 1774403636372
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/market/pattern/価格戦争パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f7c032e1b4a18c01f5c2a2a3200ed931b3b09736fe59cbcbecb1b8b30522c324",
+      "lastIndexed": 1774403637010
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/market/dynamics/競争構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c98ac542786ad6bd424785c8f9ddb64ff416f9e1c0f30d827f6f72b9dc3fd94a",
+      "lastIndexed": 1774403637161
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/market/structure/ネットワーク市場構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bfcaba4e5d5eb4032fa15c0a2b36f6054b5cdfda1653c8b3d58bbc9bf31f3146",
+      "lastIndexed": 1774403641614
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/market/structure/寡占構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "06adc12db5a335ef17114cbb2ceec540895abebb14222f8ea0eb126be530c165",
+      "lastIndexed": 1774403642065
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/market/structure/競争構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "93abe45c9778e2b8851d6b8576434373fdfc2806bd0e78710cfb02d5dceac447",
+      "lastIndexed": 1774403642134
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/market/structure/参入障壁構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "011dbf5962302c2a775a42b546e1e0bc878fb2325f8d6b8074c75351d9f4eb29",
+      "lastIndexed": 1774403642260
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/market/structure/価格形成構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "538f9f52374d2ded20ce034c80650edd2471a4c7a3585a39da81ae8f7ff1bb58",
+      "lastIndexed": 1774403642447
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/dynamics/behavior/連鎖崩壊パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ef6c525f4ae6b016c53bd29b49f096335099e0533048848c67a26d9b61136eb5",
+      "lastIndexed": 1774403647376
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/dynamics/behavior/相転移パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4a963d0d0848e786afc347f8cb04bac26e20cd138df9bb303927b75fbb20704a",
+      "lastIndexed": 1774403647549
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/dynamics/behavior/暴走パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4b0b97e7a83b41434c146084c5555ca301fd62700e34bf6bd98223c100e4c27d",
+      "lastIndexed": 1774403647616
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/dynamics/behavior/臨界崩壊パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "91dc7901908a204ded8a2242db637de569b0b6cfc00042e8e71071f62cc81bf2",
+      "lastIndexed": 1774403648227
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/dynamics/dynamics_Pattern_Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4553e30d898ee3374d1a58d3e9048a56094d98ce79be0764be43318b742625fb",
+      "lastIndexed": 1774403648287
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/dynamics/mechanism/フィードバックパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fc72e028c5b36e3162d5870a3c1cc8edc8391a34f5f89953ee1a4597169996ea",
+      "lastIndexed": 1774403652376
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/dynamics/behavior/安定化パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8d45aada4eacdfaee1af207f20736c294a27ded50e7a4d2c3ae96e63d7409744",
+      "lastIndexed": 1774403652701
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/dynamics/behavior/バブルパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0d5c140ea679fa7dd52fb70f83596b65dbecc4c8ea2954749893bbab535dd237",
+      "lastIndexed": 1774403653051
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/dynamics/behavior/振動パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "320f48574e4dd3c3e286b289943d19c50e22fcc7168577c35c78773198a356f0",
+      "lastIndexed": 1774403653257
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/dynamics/mechanism/臨界点パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "78be5426f893ff612fdcb1fbbe0570a24490717eb701a67a8bbbd2d7efdc1e5b",
+      "lastIndexed": 1774403653265
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/dynamics/mechanism/崩壊パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9a8d71836e602cd3aa9ad88fca3b0ead975317d3d95c61bd835a091f8eca0b3f",
+      "lastIndexed": 1774403657527
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/dynamics/mechanism/ロックインパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "123fec20efa1688c72885cb7d9b6270e6409470eb0e24dd5e139be18f5b16f6e",
+      "lastIndexed": 1774403657940
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/dynamics/mechanism/増幅パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "98e040a836e547cdb8507a0282d53cffef843280d568b4dc79ef3bc199739fbf",
+      "lastIndexed": 1774403658197
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/dynamics/mechanism/適応パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "26ce36f71eb720310fada8079e6d9296a68b41980152c839bbb2e350f9f11060",
+      "lastIndexed": 1774403658275
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/dynamics/mechanism/カスケードパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6348f7be8c30c807a9203cc06b200d62efbff9375a226dc305b0435202c82cb6",
+      "lastIndexed": 1774403658318
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/case/デマパニック.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "511af9c32c315f5a244e7f746305c537aceb8e3800031d848b85e4bcf1ab9828",
+      "lastIndexed": 1774403662626
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/case/道徳運動.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "298e77cf983d7ffa3b71da1f6219f3763c01a9866ad2fe71ae63f11c4d78bc55",
+      "lastIndexed": 1774403662743
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/dynamics/mechanism/遅延パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "33444eda6c3b852d303c0533e01bb308e599bbcd2ba845797a350403dff2f916",
+      "lastIndexed": 1774403662798
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/case/排外運動.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "79465a404242c22c884134987470b8733a5971b3a95d2f2e00d9dc72b4a0f884",
+      "lastIndexed": 1774403662853
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/case/ネットミーム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2ee00140e55a247076028171599c17446d7c5da1139a53e984cfeeed07b67f57",
+      "lastIndexed": 1774403663089
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/case/都市暴動.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f5103ddae1e6819d65fd5e0d7aa09208644ebea1fc2a34a174791d625cd57b7f",
+      "lastIndexed": 1774403667318
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/case/ポピュリズム.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2623ddf37439646f73a6ee45fb3127e0db1b27b73a5d9b63a355abac01cac580",
+      "lastIndexed": 1774403667337
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/case/文化戦争.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "37f7ea08cd2d63ac811cd64eac5d9c203a9aa92eb1cde2a0657f70f78ad49e27",
+      "lastIndexed": 1774403667816
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/case/陰謀論.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ec4dbd10808a1676a2d70337ba0ca10b8e7fe6e43bfee3c537bf8115a1923174",
+      "lastIndexed": 1774403667987
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/case/政治分断.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e0f8b3fc85024d20a65902c60bcac43adfabdc647041a00dfad11bb6b0948464",
+      "lastIndexed": 1774403668319
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/case/集団リンチ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "76551ab4055115d5f7062b5afc38519341b832af590de1de12d84fb44fd97893",
+      "lastIndexed": 1774403672885
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/case/宗教カルト.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7f2d63cea236b0929182a7e9fd77d86fd879349ee8814a5d4d9e996db26849f7",
+      "lastIndexed": 1774403673113
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/case/ネット私刑.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1a164d8ac26a815f36f6a31ff31d1d2cb5b40a76d4b652c2820494468f4bf530",
+      "lastIndexed": 1774403673274
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/case/モラルパニック.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a6aacc785f54f766e64736788186cc3f39cec0b2c31299c90cf6176b0fe230af",
+      "lastIndexed": 1774403673308
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/case/デマ拡散.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fef9689cb98098a4435a9f080ccfae2f0be9ef70a5286e0d750c8c501f68db82",
+      "lastIndexed": 1774403673391
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/case/社会運動.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3102fdc6c6084ecd47209465f92cfdc87959bccdcafc319d474ba13c2a2f02fe",
+      "lastIndexed": 1774403677885
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/case/キャンセルカルチャー.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "73fb390d6aa44b480db5e659eaf79c16fe48546aa945e306a5dd3eb51d0af087",
+      "lastIndexed": 1774403678056
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/case/流行.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cd9cea457adaf91af925e69ede84ca07b341e4b23aa2e78dd7b1988b34eb96af",
+      "lastIndexed": 1774403679814
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/Social_Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a609998062b7d693656fdbbe5d3b516c0c9f37341c937cd07b3e8f1a3598c5d6",
+      "lastIndexed": 1774403683682
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/case/炎上.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c8d982417557e235976920bdee91a4eb114b0e8cb7f36fabbe133deebd1b8e82",
+      "lastIndexed": 1774403684722
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/pattern/権力腐敗パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "883226448124ce24e84d954585ac11966d2487d2a53ee724fce43905db6aa536",
+      "lastIndexed": 1774403689352
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/pattern/社会分断パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a395f66d3bbe577855d9cdc8c5b8ab89092ce32d5d4845e0d8af30635b33836f",
+      "lastIndexed": 1774403689358
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/pattern/権力集中パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "26f0d6701bbd2fbc651af25666e0d35bc83aaac798f7828302b0cf4c7ce1f08e",
+      "lastIndexed": 1774403689564
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/pattern/逸脱パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a70a45ba699fa7b1a34de56cfdf635d14f604038dce4573c5583375cab457f3b",
+      "lastIndexed": 1774403689602
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/pattern/権力正当化パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "249a49d484db5791ddc84e572ae300756fb08e7e472784780df2f5c352b41760",
+      "lastIndexed": 1774403689705
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/pattern/規範崩壊パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "184a8c2e82571a4c2367760c657bcc5acc4dff329e299a7d34b0d86072eb6b9c",
+      "lastIndexed": 1774403693521
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/pattern/社会運動パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2bf8f6b3310dbf569e46e61ec9197ec2fed3af0ae8685ef824a865dc79584657",
+      "lastIndexed": 1774403693916
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/pattern/モラルパニックパターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7b3005460ad04eff7383cd891bc063aaa386a503b080453eafab7ed17206349c",
+      "lastIndexed": 1774403694104
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/pattern/流行拡散パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e4581084642390da19472084e3d10c29a865fdda8d0c0581d1a532b4dc7d4d77",
+      "lastIndexed": 1774403694622
+    },
+    "02_zettelkasten/01_knowledge/world_model/pattern/social/pattern/分極化パターン.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "
