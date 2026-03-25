@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774448268403,
+  "lastSync": 1774448481534,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9962,6 +9962,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "d28bedcdce1dc77d9ba178882c035c4a85b80bb92b4065df0393895591729b40",
       "lastIndexed": 1774448071585
+    },
+    "02_zettelkasten/21_domain/history/event/二月革命（1848）.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d6f67370ba7432ee8464cb7952544c7baaf339bc9a79855c83e03964bdab4566",
+      "lastIndexed": 1774448481534
     }
   },
   "indexingInProgress": false,
