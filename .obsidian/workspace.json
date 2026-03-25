@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/history/event/ニヴェル攻勢.md",
+                "file": "02_zettelkasten/21_domain/history/WW1 無差別潜水艦戦の戦略ジレンマ.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ニヴェル攻勢"
+              "title": "WW1 無差別潜水艦戦の戦略ジレンマ"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_zettelkasten/21_domain/history/event/ニヴェル攻勢.md",
+                "file": "02_zettelkasten/21_domain/history/WW1 無差別潜水艦戦の戦略ジレンマ.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "ニヴェル攻勢からのアウトゴーイングリンク"
+              "title": "WW1 無差別潜水艦戦の戦略ジレンマからのアウトゴーイングリンク"
             }
           },
           {
@@ -203,12 +202,12 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/history/event/ニヴェル攻勢.md",
     "02_zettelkasten/21_domain/history/這う射撃.md",
     "02_zettelkasten/04_meta/ontology/Node Type.md",
     "02_zettelkasten/04_meta/ontology/Ontology.md",
     "02_zettelkasten/04_meta/ontology/Problem Type.md",
     "02_zettelkasten/04_meta/ontology/Relation Types.md",
-    "02_zettelkasten/21_domain/history/event/ニヴェル攻勢.md",
     "00_inbox/エムス電報事件.md",
     "02_zettelkasten/00_system/question/Entry Hub.md",
     "gemini-scribe/rag-index-cache.json",
