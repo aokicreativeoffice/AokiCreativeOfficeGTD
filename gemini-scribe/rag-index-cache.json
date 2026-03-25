@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774404143718,
+  "lastSync": 1774404208544,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9170,4 +9170,256 @@
     },
     "02_zettelkasten/未整理/model 1/world_model/02_human/human_model/感情モデル.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-    
+      "contentHash": "d4a1e18751e8eacadda9413db281eea283109530c8129fdecd76c0d7ab77c7fa",
+      "lastIndexed": 1774404134014
+    },
+    "02_zettelkasten/未整理/model 1/world_model/02_human/human_model/行動モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d3e4391d3b15af70fec2cc1e9895cc9d1f1b1700728df67e6ce4fc113173123c",
+      "lastIndexed": 1774404138626
+    },
+    "02_zettelkasten/未整理/model 1/world_model/02_human/human_model/意思決定モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6fd598f9557026a7d459ee6cdfbacdec61e8989fac84145e8c544d3a51e55004",
+      "lastIndexed": 1774404138639
+    },
+    "02_zettelkasten/未整理/model 1/world_model/02_human/human_model/認知モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d11a556b67bb8ec323907d29b211ad396c7b83aec550589f1126373bba348917",
+      "lastIndexed": 1774404138841
+    },
+    "02_zettelkasten/未整理/model 1/world_model/02_human/human_model/注意モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d867611114c3b71c4d552688f02357a44c76d30482e8ff34cbd1e70c747a0620",
+      "lastIndexed": 1774404138928
+    },
+    "02_zettelkasten/未整理/model 1/world_model/02_human/human_model/Human Behavior Map.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "789ae68df749a57d55dca6e831c9f61832da7075ed91aeb44f95439e096f23e9",
+      "lastIndexed": 1774404139018
+    },
+    "02_zettelkasten/未整理/model 1/world_model/02_human/human_model/目標モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0f8265badcd02858ff5bcc64de91eb2e83cda9ccc2a6a075637501e3ffcf4106",
+      "lastIndexed": 1774404143139
+    },
+    "02_zettelkasten/未整理/model 1/world_model/02_human/human_model/００　Ｈｕｍａｎ　Ｍｏｄｅｌ　Ｈｕｂ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1b93a489886e7e6b1e70c64e94c070fc35bd5685ecf56afd99f3bf2944b3a4ca",
+      "lastIndexed": 1774404143352
+    },
+    "02_zettelkasten/未整理/model 1/world_model/02_human/human_model/記憶モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "84784a23e617699e0b00fa4de63b1bee440796c70d20b049ccc1889bb93afc09",
+      "lastIndexed": 1774404143621
+    },
+    "02_zettelkasten/未整理/model 1/world_model/02_human/human_model/学習モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8a96bf30c1da49a1436c47ec1f8b93caade804a61b1aa9a1c83f60d24200446c",
+      "lastIndexed": 1774404143718
+    },
+    "02_zettelkasten/未整理/model 1/world_model/02_human/human_model/アイデンティティモデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "84bea2091e6d61894545b20d283e6dd8ceca2911f8cdd5567eeaf152b7c574d0",
+      "lastIndexed": 1774404144210
+    },
+    "02_zettelkasten/未整理/model 1/world_model/02_human/human_model/mind architecture Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ec6dad62b55f97ffc1042811b058acf960c1d8aca7e31a3fe221f04f31d390c6",
+      "lastIndexed": 1774404148848
+    },
+    "02_zettelkasten/未整理/model 1/world_model/02_human/human_model/刺激モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8ae11d25d546a1da56cc8d30b7ffc087c645a41d7f766c8bdb8191d56e45f09a",
+      "lastIndexed": 1774404148931
+    },
+    "02_zettelkasten/未整理/personality/Psycological Domain Knowledge Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "df806ba28c68cf7f107eed3e450d8f164a7bd3674856c05c4d1ca198f6716ed3",
+      "lastIndexed": 1774404153198
+    },
+    "02_zettelkasten/未整理/personality/field model/人格モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "934408edd04725fe383b8c41d3d6557f208da7928ecccf2297ad6bfc7abea4c4",
+      "lastIndexed": 1774404157455
+    },
+    "02_zettelkasten/未整理/personality/field model/affect system.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c7424f5b427eec13702eacddd9b6f9cc20eacfd8d20775a7d946b4d779ee90e3",
+      "lastIndexed": 1774404157937
+    },
+    "02_zettelkasten/未整理/personality/field model/attachment style.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "03a9596db309de12b71edf2325c5f01accb935ff779b923dc20afc6475043d87",
+      "lastIndexed": 1774404157975
+    },
+    "02_zettelkasten/未整理/personality/field model/social identity.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2ce701e8a2ebe1741005eade8bde682a2fa9938363d4042f9ec1b8213426e6fa",
+      "lastIndexed": 1774404158465
+    },
+    "02_zettelkasten/未整理/personality/field model/cooperation behavior.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a6cc8383cd97d0cee2f2222b676a15b5d7a56a5a34756fbe91f74a4c6249c2dd",
+      "lastIndexed": 1774404162749
+    },
+    "02_zettelkasten/未整理/personality/field model/気質.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6122f8c6bbc4f0013224e9c8ae900dedeb296ee84134b0b159e02531defff9bd",
+      "lastIndexed": 1774404163229
+    },
+    "02_zettelkasten/未整理/personality/field model/自己概念.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f9140d56fb3aeeca176de25de9b27039d774d672cd507a4248130b1338127381",
+      "lastIndexed": 1774404163285
+    },
+    "02_zettelkasten/未整理/personality/field model/ビッグファイブモデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "31218fb839ea9c60f340e44a03ab1fd1bfc13188703503ecf3745427690f0b29",
+      "lastIndexed": 1774404163312
+    },
+    "02_zettelkasten/未整理/personality/field model/自己効用感.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9d7c39e08dc47f86c9d168443015d77c99fa72a3b65768027d63ba7405c375f6",
+      "lastIndexed": 1774404163370
+    },
+    "02_zettelkasten/未整理/personality/field model/self control.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "07dfc505e5a3b98da960b9c80fcb6616e4abca5871ea017a1dcea6500467218d",
+      "lastIndexed": 1774404167698
+    },
+    "02_zettelkasten/未整理/personality/field model/人格特性.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "20e6b4d44a4a6e412e17124112297ecdcf0a46b725763533e268b38fdb624268",
+      "lastIndexed": 1774404167857
+    },
+    "02_zettelkasten/未整理/personality/field model/emotion types.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8fcc11a7ce0c5e12fd5c270095aa2e47dac9de570022817c744fbd162deef101",
+      "lastIndexed": 1774404168038
+    },
+    "02_zettelkasten/未整理/personality/field model/intrinsic extrinsic motivation.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "73532ddb7e4291b6983dbfd7db58d1a4af200e6ef92194445815c66b13040e1a",
+      "lastIndexed": 1774404168274
+    },
+    "02_zettelkasten/未整理/personality/field model/drives.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4752f6751aab8352fc9bc4e70f9eec9db444bf313683361f1f024e091b6ba84e",
+      "lastIndexed": 1774404168371
+    },
+    "02_zettelkasten/未整理/personality/field model/emotion regulation.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d0f77e5b241dc194b3c04783a13fc54120c9011dd147d9922e9bab0c4342468a",
+      "lastIndexed": 1774404172978
+    },
+    "02_zettelkasten/未整理/personality/field model/status behavior.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1086a9c267da4260b57bf5ffabc26654fc1abc6e242f1d4378a6b9dc29456a23",
+      "lastIndexed": 1774404173052
+    },
+    "02_zettelkasten/未整理/personality/field model/motivation types.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e7e375fa8b7dc9b4aa48c0a1f0da9ddfd11657a3b70f805552e3f6cb43e783f8",
+      "lastIndexed": 1774404173297
+    },
+    "02_zettelkasten/未整理/personality/field model/needs theory.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "063be0c471c68f3fc248d6ae8ca789e9fb5687a73feacab920cf8e9c3b50a04a",
+      "lastIndexed": 1774404173596
+    },
+    "02_zettelkasten/未整理/personality/field model/自己調整.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "60ce58a3d46ed0b42195de168dd6ebee4a4eb4993788f964713e204b0a858815",
+      "lastIndexed": 1774404173840
+    },
+    "02_zettelkasten/未整理/music/Music Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "57e25acf38a20584934acf169145379d31c12dcab1c00f8387d0e72019e76cc2",
+      "lastIndexed": 1774404178373
+    },
+    "02_zettelkasten/未整理/music/method/analysis/modulation_detection.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b050a02596e6f819086f4457ad263c236fc5006b9256dda03dcd010d04f3db6d",
+      "lastIndexed": 1774404182675
+    },
+    "02_zettelkasten/未整理/sales/strategy/S004_意思決定構造.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0453678edcfbbb78a05deace3ecded53674f6f259f2c192070ee155bbb2a02e9",
+      "lastIndexed": 1774404187078
+    },
+    "02_zettelkasten/未整理/sales/strategy/S003_顧客構造モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8e1b176bf17c6dbdd0f59ed388d063d4902fb6b519f9e93a48210601a63e733c",
+      "lastIndexed": 1774404187417
+    },
+    "02_zettelkasten/未整理/sales/strategy/S005_顧客問題モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "30def030b51227683e353718754fc1667c42027a4e8248b325bbbe1110172319",
+      "lastIndexed": 1774404187498
+    },
+    "02_zettelkasten/未整理/sales/strategy/S006_理想顧客モデル.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "52c86161460776f5e4cddd7fafeb0ca5020c689e36df87f87fe568dff3352f31",
+      "lastIndexed": 1774404192025
+    },
+    "02_zettelkasten/未整理/sales/strategy/h003_仮説生成プロセス.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3ad55926996769726aa52702c0cbab456f0d25ec17ef519a19d5957123f45427",
+      "lastIndexed": 1774404192511
+    },
+    "02_zettelkasten/未整理/sales/analysis/Me001_営業KPI.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "98dbd99b3b6addc14dcd04bb21a146a735113ea72e2c08ca27ac08ff0fc4957b",
+      "lastIndexed": 1774404197516
+    },
+    "02_zettelkasten/未整理/sales/analysis/Me003_商談転換率.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6b364531e2cfd293e8cb8fd32ff0dc200c4c3288a4ffb6d0b6521106cd10ddfb",
+      "lastIndexed": 1774404201871
+    },
+    "02_zettelkasten/未整理/sales/analysis/M003_パイプライン指標.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e91a97d298d5489dcfaf4d39ff15e56760d322ac120f3969b47f4ce4c9ca483f",
+      "lastIndexed": 1774404202222
+    },
+    "02_zettelkasten/未整理/sales/analysis/M005_活動KPI.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ffdfdb4dcc4278827e02d8b399e3099d211ecaf7695609e3c5ca8e20d5832ffd",
+      "lastIndexed": 1774404202369
+    },
+    "02_zettelkasten/未整理/sales/analysis/M009_営業ダッシュボード.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5c1866cf0a82af35f594e74dceb8c3df0f4e230c90d32c09a15f8e496d5ceb9a",
+      "lastIndexed": 1774404202430
+    },
+    "02_zettelkasten/未整理/sales/analysis/M002_売上KPI.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a52f569aa736d8a75e3c9e42d98cfb656f96f6cbb562791f9083f8b4cb66e210",
+      "lastIndexed": 1774404203129
+    },
+    "02_zettelkasten/未整理/sales/process/Pc003_初回接触.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "71f1d3d048a75bfbdd7641763894956467724c83c0e0b8a0396f2c262ce47f94",
+      "lastIndexed": 1774404207370
+    },
+    "02_zettelkasten/未整理/sales/process/Pc004_ヒアリング.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "68e11a42341b6edc5ceba3b10fef285622dfe7789a7c6cd290a323325c791566",
+      "lastIndexed": 1774404207552
+    },
+    "02_zettelkasten/未整理/sales/analysis/Me004_LTV.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e81d243d3ff8ce83c78c6872196e1bea6dff0688f6688f13eeaa7bd4f6b46d80",
+      "lastIndexed": 1774404207998
+    },
+    "02_zettelkasten/未整理/sales/analysis/Me005_CAC.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4ec68ef435bd71fad2909905dbf41463ea2a325702842a541fbb1ce907455c1f",
+      "lastIndexed": 1774404208544
+    }
+  },
+  "indexingInProgress": true,
+  "indexingStartedAt": 1774401888343,
+  "lastIndexedFile": "02_zettelkasten/未整理/sales/analysis/Me005_CAC.md"
+}
