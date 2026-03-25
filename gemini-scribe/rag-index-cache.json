@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774422152395,
+  "lastSync": 1774446626463,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -2942,16 +2942,6 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "f1682c7cef516d19e7024745850aa1da60db6d13c866ca34ff746613d39025ec",
       "lastIndexed": 1774402630679
-    },
-    "02_zettelkasten/21_domain/history/concept/theory/攻勢主義.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "352ce4eb6e48f968bd4aaf4cc5551559c49a73aa87d55495acb9205c5e95a577",
-      "lastIndexed": 1774402630948
-    },
-    "02_zettelkasten/21_domain/history/concept/theory/浸透戦術.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "d18632fc64c9524a9b15d3cd452175896b3c091de5c147f63331636c54713cd5",
-      "lastIndexed": 1774402631192
     },
     "02_zettelkasten/21_domain/engine/Temporal_Engine/Temporal Engine.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9932,6 +9922,16 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "ba08779f53bc0d983424d6a315d2206ce04408f473c13728c67145cfe9f478dc",
       "lastIndexed": 1774421622355
+    },
+    "02_zettelkasten/21_domain/history/structure/浸透戦術.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d18632fc64c9524a9b15d3cd452175896b3c091de5c147f63331636c54713cd5",
+      "lastIndexed": 1774446619561
+    },
+    "02_zettelkasten/21_domain/history/structure/攻勢主義.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "352ce4eb6e48f968bd4aaf4cc5551559c49a73aa87d55495acb9205c5e95a577",
+      "lastIndexed": 1774446626463
     }
   },
   "indexingInProgress": false,
