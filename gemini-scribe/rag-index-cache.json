@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774446858916,
+  "lastSync": 1774446964599,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9942,6 +9942,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "8fe640b6341175eecd61ca56813c99da130997a40113b3bfae1b6c1718279442",
       "lastIndexed": 1774446699394
+    },
+    "02_zettelkasten/21_domain/history/structure/父親幻想.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a9f7703e6ce7614f12a3b7771519917ef43a2d691c430950a5698820db0a2037",
+      "lastIndexed": 1774446964599
     }
   },
   "indexingInProgress": false,
