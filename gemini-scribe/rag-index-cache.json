@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774518052163,
+  "lastSync": 1774518127291,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10162,6 +10162,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "13cb8c424e855a714e70a8c866f3ff2e49eed4671dd41356b14ba0e7cf64806e",
       "lastIndexed": 1774517959465
+    },
+    "02_zettelkasten/21_domain/history/operational/policy/レアルポリティーク.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "54e7da9edec03ecb6adea34d15e650600c70b11942fd35baeb63cd0bf06c72fa",
+      "lastIndexed": 1774518127291
     }
   },
   "indexingInProgress": false,
