@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774502011641,
+  "lastSync": 1774502096520,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10053,10 +10053,10 @@
       "contentHash": "9e67991ff7923d6fdb8ef14b3de5e59cf3ef86ba6fc54ead74607fa161e1652e",
       "lastIndexed": 1774501975699
     },
-    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第6章 死体を満載した貨車──愛と死と神経症 1.md": {
+    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第7章 知識人スターリン.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "9e67991ff7923d6fdb8ef14b3de5e59cf3ef86ba6fc54ead74607fa161e1652e",
-      "lastIndexed": 1774502011641
+      "contentHash": "73c5850ebefafa209bfeb411d58153f7fecbf0ded36986f861ce5af3c6744307",
+      "lastIndexed": 1774502096520
     }
   },
   "indexingInProgress": false,
