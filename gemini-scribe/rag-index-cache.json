@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774516249902,
+  "lastSync": 1774516368766,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10067,6 +10067,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "aeeedc5f22f797f6e04d0cd71781852816c2b72624ae4721533b8b76f0cf33da",
       "lastIndexed": 1774516249902
+    },
+    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/プロローグ 革命記念日の祝宴――一九三二年十一月八日.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9fb3c7dc9df87d0db790489456ba78c7ce416fbdc0e2bad30a5bf2b6ae7688e1",
+      "lastIndexed": 1774516368766
     }
   },
   "indexingInProgress": false,
