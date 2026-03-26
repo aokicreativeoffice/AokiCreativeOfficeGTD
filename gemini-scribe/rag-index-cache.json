@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774487708612,
+  "lastSync": 1774487747994,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10017,6 +10017,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "faaec05843bdd8f965306aed27c7951ea6394c8e6021b501df2e2cfaf9b254f4",
       "lastIndexed": 1774487575082
+    },
+    "02_zettelkasten/21_domain/history/event/普仏戦争.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8ced644460d6d67ad08b5305e44725675d235417495fbd50ec03bac5bf3d4ec3",
+      "lastIndexed": 1774487747994
     }
   },
   "indexingInProgress": false,
