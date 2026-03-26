@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774500655667,
+  "lastSync": 1774500789999,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10032,6 +10032,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "f1354346ca4767a3f6c5025805892c3aaa63ca9e01b06d19ea8a3f9a022a3ead",
       "lastIndexed": 1774500655667
+    },
+    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第3章 魅了する力.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "6ae23e848fa8bcb6f49f481a2eae444e16640d0c51e0ac7522c17512afe0a908",
+      "lastIndexed": 1774500789999
     }
   },
   "indexingInProgress": false,
