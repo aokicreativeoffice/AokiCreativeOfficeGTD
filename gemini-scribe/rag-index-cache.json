@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774517070403,
+  "lastSync": 1774517145826,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -2907,11 +2907,6 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "1e51c8e7ceada527759a9583ce3aabdbd2eb5dd155da36eadf482bacb460eb4d",
       "lastIndexed": 1774402625047
-    },
-    "02_zettelkasten/21_domain/history/這う射撃.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "76f0b62ea0fbc607692d28fe06eeaf6e5407fc4bb2b331e550b9e3f458385717",
-      "lastIndexed": 1774402625140
     },
     "02_zettelkasten/21_domain/application/geography/空間計画論/空間計画論 第9回.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10142,6 +10137,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "bd707be91232a5174b0354dc6bdaa1465cc95cdfecc7a9c88d930a8b8a6410b7",
       "lastIndexed": 1774517070403
+    },
+    "02_zettelkasten/21_domain/history/operational/這う射撃.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "76f0b62ea0fbc607692d28fe06eeaf6e5407fc4bb2b331e550b9e3f458385717",
+      "lastIndexed": 1774517145826
     }
   },
   "indexingInProgress": false,
