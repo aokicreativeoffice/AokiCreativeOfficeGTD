@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774500789999,
+  "lastSync": 1774501135408,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10035,8 +10035,13 @@
     },
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第3章 魅了する力.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "6ae23e848fa8bcb6f49f481a2eae444e16640d0c51e0ac7522c17512afe0a908",
-      "lastIndexed": 1774500789999
+      "contentHash": "1cad025535b0519f7d2214abf6d1cf42240ce6a66c05dc7e2090ca5e8b021b3c",
+      "lastIndexed": 1774501128624
+    },
+    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第4章 大飢饉と別荘暮らし.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "35576da4981aca4c00e4ee00492ec3adbc0526f558744fd9b94c8e837fc17221",
+      "lastIndexed": 1774501135408
     }
   },
   "indexingInProgress": false,
