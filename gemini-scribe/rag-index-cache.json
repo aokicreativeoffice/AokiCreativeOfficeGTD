@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774502096520,
+  "lastSync": 1774502128783,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10055,8 +10055,8 @@
     },
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第7章 知識人スターリン.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "73c5850ebefafa209bfeb411d58153f7fecbf0ded36986f861ce5af3c6744307",
-      "lastIndexed": 1774502096520
+      "contentHash": "f041e392dc9c2d04b59729cc48f86a28a4451f2de10fda4976a4a971b7539be0",
+      "lastIndexed": 1774502128783
     }
   },
   "indexingInProgress": false,
