@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774483728151,
+  "lastSync": 1774484219231,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9997,6 +9997,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "339c23b97b1d3b77d4b7e7bc3b96d7f7c63f1e43575fe58fcf2cbab357cde6db",
       "lastIndexed": 1774483728151
+    },
+    "02_zettelkasten/21_domain/history/event/クリミア戦争.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "21e82611414c24f5512a137b135dcf386d495b8a32351229912144a0f355f04c",
+      "lastIndexed": 1774484219231
     }
   },
   "indexingInProgress": false,
