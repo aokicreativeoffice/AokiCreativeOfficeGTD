@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774488365331,
+  "lastSync": 1774500529344,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10022,6 +10022,16 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "3be2d743576206ab745c1823c1a6e621671c514958c1e2bebee034703f1b7a03",
       "lastIndexed": 1774488365331
+    },
+    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第1章 グルジア青年と女学生.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a74443d4aaa58770d582fbb60004cace63f8ea4025c2ac4c4ca01e7e98b1263d",
+      "lastIndexed": 1774500409561
+    },
+    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第2章 クレムリン・ファミリー.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a5e6c6a86874604d69ef3b70a619aee2f3aff5c3a1f22ff77740bd63f67986dd",
+      "lastIndexed": 1774500529344
     }
   },
   "indexingInProgress": false,
