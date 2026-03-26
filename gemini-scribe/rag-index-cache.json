@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774483307348,
+  "lastSync": 1774483409083,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -9992,6 +9992,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "a5d01b2619eadc16caac98933235ddf506ad67fac01130383247980c982bf48c",
       "lastIndexed": 1774483307348
+    },
+    "02_zettelkasten/21_domain/history/event/鉄血演説.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "dd8a98b33b0d66a32cbfb690827beaa3c37c99c188303139c86014c5bfd2aa56",
+      "lastIndexed": 1774483409083
     }
   },
   "indexingInProgress": false,
