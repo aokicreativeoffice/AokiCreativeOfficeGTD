@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/history/structure/シュレスヴィヒ=ホルシュタイン問題.md",
+                "file": "02_zettelkasten/21_domain/history/event/普墺戦争.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "シュレスヴィヒ=ホルシュタイン問題"
+              "title": "普墺戦争"
             }
           }
         ]
@@ -202,8 +202,9 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
-    "02_zettelkasten/21_domain/history/structure/ビスマルク首相任命.md",
     "02_zettelkasten/21_domain/history/structure/シュレスヴィヒ=ホルシュタイン問題.md",
+    "02_zettelkasten/21_domain/history/event/普墺戦争.md",
+    "02_zettelkasten/21_domain/history/structure/ビスマルク首相任命.md",
     "02_zettelkasten/21_domain/history/epoch/ナポレオン体制と革命の輸出 (1799-1815).md",
     "02_zettelkasten/21_domain/history/epoch/ウィーン体制と正統主義 (1815-1848).md",
     "02_zettelkasten/21_domain/history/event/イタリア統一.md",
@@ -228,7 +229,6 @@
     "02_zettelkasten/21_domain/history/structure/無題のフォルダ",
     "02_zettelkasten/21_domain/history/epoch/アメリカ独立戦争.md",
     "02_zettelkasten/21_domain/history/structure/凱旋門政治.md",
-    "02_zettelkasten/21_domain/history/ontology/Historical Domain Ontology.md",
     "02_zettelkasten/21_domain/history/epoch",
     "02_zettelkasten/21_domain/history/ontology",
     "02_zettelkasten/21_domain/history/actor",
