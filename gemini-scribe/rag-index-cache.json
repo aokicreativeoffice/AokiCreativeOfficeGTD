@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774511681447,
+  "lastSync": 1774516196916,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10057,6 +10057,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "f041e392dc9c2d04b59729cc48f86a28a4451f2de10fda4976a4a971b7539be0",
       "lastIndexed": 1774502128783
+    },
+    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第8章 葬儀.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d946223cf4047deb48e6cb79ae795cdacea4ad2f927a3a43f177b9a444a65ef7",
+      "lastIndexed": 1774516196916
     }
   },
   "indexingInProgress": false,
