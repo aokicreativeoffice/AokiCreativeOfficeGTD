@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/history/event/普仏戦争.md",
+                "file": "02_zettelkasten/21_domain/books/ビスマルク/ビスマルク.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "普仏戦争"
+              "title": "ビスマルク"
             }
           }
         ]
@@ -202,6 +202,8 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
+    "02_zettelkasten/21_domain/history/event/普仏戦争.md",
+    "02_zettelkasten/21_domain/books/ビスマルク/ビスマルク.md",
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/読書記録テンプレート 1.md",
     "02_zettelkasten/21_domain/books/ビスマルク/結論 ビスマルクの遺産 「血と鉄」、いや「血と皮肉」.md",
     "02_zettelkasten/21_domain/books/ビスマルク/第11章 三人の皇帝とビスマルクの権力喪失.md",
@@ -227,8 +229,6 @@
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第5章 休暇と地獄.md",
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第4章 大飢饉と別荘暮らし.md",
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第3章 魅了する力.md",
-    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第1章 グルジア青年と女学生 1.md",
-    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第2章 クレムリン・ファミリー.md",
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち",
     "02_zettelkasten/21_domain/history/structure/無題のフォルダ",
     "02_zettelkasten/21_domain/history/epoch",

@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774516368766,
+  "lastSync": 1774516604119,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10025,8 +10025,8 @@
     },
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第1章 グルジア青年と女学生.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "a74443d4aaa58770d582fbb60004cace63f8ea4025c2ac4c4ca01e7e98b1263d",
-      "lastIndexed": 1774500409561
+      "contentHash": "d4a01047587da50aebb6b606b5ae2c9f348033bc0de939a913ff1b2b9507b128",
+      "lastIndexed": 1774516492632
     },
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第2章 クレムリン・ファミリー.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10072,6 +10072,76 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "9fb3c7dc9df87d0db790489456ba78c7ce416fbdc0e2bad30a5bf2b6ae7688e1",
       "lastIndexed": 1774516368766
+    },
+    "02_zettelkasten/21_domain/books/ビスマルク/第1章 序論 ビスマルクの至高なる自我.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d84973ddcaa9aa9d4d3d6e648f305459cb952f6069cb5dd804d24fd7b95e02cd",
+      "lastIndexed": 1774516498208
+    },
+    "02_zettelkasten/21_domain/books/ビスマルク/第2章 序論 プロイセンに生まれるということ、そしてその意味するところ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d84973ddcaa9aa9d4d3d6e648f305459cb952f6069cb5dd804d24fd7b95e02cd",
+      "lastIndexed": 1774516507071
+    },
+    "02_zettelkasten/21_domain/books/ビスマルク/第3章 ビスマルク 「気違いユンカー」.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d84973ddcaa9aa9d4d3d6e648f305459cb952f6069cb5dd804d24fd7b95e02cd",
+      "lastIndexed": 1774516513339
+    },
+    "02_zettelkasten/21_domain/books/ビスマルク/第4章 ビスマルク、自らを表現する.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d84973ddcaa9aa9d4d3d6e648f305459cb952f6069cb5dd804d24fd7b95e02cd",
+      "lastIndexed": 1774516522337
+    },
+    "02_zettelkasten/21_domain/books/ビスマルク/第5章 外交官としてのビスマルク.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d84973ddcaa9aa9d4d3d6e648f305459cb952f6069cb5dd804d24fd7b95e02cd",
+      "lastIndexed": 1774516528293
+    },
+    "02_zettelkasten/21_domain/books/ビスマルク/第6章 権力.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d84973ddcaa9aa9d4d3d6e648f305459cb952f6069cb5dd804d24fd7b95e02cd",
+      "lastIndexed": 1774516533999
+    },
+    "02_zettelkasten/21_domain/books/ビスマルク/第7章 「私は全員を打ちのめした！全員を！」.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d84973ddcaa9aa9d4d3d6e648f305459cb952f6069cb5dd804d24fd7b95e02cd",
+      "lastIndexed": 1774516542946
+    },
+    "02_zettelkasten/21_domain/books/ビスマルク/第8章 ドイツ統一.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d84973ddcaa9aa9d4d3d6e648f305459cb952f6069cb5dd804d24fd7b95e02cd",
+      "lastIndexed": 1774516549420
+    },
+    "02_zettelkasten/21_domain/books/ビスマルク/第9章 転落の始まり.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d84973ddcaa9aa9d4d3d6e648f305459cb952f6069cb5dd804d24fd7b95e02cd",
+      "lastIndexed": 1774516557669
+    },
+    "02_zettelkasten/21_domain/books/ビスマルク/第10章 「死せるユダヤ人のガストホーフ」.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d84973ddcaa9aa9d4d3d6e648f305459cb952f6069cb5dd804d24fd7b95e02cd",
+      "lastIndexed": 1774516572976
+    },
+    "02_zettelkasten/21_domain/books/ビスマルク/第11章 三人の皇帝とビスマルクの権力喪失.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d84973ddcaa9aa9d4d3d6e648f305459cb952f6069cb5dd804d24fd7b95e02cd",
+      "lastIndexed": 1774516580203
+    },
+    "02_zettelkasten/21_domain/books/ビスマルク/結論 ビスマルクの遺産 「血と鉄」、いや「血と皮肉」.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d84973ddcaa9aa9d4d3d6e648f305459cb952f6069cb5dd804d24fd7b95e02cd",
+      "lastIndexed": 1774516589490
+    },
+    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/読書記録テンプレート 1.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4e7eafe3e87bac1b54741843647267a95a0e285ac3694ff73322913d6b89aa7e",
+      "lastIndexed": 1774516598267
+    },
+    "02_zettelkasten/21_domain/books/ビスマルク/ビスマルク.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "51e28bee32b46096129f91cc372d1d50640cde93cbaf6a044888d5203efd8e83",
+      "lastIndexed": 1774516604119
     }
   },
   "indexingInProgress": false,
