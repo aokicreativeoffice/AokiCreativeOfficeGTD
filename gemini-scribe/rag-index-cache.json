@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774517324573,
+  "lastSync": 1774517403441,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10130,8 +10130,8 @@
     },
     "02_zettelkasten/21_domain/books/ビスマルク/ビスマルク.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "0b855034d41b00e230201cf11384e8fa223cd9e412bb599d37be2470ba1dcfbf",
-      "lastIndexed": 1774516774708
+      "contentHash": "3c424b6dbf00c038ac85ff12e5146fa83808bd1ecac31ba3ed956635b241fd22",
+      "lastIndexed": 1774517403441
     },
     "02_zettelkasten/21_domain/history/structure/WW1 無差別潜水艦戦の戦略ジレンマ.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10145,8 +10145,8 @@
     },
     "02_zettelkasten/21_domain/history/structure/ビスマルクを脅かした強者たち.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "7e953f118be00ccfab01e0b13978deb2c3db6d059e65cd120bb8cd27e60d56ce",
-      "lastIndexed": 1774517324573
+      "contentHash": "98fbdf44aa68267df788f9de8d80fb15e1d3ac1618276ba1eec320f26b813cb7",
+      "lastIndexed": 1774517339169
     }
   },
   "indexingInProgress": false,
