@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774518814189,
+  "lastSync": 1774518989239,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10170,8 +10170,13 @@
     },
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/スターリン 赤い皇帝と廷臣たち 読書ノート.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "888c064f3f3435771f8d075953027091fa16bc41438438e8a9316ced0949593b",
-      "lastIndexed": 1774518814189
+      "contentHash": "2cedd4c0da52bf9ad7cb567ce56ecba9647f42e079f31cf5b246ce58fef3cb71",
+      "lastIndexed": 1774518946718
+    },
+    "02_zettelkasten/21_domain/history/structure/クレムリン・ファミリー.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "799c2e12e2f1b7099ca7bc72ed5780ca155fdc37ded6175055b1abe55468ac20",
+      "lastIndexed": 1774518989239
     }
   },
   "indexingInProgress": false,
