@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774484574981,
+  "lastSync": 1774485015264,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10002,6 +10002,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "955ea1b3c8d6957792ae2b409ccaef9e7f58cb4a6b91b1bd138b5ac9e11a3ddb",
       "lastIndexed": 1774484574981
+    },
+    "02_zettelkasten/21_domain/history/event/イタリア統一.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7c346598c8fce0f378371e968fca08e20310be99d321cbfc3cf26fd0d3c84300",
+      "lastIndexed": 1774485015264
     }
   },
   "indexingInProgress": false,
