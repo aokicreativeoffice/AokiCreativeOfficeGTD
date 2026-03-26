@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774501529969,
+  "lastSync": 1774501863426,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10040,8 +10040,18 @@
     },
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第4章 大飢饉と別荘暮らし.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "947aeb7bce58633c6f32b30c357fd7b10af6ebbabc0c56e5a5264ca3e481d666",
-      "lastIndexed": 1774501529969
+      "contentHash": "1812344a46d9dee59d6f1dcbeb16b811504edd3b09b503a224485c7ec08e2687",
+      "lastIndexed": 1774501850428
+    },
+    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第5章 休暇と地獄.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bf69e95a1b7ba6544f064ce7117ca5b4959e81ac6768f06d2c7440607903b639",
+      "lastIndexed": 1774501856837
+    },
+    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第5章 休暇と地獄 1.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bf69e95a1b7ba6544f064ce7117ca5b4959e81ac6768f06d2c7440607903b639",
+      "lastIndexed": 1774501863426
     }
   },
   "indexingInProgress": false,
