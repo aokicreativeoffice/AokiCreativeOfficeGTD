@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774516774708,
+  "lastSync": 1774517070403,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -2927,11 +2927,6 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "7a87bf83f0e97a10a83e9519f7b5d2dc151350708fbfc5dc926460b9e9ffbf1b",
       "lastIndexed": 1774402625979
-    },
-    "02_zettelkasten/21_domain/history/WW1 無差別潜水艦戦の戦略ジレンマ.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "bd707be91232a5174b0354dc6bdaa1465cc95cdfecc7a9c88d930a8b8a6410b7",
-      "lastIndexed": 1774402630081
     },
     "02_zettelkasten/21_domain/history/event/ブルシーロフ攻勢.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10142,6 +10137,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "0b855034d41b00e230201cf11384e8fa223cd9e412bb599d37be2470ba1dcfbf",
       "lastIndexed": 1774516774708
+    },
+    "02_zettelkasten/21_domain/history/structure/WW1 無差別潜水艦戦の戦略ジレンマ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "bd707be91232a5174b0354dc6bdaa1465cc95cdfecc7a9c88d930a8b8a6410b7",
+      "lastIndexed": 1774517070403
     }
   },
   "indexingInProgress": false,
