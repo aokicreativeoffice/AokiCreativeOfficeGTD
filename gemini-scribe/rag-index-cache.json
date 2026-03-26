@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774501863426,
+  "lastSync": 1774502011641,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10048,10 +10048,15 @@
       "contentHash": "bf69e95a1b7ba6544f064ce7117ca5b4959e81ac6768f06d2c7440607903b639",
       "lastIndexed": 1774501856837
     },
-    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第5章 休暇と地獄 1.md": {
+    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第6章 死体を満載した貨車──愛と死と神経症.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "bf69e95a1b7ba6544f064ce7117ca5b4959e81ac6768f06d2c7440607903b639",
-      "lastIndexed": 1774501863426
+      "contentHash": "9e67991ff7923d6fdb8ef14b3de5e59cf3ef86ba6fc54ead74607fa161e1652e",
+      "lastIndexed": 1774501975699
+    },
+    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第6章 死体を満載した貨車──愛と死と神経症 1.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9e67991ff7923d6fdb8ef14b3de5e59cf3ef86ba6fc54ead74607fa161e1652e",
+      "lastIndexed": 1774502011641
     }
   },
   "indexingInProgress": false,
