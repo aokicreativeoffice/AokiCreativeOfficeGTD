@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774518316987,
+  "lastSync": 1774518553101,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -7805,8 +7805,8 @@
     },
     "02_zettelkasten/04_meta/case_intelligence/cases/history/History_Case_Hub.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "44edc064ccd8202caf028d5ee85f973ea7b3126a09ff60e0ebc564a972ec949d",
-      "lastIndexed": 1774404678392
+      "contentHash": "d0b17dac1b85f88093661f20da2618a017be31700f9f8c67fc4b0b1d35830b95",
+      "lastIndexed": 1774518549759
     },
     "02_zettelkasten/04_meta/case_intelligence/cases/spacial/東京が世界的都市になった理由.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10056,7 +10056,7 @@
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/スターリン 赤い皇帝と廷臣たち 目次.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "aeeedc5f22f797f6e04d0cd71781852816c2b72624ae4721533b8b76f0cf33da",
-      "lastIndexed": 1774516249902
+      "lastIndexed": 1774518535310
     },
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/プロローグ 革命記念日の祝宴――一九三二年十一月八日.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10128,11 +10128,6 @@
       "contentHash": "4e7eafe3e87bac1b54741843647267a95a0e285ac3694ff73322913d6b89aa7e",
       "lastIndexed": 1774516598267
     },
-    "02_zettelkasten/21_domain/books/ビスマルク/ビスマルク.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "547761f847c9025ed0b66491e6d6623adc0d9a93e8267bfc0eb697cf4a5a5cc3",
-      "lastIndexed": 1774518316987
-    },
     "02_zettelkasten/21_domain/history/structure/WW1 無差別潜水艦戦の戦略ジレンマ.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "bd707be91232a5174b0354dc6bdaa1465cc95cdfecc7a9c88d930a8b8a6410b7",
@@ -10167,6 +10162,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "97e4736fa705f0cf6d678c0a8c8041652245e2aa8e2b6a5dc987eeaaf78d688b",
       "lastIndexed": 1774518263602
+    },
+    "02_zettelkasten/21_domain/books/ビスマルク/ビスマルク 読書ノート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "547761f847c9025ed0b66491e6d6623adc0d9a93e8267bfc0eb697cf4a5a5cc3",
+      "lastIndexed": 1774518541759
     }
   },
   "indexingInProgress": false,
