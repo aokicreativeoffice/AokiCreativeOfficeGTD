@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/books/ビスマルク/ビスマルク.md",
+                "file": "02_zettelkasten/21_domain/books/読書記録テンプレート.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "ビスマルク"
+              "title": "読書記録テンプレート"
             }
           }
         ]
@@ -202,8 +202,9 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
-    "02_zettelkasten/21_domain/history/operational/policy/レアルポリティーク.md",
     "02_zettelkasten/21_domain/books/ビスマルク/ビスマルク.md",
+    "02_zettelkasten/21_domain/history/event/エムス電報事件.md",
+    "02_zettelkasten/21_domain/history/operational/policy/レアルポリティーク.md",
     "02_zettelkasten/21_domain/concept/仮説ころがし.md",
     "02_zettelkasten/21_domain/concept/社会学/カリスマ的支配.md",
     "02_zettelkasten/21_domain/concept/コンセプトテンプレート.md",
@@ -229,7 +230,6 @@
     "02_zettelkasten/21_domain/books/ビスマルク",
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/プロローグ 革命記念日の祝宴――一九三二年十一月八日.md",
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/スターリン 赤い皇帝と廷臣たち 目次.md",
-    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第8章 葬儀.md",
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち",
     "02_zettelkasten/21_domain/history/structure/無題のフォルダ",
     "02_zettelkasten/21_domain/history/epoch",
