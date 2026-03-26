@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774517403441,
+  "lastSync": 1774517689001,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10147,6 +10147,11 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "98fbdf44aa68267df788f9de8d80fb15e1d3ac1618276ba1eec320f26b813cb7",
       "lastIndexed": 1774517339169
+    },
+    "02_zettelkasten/21_domain/history/structure/至高なる自我.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5ded961025940814ca75a414c4f6262837e296d832de07783c1d5d909951e566",
+      "lastIndexed": 1774517689001
     }
   },
   "indexingInProgress": false,
