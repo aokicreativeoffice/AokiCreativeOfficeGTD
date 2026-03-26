@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/21_domain/concept/社会学/カリスマ的支配.md",
+                "file": "02_zettelkasten/21_domain/concept/コンセプトテンプレート.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "カリスマ的支配"
+              "title": "コンセプトテンプレート"
             }
           }
         ]
@@ -202,8 +202,9 @@
   },
   "active": "6acf75135036dfd0",
   "lastOpenFiles": [
-    "02_zettelkasten/21_domain/concept/仮説ころがし.md",
     "02_zettelkasten/21_domain/concept/社会学/カリスマ的支配.md",
+    "02_zettelkasten/21_domain/concept/コンセプトテンプレート.md",
+    "02_zettelkasten/21_domain/concept/仮説ころがし.md",
     "02_zettelkasten/21_domain/books/ビスマルク/ビスマルク.md",
     "02_zettelkasten/21_domain/concept/社会学",
     "02_zettelkasten/21_domain/history/structure/至高なる自我.md",
@@ -229,7 +230,6 @@
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/スターリン 赤い皇帝と廷臣たち 目次.md",
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第8章 葬儀.md",
     "20.md",
-    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第7章 知識人スターリン.md",
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち",
     "02_zettelkasten/21_domain/history/structure/無題のフォルダ",
     "02_zettelkasten/21_domain/history/epoch",

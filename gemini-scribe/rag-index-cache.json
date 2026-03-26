@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1774517855686,
+  "lastSync": 1774517981492,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10155,8 +10155,13 @@
     },
     "02_zettelkasten/21_domain/concept/社会学/カリスマ的支配.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "67bccdcbcf3d1ee6519e023ceacb4dba23e38551cfb06539345fad359e32c8b4",
-      "lastIndexed": 1774517855686
+      "contentHash": "d3e5249e7b9e17cd5d27e768711e5a25758755bbc7c588a74de8d448f5a21e68",
+      "lastIndexed": 1774517981492
+    },
+    "02_zettelkasten/21_domain/concept/コンセプトテンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "13cb8c424e855a714e70a8c866f3ff2e49eed4671dd41356b14ba0e7cf64806e",
+      "lastIndexed": 1774517959465
     }
   },
   "indexingInProgress": false,
