@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "402e2bab0a93933c",
+            "id": "baac82ab9d5dda47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/罰と報酬.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/逆選択.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "罰と報酬"
+              "title": "逆選択"
             }
           },
           {
-            "id": "082cfbef8ef999ff",
+            "id": "3af7991da7c8991e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/評判効果.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/モラルハザード.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "評判効果"
+              "title": "モラルハザード"
             }
           },
           {
-            "id": "b50f07de2f6e549b",
+            "id": "a132cfc97d3a0d7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/報酬整合.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/インセンティブ設計.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "報酬整合"
+              "title": "インセンティブ設計"
             }
           },
           {
-            "id": "499612068b422f48",
+            "id": "dcf2e9d030b59e5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/短期合理.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/00 incentive Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "短期合理"
+              "title": "00 incentive Hub"
             }
           },
           {
-            "id": "c23677c0626e9e27",
+            "id": "bfd9033c773ec686",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/評価指標の歪み.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/efficiency/取引コスト最小化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "評価指標の歪み"
+              "title": "取引コスト最小化"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "c23677c0626e9e27",
+  "active": "bfd9033c773ec686",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/00 incentive Hub.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/インセンティブ設計.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/モラルハザード.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/逆選択.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/評価指標の歪み.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/短期合理.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/報酬整合.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/評判効果.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/権力集中.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/連合形成.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/00 power Hub.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/制度支配.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/支配構造形成.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/内部政治.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/権威効果.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/権力分散.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
