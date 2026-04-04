@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "6cd191e580b6c1b9",
+            "id": "fb06e0d55bccebcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/流行拡散パターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/権力正当化パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "流行拡散パターン"
+              "title": "権力正当化パターン"
             }
           },
           {
-            "id": "cf66b55f151ab0af",
+            "id": "a6886df5cdf6cfc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/社会分断パターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/排除パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "社会分断パターン"
+              "title": "排除パターン"
             }
           },
           {
-            "id": "4dcfd6ffe231ba95",
+            "id": "f8432ef18cfc4772",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/社会運動パターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/分極化パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "社会運動パターン"
+              "title": "分極化パターン"
             }
           },
           {
-            "id": "c5b3f02041dca9e3",
+            "id": "80a7500d65f718dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/規範崩壊パターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/権力集中パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "規範崩壊パターン"
+              "title": "権力集中パターン"
             }
           },
           {
-            "id": "e3ae5eea27e26d38",
+            "id": "c5869aab6e708b47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/権力腐敗パターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/逸脱パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "権力腐敗パターン"
+              "title": "逸脱パターン"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "e3ae5eea27e26d38",
+  "active": "c5869aab6e708b47",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/権力集中パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/分極化パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/排除パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/権力正当化パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/権力腐敗パターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/規範崩壊パターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/社会運動パターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/社会分断パターン.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/evolution/探索.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/evolution/進化.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/階層原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/エントロピー増大原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/最小作用原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/スケール原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/フィードバック.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/拡散原理.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
