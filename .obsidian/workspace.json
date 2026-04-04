@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "fb06e0d55bccebcc",
+            "id": "b4ca8d4395d258c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/権力正当化パターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/ネットミーム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "権力正当化パターン"
+              "title": "ネットミーム"
             }
           },
           {
-            "id": "a6886df5cdf6cfc5",
+            "id": "4cce8cb69636b061",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/排除パターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/文化戦争.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "排除パターン"
+              "title": "文化戦争"
             }
           },
           {
-            "id": "f8432ef18cfc4772",
+            "id": "b11b7b6293e6d67e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/分極化パターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/道徳運動.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "分極化パターン"
+              "title": "道徳運動"
             }
           },
           {
-            "id": "80a7500d65f718dc",
+            "id": "8f2406f993cfcc3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/権力集中パターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/排外運動.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "権力集中パターン"
+              "title": "排外運動"
             }
           },
           {
-            "id": "c5869aab6e708b47",
+            "id": "6b4b1aca7544173d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/逸脱パターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/集団リンチ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "逸脱パターン"
+              "title": "集団リンチ"
             }
           }
         ],
@@ -291,8 +291,18 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "c5869aab6e708b47",
+  "active": "6b4b1aca7544173d",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/排外運動.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/道徳運動.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/文化戦争.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/ネットミーム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/同調圧力.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/分断.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/極性化.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/群集心理.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/規範形成パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/逸脱パターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/権力集中パターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/分極化パターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/排除パターン.md",
@@ -309,16 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/pattern/国家衰退パターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/pattern/国家官僚化パターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/structure/統治構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/structure/正当性構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/structure/制度構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/structure/権力構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/structure/領域構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/kernelテンプレート.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/Kernel_Hub.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/evolution/適応.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/evolution/探索.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/evolution/進化.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/階層原理.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
