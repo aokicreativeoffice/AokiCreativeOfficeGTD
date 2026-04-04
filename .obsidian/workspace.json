@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "65b334f3efd378d7",
+            "id": "a4685d4704535c1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/cognition/記憶検索メカニズム.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/cognition/注意配分メカニズム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "記憶検索メカニズム"
+              "title": "注意配分メカニズム"
             }
           },
           {
-            "id": "5572bb7de7b6f4ef",
+            "id": "dded702dae697384",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/cognition/予測生成メカニズム.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/cognition/パターン認知メカニズム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "予測生成メカニズム"
+              "title": "パターン認知メカニズム"
             }
           },
           {
-            "id": "7e8e151710ea2322",
+            "id": "3cd7ecfa981afdd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/cognition/知覚処理メカニズム.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/ヒューリスティック.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知覚処理メカニズム"
+              "title": "ヒューリスティック"
             }
           },
           {
-            "id": "42affb6ff7768c25",
+            "id": "512bc114f86fe954",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/cognition/概念形成メカニズム.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/Mechanism_Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "概念形成メカニズム"
+              "title": "Mechanism_Hub"
             }
           },
           {
-            "id": "6208350b8e240bae",
+            "id": "07fbad6d1680ba83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/cognition/メタ認知メカニズム.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/regulation/恒常性維持.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "メタ認知メカニズム"
+              "title": "恒常性維持"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "6208350b8e240bae",
+  "active": "07fbad6d1680ba83",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/Mechanism_Hub.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/ヒューリスティック.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/cognition/パターン認知メカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/cognition/注意配分メカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/cognition/メタ認知メカニズム.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/cognition/概念形成メカニズム.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/cognition/知覚処理メカニズム.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/cognition/予測生成メカニズム.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/経路依存メカニズム.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/負のフィードバック.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/フィードバックメカニズム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/正のフィードバック.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/institutional/ルール執行メカニズム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/institutional/制度変化メカニズム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/institutional/官僚制メカニズム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/institutional/信頼形成メカニズム.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
