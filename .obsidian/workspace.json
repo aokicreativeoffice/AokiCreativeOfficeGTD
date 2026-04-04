@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "a4685d4704535c1e",
+            "id": "6ff29a6ba8e65cdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/cognition/注意配分メカニズム.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/regulation/負のフィードバック.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "注意配分メカニズム"
+              "title": "負のフィードバック"
             }
           },
           {
-            "id": "dded702dae697384",
+            "id": "79d5ea3c147da57f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/cognition/パターン認知メカニズム.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/regulation/減衰.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "パターン認知メカニズム"
+              "title": "減衰"
             }
           },
           {
-            "id": "3cd7ecfa981afdd3",
+            "id": "b603cc61c1780200",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/ヒューリスティック.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/regulation/誤差修正.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ヒューリスティック"
+              "title": "誤差修正"
             }
           },
           {
-            "id": "512bc114f86fe954",
+            "id": "bc8a261978698cfb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/Mechanism_Hub.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/regulation/均衡形成.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechanism_Hub"
+              "title": "均衡形成"
             }
           },
           {
-            "id": "07fbad6d1680ba83",
+            "id": "7733c56f714dc6a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/regulation/恒常性維持.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/amplification/正のフィードバック.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "恒常性維持"
+              "title": "正のフィードバック"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "07fbad6d1680ba83",
+  "active": "7733c56f714dc6a1",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/regulation/均衡形成.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/regulation/誤差修正.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/regulation/減衰.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/regulation/負のフィードバック.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/regulation/恒常性維持.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/Mechanism_Hub.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/ヒューリスティック.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/cognition/パターン認知メカニズム.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/decision/最適化.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/decision/Decision Mechanism Graph.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/ロックインメカニズム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/選択メカニズム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/適応メカニズム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/経路依存メカニズム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/負のフィードバック.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/フィードバックメカニズム.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
