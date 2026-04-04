@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "59a89ebb24cac786",
+            "id": "8f898ef785aeed48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/structure/官僚制構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/経済構造（文明）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "官僚制構造"
+              "title": "経済構造（文明）"
             }
           },
           {
-            "id": "72bd5a6eb6f52742",
+            "id": "bbcf148129e5f3b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/structure/インセンティブ構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/技術構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "インセンティブ構造"
+              "title": "技術構造"
             }
           },
           {
-            "id": "e709db0cec30601c",
+            "id": "dc6a060e480fd336",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/structure/代理問題構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/宗教構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "代理問題構造"
+              "title": "宗教構造"
             }
           },
           {
-            "id": "7eda602b4263c736",
+            "id": "764c39332ca08084",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/Organization_Pattern_Hub.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/帝国構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organization_Pattern_Hub"
+              "title": "帝国構造"
             }
           },
           {
-            "id": "3dc6077979aebcbb",
+            "id": "c100066bf205b4af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/pattern テンプレート.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/文化構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pattern テンプレート"
+              "title": "文化構造"
             }
           }
         ],
@@ -291,8 +291,18 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "3dc6077979aebcbb",
+  "active": "c100066bf205b4af",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/帝国構造.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/宗教構造.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/技術構造.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/経済構造（文明）.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/civilization Hub.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/pattern/文明成長パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/pattern/文明停滞パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/pattern/文明衰退パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/pattern/文明後退パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/pattern テンプレート.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/Organization_Pattern_Hub.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/structure/代理問題構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/structure/インセンティブ構造.md",
@@ -309,16 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/pattern/behavior/モラルハザードパターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/pattern/information/サイロ化パターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/pattern/information/情報歪曲パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/pattern/power/内部政治パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/pattern/power/権力集中パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/pattern/power/派閥形成パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/技術収束.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/Technology_Hub.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/プラットフォーム収束.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/技術爆発.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/技術ロックイン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/技術分岐.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/structure/技術システム構造.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
