@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "",
+    "exportPath": "C:\\Users\\USER\\Desktop",
     "filesToExport": [
       "02_zettelkasten/Zettelkasten Engine"
     ],
