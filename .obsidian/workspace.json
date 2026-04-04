@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "4c3a9ab643965573",
+            "id": "8a33a1a9fe636362",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model_hub/Kernel Hub.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/research/Research Loop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kernel Hub"
+              "title": "Research Loop"
             }
           },
           {
-            "id": "9e96a948cc894da4",
+            "id": "6d4a23b7c595aa51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model_hub/Concept_Hub.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/research/Research Question.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concept_Hub"
+              "title": "Research Question"
             }
           },
           {
-            "id": "6921a2e86226181e",
+            "id": "ce0252527d46314d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model_hub/Structure Hub.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/research/Research Program.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structure Hub"
+              "title": "Research Program"
             }
           },
           {
-            "id": "2c083eb59d7f114f",
+            "id": "a51673b29bf3836f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model_hub/Pattern Hub.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/research/datasets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pattern Hub"
+              "title": "datasets"
             }
           },
           {
-            "id": "8e800a9313dacfe5",
+            "id": "a34683389acaade6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model_hub/Mechanism Hub.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/research/results.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechanism Hub"
+              "title": "results"
             }
           }
         ],
@@ -291,8 +291,18 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "8e800a9313dacfe5",
+  "active": "a34683389acaade6",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/03_process/research/datasets.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/research/Research Program.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/research/Research Question.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/research/Research Loop.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/research/Research Hub.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/concept/欧州大国の対外戦争の構造変化.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/mechanism/進捗可視化ストーリーメカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/mechanism/インフラ意思決定接続メカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/pattern/Pattern Note Template.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model_hub/Mechanism Hub.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model_hub/Pattern Hub.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model_hub/Structure Hub.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model_hub/Concept_Hub.md",
@@ -309,16 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/emergence/自己組織化.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/emergence/パターン形成.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/emergence/創発.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/structural_change/体制転換.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/structural_change/構造転換.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/structural_change/相移転.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/structural_change/ロックイン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/structural_change/経路依存.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/constraint/トレードオフ.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/constraint/制約化最適化.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/constraint/容量制限.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/constraint/ボトルネック形成.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/constraint/制約充足.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
