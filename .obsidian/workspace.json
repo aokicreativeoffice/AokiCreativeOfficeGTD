@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "861537fe6ef932ea",
+            "id": "11e5dff61490417a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/information/認知バイアス.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/competition/先行者優位.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "認知バイアス"
+              "title": "先行者優位"
             }
           },
           {
-            "id": "7d3577e6fc2bebe6",
+            "id": "8f3da75cc737650c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/information/シグナリング.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/competition/差別化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "シグナリング"
+              "title": "差別化"
             }
           },
           {
-            "id": "7e4354c1308964e3",
+            "id": "dc31b2f9bfa5e1f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/information/00 information Hub.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/competition/規模優位.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 information Hub"
+              "title": "規模優位"
             }
           },
           {
-            "id": "e27fe1f1fd2d2840",
+            "id": "51b1f86efba4ae7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/competition/参入障壁.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/competition/ブランド蓄積.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "参入障壁"
+              "title": "ブランド蓄積"
             }
           },
           {
-            "id": "9392aca5f0755ee9",
+            "id": "b83d43338887b65b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/competition/切替コスト.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/competition/ネットワーク効果.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "切替コスト"
+              "title": "ネットワーク効果"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "9392aca5f0755ee9",
+  "active": "b83d43338887b65b",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/competition/ブランド蓄積.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/competition/規模優位.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/competition/差別化.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/competition/先行者優位.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/competition/切替コスト.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/competition/参入障壁.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/information/00 information Hub.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/information/シグナリング.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/efficiency/限界効用.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/efficiency/取引コスト最小化.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/00 incentive Hub.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/インセンティブ設計.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/モラルハザード.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/逆選択.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/評価指標の歪み.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/短期合理.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
