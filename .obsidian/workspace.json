@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "b79433874578f23e",
+            "id": "be5739f115202a50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/pattern/技術軍拡パターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/pattern/技術パラダイス転換パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "技術軍拡パターン"
+              "title": "技術パラダイス転換パターン"
             }
           },
           {
-            "id": "770efcf19bc79ec1",
+            "id": "acc103ddbe52bf8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/pattern/技術覇権パターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/pattern/技術プラットフォームパターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "技術覇権パターン"
+              "title": "技術プラットフォームパターン"
             }
           },
           {
-            "id": "5ede71d03616b2ae",
+            "id": "ed0356fbe8e68053",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/pattern/技術コモディティパターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/pattern/技術エコシステムパターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "技術コモディティパターン"
+              "title": "技術エコシステムパターン"
             }
           },
           {
-            "id": "daf291a2d57d9351",
+            "id": "43363d184de847c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/pattern/技術依存パターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/pattern/技術Sカーブパターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "技術依存パターン"
+              "title": "技術Sカーブパターン"
             }
           },
           {
-            "id": "ad8ac32304a554ad",
+            "id": "217c6a3f1d4f45c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/pattern/技術モジュールパターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/structure/技術インフラ構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "技術モジュールパターン"
+              "title": "技術インフラ構造"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "ad8ac32304a554ad",
+  "active": "217c6a3f1d4f45c4",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/pattern/技術Sカーブパターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/pattern/技術エコシステムパターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/pattern/技術プラットフォームパターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/pattern/技術パラダイス転換パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/pattern/技術モジュールパターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/pattern/技術依存パターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/pattern/技術コモディティパターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/technology/pattern/技術覇権パターン.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/Cognition_Pattern_Hub.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/注意集中パターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/認知固定パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/正常性バイアスパターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/過信パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/ヒューリスティック判断パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/確証バイアスパターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/楽観バイアスパターン.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
