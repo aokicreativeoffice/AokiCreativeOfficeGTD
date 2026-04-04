@@ -175,7 +175,7 @@ Concept を作る際は以下を守る。
 
 [[Concept Hub]]
 
-[[02_zettelkasten/04_meta/ontology/Relation Types]]
+[[02_zettelkasten/Zettelkasten Engine/04_meta/ontology/Relation Types]]
 
 [[Causal Relations]]
 

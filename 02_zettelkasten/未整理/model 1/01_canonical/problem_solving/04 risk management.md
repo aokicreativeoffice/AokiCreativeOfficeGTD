@@ -19,7 +19,7 @@ problem_type:
 created: 2026-03-05
 updated: 2026-03-05
 ---
-リスク管理とは、[[02_zettelkasten/01_knowledge/world_model/model/social/information/不確実性]]による損失を管理するプロセスである。  
+リスク管理とは、[[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/model/social/information/不確実性]]による損失を管理するプロセスである。  
 # Translation  
 risk management  
 # Engine  
@@ -42,7 +42,7 @@ Impact --> Control
 # Understanding
 リスク管理は
 - [[02 zettelkasten/kernel/不確実性]]    
-- [[02_zettelkasten/01_knowledge/world_model/concept/制約]]    
+- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/concept/制約]]    
 に関係する。
 # Background
 社会活動には、必ずリスクが存在する。

@@ -26,36 +26,36 @@ flowchart TD
 # フレームワーク一覧
 ## 因果分析  
 原因を特定するフレーム  
-- [[02_zettelkasten/02_process/methods/analysis/根因分析|根因分析]] （根本原因分析）
-- [[02_zettelkasten/02_process/methods/analysis/なぜなぜ分析|なぜなぜ分析]]（なぜなぜ分析）
-- [[02_zettelkasten/02_process/methods/analysis/因果連鎖分析|因果連鎖分析]]    （因果連鎖分析）
+- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/根因分析|根因分析]] （根本原因分析）
+- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/なぜなぜ分析|なぜなぜ分析]]（なぜなぜ分析）
+- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/因果連鎖分析|因果連鎖分析]]    （因果連鎖分析）
 ## 制約分析  
 システムの制約を特定する  
-- [[02_zettelkasten/02_process/methods/analysis/ボトルネック分析|ボトルネック分析]]]（ボトルネック分析）
-- [[02_zettelkasten/02_process/methods/analysis/制約分析|制約分析]] （制約分析）
+- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/ボトルネック分析|ボトルネック分析]]]（ボトルネック分析）
+- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/制約分析|制約分析]] （制約分析）
 ## 利害・権力分析  
 利害関係者の構造  
-- [[02_zettelkasten/02_process/methods/analysis/ステークホルダー分析|ステークホルダー分析]] （ステークホルダー分析）
-- [[02_zettelkasten/02_process/methods/analysis/パワーマッピング|パワーマッピング]]  （パワーマッピング）
-- [[02_zettelkasten/02_process/methods/analysis/インセンティブ設計|インセンティブ設計]]
+- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/ステークホルダー分析|ステークホルダー分析]] （ステークホルダー分析）
+- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/パワーマッピング|パワーマッピング]]  （パワーマッピング）
+- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/インセンティブ設計|インセンティブ設計]]
 ## トレードオフ分析  
 複数目標のバランス  
-- [[02_zettelkasten/02_process/methods/analysis/トレードオフ分析|トレードオフ分析]] （トレードオフ分析）
-- [[02_zettelkasten/02_process/methods/analysis/費用便益分析|費用便益分析]]  （費用便益分析）
+- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/トレードオフ分析|トレードオフ分析]] （トレードオフ分析）
+- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/費用便益分析|費用便益分析]]  （費用便益分析）
 ## 構造分析  
 対象の構造理解  
 - [[world model Hub]]
-- [[02_zettelkasten/02_process/methods/analysis/価値連鎖分析|価値連鎖分析]] 
-- [[02_zettelkasten/02_process/methods/analysis/システムマッピング|システムマッピング]]（システムマッピング）
-- [[02_zettelkasten/02_process/methods/analysis/状態遷移モデル|状態遷移モデル]]（状態遷移モデル）
+- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/価値連鎖分析|価値連鎖分析]] 
+- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/システムマッピング|システムマッピング]]（システムマッピング）
+- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/状態遷移モデル|状態遷移モデル]]（状態遷移モデル）
 ## 情報分析
-- [[02_zettelkasten/02_process/methods/analysis/代理人問題|代理人問題]]
-- [[02_zettelkasten/02_process/methods/analysis/信号分析|信号分析]]
+- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/代理人問題|代理人問題]]
+- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/信号分析|信号分析]]
 ## 不確実性分析
-- [[02_zettelkasten/02_process/methods/analysis/インセンティブ設計]]
-- [[02_zettelkasten/02_process/methods/analysis/シナリオ分析|シナリオ分析]]
+- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/インセンティブ設計]]
+- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/シナリオ分析|シナリオ分析]]
 ## 意思決定分析
-- [[02_zettelkasten/02_process/methods/analysis/意思決定フレームワーク|意思決定フレームワーク]]
+- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/意思決定フレームワーク|意思決定フレームワーク]]
 # 選び方
 問題の種類によって使い分ける  
 ```mermaid

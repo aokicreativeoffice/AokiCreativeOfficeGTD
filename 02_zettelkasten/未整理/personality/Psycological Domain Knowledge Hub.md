@@ -17,7 +17,7 @@ H-D-010 [[対立]]
 # 行動
 
 H-D-011 [[習慣]]
-H-D-012 [[02_zettelkasten/01_knowledge/world_model/model/human/意思決定]]
+H-D-012 [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/model/human/意思決定]]
 H-D-013 [[02_zettelkasten/model/human/human/学習原理]]
 H-D-014 [[行動変容]]
 

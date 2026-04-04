@@ -202,7 +202,7 @@ D --> E
 
 # 関連ノート
 
-[[02_zettelkasten/04_meta/ontology/Relation Types]]  
+[[02_zettelkasten/Zettelkasten Engine/04_meta/ontology/Relation Types]]  
 [[99_oldzettelkasten/04_knowledge_graph/Mechanism]]  
 [[Reasoning Pipeline]]  
 [[Theory]]

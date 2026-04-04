@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/00_system/question/Entry Hub.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/00_system/inference_rule/Memory Injection Rule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Entry Hub"
+              "title": "Memory Injection Rule"
             }
           }
         ]
@@ -219,8 +219,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "6acf75135036dfd0",
+  "active": "443e20a7aff5fe78",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/00_system/inference_rule/Knowledge Activation Rule.md",
+    "02_zettelkasten/Zettelkasten Engine/00_system/inference_rule/Context Construction Rule.md",
+    "02_zettelkasten/Zettelkasten Engine/Index.md",
+    "02_zettelkasten/Zettelkasten Engine/Entry Hub.md",
+    "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/スターリン 赤い皇帝と廷臣たち 読書ノート.md",
     "02_zettelkasten/21_domain/micro_economy/concept/市場の失敗.md",
     "02_zettelkasten/21_domain/micro_economy/concept/範囲の経済.md",
@@ -245,10 +250,6 @@
     "02_zettelkasten/21_domain/micro_economy/concept/限界効用.md",
     "02_zettelkasten/21_domain/micro_economy/concept",
     "02_zettelkasten/21_domain/micro_economy",
-    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/スターリン 赤い皇帝と廷臣たち 登場人物.md",
-    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/無題のファイル.md",
-    "02_zettelkasten/21_domain/history/structure/クレムリン・ファミリー.md",
-    "ボリシェヴィキ]] [[大粛清]], [[ナジェージダ・アリルジェワ]], [[レーニン.md",
     "02_zettelkasten/21_domain/concept/社会学",
     "02_zettelkasten/21_domain/books/ビスマルク",
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち",
@@ -256,7 +257,6 @@
     "02_zettelkasten/21_domain/history/epoch",
     "02_zettelkasten/21_domain/history/ontology",
     "02_zettelkasten/21_domain/history/actor",
-    "gemini-scribe/rag-index-cache.json",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"

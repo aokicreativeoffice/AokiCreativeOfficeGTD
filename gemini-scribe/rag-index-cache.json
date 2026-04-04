@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1775281228895,
+  "lastSync": 1775281486454,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -7998,36 +7998,6 @@
       "contentHash": "0801452b30c10863ce0069bb2c25edb2bdc2f3c2ba68ae5eafc05961a9aaa6dd",
       "lastIndexed": 1774403849048
     },
-    "02_zettelkasten/00_system/Case to Pattern Promotion.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "a33960d9e161e5edf5b6cec59143474ccc5e4abf4145153c1c02365b1185f889",
-      "lastIndexed": 1774403849988
-    },
-    "02_zettelkasten/00_system/Pattern Extraction Engine.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "068e76e205acba3d3ae3a8e6d8fa1d1e94068499d57d0812078fb82ee633d835",
-      "lastIndexed": 1774403854377
-    },
-    "02_zettelkasten/00_system/Problem Type Routing Template.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "12d7f59f7c4f272392aa78052575718f9002fadd72f1f9b42548b2d4503e0e3d",
-      "lastIndexed": 1774403854495
-    },
-    "02_zettelkasten/00_system/Context Presets.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "e750a43059985468dd6013c16ea4fa9cc327cc0dfb1e72d9adc82f698dfdeb47",
-      "lastIndexed": 1774403854714
-    },
-    "02_zettelkasten/00_system/Weak Explanation Check.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "06e587a4b7a30915a01d34a4ead9787d9600bd831160da68c9c4aaafb88e5b44",
-      "lastIndexed": 1774403854987
-    },
-    "02_zettelkasten/00_system/Routing Engine.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "5254ab8ee2e4fd33c39f98969fa4e7f7832a29a9f092545c08613c4a02c09a4c",
-      "lastIndexed": 1774403855315
-    },
     "02_zettelkasten/00_system/question/Entry Hub.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "7e0033919d2a761b4c1ddfbbf4a2cfa2f05503eb247d7651a531d98128f34b8a",
@@ -8063,80 +8033,15 @@
       "contentHash": "0b117f95c5e026342d3a6754ce4b368c9f79851ad988e82d2a78d29e5fa84923",
       "lastIndexed": 1774403865361
     },
-    "02_zettelkasten/00_system/Goal Framing.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "a6c6fdd8ba8f552772f5358f63a6feedf11053582115333d855c14f5cceb0715",
-      "lastIndexed": 1774403869809
-    },
     "02_zettelkasten/00_system/relation/transition/Transition Tag Taxonomy.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "fb5c296c7a7ec07502f102104b2d02f82fbb21da1a123578e103aff88f7c6ff2",
       "lastIndexed": 1774403869911
     },
-    "02_zettelkasten/00_system/Tool Orchestration.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "62dd9cd84126c1f479639bc03a783b6f1f1efead51a3dec330d9b4ce3141843d",
-      "lastIndexed": 1774403870052
-    },
     "02_zettelkasten/00_system/relation/transition/Transition Types Taxonomy.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "8aa4e86c42f8c09bca164903155684d118d1a846f52b5054d17f84420c290ab1",
       "lastIndexed": 1774403870162
-    },
-    "02_zettelkasten/00_system/Flow Selection Engine.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "3e80ff93f440637edd8ad186e8130a4d311c6788a9779e59d6fcd510f24dc537",
-      "lastIndexed": 1774403870259
-    },
-    "02_zettelkasten/00_system/File-Grounded Mode.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "407196796d415bd76c484e093d7ebfc2a2de65cf1012a81ac2d82d1133935076",
-      "lastIndexed": 1774403874582
-    },
-    "02_zettelkasten/00_system/Artifact Generation Mode.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "b80ecb83e4c03a726f54474ebd5a5f93dd50d08e49489bb3a5285aaaacc92eb7",
-      "lastIndexed": 1774403875022
-    },
-    "02_zettelkasten/00_system/Stepwise Reasoning Mode.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "9a0775a460a24a4bef6af8cd104fa58eb1bb5c9055d455e006382822ae5bf446",
-      "lastIndexed": 1774403875074
-    },
-    "02_zettelkasten/00_system/Direct Answer Mode.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "068bddab506574d863e7bb14bacb7f7e820e994c9a659ddfaed24abc844e1eeb",
-      "lastIndexed": 1774403875919
-    },
-    "02_zettelkasten/00_system/Search-Augmented Mode.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "2785fc0c0d56135c362595dacd797fb37917f76330594a9698f860f7b965c032",
-      "lastIndexed": 1774403876190
-    },
-    "02_zettelkasten/00_system/Constraint Monitor.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "abef5e587059f48d6af6fa712cdecaf315e8a15e9fa86f693f24b4e4087fe889",
-      "lastIndexed": 1774403880444
-    },
-    "02_zettelkasten/00_system/Task Routing.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "8222637e371e42675267f0d2b71ddb54436409bee1a776d76fc7769d698392e4",
-      "lastIndexed": 1774403880666
-    },
-    "02_zettelkasten/00_system/Thinking Protocol.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "14710177d1465f278581874289fc967dc6f24b2eda6024c27d580b64dbcf7c0c",
-      "lastIndexed": 1774403880719
-    },
-    "02_zettelkasten/00_system/Intent Interpretation.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "10beaed41b0685893804813431e8fee2fee09e9a6f9340547e1170ef7ed7bb89",
-      "lastIndexed": 1774403881126
-    },
-    "02_zettelkasten/00_system/Mode Selection.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "0b33e403d2eb1d4a5761549447d71cb8b9437dee457fafe969650920db67d98e",
-      "lastIndexed": 1774403881378
     },
     "02_zettelkasten/00_system/thinking_engine/03_reasoning/Reasoning Hub.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -8418,11 +8323,6 @@
       "contentHash": "e778a2ba3ee745a032bc3df030b343f062825c7bcf02d950b664d0f6bdeff0ec",
       "lastIndexed": 1774403946796
     },
-    "02_zettelkasten/00_system/thinking_engine/Measurement.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "cdccd2eb6d17b1c08f596df8343ffc15757637ca6ad33c7340e8390e9f7dae83",
-      "lastIndexed": 1774403946977
-    },
     "02_zettelkasten/00_system/thinking_engine/01_inference/モデル選択.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "7921c72bf63bafb93a2a43e418d07672196f1248d7d73a055aee8eff10724e65",
@@ -8448,80 +8348,10 @@
       "contentHash": "9e0909a5eb868f3f7783506d16c1ea04cc5f7854be4ee91a49538c3f225c6d60",
       "lastIndexed": 1774403952546
     },
-    "02_zettelkasten/00_system/inference_rule/Self Reflection Rule.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "b2be95943b5527d87f8d765cd5708614141e2d024edfc6f4662cef587f78346a",
-      "lastIndexed": 1774403952804
-    },
-    "02_zettelkasten/00_system/Zettelkasten OS Overview.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "d6503be0d36b36433fe60cdceb08c718c7f052462b3c9f5cb57ca4c9cae52cb8",
-      "lastIndexed": 1774403953221
-    },
-    "02_zettelkasten/00_system/System Hub.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "ef21fdfbb058be9dea87edf480ff4bf3235ba5466b633f1492023d19132cee1b",
-      "lastIndexed": 1774403953542
-    },
-    "02_zettelkasten/00_system/LLM/LLM System Prompt.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "c88f47eb173a9e5429acde502264c6869587600f6c77d4b17a736208eafd523a",
-      "lastIndexed": 1774403957926
-    },
-    "02_zettelkasten/00_system/inference_rule/Context Construction Rule.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "4fdb681ead6a944075a7ba6578697dc1b22f741308ae072e8d169967fdf5811a",
-      "lastIndexed": 1774403958255
-    },
-    "02_zettelkasten/00_system/Termination Control.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "c19ef888320caf8647f12739911a84e37c1292d49af6f48721a8abe900bdebca",
-      "lastIndexed": 1774403958415
-    },
-    "02_zettelkasten/00_system/Comparative Reasoning Mode.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "5b03ec825033c57d2b1868f764467e9a8ec18e6e8ffd2503a47b766d7ce1a1dc",
-      "lastIndexed": 1774403958454
-    },
-    "02_zettelkasten/00_system/inference_rule/Memory Injection Rule.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "b58b80d718f2ee023ada6717263837d3df217e8221cc42ec2203a1b334b5b9fa",
-      "lastIndexed": 1774403958545
-    },
-    "02_zettelkasten/00_system/LLM/LLM Control Layer.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "ea4ba27fc1096cfbe0c03e36c9e52517c56708bd6e0dcb9b3557658ee4fdd8e6",
-      "lastIndexed": 1774403962798
-    },
-    "02_zettelkasten/00_system/LLM/LLM System Hub.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "5aea91bef5e1e7a981651f138ef2b2c8b3f5a057533dd7c01f8e6c1d1c8cc12e",
-      "lastIndexed": 1774403962854
-    },
-    "02_zettelkasten/00_system/LLM/LLM Context Layer.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "642ea1a4e6c73dd82f56f9bd8dabd190d2bbd0016c683d0b0c3d0d9cb54c1fd6",
-      "lastIndexed": 1774403963377
-    },
-    "02_zettelkasten/00_system/LLM/LLM Output Layer.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "fddf175e8e1f988f03a8f0b5d2bea1cff05f037fcc58c03a787d918bb75b28d9",
-      "lastIndexed": 1774403963411
-    },
-    "02_zettelkasten/00_system/LLM/LLM Reasoning Layer.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "28f1ed24f8e775ea2e0546a180a7a0d0ac93add76057e3c0fb710d6cacd231d6",
-      "lastIndexed": 1774403963507
-    },
     "02_zettelkasten/未整理/Caseノートの育て方.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "af5296ef64caa3a374be8f7af7c1a7790d2bf1ba15b38a3fa0ee1e9f2bbf48ae",
       "lastIndexed": 1774403967442
-    },
-    "02_zettelkasten/00_system/LLM/LLM Reasoning Architecture.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "7a64d66b76a7a24aa82a86b0d8568bd25280fb4f9aaf62876a421aea46731fee",
-      "lastIndexed": 1774403967808
     },
     "02_zettelkasten/未整理/赤ペンルール.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -8532,11 +8362,6 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "5ef131f0769e427031dbc0a7e9b707b5c777159d213ca18be64fb827543151fc",
       "lastIndexed": 1774403968311
-    },
-    "02_zettelkasten/00_system/LLM/LLM Input Layer.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "06ac3fc1b6f7e002810387ca4aebec782d660f5b9f012ce4fc1647c1e326d06d",
-      "lastIndexed": 1774403968333
     },
     "02_zettelkasten/未整理/Japan_culture/field_model/Japan Geography.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10282,6 +10107,181 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "ecb4ab287f684be769710d1c84c4671760cd535d1020a8812cfa7aeeb50f6124",
       "lastIndexed": 1775281228895
+    },
+    "02_zettelkasten/Zettelkasten Engine/Index.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "12e9ab36041f1e365e6be0019c9cd1a12b4ea84cc44346ae70515dff5c28bcbc",
+      "lastIndexed": 1775281486454
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Termination Control.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c19ef888320caf8647f12739911a84e37c1292d49af6f48721a8abe900bdebca",
+      "lastIndexed": 1775281528274
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Comparative Reasoning Mode.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "40a15ef0315edc1f433bd8234ae250fafd4bcdefcfcdccdfba2a4b5a04a691fa",
+      "lastIndexed": 1775281534343
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/System Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ef21fdfbb058be9dea87edf480ff4bf3235ba5466b633f1492023d19132cee1b",
+      "lastIndexed": 1775281541541
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Zettelkasten OS Overview.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d6503be0d36b36433fe60cdceb08c718c7f052462b3c9f5cb57ca4c9cae52cb8",
+      "lastIndexed": 1775281548407
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Intent Interpretation.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a4e90b13a8f43fd14485093932d3a915c2395abff9a60d64740081957269fb39",
+      "lastIndexed": 1775281555207
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Mode Selection.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0b33e403d2eb1d4a5761549447d71cb8b9437dee457fafe969650920db67d98e",
+      "lastIndexed": 1775281560660
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Task Routing.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "71bfa0964bce16065fc2daba45f85af2be86cb0b8944d52a6e0c9fbe96d6dd37",
+      "lastIndexed": 1775281565935
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Thinking Protocol.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "14710177d1465f278581874289fc967dc6f24b2eda6024c27d580b64dbcf7c0c",
+      "lastIndexed": 1775281572626
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Direct Answer Mode.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "068bddab506574d863e7bb14bacb7f7e820e994c9a659ddfaed24abc844e1eeb",
+      "lastIndexed": 1775281579453
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Search-Augmented Mode.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "31d71db28ac545420d00886a13c20aded0369fe2353ee947bcfdcf077140c598",
+      "lastIndexed": 1775281586056
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Constraint Monitor.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "abef5e587059f48d6af6fa712cdecaf315e8a15e9fa86f693f24b4e4087fe889",
+      "lastIndexed": 1775281592294
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Stepwise Reasoning Mode.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9a0775a460a24a4bef6af8cd104fa58eb1bb5c9055d455e006382822ae5bf446",
+      "lastIndexed": 1775281597671
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/File-Grounded Mode.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "37bab3c30845a99f29392fed6ac0ea2dcc349ad8e79b1d1f6fea790b8cc65c30",
+      "lastIndexed": 1775281602505
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Artifact Generation Mode.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b80ecb83e4c03a726f54474ebd5a5f93dd50d08e49489bb3a5285aaaacc92eb7",
+      "lastIndexed": 1775281607909
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Flow Selection Engine.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3e80ff93f440637edd8ad186e8130a4d311c6788a9779e59d6fcd510f24dc537",
+      "lastIndexed": 1775281613035
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Goal Framing.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "294d1aeac87ab3356ca63fd19e819b5c35fd907d4e9d1613dff42de5731934cd",
+      "lastIndexed": 1775281618096
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Tool Orchestration.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "62dd9cd84126c1f479639bc03a783b6f1f1efead51a3dec330d9b4ce3141843d",
+      "lastIndexed": 1775281626000
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Weak Explanation Check.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "06e587a4b7a30915a01d34a4ead9787d9600bd831160da68c9c4aaafb88e5b44",
+      "lastIndexed": 1775281633565
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Problem Type Routing Template.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "12d7f59f7c4f272392aa78052575718f9002fadd72f1f9b42548b2d4503e0e3d",
+      "lastIndexed": 1775281646851
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Routing Engine.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5254ab8ee2e4fd33c39f98969fa4e7f7832a29a9f092545c08613c4a02c09a4c",
+      "lastIndexed": 1775281655026
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Pattern Extraction Engine.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "068e76e205acba3d3ae3a8e6d8fa1d1e94068499d57d0812078fb82ee633d835",
+      "lastIndexed": 1775281661603
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Case to Pattern Promotion.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a33960d9e161e5edf5b6cec59143474ccc5e4abf4145153c1c02365b1185f889",
+      "lastIndexed": 1775281666275
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/Context Presets.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d9dd0f8fcc4e32410d9e16760496117dc9d7fe84d1061e7b8d15a4d1a83d9398",
+      "lastIndexed": 1775281672972
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/LLM/LLM Reasoning Architecture.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7a64d66b76a7a24aa82a86b0d8568bd25280fb4f9aaf62876a421aea46731fee",
+      "lastIndexed": 1775281679522
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/LLM/LLM Input Layer.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "06ac3fc1b6f7e002810387ca4aebec782d660f5b9f012ce4fc1647c1e326d06d",
+      "lastIndexed": 1775281685842
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/LLM/LLM Context Layer.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "642ea1a4e6c73dd82f56f9bd8dabd190d2bbd0016c683d0b0c3d0d9cb54c1fd6",
+      "lastIndexed": 1775281692458
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/LLM/LLM Reasoning Layer.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "28f1ed24f8e775ea2e0546a180a7a0d0ac93add76057e3c0fb710d6cacd231d6",
+      "lastIndexed": 1775281699119
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/LLM/LLM Output Layer.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "fddf175e8e1f988f03a8f0b5d2bea1cff05f037fcc58c03a787d918bb75b28d9",
+      "lastIndexed": 1775281705994
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/LLM/LLM System Hub.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "5aea91bef5e1e7a981651f138ef2b2c8b3f5a057533dd7c01f8e6c1d1c8cc12e",
+      "lastIndexed": 1775281712469
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/LLM/LLM Control Layer.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ea4ba27fc1096cfbe0c03e36c9e52517c56708bd6e0dcb9b3557658ee4fdd8e6",
+      "lastIndexed": 1775281717170
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/LLM/LLM System Prompt.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c88f47eb173a9e5429acde502264c6869587600f6c77d4b17a736208eafd523a",
+      "lastIndexed": 1775281723938
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/inference_rule/Context Construction Rule.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4fdb681ead6a944075a7ba6578697dc1b22f741308ae072e8d169967fdf5811a",
+      "lastIndexed": 1775281729059
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/inference_rule/Memory Injection Rule.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b58b80d718f2ee023ada6717263837d3df217e8221cc42ec2203a1b334b5b9fa",
+      "lastIndexed": 1775281735355
+    },
+    "02_zettelkasten/Zettelkasten Engine/00_system/inference_rule/Self Reflection Rule.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b2be95943b5527d87f8d765cd5708614141e2d024edfc6f4662cef587f78346a",
+      "lastIndexed": 1775281741512
     }
   },
   "indexingInProgress": false,

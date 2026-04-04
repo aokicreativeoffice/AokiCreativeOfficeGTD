@@ -4,7 +4,7 @@
 ---
 
 # Context
-@[[02_zettelkasten/00_system/routing/Routing Matrics]]
+@[[Routing Matrics]]
 @[[Kernel_Hub]]
 @[[Entry Hub]]
 @[[Context Presets]]

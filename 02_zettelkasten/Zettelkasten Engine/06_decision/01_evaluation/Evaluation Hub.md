@@ -1,0 +1,6 @@
+- [[02_zettelkasten/Zettelkasten Engine/06_decision/01_evaluation/トレードオフ分析|トレードオフ分析]]
+- [[リスク評価]]
+- [[意思決定記録]]
+- [[撤退基準設計]]
+- [[評価基準設計]]
+- [[優先順位決定]]

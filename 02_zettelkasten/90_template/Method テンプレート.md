@@ -119,7 +119,7 @@ status: draft
 
 ## Mechanism
 - [[フィードバックメカニズム]]
-- [[情報非対称メカニズム]]
+- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/mechanism/information/情報非対称メカニズム]]
 - （最低2つ）
 
 ## Decision

@@ -10,11 +10,11 @@ updated: 2026-03-09
 Human Behavior Map
 人間行動を理解するには
 心理を以下の 6領域に分解すると整理しやすい。
-- [[02_zettelkasten/01_knowledge/world_model/model/human/human/認知制約原理]]（Cognition）
+- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/model/human/human/認知制約原理]]（Cognition）
 - [[感情モデル]]（Emotion）
 - [[動機]]（Motivation）
-- [[02_zettelkasten/01_knowledge/world_model/model/human/意思決定]]（Decision）
-- [[02_zettelkasten/01_knowledge/world_model/meta/model/human/human/社会性原理]]]（Social）
+- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/model/human/意思決定]]（Decision）
+- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/meta/model/human/human/社会性原理]]]（Social）
 - [[学習モデル|学習モデル]]（Learning）
 # 全体構造
 
@@ -45,11 +45,11 @@ G --> B
 - [[注意]]
 - [[記憶]]
 - [[解釈モデル]]
-- [[02_zettelkasten/01_knowledge/world_model/meta/model/human/congnition/認知バイアス]]
+- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/meta/model/human/congnition/認知バイアス]]
 代表理論
 - [[情報処理]]
 - [[二重過程理論]]
-- [[02_zettelkasten/01_knowledge/world_model/meta/model/human/congnition/限定合理性]]
+- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/meta/model/human/congnition/限定合理性]]
 ## 2 Emotion（感情）
 行動のエネルギー。
 基本感情
@@ -79,11 +79,11 @@ G --> B
 選択のメカニズム。
 主な理論
 - [[期待効用]] 
-- [[02_zettelkasten/01_knowledge/world_model/model/human/プロスペクト理論]]
-- [[02_zettelkasten/01_knowledge/world_model/model/human/congnition/ヒューリスティック構造]] 
+- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/model/human/プロスペクト理論]]
+- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/model/human/congnition/ヒューリスティック構造]] 
 特徴
-- [[02_zettelkasten/01_knowledge/world_model/meta/model/human/congnition/限定合理性]]
-- [[02_zettelkasten/01_knowledge/world_model/meta/model/human/congnition/認知バイアス]]
+- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/meta/model/human/congnition/限定合理性]]
+- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/meta/model/human/congnition/認知バイアス]]
 ## 5 Social（社会心理）
 他者との関係。
 主要テーマ
@@ -91,10 +91,10 @@ G --> B
 - [[協力]]
 - [[競争]]
 - [[権威]]
-- [[02_zettelkasten/01_knowledge/world_model/meta/model/human/同調]]
+- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/meta/model/human/同調]]
 - [[ステータス]]
 代表理論
-- [[02_zettelkasten/01_knowledge/world_model/meta/model/human/社会的証明]]
+- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/meta/model/human/社会的証明]]
 - [[集団力学]]
 - [[ ゲーム理論]]
 ## 6 Learning（学習）
@@ -102,7 +102,7 @@ G --> B
 学習メカニズム
 - [[強化学習]]
 - [[観察学習]]
-- [[02_zettelkasten/01_knowledge/world_model/meta/model/human/learning/習慣形成原理]]
+- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/meta/model/human/learning/習慣形成原理]]
 - [[習慣構造]]
 
 Cue

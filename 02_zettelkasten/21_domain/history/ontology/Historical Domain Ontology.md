@@ -42,7 +42,7 @@ updated: 2026-03-07
 
 ## 3. 定義済みリレーション (Defined Relations)
 
-[[02_zettelkasten/04_meta/ontology/Relation Types|Relation Types]] に基づき、歴史分析で多用する接続定義。
+[[02_zettelkasten/Zettelkasten Engine/04_meta/ontology/Relation Types|Relation Types]] に基づき、歴史分析で多用する接続定義。
 
 ### 因果・動態リレーション
 - **`causes` / `triggers`**: 直接的な因果関係。

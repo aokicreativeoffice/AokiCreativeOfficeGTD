@@ -256,9 +256,9 @@ Concept を作る際は次を守る。
 
 # 関連ノート
 
-[[02_zettelkasten/04_meta/ontology/Concept Types]]
+[[02_zettelkasten/Zettelkasten Engine/04_meta/ontology/Concept Types]]
 
-[[02_zettelkasten/04_meta/ontology/Relation Types]]
+[[02_zettelkasten/Zettelkasten Engine/04_meta/ontology/Relation Types]]
 
 [[Causal Relations]]
 

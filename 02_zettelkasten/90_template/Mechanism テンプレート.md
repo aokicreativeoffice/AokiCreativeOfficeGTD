@@ -97,7 +97,7 @@ status: draft
 ## 関連メカニズム
 - [[フィードバックメカニズム]]
 - [[ロックインメカニズム]]
-- [[情報非対称メカニズム]]
+- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/mechanism/information/情報非対称メカニズム]]
 - [[協調失敗メカニズム]]
 
 ---
