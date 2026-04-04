@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "1a3af5627badb380",
+            "id": "d75ff9a07237991a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/アイデンティティ防衛パターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/ヒューリスティック判断パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "アイデンティティ防衛パターン"
+              "title": "ヒューリスティック判断パターン"
             }
           },
           {
-            "id": "029ae1232ece6ee6",
+            "id": "479fc18cc087436f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/アンカリングパターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/過信パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "アンカリングパターン"
+              "title": "過信パターン"
             }
           },
           {
-            "id": "e3a25a67f8309780",
+            "id": "2b0435b3d6cf4b66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/情報カスケードパターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/正常性バイアスパターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "情報カスケードパターン"
+              "title": "正常性バイアスパターン"
             }
           },
           {
-            "id": "1cd570f578576981",
+            "id": "995b00dd37224e12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/楽観バイアスパターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/認知固定パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "楽観バイアスパターン"
+              "title": "認知固定パターン"
             }
           },
           {
-            "id": "8ea6b0b48d32ec57",
+            "id": "f616a95bc7dc9fb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/確証バイアスパターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/注意集中パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "確証バイアスパターン"
+              "title": "注意集中パターン"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "8ea6b0b48d32ec57",
+  "active": "f616a95bc7dc9fb5",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/認知固定パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/正常性バイアスパターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/過信パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/ヒューリスティック判断パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/確証バイアスパターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/楽観バイアスパターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/情報カスケードパターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/cognition/アンカリングパターン.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/dynamics/mechanism/遅延パターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/dynamics/dynamics_Pattern_Hub.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/dynamics/behavior/バブルパターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/dynamics/behavior/振動パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/dynamics/behavior/暴走パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/dynamics/behavior/連鎖崩壊パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/dynamics/behavior/安定化パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/dynamics/behavior/臨界崩壊パターン.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
