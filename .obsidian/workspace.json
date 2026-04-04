@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "d1a4457b369f0958",
+            "id": "065fd756f7b4ca8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/交通流形成.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/learning/学習メカニズム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "交通流形成"
+              "title": "学習メカニズム"
             }
           },
           {
-            "id": "fa6dd89333453ab8",
+            "id": "a325c1f817dcb63a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/制御ループ.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/社会規範メカニズム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "制御ループ"
+              "title": "社会規範メカニズム"
             }
           },
           {
-            "id": "1609e4d0f46a324f",
+            "id": "80a17a6da628eeb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/習慣形成.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/対立メカニズム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "習慣形成"
+              "title": "対立メカニズム"
             }
           },
           {
-            "id": "d1f94994f107f0fb",
+            "id": "02dadfa614b30718",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/強化.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/競争メカニズム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "強化"
+              "title": "競争メカニズム"
             }
           },
           {
-            "id": "172922779fe2357f",
+            "id": "b44f81b306d11236",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/忘却曲線.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/フリーライダーメカニズム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "忘却曲線"
+              "title": "フリーライダーメカニズム"
             }
           }
         ],
@@ -291,8 +291,18 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "172922779fe2357f",
+  "active": "b44f81b306d11236",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/競争メカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/対立メカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/社会規範メカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/learning/学習メカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/learning/強化メカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/incentive/インセンティブメカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/incentive/交換メカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/認知的不協和.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/学習プロセス.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/忘却曲線.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/強化.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/習慣形成.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/制御ループ.md",
@@ -309,16 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/供給の法則.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/因果連鎖.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/需要の法則.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/認識生成プロセス.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/mechanism テンプレート.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/Pattern_Hub.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/文化構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/帝国構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/宗教構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/技術構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/経済構造（文明）.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/civilization Hub.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/pattern/文明成長パターン.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
