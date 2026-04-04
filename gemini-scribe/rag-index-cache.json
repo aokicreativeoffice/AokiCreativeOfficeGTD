@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1775281086808,
+  "lastSync": 1775281154244,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -8245,8 +8245,8 @@
     },
     "02_zettelkasten/00_system/thinking_engine/02_inquiry/inquiry Hub.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "24ed19c512ab01fcd57f0dd2e21af264d18d3e46d98d7e4db159ce5ce0258ccb",
-      "lastIndexed": 1774403907834
+      "contentHash": "5a01ae327877391ac895f05972ef138f947d1e9838760c634676c5fd151a9b64",
+      "lastIndexed": 1775281093668
     },
     "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/argument/命題構造.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -8280,8 +8280,8 @@
     },
     "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/argument/接続関係構造.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "6eed032a682566be6ed1d6d5210da2424281d9bd5dfa77552649278c67550bcb",
-      "lastIndexed": 1774403913637
+      "contentHash": "9858f69814a0c4a60fd8a3b21577d89f199a5708e510746dac9e4c420e53c74d",
+      "lastIndexed": 1775281100586
     },
     "02_zettelkasten/00_system/thinking_engine/02_inquiry/structure/problem/原因分析構造.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10177,6 +10177,51 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "f66362a8b024d54d7b1de70d97c6b95e789da4510a243c69f61c3408a2e82203",
       "lastIndexed": 1774519044999
+    },
+    "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/スターリン 赤い皇帝と廷臣たち 登場人物.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "a7e6fac36582286c971888301dc0979d6e29e8c3a982c73dca5e9d93ea39d98b",
+      "lastIndexed": 1775281107680
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/限界効用.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b79e3c8b2a0f22a1cda550ee44e672e7e8b2dff536040661a86b281c26757481",
+      "lastIndexed": 1775281113849
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/効用関数.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "681f62055469232365a014831f431db57b03c819265c1c8f87be00fc6908e0dc",
+      "lastIndexed": 1775281119468
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/無差別曲線.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7078f3738573a7fb7b4fd656113368b330274930f0a1bfaf6ca20c86781eca2b",
+      "lastIndexed": 1775281124348
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/限界代替率.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "1793c378a50fb51ced2c2c4ccf11e210df1643857aeda90fb8d56041ddf6eb1e",
+      "lastIndexed": 1775281130380
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/予算制約線.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "7bffe035af61f2072452c8926cb340881af263b9df2373df48671a1fbb1b6860",
+      "lastIndexed": 1775281135511
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/最適消費計画.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "57e460d93b0d55f6d9439fc1064e1c02ecba782cc8e96ec13f3ea8d296e54f9f",
+      "lastIndexed": 1775281141730
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/需要曲線.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f7004bbdb44c871d0965e15092b441f017dfd6e0a3345835e5eb5c804cb2c7aa",
+      "lastIndexed": 1775281147919
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/限界生産力.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e3ddc0cf4532fff33145033f4a4ca76b94a5ec39d036568a18919cd41b303df8",
+      "lastIndexed": 1775281154244
     }
   },
   "indexingInProgress": false,
