@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "baac82ab9d5dda47",
+            "id": "44b78b5765395d02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/逆選択.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/efficiency/限界効用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "逆選択"
+              "title": "限界効用"
             }
           },
           {
-            "id": "3af7991da7c8991e",
+            "id": "9cb4521fc494d5e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/モラルハザード.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/efficiency/専門化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "モラルハザード"
+              "title": "専門化"
             }
           },
           {
-            "id": "a132cfc97d3a0d7b",
+            "id": "013eaa6eb6f25474",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/インセンティブ設計.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/efficiency/自動化優先.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "インセンティブ設計"
+              "title": "自動化優先"
             }
           },
           {
-            "id": "dcf2e9d030b59e5b",
+            "id": "b9caafbc1ff54801",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/00 incentive Hub.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/efficiency/規模の経済.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 incentive Hub"
+              "title": "規模の経済"
             }
           },
           {
-            "id": "bfd9033c773ec686",
+            "id": "ae90da0bf907983e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/efficiency/取引コスト最小化.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/efficiency/再利用原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "取引コスト最小化"
+              "title": "再利用原理"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "bfd9033c773ec686",
+  "active": "ae90da0bf907983e",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/efficiency/規模の経済.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/efficiency/自動化優先.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/efficiency/専門化.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/efficiency/限界効用.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/efficiency/取引コスト最小化.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/00 incentive Hub.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/インセンティブ設計.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/モラルハザード.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/官僚化.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/代理問題.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/正統性原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/資源支配.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/情報権力.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/権力集中.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/連合形成.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/00 power Hub.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
