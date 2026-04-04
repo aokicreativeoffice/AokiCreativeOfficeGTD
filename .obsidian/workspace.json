@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "4d93787d0577dad4",
+            "id": "b874084ec16970f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/evolution/選択圧.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/institutional/制度変化メカニズム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "選択圧"
+              "title": "制度変化メカニズム"
             }
           },
           {
-            "id": "e53cc392e2217cfe",
+            "id": "1e1bfbb185397c1a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/evolution/変異.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/institutional/ルール執行メカニズム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "変異"
+              "title": "ルール執行メカニズム"
             }
           },
           {
-            "id": "5d6506f2a2f4ea7f",
+            "id": "931ef3c808f6613d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/evolution/淘汰.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/正のフィードバック.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "淘汰"
+              "title": "正のフィードバック"
             }
           },
           {
-            "id": "c659ec6302fb0a3a",
+            "id": "956c4ed73e0e6543",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/institutional/機会形成メカニズム.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/フィードバックメカニズム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "機会形成メカニズム"
+              "title": "フィードバックメカニズム"
             }
           },
           {
-            "id": "5ab00843e7fccfd5",
+            "id": "a3b313425d70b5da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/institutional/規範形成メカニズム.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/負のフィードバック.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "規範形成メカニズム"
+              "title": "負のフィードバック"
             }
           }
         ],
@@ -291,8 +291,18 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "5ab00843e7fccfd5",
+  "active": "a3b313425d70b5da",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/フィードバックメカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/正のフィードバック.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/institutional/ルール執行メカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/institutional/制度変化メカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/institutional/官僚制メカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/institutional/信頼形成メカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/institutional/制度ドリフトメカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/institutional/権力集中メカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/institutional/正当性メカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/institutional/規範形成メカニズム.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/system/institutional/機会形成メカニズム.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/evolution/淘汰.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/evolution/変異.md",
@@ -309,16 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/信頼形成メカニズム.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/フリーライダーメカニズム.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/競争メカニズム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/対立メカニズム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/社会規範メカニズム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/learning/学習メカニズム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/learning/強化メカニズム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/incentive/インセンティブメカニズム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/incentive/交換メカニズム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/認知的不協和.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/学習プロセス.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/忘却曲線.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/強化.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
