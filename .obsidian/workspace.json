@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "a4c9e264d23cb51e",
+            "id": "e04c13764165f760",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/楽観バイアスパターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/State_Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "楽観バイアスパターン"
+              "title": "State_Hub"
             }
           },
           {
-            "id": "1568d6f21e2a4bfc",
+            "id": "2beb0f9947dd6556",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/自己正当化パターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/pattern/革命パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "自己正当化パターン"
+              "title": "革命パターン"
             }
           },
           {
-            "id": "829aa43b906cc210",
+            "id": "b049e3d1241ae495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/社会的同調パターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/pattern/国家官僚化パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "社会的同調パターン"
+              "title": "国家官僚化パターン"
             }
           },
           {
-            "id": "b699abfdc9eb375e",
+            "id": "42c2f6d8bf867393",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/習慣形成パターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/pattern/国家衰退パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "習慣形成パターン"
+              "title": "国家衰退パターン"
             }
           },
           {
-            "id": "67dc15c30fbd8071",
+            "id": "998f2c901150cbc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/情報カスケードパターン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/civilization/pattern/文明成長パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "情報カスケードパターン"
+              "title": "文明成長パターン"
             }
           }
         ],
@@ -291,8 +291,23 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "67dc15c30fbd8071",
+  "active": "998f2c901150cbc6",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/pattern/国家衰退パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/pattern/国家官僚化パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/pattern/革命パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/State_Hub.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/structure/領域構造.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/structure/制度構造.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/structure/正当性構造.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/structure/統治構造.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/structure/権力構造.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/注意集中パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/利用可能性ヒューリスティックパターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/動機強化パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/認知固定パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/正常性バイアスパターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/情報カスケードパターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/習慣形成パターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/社会的同調パターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/自己正当化パターン.md",
@@ -304,21 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/ヒューリスティック判断パターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/パニックパターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/ナラティブ形成パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/アンカリングパターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/アイデンティティ防衛パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/Cognition_Pattern_Hub.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/technology/Technology_Hub.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/technology/pattern/技術パラダイス転換パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/technology/pattern/技術依存パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/technology/pattern/技術Sカーブパターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/technology/pattern/技術覇権パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/technology/pattern/技術エコシステムパターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/technology/pattern/技術コモディティパターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/technology/pattern/技術プラットフォームパターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/technology/pattern/技術融合パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/technology/pattern/技術軍拡パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/technology/pattern/技術モジュールパターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/technology/pattern/技術置換パターン.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
