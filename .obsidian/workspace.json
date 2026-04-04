@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "05b66eeef4b35bcd",
+            "id": "16916416ffd84abe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/00 Analysis Framework hub.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/02_finging/異常検出構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Analysis Framework hub"
+              "title": "異常検出構造"
             }
           },
           {
-            "id": "4afc2d401640244d",
+            "id": "a4b36c660989e20a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/市場分析フレームワーク.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/02_finging/認識構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "市場分析フレームワーク"
+              "title": "認識構造"
             }
           },
           {
-            "id": "83462f9384e0635f",
+            "id": "38a535f8eccf45f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/02_finging/異常型.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/02_finging/Problem Finding Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "異常型"
+              "title": "Problem Finding Structure"
             }
           },
           {
-            "id": "69e89ed8738240d2",
+            "id": "f65c6e5aa679a86a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/02_finging/損失型.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/01_observation/データ構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "損失型"
+              "title": "データ構造"
             }
           },
           {
-            "id": "4c418ae5d7b34de4",
+            "id": "e8e060c112c60020",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/02_finging/欠落型.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/01_observation/仮説構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欠落型"
+              "title": "仮説構造"
             }
           }
         ],
@@ -291,8 +291,18 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "4c418ae5d7b34de4",
+  "active": "e8e060c112c60020",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/01_observation/データ構造.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/02_finging/Problem Finding Structure.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/02_finging/認識構造.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/02_finging/異常検出構造.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/02_finging/事例構造.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/02_finging/構造不整合型.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/02_finging/パターン構造.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/02_finging/機会型.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/02_finging/制約型.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/02_finging/欠落型.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/02_finging/損失型.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/02_finging/異常型.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/市場分析フレームワーク.md",
@@ -309,16 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/シナリオ分析.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/ステークホルダー分析.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/意思決定フレームワーク.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/インセンティブ設計.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/システムマッピング.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/ボトルネック分析.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/トレードオフ分析.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/根因分析.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/状態遷移モデル.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/心理学構造.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/research/test.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/research/results.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/research/datasets.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
