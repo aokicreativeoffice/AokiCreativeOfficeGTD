@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "93a697f17fbb0f3b",
+            "id": "2a22680841596fe6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/system/dynamic/集合知.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/高速鉄道駅配置モデル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "集合知"
+              "title": "高速鉄道駅配置モデル"
             }
           },
           {
-            "id": "24ca7570740f6261",
+            "id": "df8a69c20dad2878",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/貫通型モデル.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/physical/力の均衡.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "貫通型モデル"
+              "title": "力の均衡"
             }
           },
           {
-            "id": "12ad919752d6314d",
+            "id": "796f0749da4b0c15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/バイパス型モデル.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/physical/創発原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "バイパス型モデル"
+              "title": "創発原理"
             }
           },
           {
-            "id": "327e84315844b866",
+            "id": "d225a070bb435018",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/幹線直線モデル.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/physical/相転移.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "幹線直線モデル"
+              "title": "相転移"
             }
           },
           {
-            "id": "d3f305ffe3533d98",
+            "id": "2f851ae52b96b045",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/ターミナル型結節モデル.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/physical/反作用原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ターミナル型結節モデル"
+              "title": "反作用原理"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "d3f305ffe3533d98",
+  "active": "2f851ae52b96b045",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/physical/相転移.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/physical/創発原理.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/physical/力の均衡.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/高速鉄道駅配置モデル.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/ターミナル型結節モデル.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/幹線直線モデル.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/バイパス型モデル.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/貫通型モデル.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/system/network/クラスター形成.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/認知制約.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/エネルギー制約.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/00 constrains Hub.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/注意資源制約.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/情報制約.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/時間制約.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/インセンティブ制約.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
