@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "2707c08ffd1a0c75",
+            "id": "e45691167774e860",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/evolution/生存競争.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/concept/選択.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "生存競争"
+              "title": "選択"
             }
           },
           {
-            "id": "e2813b3d0c680338",
+            "id": "f74086fd6ee3e37e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/Pattern Hub.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/concept/情報.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pattern Hub"
+              "title": "情報"
             }
           },
           {
-            "id": "baaabe9f31751123",
+            "id": "71c13982c329bb95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/theory/Theory Hub.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/全体図.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theory Hub"
+              "title": "全体図"
             }
           },
           {
-            "id": "af41fd916f91b133",
+            "id": "8126e2c6fc54a632",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/structure/structure テンプレート.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/principles/同一律.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "structure テンプレート"
+              "title": "同一律"
             }
           },
           {
-            "id": "6f93e3e31f250653",
+            "id": "f4065b32683d254c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/concept/制約.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/principles/因果律.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "制約"
+              "title": "因果律"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "6f93e3e31f250653",
+  "active": "f4065b32683d254c",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/principles/同一律.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/全体図.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/concept/情報.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/concept/選択.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/concept/制約.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/structure/structure テンプレート.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/theory/Theory Hub.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/Pattern Hub.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/State_Hub.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/structure/領域構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/structure/制度構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/structure/正当性構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/structure/統治構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/state/structure/権力構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/注意集中パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/pattern/cognition/利用可能性ヒューリスティックパターン.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
