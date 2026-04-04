@@ -4,8 +4,7 @@ longform:
   title: Zettelkasten Engine
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - manuscript
+  scenes: []
   ignoredFiles: []
 ---
 
