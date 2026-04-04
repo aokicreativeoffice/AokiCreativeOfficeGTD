@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "62b59d6094446475",
+            "id": "6d5d41e0d1558435",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/information/期待形成.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/constraint/容量制限.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "期待形成"
+              "title": "容量制限"
             }
           },
           {
-            "id": "5045be1162ee3d49",
+            "id": "c379c58210758305",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/information/情報非対称.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/constraint/制約化最適化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "情報非対称"
+              "title": "制約化最適化"
             }
           },
           {
-            "id": "851209d2f635edf9",
+            "id": "47ce9a8e00a1739d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/information/注意配分.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/constraint/トレードオフ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "注意配分"
+              "title": "トレードオフ"
             }
           },
           {
-            "id": "d6903c6d139c7154",
+            "id": "a08826d61c46e813",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/sellection/選択.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/structural_change/経路依存.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "選択"
+              "title": "経路依存"
             }
           },
           {
-            "id": "3c6ba4698839c57c",
+            "id": "ccccee2f7702caee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/sellection/競争.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/structural_change/ロックイン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "競争"
+              "title": "ロックイン"
             }
           }
         ],
@@ -291,8 +291,18 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "3c6ba4698839c57c",
+  "active": "ccccee2f7702caee",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/structural_change/経路依存.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/constraint/トレードオフ.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/constraint/制約化最適化.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/constraint/容量制限.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/constraint/ボトルネック形成.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/constraint/制約充足.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/sellection/スクリーニング.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/sellection/フィルタリング.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/sellection/淘汰.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/sellection/競争.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/sellection/選択.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/information/注意配分.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/information/情報非対称.md",
@@ -309,16 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/learning/適応.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/learning/強化.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/learning/学習.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/allocation/優先順位付け.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/allocation/負荷分散.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/allocation/マッチング.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/allocation/資源配分.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/diffusion/信号伝播.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/diffusion/拡散.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/diffusion/情報拡散.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/amplification/移動・流動.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/amplification/ネットワーク効果.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/amplification/波及効果.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
