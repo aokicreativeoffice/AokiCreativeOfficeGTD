@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "69a2bbb67c8c8e50",
+            "id": "4e8c8936088e535f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/ループ構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/選好順序.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ループ構造"
+              "title": "選好順序"
             }
           },
           {
-            "id": "9d7f4f4636add25e",
+            "id": "6769e988bc04b349",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/トポロジー.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/バイアスパターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "トポロジー"
+              "title": "バイアスパターン"
             }
           },
           {
-            "id": "e59c78864b5daef6",
+            "id": "41426e3eef454002",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/ネットワーク構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/二重過程モデル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ネットワーク構造"
+              "title": "二重過程モデル"
             }
           },
           {
-            "id": "96f3438a7a22c8f5",
+            "id": "c54785ddd2f15ec2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/意思決定ルール.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/principles-kernel 対応表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "意思決定ルール"
+              "title": "principles-kernel 対応表"
             }
           },
           {
-            "id": "9fa34ae3f386094f",
+            "id": "fffd44df413cc1ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/階層構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/human/感情駆動原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "階層構造"
+              "title": "感情駆動原理"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "9fa34ae3f386094f",
+  "active": "fffd44df413cc1ae",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/principles-kernel 対応表.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/二重過程モデル.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/バイアスパターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/選好順序.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/階層構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/意思決定ルール.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/ネットワーク構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/トポロジー.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/principles/限定合理性.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/principles/非線形原理.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/principles/全体性原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/principles/自己組織化原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/principles/フィードバック原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/principles/中心地理論.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/principles/集積の経済.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/principles/距離逓減原理.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
