@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "3f05d1564ef8ec19",
+            "id": "4a3d3bc3a8265ba9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/learning/習慣ループ.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/congnition/パターン認識原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "習慣ループ"
+              "title": "パターン認識原理"
             }
           },
           {
-            "id": "50e17cb09163837a",
+            "id": "aa19332161a774b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/learning/行動強化.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/congnition/認知バイアス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "行動強化"
+              "title": "認知バイアス"
             }
           },
           {
-            "id": "984d0131cf45a9d0",
+            "id": "10f42e3e50d09fff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/learning/試行錯誤.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/congnition/権威影響.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "試行錯誤"
+              "title": "権威影響"
             }
           },
           {
-            "id": "9b25c5148124bad9",
+            "id": "2d026c9a432565b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/congnition/抽象化原理.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/congnition/ヒューリスティック構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "抽象化原理"
+              "title": "ヒューリスティック構造"
             }
           },
           {
-            "id": "d69107b6eb2c6148",
+            "id": "a568b6047a03a2f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/congnition/予測処理原理.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/congnition/フレーミング効果.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "予測処理原理"
+              "title": "フレーミング効果"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "d69107b6eb2c6148",
+  "active": "a568b6047a03a2f7",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/congnition/ヒューリスティック構造.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/congnition/権威影響.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/congnition/認知バイアス.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/congnition/パターン認識原理.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/congnition/予測処理原理.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/congnition/抽象化原理.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/learning/試行錯誤.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/learning/行動強化.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/human/物語化原理.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/human/感情駆動原理.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/principles-kernel 対応表.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/二重過程モデル.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/バイアスパターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/選好順序.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/階層構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/academic/rule/意思決定ルール.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
