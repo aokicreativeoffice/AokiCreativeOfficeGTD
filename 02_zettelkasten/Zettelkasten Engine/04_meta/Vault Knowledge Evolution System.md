@@ -107,7 +107,7 @@ Patternの特徴
 ・繰り返し現れる  
 ・抽象度が上がる  
 
-[[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/model_hub/Pattern Hub|Pattern Hub]]
+[[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model_hub/Pattern Hub|Pattern Hub]]
 
 ---
 
@@ -124,7 +124,7 @@ Mechanism は、Pattern を生み出す **仕組み**である。
 
 Mechanism は、現象のなぜを説明する。
 
-[[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/mechanism/Mechanism Hub|Mechanism Hub]]
+[[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/mechanism/Mechanism Hub|Mechanism Hub]]
 
 ---
 
@@ -140,7 +140,7 @@ Theory は、Mechanism を統合した 高次抽象モデルである。
 
 Theory は、Mechanism の集合体である。
 
-[[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/theory/Theory Hub|Theory Hub]]
+[[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/theory/Theory Hub|Theory Hub]]
 
 ---
 

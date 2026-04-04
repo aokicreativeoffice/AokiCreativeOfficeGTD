@@ -659,7 +659,7 @@ Bridge Concept は、
 - Business Hub ↔ Law Hub
   - [[責任]]
   - [[インセンティブ]]
-  - [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/meta/model/social/information/情報非対称]]
+  - [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/information/情報非対称]]
 
 - History Hub ↔ Organization Hub
   - [[権力]]
@@ -759,13 +759,13 @@ LLM にとっての **横断推論の橋脚** である。
 まず優先して整えるとよい候補:
 - [[権力]]
 - [[正統性]]
-- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/concept/制約]]
+- [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/concept/制約]]
 - [[信頼]]
-- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/meta/model/social/information/シグナリング]]
+- [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/information/シグナリング]]
 - [[アイデンティティ]]
 - [[境界]]
 - [[インセンティブ]]
-- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/meta/model/social/information/情報非対称]]
+- [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/information/情報非対称]]
 - [[責任]]
 
 運用方針:

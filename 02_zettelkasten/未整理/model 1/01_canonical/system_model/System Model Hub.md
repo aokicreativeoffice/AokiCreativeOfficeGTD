@@ -40,7 +40,7 @@ Flows --> SystemBehavior[System Behavior]
 システムモデルは、
 - [[12 システム]]    
 - [[因果]]    
-- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/concept/制約]]    
+- [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/concept/制約]]    
 の理解に役立つ。
 システムモデルは、複雑な現象を構造として理解する方法である。
 # Background

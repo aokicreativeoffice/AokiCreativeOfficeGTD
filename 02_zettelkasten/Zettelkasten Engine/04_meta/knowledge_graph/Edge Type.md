@@ -956,8 +956,8 @@ graph TD
 記述例:
 
 - [[韓国併合]] は [[植民地化パターン]] の **instance_of**
-- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/meta/model/social/information/情報非対称]] は [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/model/social/incentive/逆選択]] を **causes**
-- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/meta/model/human/congnition/限定合理性]] は [[不完全意思決定]] を **explains**
+- [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/information/情報非対称]] は [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model/social/incentive/逆選択]] を **causes**
+- [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/congnition/限定合理性]] は [[不完全意思決定]] を **explains**
 - [[責任分散]] は [[多段委任構造]] で **operates_in**
 - [[比較分析]] は [[歴史研究]] に **applies_to**
 

@@ -185,7 +185,7 @@ C --> D
 
 ## 関連ノート
 
-[[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/model/human/意思決定]]
+[[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model/human/意思決定]]
 [[drives]]
 [[motivation types]]
 [[intrinsic extrinsic motivation]]

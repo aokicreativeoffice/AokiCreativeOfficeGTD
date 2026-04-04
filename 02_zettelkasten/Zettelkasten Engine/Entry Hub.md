@@ -143,7 +143,7 @@ EX --> FB[Learning / Case化]
 結果を知識に昇格
 使用ノート：
 - [[Learning Hub]]
-- [[02_zettelkasten/Zettelkasten Engine/00_system/Case to Pattern Promotion]]
+- [[02_zettelkasten/Zettelkasten Engine/01_system/Case to Pattern Promotion]]
 - [[Mismatch Detection Engine]]
 # Entry Node Selection
 

@@ -125,12 +125,12 @@ structures/problemで問題定義
 
 structures/problem typeから問題タイプを選ぶ。タイプは複数ある場合もある。
 
-- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/model/social/efficiency/00 efficiency Hub]]  
-- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/model/social/competition/00 competition Hub]]  
-- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/model/social/power/00 power Hub]]  
-- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/model/social/coordination/00 coordination Hub]]  
-- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/model/social/incentive/00 incentive Hub]]  
-- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/model/social/information/00 information Hub]]
+- [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model/social/efficiency/00 efficiency Hub]]  
+- [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model/social/competition/00 competition Hub]]  
+- [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model/social/power/00 power Hub]]  
+- [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model/social/coordination/00 coordination Hub]]  
+- [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model/social/incentive/00 incentive Hub]]  
+- [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model/social/information/00 information Hub]]
 
 ### 例
 - 人が辞める→ incentive problem
@@ -140,7 +140,7 @@ structures/problem typeから問題タイプを選ぶ。タイプは複数ある
 ### Step4 分析フレームを選ぶ
 
 structures/analysis framework
-- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/00 Analysis Framework hub]]
+- [[02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/00 Analysis Framework hub]]
 
 ---
 

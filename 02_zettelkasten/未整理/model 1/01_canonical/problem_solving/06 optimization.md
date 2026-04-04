@@ -25,7 +25,7 @@ optimization
 # Engine  
 ## 要素  
 - 目標  
-- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/concept/制約]]
+- [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/concept/制約]]
 - 解  
 ## 構造  
   
@@ -38,7 +38,7 @@ Optimization --> Solution
 ```
 # Understanding
 最適化は、
-- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/concept/制約]]    
+- [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/concept/制約]]    
 - [[10 効率]]    
 - [[11 トレードオフ]]   
 に関係する。

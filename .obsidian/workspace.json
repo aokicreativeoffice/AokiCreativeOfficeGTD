@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/00_system/inference_rule/Memory Injection Rule.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/01_system/inference_rule/Memory Injection Rule.md",
                 "mode": "source",
                 "source": false
               },
@@ -84,7 +84,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -219,10 +220,11 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "443e20a7aff5fe78",
+  "active": "f944fc6de6e41ff5",
   "lastOpenFiles": [
-    "02_zettelkasten/Zettelkasten Engine/00_system/inference_rule/Knowledge Activation Rule.md",
-    "02_zettelkasten/Zettelkasten Engine/00_system/inference_rule/Context Construction Rule.md",
+    "02_zettelkasten/Zettelkasten Engine/00_entry",
+    "02_zettelkasten/Zettelkasten Engine/01_system/inference_rule/Knowledge Activation Rule.md",
+    "02_zettelkasten/Zettelkasten Engine/01_system/inference_rule/Context Construction Rule.md",
     "02_zettelkasten/Zettelkasten Engine/Index.md",
     "02_zettelkasten/Zettelkasten Engine/Entry Hub.md",
     "02_zettelkasten/Zettelkasten Engine",
@@ -247,7 +249,6 @@
     "02_zettelkasten/21_domain/micro_economy/concept/限界代替率.md",
     "02_zettelkasten/21_domain/micro_economy/concept/無差別曲線.md",
     "02_zettelkasten/21_domain/micro_economy/concept/効用関数.md",
-    "02_zettelkasten/21_domain/micro_economy/concept/限界効用.md",
     "02_zettelkasten/21_domain/micro_economy/concept",
     "02_zettelkasten/21_domain/micro_economy",
     "02_zettelkasten/21_domain/concept/社会学",

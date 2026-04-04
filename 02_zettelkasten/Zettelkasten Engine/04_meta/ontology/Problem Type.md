@@ -94,7 +94,7 @@ Design Problem
 使用ツール
 
 - [[Trend Analysis]]
-- [[02_zettelkasten/Zettelkasten Engine/02_process/methods/analysis/シナリオ分析|シナリオ分析]]
+- [[02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/シナリオ分析|シナリオ分析]]
 
 ---
 

@@ -78,9 +78,9 @@ related_kernels:
 
 例
 
-- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/meta/pattern/state/structure/権力構造]]
-- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/meta/model/human/human/社会性原理]]
-- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/model/human/human/感情駆動原理]]
+- [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/structure/権力構造]]
+- [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/human/社会性原理]]
+- [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model/human/human/感情駆動原理]]
 
 ---
 

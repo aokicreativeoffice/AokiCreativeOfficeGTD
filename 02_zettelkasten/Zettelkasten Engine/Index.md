@@ -2,7 +2,10 @@
 longform:
   format: scenes
   title: Zettelkasten Engine
+  workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Entry Hub
+    - 
   ignoredFiles: []
 ---

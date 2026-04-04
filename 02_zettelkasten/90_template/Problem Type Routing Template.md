@@ -104,7 +104,7 @@ Pattern抽出完了
 4. Decision（※[[Scoring Function]]必須）
 5. Execution
 6. [[Execution Log Learning]]
-7. [[02_zettelkasten/Zettelkasten Engine/00_system/Case to Pattern Promotion]]
+7. [[02_zettelkasten/Zettelkasten Engine/01_system/Case to Pattern Promotion]]
 8. [[Knowledge Graph Auto Linking]]
 9. [[Weak Explanation Check]]
 

@@ -39,7 +39,7 @@ Strategy --> Action
 戦略設計は
 - [[競争]]    
 - [[10 効率]]    
-- [[02_zettelkasten/Zettelkasten Engine/01_knowledge/world_model/concept/制約]]
+- [[02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/concept/制約]]
 に関係する。
 # Background
 戦略とは、限られた資源の配分である。
