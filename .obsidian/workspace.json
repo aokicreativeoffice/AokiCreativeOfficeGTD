@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "b15e609029a62f8e",
+            "id": "62b59d6094446475",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/coordination/交渉.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/information/期待形成.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "交渉"
+              "title": "期待形成"
             }
           },
           {
-            "id": "f01ffa682689b23f",
+            "id": "5045be1162ee3d49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/coordination/合意形成.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/information/情報非対称.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "合意形成"
+              "title": "情報非対称"
             }
           },
           {
-            "id": "31d1bb88dce55ca3",
+            "id": "851209d2f635edf9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/coordination/同期.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/information/注意配分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "同期"
+              "title": "注意配分"
             }
           },
           {
-            "id": "e6dab2ecd460e277",
+            "id": "d6903c6d139c7154",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/information/情報集約.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/sellection/選択.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "情報集約"
+              "title": "選択"
             }
           },
           {
-            "id": "a407da2b63b08e50",
+            "id": "3c6ba4698839c57c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/information/シグナリング.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/sellection/競争.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "シグナリング"
+              "title": "競争"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "a407da2b63b08e50",
+  "active": "3c6ba4698839c57c",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/sellection/選択.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/information/注意配分.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/information/情報非対称.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/information/期待形成.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/information/シグナリング.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/information/情報集約.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/coordination/同期.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/coordination/合意形成.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/amplification/移動・流動.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/amplification/ネットワーク効果.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/amplification/波及効果.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/amplification/同調増幅.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/amplification/伝播・感染.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/amplification/カスケード連鎖.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/amplification/正のフィードバック.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/regulation/均衡形成.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
