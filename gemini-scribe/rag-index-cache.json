@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1775281154244,
+  "lastSync": 1775281228895,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -10222,6 +10222,66 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "e3ddc0cf4532fff33145033f4a4ca76b94a5ec39d036568a18919cd41b303df8",
       "lastIndexed": 1775281154244
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/限界生産力逓減の法則.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "453e60057f83d05a6c87f6e5f8add38bad7120680b89335c438f81e399364f6b",
+      "lastIndexed": 1775281160690
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/規模に関する収穫.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "e04278353c129014c8b675396a01031e2460f9d5d07e1eb8c6468f0e643955c2",
+      "lastIndexed": 1775281168025
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/生産関数.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9b8d644829545dafc80bb8ea6df6af85dbe0c1ec1b3b346bcc8ca4de46190acd",
+      "lastIndexed": 1775281174903
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/平均費用.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "83f3763cc62e4d8d869c0859abd90fd46ca6bea900ce9c95d007dfd6aed9b3fd",
+      "lastIndexed": 1775281181216
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/限界費用.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "159065c7a5624e97ab8a4cdc966a4b39c618ff7b7caa5edef2e4bdb79de2c429",
+      "lastIndexed": 1775281188091
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/損益分岐点.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "be23ed1d66931201dc8bdd57253fbf4c68aea27bb965ebd3ed7274afbcd3851f",
+      "lastIndexed": 1775281192543
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/操業停止点.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f2760be8991bab44fb00822a036e9d97de3f559d57a6547acb2eacda3cf8cb71",
+      "lastIndexed": 1775281198876
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/費用関数.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c299d8453d34686c7d44ea09aaa9732ac3909d9233bea01ae853a36745dc9c90",
+      "lastIndexed": 1775281205171
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/規模の経済.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "0db2e92c6de9df66e2b002e9bb2b4717547c26b30584ced1a942205adc5ff1c9",
+      "lastIndexed": 1775281211683
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/自然独占.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "60abfb583bb02bd8e5dd4b6a3161d77ea3b3ed8b29876a39d324c390fb63badf",
+      "lastIndexed": 1775281216904
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/範囲の経済.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4227250fda487ce052e858e89d8068dad0d9b6462f24c3805fb3cc02149cd534",
+      "lastIndexed": 1775281222945
+    },
+    "02_zettelkasten/21_domain/micro_economy/concept/市場の失敗.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "ecb4ab287f684be769710d1c84c4671760cd535d1020a8812cfa7aeeb50f6124",
+      "lastIndexed": 1775281228895
     }
   },
   "indexingInProgress": false,
