@@ -220,10 +220,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "443e20a7aff5fe78",
+  "active": "6acf75135036dfd0",
   "lastOpenFiles": [
-    "02_zettelkasten/Zettelkasten Engine/Index.md",
     "02_zettelkasten/Zettelkasten Engine/manuscript.md",
+    "02_zettelkasten/Zettelkasten Engine/Index.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry/Entry Hub.md",
     "02_zettelkasten/Zettelkasten Engine/01_system/inference_rule/Memory Injection Rule.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
