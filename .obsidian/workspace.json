@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "8f898ef785aeed48",
+            "id": "dbc81846d837694c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/経済構造（文明）.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/Pattern_Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "経済構造（文明）"
+              "title": "Pattern_Hub"
             }
           },
           {
-            "id": "bbcf148129e5f3b4",
+            "id": "0d9dbdbf5909e66e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/技術構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/mechanism テンプレート.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "技術構造"
+              "title": "mechanism テンプレート"
             }
           },
           {
-            "id": "dc6a060e480fd336",
+            "id": "540b7064c009c30e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/宗教構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/認識生成プロセス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "宗教構造"
+              "title": "認識生成プロセス"
             }
           },
           {
-            "id": "764c39332ca08084",
+            "id": "8a2c4c7a96bbbf3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/帝国構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/需要の法則.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "帝国構造"
+              "title": "需要の法則"
             }
           },
           {
-            "id": "c100066bf205b4af",
+            "id": "406addac2deadef4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/文化構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/因果連鎖.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文化構造"
+              "title": "因果連鎖"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "c100066bf205b4af",
+  "active": "406addac2deadef4",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/需要の法則.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/認識生成プロセス.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/mechanism テンプレート.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/Pattern_Hub.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/文化構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/帝国構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/宗教構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/structure/技術構造.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/structure/組織ライフサイクル構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/pattern/behavior/意思決定遅延パターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/pattern/behavior/官僚化パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/pattern/behavior/責任回避パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/pattern/behavior/組織硬直パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/pattern/behavior/モラルハザードパターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/pattern/information/サイロ化パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/pattern/information/情報歪曲パターン.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
