@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "6d5d41e0d1558435",
+            "id": "48369d35b4d84932",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/constraint/容量制限.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/structural_change/相移転.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "容量制限"
+              "title": "相移転"
             }
           },
           {
-            "id": "c379c58210758305",
+            "id": "909df30627a8041b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/constraint/制約化最適化.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/structural_change/構造転換.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "制約化最適化"
+              "title": "構造転換"
             }
           },
           {
-            "id": "47ce9a8e00a1739d",
+            "id": "ea089c6707b04fe5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/constraint/トレードオフ.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/structural_change/体制転換.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "トレードオフ"
+              "title": "体制転換"
             }
           },
           {
-            "id": "a08826d61c46e813",
+            "id": "29d4544b47d40ccf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/structural_change/経路依存.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/emergence/創発.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "経路依存"
+              "title": "創発"
             }
           },
           {
-            "id": "ccccee2f7702caee",
+            "id": "720cade0a79d4c09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/structural_change/ロックイン.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/emergence/パターン形成.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ロックイン"
+              "title": "パターン形成"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "ccccee2f7702caee",
+  "active": "720cade0a79d4c09",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/emergence/創発.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/structural_change/体制転換.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/structural_change/構造転換.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/structural_change/相移転.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/structural_change/ロックイン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/structural_change/経路依存.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/constraint/トレードオフ.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/constraint/制約化最適化.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/coordination/交渉.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/coordination/調整.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/coordination/協力.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/learning/探索と活用.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/learning/信念更新.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/learning/適応.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/learning/強化.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/learning/学習.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
