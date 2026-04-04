@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "0174e89a348fff0f",
+            "id": "993478dda8d32e77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/集団構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/社会ネットワーク構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "集団構造"
+              "title": "社会ネットワーク構造"
             }
           },
           {
-            "id": "2e4806d9f4ce0f22",
+            "id": "9bf9cce5f67b13e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/制度構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/Social_Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "制度構造"
+              "title": "Social_Hub"
             }
           },
           {
-            "id": "3a31922e05d0f9b2",
+            "id": "d6d40e83023785fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/社会統合構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/pattern/勝者総取りパターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "社会統合構造"
+              "title": "勝者総取りパターン"
             }
           },
           {
-            "id": "cfe977ec4468a163",
+            "id": "a7824933972b678f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/規範構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/pattern/市場ロックインパターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "規範構造"
+              "title": "市場ロックインパターン"
             }
           },
           {
-            "id": "953a416d1cc8a288",
+            "id": "ed9865a2791a34e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/社会関係構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/pattern/差別化パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "社会関係構造"
+              "title": "差別化パターン"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "953a416d1cc8a288",
+  "active": "ed9865a2791a34e6",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/pattern/市場ロックインパターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/pattern/勝者総取りパターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/Social_Hub.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/社会ネットワーク構造.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/社会関係構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/規範構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/社会統合構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/制度構造.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/都市暴動.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/集団リンチ.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/排外運動.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/道徳運動.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/文化戦争.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/ネットミーム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/同調圧力.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/分断.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
