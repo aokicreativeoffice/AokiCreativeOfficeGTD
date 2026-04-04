@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "c50255f1640fafaf",
+            "id": "b0c14317367edaed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/信頼形成メカニズム.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/information/評判メカニズム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "信頼形成メカニズム"
+              "title": "評判メカニズム"
             }
           },
           {
-            "id": "dd15f86729806c4e",
+            "id": "608fca6d02355786",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/調整メカニズム.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/information/情報拡散メカニズム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "調整メカニズム"
+              "title": "情報拡散メカニズム"
             }
           },
           {
-            "id": "0634752fefc9ec7f",
+            "id": "c1913db81a659573",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/協力メカニズム.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/information/物語形成メカニズム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "協力メカニズム"
+              "title": "物語形成メカニズム"
             }
           },
           {
-            "id": "c372bcb7407d29b5",
+            "id": "8a60f99458f22156",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/集合行動メカニズム.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/information/シグナリングメカニズム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "集合行動メカニズム"
+              "title": "シグナリングメカニズム"
             }
           },
           {
-            "id": "58253834a340de07",
+            "id": "43b95253cef91c5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/information/情報非対称メカニズム.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/identity/アイデンティティメカニズム.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "情報非対称メカニズム"
+              "title": "アイデンティティメカニズム"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "58253834a340de07",
+  "active": "43b95253cef91c5e",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/information/シグナリングメカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/information/物語形成メカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/information/情報拡散メカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/information/評判メカニズム.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/information/情報非対称メカニズム.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/集合行動メカニズム.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/協力メカニズム.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/old/interaction/調整メカニズム.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/交通流形成.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/都市拡散.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/重力モデル.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/信頼形成.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/集合行動.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/フリーライダー問題.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/マタイ効果.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/価格調整形成.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
