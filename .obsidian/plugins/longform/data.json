@@ -7,13 +7,12 @@
   "sessions": [
     {
       "start": "2026-04-04T05:44:38.825Z",
-      "total": 767,
+      "total": 0,
       "drafts": {
         "02_zettelkasten/Zettelkasten Engine/Index.md": {
-          "total": 767,
+          "total": 0,
           "scenes": {
-            "Entry Hub": 767,
-            "undefined": 0
+            "manuscript": 0
           }
         }
       }
