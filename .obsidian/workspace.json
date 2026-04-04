@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "8abfb83d981e7b58",
+            "id": "93a697f17fbb0f3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/system/evolution/フィードバック原理.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/system/dynamic/集合知.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "フィードバック原理"
+              "title": "集合知"
             }
           },
           {
-            "id": "621af81a792a0e72",
+            "id": "24ca7570740f6261",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/system/evolution/複雑適応系.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/貫通型モデル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "複雑適応系"
+              "title": "貫通型モデル"
             }
           },
           {
-            "id": "1b2830130a4f4827",
+            "id": "12ad919752d6314d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/system/evolution/パス依存.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/バイパス型モデル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "パス依存"
+              "title": "バイパス型モデル"
             }
           },
           {
-            "id": "81e3db49f643f201",
+            "id": "327e84315844b866",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/system/evolution/自己強化過程.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/幹線直線モデル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "自己強化過程"
+              "title": "幹線直線モデル"
             }
           },
           {
-            "id": "9084ae3d9e433bb6",
+            "id": "d3f305ffe3533d98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/system/ecology/ニッチ形成.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/ターミナル型結節モデル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ニッチ形成"
+              "title": "ターミナル型結節モデル"
             }
           }
         ],
@@ -291,8 +291,18 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "9084ae3d9e433bb6",
+  "active": "d3f305ffe3533d98",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/幹線直線モデル.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/バイパス型モデル.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/貫通型モデル.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/system/dynamic/集合知.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/system/dynamic/臨界現象.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/system/dynamic/ロックイン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/system/dynamic/カオス.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/system/ecology/捕食関係.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/system/ecology/個体群動態.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/system/ecology/ニッチ形成.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/system/evolution/自己強化過程.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/system/evolution/パス依存.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/system/evolution/複雑適応系.md",
@@ -309,16 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/情報制約.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/時間制約.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/インセンティブ制約.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/不確実性制約.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/資源制約.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/調整制約.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/物理制約.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/組織制約.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/制度制約.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/エントロピー制約.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/技術制約.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/能力問題.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/constraints/スケール制約.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
