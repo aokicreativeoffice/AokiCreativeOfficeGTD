@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "21567e89aa093366",
+            "id": "8c03bb36daed9cbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/social/協力原理.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/対称性原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "協力原理"
+              "title": "対称性原理"
             }
           },
           {
-            "id": "1af3b1f2dd413ce0",
+            "id": "0ee32f7c3f43b102",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/social/資源制約原理.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/平衡化原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "資源制約原理"
+              "title": "平衡化原理"
             }
           },
           {
-            "id": "bf50b9f9eca4d4d2",
+            "id": "48b1c5f1debac0c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/social/トレードオフ.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/相互作用原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "トレードオフ"
+              "title": "相互作用原理"
             }
           },
           {
-            "id": "9e85a369d73bb155",
+            "id": "331fcb70bf280b45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/social/希少性原理.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/拡散原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "希少性原理"
+              "title": "拡散原理"
             }
           },
           {
-            "id": "1506ecd2b441feac",
+            "id": "872c4288d0025b55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/complex/自己組織化.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/フィードバック.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "自己組織化"
+              "title": "フィードバック"
             }
           }
         ],
@@ -291,8 +291,18 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "1506ecd2b441feac",
+  "active": "872c4288d0025b55",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/拡散原理.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/相互作用原理.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/平衡化原理.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/対称性原理.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/保存原理.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/非線形性.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/臨界点原理.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/complex/創発.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/complex/ネットワーク原理.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/complex/自己組織化.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/social/希少性原理.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/social/トレードオフ.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/social/資源制約原理.md",
@@ -309,16 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/biological/進化原理.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/resources/最適化圧力.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/resources/エネルギー制約.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/physical/自己組織化原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/physical/質量保存の法則.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/physical/エネルギー保存原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/physical/反作用原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/physical/相転移.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/physical/創発原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/physical/力の均衡.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/高速鉄道駅配置モデル.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/ターミナル型結節モデル.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/domain/railway/高速鉄道駅配置モデル/幹線直線モデル.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
