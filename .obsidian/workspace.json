@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "42b33c371ef10d23",
+            "id": "7a70b6f6229b6bc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/シナリオ分析.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/制約分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "シナリオ分析"
+              "title": "制約分析"
             }
           },
           {
-            "id": "b2e0335a5ab66148",
+            "id": "95b3e23b29cf1843",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/感度分析.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/信号分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "感度分析"
+              "title": "信号分析"
             }
           },
           {
-            "id": "63a6d7ceeb951d19",
+            "id": "57e908f34e9ce4c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/費用便益分析.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/パワーマッピング.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "費用便益分析"
+              "title": "パワーマッピング"
             }
           },
           {
-            "id": "32b40f2a65745b59",
+            "id": "7e257cc20370f9a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/因果連鎖分析.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/代理人問題.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "因果連鎖分析"
+              "title": "代理人問題"
             }
           },
           {
-            "id": "54c5d74448cde006",
+            "id": "4540b706eb4634db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/なぜなぜ分析.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/価値連鎖分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "なぜなぜ分析"
+              "title": "価値連鎖分析"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "54c5d74448cde006",
+  "active": "4540b706eb4634db",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/代理人問題.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/パワーマッピング.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/信号分析.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/制約分析.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/なぜなぜ分析.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/因果連鎖分析.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/費用便益分析.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/感度分析.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/03_process/research/Research Loop.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/research/Research Hub.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/concept/欧州大国の対外戦争の構造変化.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/mechanism/進捗可視化ストーリーメカニズム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/mechanism/インフラ意思決定接続メカニズム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/pattern/Pattern Note Template.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model_hub/Mechanism Hub.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model_hub/Pattern Hub.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
