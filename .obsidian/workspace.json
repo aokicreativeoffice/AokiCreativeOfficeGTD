@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "6a18b64737c3a11e",
+            "id": "402e2bab0a93933c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/官僚化.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/罰と報酬.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "官僚化"
+              "title": "罰と報酬"
             }
           },
           {
-            "id": "7b7c11cd3659a91a",
+            "id": "082cfbef8ef999ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/権力形成原理.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/評判効果.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "権力形成原理"
+              "title": "評判効果"
             }
           },
           {
-            "id": "a6668c7e935b64ad",
+            "id": "b50f07de2f6e549b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/アジェンダ設定.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/報酬整合.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "アジェンダ設定"
+              "title": "報酬整合"
             }
           },
           {
-            "id": "b47c567b61198e4d",
+            "id": "499612068b422f48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/economy/希少性.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/短期合理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "希少性"
+              "title": "短期合理"
             }
           },
           {
-            "id": "c0542b1b0a96b344",
+            "id": "c23677c0626e9e27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/economy/比較優位.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/評価指標の歪み.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "比較優位"
+              "title": "評価指標の歪み"
             }
           }
         ],
@@ -291,8 +291,18 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "c0542b1b0a96b344",
+  "active": "c23677c0626e9e27",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/短期合理.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/報酬整合.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/評判効果.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/罰と報酬.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/incentive/責任帰属.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/economy/参入障壁形成.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/economy/経路依存.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/economy/規模の経済.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/economy/ネットワーク効果.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/economy/比較優位.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/economy/希少性.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/アジェンダ設定.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/権力形成原理.md",
@@ -309,16 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/内部政治.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/権威効果.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/power/権力分散.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/reasoning/K-003 原理と可変の区別.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/reasoning/K-002 整合性優先原則.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/reasoning/K-001 判断優先順位構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/reasoning/K-005 再帰検証原則.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/social/reasoning/K-004 文脈依存原則.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/認知 Hub.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/プロスペクト理論.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/意思決定.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/ストレス反応.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/human/社会的影響.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
