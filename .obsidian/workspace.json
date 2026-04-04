@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "dbc81846d837694c",
+            "id": "f87a2741cf2d3cdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/Pattern_Hub.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/フリーライダー問題.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pattern_Hub"
+              "title": "フリーライダー問題"
             }
           },
           {
-            "id": "0d9dbdbf5909e66e",
+            "id": "667fa479fe340332",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/mechanism テンプレート.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/集合行動.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mechanism テンプレート"
+              "title": "集合行動"
             }
           },
           {
-            "id": "540b7064c009c30e",
+            "id": "4bd0224b9b69ef66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/認識生成プロセス.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/信頼形成.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "認識生成プロセス"
+              "title": "信頼形成"
             }
           },
           {
-            "id": "8a2c4c7a96bbbf3b",
+            "id": "163b053e0a842d62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/需要の法則.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/重力モデル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "需要の法則"
+              "title": "重力モデル"
             }
           },
           {
-            "id": "406addac2deadef4",
+            "id": "c5c370a13d8a3c49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/因果連鎖.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/都市拡散.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "因果連鎖"
+              "title": "都市拡散"
             }
           }
         ],
@@ -291,8 +291,18 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "406addac2deadef4",
+  "active": "c5c370a13d8a3c49",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/重力モデル.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/信頼形成.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/集合行動.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/フリーライダー問題.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/マタイ効果.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/価格調整形成.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/無題のファイル.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/限界効用逓減.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/供給の法則.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/因果連鎖.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/需要の法則.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/認識生成プロセス.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/mechanism テンプレート.md",
@@ -309,16 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/civilization/pattern/文明後退パターン.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/pattern テンプレート.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/Organization_Pattern_Hub.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/structure/代理問題構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/structure/インセンティブ構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/structure/官僚制構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/structure/意思決定構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/structure/情報構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/structure/権力構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/structure/役割構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/structure/組織ライフサイクル構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/pattern/behavior/意思決定遅延パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/organization/pattern/behavior/官僚化パターン.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
