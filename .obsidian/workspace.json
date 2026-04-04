@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "33bcf47c42f0b803",
+            "id": "42b33c371ef10d23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/research/test.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/シナリオ分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "シナリオ分析"
             }
           },
           {
-            "id": "90620b1a34a4e110",
+            "id": "b2e0335a5ab66148",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/心理学構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/感度分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "心理学構造"
+              "title": "感度分析"
             }
           },
           {
-            "id": "1451afb5c0cad820",
+            "id": "63a6d7ceeb951d19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/状態遷移モデル.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/費用便益分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "状態遷移モデル"
+              "title": "費用便益分析"
             }
           },
           {
-            "id": "67db8f5f8cf3c16c",
+            "id": "32b40f2a65745b59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/根因分析.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/因果連鎖分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "根因分析"
+              "title": "因果連鎖分析"
             }
           },
           {
-            "id": "e41f978c590aee9e",
+            "id": "54c5d74448cde006",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/トレードオフ分析.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/なぜなぜ分析.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "トレードオフ分析"
+              "title": "なぜなぜ分析"
             }
           }
         ],
@@ -291,8 +291,18 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "e41f978c590aee9e",
+  "active": "54c5d74448cde006",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/因果連鎖分析.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/費用便益分析.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/感度分析.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/シナリオ分析.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/ステークホルダー分析.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/意思決定フレームワーク.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/インセンティブ設計.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/システムマッピング.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/ボトルネック分析.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/トレードオフ分析.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/根因分析.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/状態遷移モデル.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/methods/analysis/心理学構造.md",
@@ -309,16 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/pattern/Pattern Note Template.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model_hub/Mechanism Hub.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model_hub/Pattern Hub.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model_hub/Structure Hub.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model_hub/Concept_Hub.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/model_hub/Kernel Hub.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/structure/structure テンプレート.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/Mechanism Hub.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/cycle/振動.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/cycle/反復.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/cycle/成長減衰.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/cycle/再生産.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/mechanism/core/cycle/循環ループ.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
