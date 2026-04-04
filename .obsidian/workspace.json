@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "12f9654d56784308",
+            "id": "a91338e6bb653a69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/evolution/探索.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/pattern/国家衰退パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "探索"
+              "title": "国家衰退パターン"
             }
           },
           {
-            "id": "44909a8a0c978a01",
+            "id": "e98b14f084edf599",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/evolution/適応.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/pattern/革命パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "適応"
+              "title": "革命パターン"
             }
           },
           {
-            "id": "50750e0859c8cb43",
+            "id": "ab419899eb0c2702",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/Kernel_Hub.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/State_Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kernel_Hub"
+              "title": "State_Hub"
             }
           },
           {
-            "id": "7fa47eaca56eb572",
+            "id": "c59ae36aa2a0d7e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/kernelテンプレート.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/協力行動パターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kernelテンプレート"
+              "title": "協力行動パターン"
             }
           },
           {
-            "id": "6e062d4ca6b8f201",
+            "id": "058266b26fac439e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/structure/領域構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/モラルパニックパターン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "領域構造"
+              "title": "モラルパニックパターン"
             }
           }
         ],
@@ -291,8 +291,18 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "6e062d4ca6b8f201",
+  "active": "058266b26fac439e",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/協力行動パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/State_Hub.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/pattern/革命パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/pattern/国家衰退パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/pattern/国家官僚化パターン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/structure/統治構造.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/structure/正当性構造.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/structure/制度構造.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/structure/権力構造.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/structure/領域構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/kernelテンプレート.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/Kernel_Hub.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/evolution/適応.md",
@@ -309,16 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/対称性原理.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/保存原理.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/非線形性.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/臨界点原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/complex/創発.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/complex/ネットワーク原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/complex/自己組織化.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/social/希少性原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/social/トレードオフ.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/social/資源制約原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/social/協力原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/social/交換原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/social/競争原理.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
