@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "69fd2dcf4b127a64",
+            "id": "12f9654d56784308",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/スケール原理.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/evolution/探索.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "スケール原理"
+              "title": "探索"
             }
           },
           {
-            "id": "19c6644e9e24a156",
+            "id": "44909a8a0c978a01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/最小作用原理.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/evolution/適応.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "最小作用原理"
+              "title": "適応"
             }
           },
           {
-            "id": "b24d888912df46ce",
+            "id": "50750e0859c8cb43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/エントロピー増大原理.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/Kernel_Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "エントロピー増大原理"
+              "title": "Kernel_Hub"
             }
           },
           {
-            "id": "ee4f51565d58b281",
+            "id": "7fa47eaca56eb572",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/階層原理.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/kernelテンプレート.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "階層原理"
+              "title": "kernelテンプレート"
             }
           },
           {
-            "id": "cfcddb2d5aadc9b8",
+            "id": "6e062d4ca6b8f201",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/evolution/進化.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/state/structure/領域構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "進化"
+              "title": "領域構造"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "cfcddb2d5aadc9b8",
+  "active": "6e062d4ca6b8f201",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/kernelテンプレート.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/Kernel_Hub.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/evolution/適応.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/evolution/探索.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/evolution/進化.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/階層原理.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/エントロピー増大原理.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/physics/最小作用原理.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/social/協力原理.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/social/交換原理.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/social/競争原理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/kernel/system/制約.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/case テンプレート.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/biological/共進化.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/biological/生態バランス.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/model/natural/biological/生存戦略.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
