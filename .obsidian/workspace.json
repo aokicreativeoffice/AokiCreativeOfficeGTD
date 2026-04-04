@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "643bd355cb03f036",
+            "id": "ffe145dacb73ee03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/structure/ネットワーク市場構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/市場崩壊.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ネットワーク市場構造"
+              "title": "市場崩壊"
             }
           },
           {
-            "id": "a97f717db122fdef",
+            "id": "436ef0caf8d2c96f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/structure/寡占構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/ブルーオーシャン.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "寡占構造"
+              "title": "ブルーオーシャン"
             }
           },
           {
-            "id": "05e377bee8c52a1c",
+            "id": "0afab5e28dd8440c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/structure/参入障壁構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/規格争い.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "参入障壁構造"
+              "title": "規格争い"
             }
           },
           {
-            "id": "b7501e6d3f2dd381",
+            "id": "7a7981691a6923c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/structure/競争構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/価格競争.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "競争構造"
+              "title": "価格競争"
             }
           },
           {
-            "id": "bbd17abb9db6ad7b",
+            "id": "e5f9da3313834ec4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/structure/市場ポジション構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/Market_Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "市場ポジション構造"
+              "title": "Market_Hub"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "bbd17abb9db6ad7b",
+  "active": "e5f9da3313834ec4",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/価格競争.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/規格争い.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/ブルーオーシャン.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/市場崩壊.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/structure/市場ポジション構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/structure/競争構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/structure/参入障壁構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/market/structure/寡占構造.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/集団構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/集団対立構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/社会階層構造.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/炎上.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/陰謀論.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/キャンセルカルチャー.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/ポピュリズム.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/宗教カルト.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
