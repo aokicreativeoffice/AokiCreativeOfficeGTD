@@ -22,73 +22,73 @@
             }
           },
           {
-            "id": "e96fcae957f06e73",
+            "id": "0174e89a348fff0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/キャンセルカルチャー.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/集団構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "キャンセルカルチャー"
+              "title": "集団構造"
             }
           },
           {
-            "id": "a1b212582bf4ba24",
+            "id": "2e4806d9f4ce0f22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/陰謀論.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/制度構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "陰謀論"
+              "title": "制度構造"
             }
           },
           {
-            "id": "47805d429ac4d637",
+            "id": "3a31922e05d0f9b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/炎上.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/社会統合構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "炎上"
+              "title": "社会統合構造"
             }
           },
           {
-            "id": "1168c24ac2c56dc0",
+            "id": "cfe977ec4468a163",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/社会階層構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/規範構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "社会階層構造"
+              "title": "規範構造"
             }
           },
           {
-            "id": "cbe12352632b67ae",
+            "id": "953a416d1cc8a288",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/集団対立構造.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/社会関係構造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "集団対立構造"
+              "title": "社会関係構造"
             }
           }
         ],
@@ -291,8 +291,13 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "cbe12352632b67ae",
+  "active": "953a416d1cc8a288",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/規範構造.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/社会統合構造.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/制度構造.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/集団構造.md",
+    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/集団対立構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/structure/社会階層構造.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/炎上.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/陰謀論.md",
@@ -314,11 +319,6 @@
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/ネットミーム.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/同調圧力.md",
     "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/分断.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/極性化.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/case/群集心理.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/規範形成パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/逸脱パターン.md",
-    "02_zettelkasten/Zettelkasten Engine/02_knowledge/world_model/meta/pattern/social/pattern/権力集中パターン.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
