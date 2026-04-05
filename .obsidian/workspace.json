@@ -22,77 +22,21 @@
             }
           },
           {
-            "id": "eab3350215191238",
+            "id": "853ab25878b8ea0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/projects/practice/training/visual.md",
+                "file": "02_zettelkasten/Zettelkasten Engine/00_entry/Entry Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "visual"
-            }
-          },
-          {
-            "id": "a2a8b4ca67556a3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/projects/practice/training/travel_skill.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "travel_skill"
-            }
-          },
-          {
-            "id": "7199e0e0e31a0f5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/projects/practice/training/storytelling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "storytelling"
-            }
-          },
-          {
-            "id": "b717e908834ddbd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/projects/practice/Practice Loop.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Practice Loop"
-            }
-          },
-          {
-            "id": "d2a72f1f24c10efd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_zettelkasten/Zettelkasten Engine/03_process/projects/expression/essay/旅OS/基本記事構成.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "基本記事構成"
+              "title": "Entry Hub"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -291,8 +235,14 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "d2a72f1f24c10efd",
+  "active": "853ab25878b8ea0f",
   "lastOpenFiles": [
+    "02_zettelkasten/Zettelkasten Engine/Index.md",
+    "02_zettelkasten/Zettelkasten Engine/07_execution/sync/Execution → Case Sync.md",
+    "02_zettelkasten/Zettelkasten Engine/07_execution/logs/Execution Log Learning.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/projects/SOP Action テンプレート.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/projects/expression/essay/旅OS/目次.md",
+    "02_zettelkasten/Zettelkasten Engine/03_process/projects/expression/essay/旅OS/基本記事構成.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/projects/practice/Practice Loop.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/projects/practice/training/storytelling.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/projects/practice/training/travel_skill.md",
@@ -313,12 +263,6 @@
     "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/01_observation/observation Hub.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/01_observation/観察技術体系.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/01_observation/指標構造.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/01_observation/スキャニング構造.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/01_observation/知覚構造.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/01_observation/理論構造.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/01_observation/観察構造.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/01_observation/仮説構造.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/01_observation/データ構造.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
