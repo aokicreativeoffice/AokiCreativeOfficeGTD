@@ -208,9 +208,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "de7aa40ce0c49b46",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -232,10 +242,11 @@
       "command-palette:コマンドパレットを開く": false,
       "bases:新規ベースを作成": false,
       "obsidian-git:Open Git source control": false,
-      "gemini-scribe:Gemini Scribe: Agent Mode": false
+      "gemini-scribe:Gemini Scribe: Agent Mode": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "853ab25878b8ea0f",
+  "active": "de7aa40ce0c49b46",
   "lastOpenFiles": [
     "02_zettelkasten/Zettelkasten Engine/Index.md",
     "02_zettelkasten/Zettelkasten Engine/07_execution/sync/Execution → Case Sync.md",
