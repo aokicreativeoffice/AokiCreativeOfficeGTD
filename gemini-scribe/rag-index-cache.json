@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1775285321800,
+  "lastSync": 1775362979285,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -2923,16 +2923,6 @@
       "contentHash": "7a87bf83f0e97a10a83e9519f7b5d2dc151350708fbfc5dc926460b9e9ffbf1b",
       "lastIndexed": 1774402625979
     },
-    "02_zettelkasten/21_domain/history/event/ブルシーロフ攻勢.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "2e9712f0cd19a41c9a5004789ca713b79775d768304311dc046a9e1ea39a5277",
-      "lastIndexed": 1774402630578
-    },
-    "02_zettelkasten/21_domain/history/event/ニヴェル攻勢.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "f1682c7cef516d19e7024745850aa1da60db6d13c866ca34ff746613d39025ec",
-      "lastIndexed": 1774402630679
-    },
     "02_zettelkasten/21_domain/engine/Temporal_Engine/Temporal Engine.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "c8c700ec96343a046d7eda26a041eb226107639d8bd4fbcca51270f374bb403a",
@@ -4843,21 +4833,6 @@
       "contentHash": "c001b6fe57a3e8718f91334907d4abec97048a9cc591e9ef9bb915ba6bbe3bd8",
       "lastIndexed": 1774419831887
     },
-    "02_zettelkasten/21_domain/history/event/エムス電報事件.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "521d1dba7922426a9d1308057c8a0f1718cf06c39245e3175bf05871f5dfd9a8",
-      "lastIndexed": 1774419791896
-    },
-    "02_zettelkasten/21_domain/history/actor/主体ノートテンプレート.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "69e649ddc0087e08fd0b30148afa81a20bfa2012eff3df68a4fbdad473f8a615",
-      "lastIndexed": 1774483115593
-    },
-    "02_zettelkasten/21_domain/history/event/事件ノートテンプレート.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "b6459c916899f7486abf895dea9ab0e547ab5699579611f4132bade66906ccbf",
-      "lastIndexed": 1774420055753
-    },
     "02_zettelkasten/21_domain/history/structure/構造ノートテンプレート.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "5fe424c743a7ee6cf7329158e51eb3fe2f43f3a0ec55269bd357c2f11a6b8f85",
@@ -4943,25 +4918,10 @@
       "contentHash": "d28bedcdce1dc77d9ba178882c035c4a85b80bb92b4065df0393895591729b40",
       "lastIndexed": 1774448071585
     },
-    "02_zettelkasten/21_domain/history/event/二月革命（1848）.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "d6f67370ba7432ee8464cb7952544c7baaf339bc9a79855c83e03964bdab4566",
-      "lastIndexed": 1774448481534
-    },
-    "02_zettelkasten/21_domain/history/event/諸国民の春.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "9b21cfb425602c92df18599588c0a1f50aab0b135d2ae8bb13831960c637c150",
-      "lastIndexed": 1774449244746
-    },
     "02_zettelkasten/21_domain/history/structure/プロイセン宮廷の権力トライアングル4.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "4fdf691919e27f8a81d0113c15f3198dc783f04e927d1068704737e041ed6e42",
       "lastIndexed": 1774483284400
-    },
-    "02_zettelkasten/21_domain/history/event/オルミュッツの屈辱.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "56dd37bdbbdfc007fde994a4286e8a70afd16bec2f8feab73c09eca698734b44",
-      "lastIndexed": 1774483634546
     },
     "02_zettelkasten/21_domain/history/structure/ビスマルク首相任命.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -4972,26 +4932,6 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "a5d01b2619eadc16caac98933235ddf506ad67fac01130383247980c982bf48c",
       "lastIndexed": 1774483307348
-    },
-    "02_zettelkasten/21_domain/history/event/鉄血演説.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "8d8a6220cc9684b65e6975cf4b0fc620ec080419db82217d7e4a8af7ff294135",
-      "lastIndexed": 1774483507463
-    },
-    "02_zettelkasten/21_domain/history/event/三月革命（1848）.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "339c23b97b1d3b77d4b7e7bc3b96d7f7c63f1e43575fe58fcf2cbab357cde6db",
-      "lastIndexed": 1774483728151
-    },
-    "02_zettelkasten/21_domain/history/event/クリミア戦争.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "955ea1b3c8d6957792ae2b409ccaef9e7f58cb4a6b91b1bd138b5ac9e11a3ddb",
-      "lastIndexed": 1774484574981
-    },
-    "02_zettelkasten/21_domain/history/event/イタリア統一.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "4fa724ba16215073f214c35f6b8569dc818c65adeee7104db0eb91d08c25a3c0",
-      "lastIndexed": 1774485021730
     },
     "02_zettelkasten/21_domain/history/structure/シュレスヴィヒ=ホルシュタイン問題.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -5497,6 +5437,61 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "6e418dd3284e66201f0f6cc3720f90b48b70107b199dc9ce871693f34e1b001c",
       "lastIndexed": 1775283198166
+    },
+    "02_zettelkasten/21_domain/history/entity/主体ノートテンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "69e649ddc0087e08fd0b30148afa81a20bfa2012eff3df68a4fbdad473f8a615",
+      "lastIndexed": 1775362979284
+    },
+    "02_zettelkasten/21_domain/history/epoch/event/ブルシーロフ攻勢.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "2e9712f0cd19a41c9a5004789ca713b79775d768304311dc046a9e1ea39a5277",
+      "lastIndexed": 1775362989856
+    },
+    "02_zettelkasten/21_domain/history/epoch/event/ニヴェル攻勢.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "f1682c7cef516d19e7024745850aa1da60db6d13c866ca34ff746613d39025ec",
+      "lastIndexed": 1775362995922
+    },
+    "02_zettelkasten/21_domain/history/epoch/event/エムス電報事件.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "521d1dba7922426a9d1308057c8a0f1718cf06c39245e3175bf05871f5dfd9a8",
+      "lastIndexed": 1775363003003
+    },
+    "02_zettelkasten/21_domain/history/epoch/event/事件ノートテンプレート.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "b6459c916899f7486abf895dea9ab0e547ab5699579611f4132bade66906ccbf",
+      "lastIndexed": 1775363009774
+    },
+    "02_zettelkasten/21_domain/history/epoch/event/二月革命（1848）.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "d6f67370ba7432ee8464cb7952544c7baaf339bc9a79855c83e03964bdab4566",
+      "lastIndexed": 1775363016704
+    },
+    "02_zettelkasten/21_domain/history/epoch/event/諸国民の春.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "9b21cfb425602c92df18599588c0a1f50aab0b135d2ae8bb13831960c637c150",
+      "lastIndexed": 1775363022825
+    },
+    "02_zettelkasten/21_domain/history/epoch/event/三月革命（1848）.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "339c23b97b1d3b77d4b7e7bc3b96d7f7c63f1e43575fe58fcf2cbab357cde6db",
+      "lastIndexed": 1775363028926
+    },
+    "02_zettelkasten/21_domain/history/epoch/event/オルミュッツの屈辱.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "56dd37bdbbdfc007fde994a4286e8a70afd16bec2f8feab73c09eca698734b44",
+      "lastIndexed": 1775363035662
+    },
+    "02_zettelkasten/21_domain/history/epoch/event/イタリア統一.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "4fa724ba16215073f214c35f6b8569dc818c65adeee7104db0eb91d08c25a3c0",
+      "lastIndexed": 1775363042312
+    },
+    "02_zettelkasten/21_domain/history/epoch/event/クリミア戦争.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "955ea1b3c8d6957792ae2b409ccaef9e7f58cb4a6b91b1bd138b5ac9e11a3ddb",
+      "lastIndexed": 1775363049164
     }
   },
   "indexingInProgress": false,
