@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"41e68633b69101b5","type":"text","text":"虚像のロシア革命","x":63,"y":24,"width":250,"height":60},
+		{"id":"d4ea763507cb2bd3","x":-145,"y":-106,"width":250,"height":60,"type":"text","text":"はじめに"}
+	],
+	"edges":[]
+}
