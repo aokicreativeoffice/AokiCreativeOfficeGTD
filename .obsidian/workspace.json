@@ -246,8 +246,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "853ab25878b8ea0f",
+  "active": "443e20a7aff5fe78",
   "lastOpenFiles": [
+    "prompt/赤入れ.md",
+    "prompt/RAG最適化・構造化プロンプト.md",
+    "prompt/マインドマップ.md",
+    "prompt/エピソード抽出.md",
+    "prompt",
     "02_zettelkasten/Zettelkasten Engine/00_entry/Entry Hub.md",
     "02_zettelkasten/Zettelkasten Engine/Index.md",
     "02_zettelkasten/Zettelkasten Engine/07_execution/sync/Execution → Case Sync.md",
@@ -270,10 +275,6 @@
     "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/03_signal_noise/大罪ノイズフィルター.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/03_signal_noise/シグナルノイズフィルター.md",
     "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/03_signal_noise/信号探知構造.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/04_evidence/根拠構造.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/01_observation/抽出構造.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/01_observation/observation Hub.md",
-    "02_zettelkasten/Zettelkasten Engine/03_process/methods/observation/01_observation/観察技術体系.md",
     "02_zettelkasten/Zettelkasten Engine/00_entry",
     "02_zettelkasten/Zettelkasten Engine",
     "02_zettelkasten/21_domain/micro_economy/concept",
@@ -283,7 +284,6 @@
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち",
     "02_zettelkasten/21_domain/history/structure/無題のフォルダ",
     "02_zettelkasten/21_domain/history/epoch",
-    "02_zettelkasten/21_domain/history/ontology",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "obsidian-sync-calendar/docs/README_DEMO.gif"

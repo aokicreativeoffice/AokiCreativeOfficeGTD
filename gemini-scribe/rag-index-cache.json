@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1775363076785,
+  "lastSync": 1775382746786,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -5497,6 +5497,26 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "3be2d743576206ab745c1823c1a6e621671c514958c1e2bebee034703f1b7a03",
       "lastIndexed": 1775363069857
+    },
+    "prompt/エピソード抽出.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "830c30b403803a8d3997291465a373f3d55887de99a9f9ba74c750470a5f67ac",
+      "lastIndexed": 1775382728005
+    },
+    "prompt/マインドマップ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "af2fdc0b5714c1974c19445c4def58d6bd57b9d14b734485a87130f7e7915c78",
+      "lastIndexed": 1775382733546
+    },
+    "prompt/RAG最適化・構造化プロンプト.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "cc9682e3ceed32d0273a9cf68e6a684d23594825344cac9656c2eae7bec27873",
+      "lastIndexed": 1775382740306
+    },
+    "prompt/赤入れ.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "c3d254644e496ec1c398e540c3a4d4ae94139f887b081cf0d40c92eea12025b4",
+      "lastIndexed": 1775382746786
     }
   },
   "indexingInProgress": false,
