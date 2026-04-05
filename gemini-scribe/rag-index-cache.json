@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "storeName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-  "lastSync": 1775362979285,
+  "lastSync": 1775363076785,
   "files": {
     "01_fact_validation/Thinking Input Interface.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -4938,16 +4938,6 @@
       "contentHash": "4bdd98c53b57b81e077452d8ef87235589c7335dcde07a294fb660244a1feb0b",
       "lastIndexed": 1774487340115
     },
-    "02_zettelkasten/21_domain/history/event/普墺戦争.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "faaec05843bdd8f965306aed27c7951ea6394c8e6021b501df2e2cfaf9b254f4",
-      "lastIndexed": 1774487575082
-    },
-    "02_zettelkasten/21_domain/history/event/普仏戦争.md": {
-      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "3be2d743576206ab745c1823c1a6e621671c514958c1e2bebee034703f1b7a03",
-      "lastIndexed": 1774488365331
-    },
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/第1章 グルジア青年と女学生.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "d4a01047587da50aebb6b606b5ae2c9f348033bc0de939a913ff1b2b9507b128",
@@ -5100,8 +5090,8 @@
     },
     "02_zettelkasten/21_domain/books/ビスマルク/ビスマルク 読書ノート.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
-      "contentHash": "547761f847c9025ed0b66491e6d6623adc0d9a93e8267bfc0eb697cf4a5a5cc3",
-      "lastIndexed": 1774518541759
+      "contentHash": "adb62640c525bff60a8eddd625039b6e2f2067391e53bbfb0ce48fb17a76c581",
+      "lastIndexed": 1775363076785
     },
     "02_zettelkasten/21_domain/books/スターリン 赤い皇帝と廷臣たち/スターリン 赤い皇帝と廷臣たち 読書ノート.md": {
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
@@ -5492,6 +5482,21 @@
       "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
       "contentHash": "955ea1b3c8d6957792ae2b409ccaef9e7f58cb4a6b91b1bd138b5ac9e11a3ddb",
       "lastIndexed": 1775363049164
+    },
+    "02_zettelkasten/21_domain/history/epoch/event/鉄血演説.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "8d8a6220cc9684b65e6975cf4b0fc620ec080419db82217d7e4a8af7ff294135",
+      "lastIndexed": 1775363056000
+    },
+    "02_zettelkasten/21_domain/history/epoch/event/普墺戦争.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "faaec05843bdd8f965306aed27c7951ea6394c8e6021b501df2e2cfaf9b254f4",
+      "lastIndexed": 1775363063008
+    },
+    "02_zettelkasten/21_domain/history/epoch/event/普仏戦争.md": {
+      "resourceName": "fileSearchStores/obsidianaokicreativeofficeg-ym2oigz8zi4o",
+      "contentHash": "3be2d743576206ab745c1823c1a6e621671c514958c1e2bebee034703f1b7a03",
+      "lastIndexed": 1775363069857
     }
   },
   "indexingInProgress": false,
